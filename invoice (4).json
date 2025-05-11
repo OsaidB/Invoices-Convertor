@@ -1,0 +1,51 @@
+{
+  "date": "26/2/2025  11:31:54",
+  "customer": "جمال البابا",
+  "items": [
+    {
+      "description": "ﺷﺒﺤﺎﺕ ﻓﻮﺭﺳﻴﻠﻨﻚ",
+      "quantity": 10.0,
+      "unit_price": 20.0,
+      "total_price": 200.0
+    },
+    {
+      "description": "ﻡ3.6  ﻓﻮﺭﺳﻴﻠﻨﻚL ﺯﻭﺍﻳﺎ",
+      "quantity": 10.0,
+      "unit_price": 10.0,
+      "total_price": 100.0
+    },
+    {
+      "description": "T ﻡ3.66 ﻓﻮﺭﺳﻴﻠﻨﻚ FOX",
+      "quantity": 8.0,
+      "unit_price": 20.0,
+      "total_price": 160.0
+    },
+    {
+      "description": "T  ﻡ0.61 ﻓﻮﺭﺳﻴﻠﻨﻚ FOX",
+      "quantity": 30.0,
+      "unit_price": 3.5,
+      "total_price": 105.0
+    },
+    {
+      "description": "T ﻡ1.22 ﻓﻮﺭﺳﻴﻠﻨﻚ FOX",
+      "quantity": 30.0,
+      "unit_price": 6.5,
+      "total_price": 195.0
+    },
+    {
+      "description": "ﺳﻢ ﺗﻴﻜﻦ5 ﻋﻤﻮﺩ",
+      "quantity": 40.0,
+      "unit_price": 12.0,
+      "total_price": 480.0
+    },
+    {
+      "description": "ﺳﻢ ﺗﻴﻜﻦ5 ﺍﺭﺿﻲ",
+      "quantity": 40.0,
+      "unit_price": 11.0,
+      "total_price": 440.0
+    }
+  ],
+  "total": 1680.0,
+  "net": 1680.0,
+  "worksite": "ايكون"
+}

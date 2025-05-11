@@ -8,7 +8,7 @@ def normalize_arabic(text):
     return unicodedata.normalize('NFKC', text).replace("ـ", "").strip()
 
 # Load PDF and extract lines
-doc = fitz.open("report (3).pdf")
+doc = fitz.open("report (5).pdf")
 lines = [line.strip() for line in doc[0].get_text().splitlines() if line.strip()]
 print("All lines extracted:", lines)
 
@@ -30,21 +30,24 @@ print("Date extracted:", invoice_data["date"])
 
 # Define keywords to skip (normalized)
 SKIP_WORDS = [
-    "click", "المبلغ", "الصافي", "المجموع", "ILS",
-    "شكرا", "Debit", "قرب", "ملاحظات", "النقدي", "رقم", "null", "Systems", "المستخدم",
+    "المبلغ", "الصافي", "المجموع", "ILS",
+    "شكرا", "Debit", "قرب", "النقدي", "رقم", "null", "Systems", "المستخدم",
     "مبيعات", "التاريخ", "الزبون", "الخص#البيان", "الكمي", "السعر", "جمال البابا"
 ]
 SKIP_WORDS = [normalize_arabic(w) for w in SKIP_WORDS]
 
-# Extract worksite name (look for the second occurrence of "ملاحظات")
-worksite_occurrences = [line for line in lines if "ملاحظات" in normalize_arabic(line)]
-if len(worksite_occurrences) >= 2:
-    worksite_line = worksite_occurrences[1]  # Take the second occurrence
-    worksite = worksite_line.replace("ملاحظات", "").strip()
+# Extract worksite name (take the last occurrence of "ملاحظات")
+worksite_lines = [line for line in lines if "ملاحظات" in normalize_arabic(line)]
+if worksite_lines:
+    worksite_line = worksite_lines[-1]  # Take the last occurrence
+    # Normalize the line before removing "ملاحظات"
+    normalized_line = normalize_arabic(worksite_line)
+    # Remove "ملاحظات" using the normalized form
+    worksite = normalized_line.replace(normalize_arabic("ملاحظات"), "").strip()
     invoice_data["worksite"] = worksite
     print(f"Worksite extracted: {invoice_data['worksite']}")
 else:
-    print("Could not find second occurrence of 'ملاحظات' for worksite extraction")
+    print("Could not find 'ملاحظات' for worksite extraction")
 
 # Find the start of items (after headers)
 start_index = 0
