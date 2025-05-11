@@ -1,0 +1,21 @@
+{
+  "date": "22/2/2025  08:30:48",
+  "items": [
+    {
+      "description": "ﻣﺘﺮ3 ﺯﻭﺍﻳﺎ ﺻﻔﺮﻳﺔ",
+      "quantity": 20.0,
+      "unit_price": 10.0,
+      "total_price": 200.0
+    },
+    {
+      "description": "ﻣﻌﺠﻮﻧﺔ ﻣﺠﻚ ﺑﻮﻧﺪ ﻃﻤﺒﻮﺭ ﻛﻴﻠﻮ25",
+      "quantity": 10.0,
+      "unit_price": 55.0,
+      "total_price": 550.0
+    }
+  ],
+  "total": 750.0,
+  "net": 750.0,
+  "worksite": "",
+  "total_match": true
+}

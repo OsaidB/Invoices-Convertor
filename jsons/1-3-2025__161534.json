@@ -1,0 +1,33 @@
+{
+  "date": "1/3/2025  16:15:34",
+  "items": [
+    {
+      "description": "ﻛﻴﻠﻮ5 ﻛﻠﺴﻴﻤﻮ ﻃﻤﺒﻮﺭ",
+      "quantity": 1.0,
+      "unit_price": 20.0,
+      "total_price": 20.0
+    },
+    {
+      "description": "ﻣﻌﺠﻮﻧﺔ ﻣﺠﻚ ﺑﻮﻧﺪ ﻃﻤﺒﻮﺭ ﻛﻴﻠﻮ25",
+      "quantity": 2.0,
+      "unit_price": 55.0,
+      "total_price": 110.0
+    },
+    {
+      "description": "ﻣﻔﻚ ﺗﺴﺘﺮ ﻋﺎﺩﻱ ﺳﺘﺎﻧﻠﻲ",
+      "quantity": 1.0,
+      "unit_price": 10.0,
+      "total_price": 10.0
+    },
+    {
+      "description": "ﺯﻭﺍﻳﺎ ﺟﺒﺺ ﻋﺎﺩﻱ ﺍﻟﺘﺮﺍ",
+      "quantity": 4.0,
+      "unit_price": 30.0,
+      "total_price": 120.0
+    }
+  ],
+  "total": 260.0,
+  "net": 260.0,
+  "worksite": "صالون السيدات",
+  "total_match": true
+}

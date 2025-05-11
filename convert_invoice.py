@@ -9,10 +9,10 @@ import os
 def normalize_arabic(text):
     return unicodedata.normalize('NFKC', text).replace("ـ", "").strip()
 
-def process_invoice_pdf(input_file):
+def process_invoice_pdf(input_file, pdf_output_dir="pdfs", json_output_dir="jsons"):
     """
     Process a PDF invoice file and return the extracted data as a dictionary.
-    Also saves the data to a JSON file named invoice_<index>.json.
+    Saves the PDF and JSON to specified directories based on the date or input file name.
     Returns the invoice data dictionary.
     """
     doc = fitz.open(input_file)
@@ -52,10 +52,9 @@ def process_invoice_pdf(input_file):
         invoice_data["worksite"] = worksite
         print(f"Worksite extracted: {invoice_data['worksite']}")
     else:
-        invoice_data["worksite"] = "other"  # Explicitly set to "other"
+        invoice_data["worksite"] = "other"
         print("No 'ملاحظات' found, worksite set to 'other'")
 
-    # Add a debug print to confirm worksite before further processing
     print(f"Confirmed worksite before item processing: {invoice_data['worksite']}")
 
     # Find the start of items
@@ -158,22 +157,40 @@ def process_invoice_pdf(input_file):
     invoice_data["total_match"] = calculated_total == invoice_data["total"]
     print(f"Calculated total: {calculated_total}, Written total: {invoice_data['total']}, Match: {invoice_data['total_match']}")
 
-    # Add a final debug print before export
     print(f"Final worksite value before export: {invoice_data['worksite']}")
 
-    # Generate output file name
-    base_name = os.path.splitext(input_file)[0]
-    output_base_name = base_name.replace("report", "invoice")
-    output_file = output_base_name + ".json"
+    # Create output directories if they don't exist
+    os.makedirs(pdf_output_dir, exist_ok=True)
+    os.makedirs(json_output_dir, exist_ok=True)
 
-    if not invoice_data["worksite"] or invoice_data["worksite"] == "":
-        invoice_data["worksite"] = "other"
-        print("Force-set worksite to 'other' due to empty value")
+    # Generate output file name using date if available
+    if invoice_data["date"]:
+        # Format date as YYYY-MM-DD_HHMMSS (e.g., 2025-02-25_091715)
+        date_str = invoice_data["date"].replace("/", "-").replace(" ", "_").replace(":", "")
+        pdf_output_file = os.path.join(pdf_output_dir, f"{date_str}.pdf")
+        json_output_file = os.path.join(json_output_dir, f"{date_str}.json")
+    else:
+        base_name = os.path.splitext(os.path.basename(input_file))[0]
+        output_base_name = base_name.replace("report", "invoice")
+        pdf_output_file = os.path.join(pdf_output_dir, f"{output_base_name}.pdf")
+        json_output_file = os.path.join(json_output_dir, f"{output_base_name}.json")
+
+    # Ensure unique filenames by appending index if file exists
+    pdf_base, pdf_ext = os.path.splitext(pdf_output_file)
+    json_base, json_ext = os.path.splitext(json_output_file)
+    pdf_index = 0
+    json_index = 0
+    while os.path.exists(pdf_output_file):
+        pdf_output_file = f"{pdf_base}_{pdf_index}{pdf_ext}"
+        pdf_index += 1
+    while os.path.exists(json_output_file):
+        json_output_file = f"{json_base}_{json_index}{json_ext}"
+        json_index += 1
 
     # Export JSON
-    with open(output_file, "w", encoding="utf-8") as f:
+    with open(json_output_file, "w", encoding="utf-8") as f:
         json.dump(invoice_data, f, ensure_ascii=False, indent=2)
-    print(f"✅ Fully cleaned JSON saved as {output_file}")
+    print(f"✅ Fully cleaned JSON saved as {json_output_file}")
     print("Final invoice data:", invoice_data)
 
     return invoice_data
