@@ -9,14 +9,14 @@ def normalize_arabic(text):
     return unicodedata.normalize('NFKC', text).replace("ـ", "").strip()
 
 # Load PDF and extract lines
-input_file = "report (4).pdf"  # Store the input file name
+input_file = "report (3).pdf"  # Store the input file name
 doc = fitz.open(input_file)
 lines = [line.strip() for line in doc[0].get_text().splitlines() if line.strip()]
 print("All lines extracted:", lines)
 
 invoice_data = {
     "date": None,
-    "customer": "جمال البابا",
+    # "customer": "جمال البابا",
     "items": [],
     "total": None,
     "net": None,
