@@ -187,6 +187,10 @@ def process_invoice_pdf(input_file, pdf_output_dir="pdfs", json_output_dir="json
         json_output_file = f"{json_base}_{json_index}{json_ext}"
         json_index += 1
 
+    if not invoice_data["worksite"] or invoice_data["worksite"] == "":
+        invoice_data["worksite"] = "other"
+        print("Force-set worksite to 'other' due to empty value")
+
     # Export JSON
     with open(json_output_file, "w", encoding="utf-8") as f:
         json.dump(invoice_data, f, ensure_ascii=False, indent=2)
