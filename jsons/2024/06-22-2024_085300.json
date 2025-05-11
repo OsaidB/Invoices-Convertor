@@ -1,0 +1,33 @@
+{
+  "date": "22/6/2024  08:53:00",
+  "items": [
+    {
+      "description": "ﺍﺟﺮﺓ ﻧﻘﻞ",
+      "quantity": 1.0,
+      "unit_price": 80.0,
+      "total_price": 80.0
+    },
+    {
+      "description": "ﺳﻢ ﺗﻴﻜﻦ5 ﺍﺭﺿﻲ",
+      "quantity": 50.0,
+      "unit_price": 11.0,
+      "total_price": 550.0
+    },
+    {
+      "description": "ﺳﻢ ﺗﻴﻜﻦ5 ﻋﻤﻮﺩ",
+      "quantity": 70.0,
+      "unit_price": 12.0,
+      "total_price": 840.0
+    },
+    {
+      "description": "ﺍﻟﻮﺍﺡ ﺟﺒﺺ ﺍﺣﻤﺮ ﺍﻭﺭ ﺑﻮﻧﺪ ﻣﺘﺮ3",
+      "quantity": 7.0,
+      "unit_price": 55.0,
+      "total_price": 385.0
+    }
+  ],
+  "total": 1855.0,
+  "net": 1855.0,
+  "worksite": "خالد فارس",
+  "total_match": true
+}

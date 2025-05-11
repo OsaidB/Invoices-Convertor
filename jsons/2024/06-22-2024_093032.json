@@ -1,0 +1,21 @@
+{
+  "date": "22/6/2024  09:30:32",
+  "items": [
+    {
+      "description": "ﺫﻛﺮ ﻛﻬﺮﺑﺎﺀ",
+      "quantity": 1.0,
+      "unit_price": 3.0,
+      "total_price": 3.0
+    },
+    {
+      "description": "W ﻛﺸﺎﻑ ﻟﻴﺪ",
+      "quantity": 2.0,
+      "unit_price": 50.0,
+      "total_price": 50.0
+    }
+  ],
+  "total": 53.0,
+  "net": 53.0,
+  "worksite": "other",
+  "total_match": true
+}

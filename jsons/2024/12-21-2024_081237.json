@@ -1,0 +1,57 @@
+{
+  "date": "21/12/2024  08:12:37",
+  "items": [
+    {
+      "description": "ﺍﺟﺮﺓ ﻧﻘﻞ",
+      "quantity": 1.0,
+      "unit_price": 70.0,
+      "total_price": 70.0
+    },
+    {
+      "description": ".2*13 ﺑﺮﺍﻏﻲ ﻃﺒﻌﺔ ﺑﺎﺡ100",
+      "quantity": 2.0,
+      "unit_price": 0.05,
+      "total_price": 5.0
+    },
+    {
+      "description": "ﺳﻢ ﺟﺒﺺ2.5 ﺑﺮﺍﻏﻲ",
+      "quantity": 1.0,
+      "unit_price": 35.0,
+      "total_price": 35.0
+    },
+    {
+      "description": "ﻡ2 ﻧﺎﻳﻠﻮﻥ",
+      "quantity": 10.0,
+      "unit_price": 10.0,
+      "total_price": 100.0
+    },
+    {
+      "description": "ﺭﻭﻝ ﻛﺮﺗﻮﻥ",
+      "quantity": 2.0,
+      "unit_price": 50.0,
+      "total_price": 100.0
+    },
+    {
+      "description": "ﺳﻢ ﺗﻴﻜﻦ5 ﺍﺭﺿﻲ",
+      "quantity": 10.0,
+      "unit_price": 11.0,
+      "total_price": 110.0
+    },
+    {
+      "description": "ﺳﻢ ﺗﻴﻜﻦ5 ﻋﻤﻮﺩ",
+      "quantity": 20.0,
+      "unit_price": 12.0,
+      "total_price": 240.0
+    },
+    {
+      "description": "ﻡ3 ﺍﻟﻮﺍﺡ ﺟﺒﺺ ﺍﺑﻴﺾ ﻣﺼﺮﻱ",
+      "quantity": 20.0,
+      "unit_price": 37.0,
+      "total_price": 740.0
+    }
+  ],
+  "total": 1400.0,
+  "net": 1400.0,
+  "worksite": "دينا المصري",
+  "total_match": true
+}

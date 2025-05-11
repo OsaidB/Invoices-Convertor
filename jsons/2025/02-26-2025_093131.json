@@ -1,0 +1,27 @@
+{
+  "date": "26/2/2025  09:31:31",
+  "items": [
+    {
+      "description": "ﺳﻢ ﺗﻴﻜﻦ7 ﻋﻤﻮﺩ",
+      "quantity": 20.0,
+      "unit_price": 14.0,
+      "total_price": 280.0
+    },
+    {
+      "description": "ﺳﻢ ﺗﻴﻜﻦ5 ﺍﺭﺿﻲ",
+      "quantity": 30.0,
+      "unit_price": 11.0,
+      "total_price": 330.0
+    },
+    {
+      "description": "ﺳﻢ ﺗﻴﻜﻦ5 ﻋﻤﻮﺩ",
+      "quantity": 30.0,
+      "unit_price": 12.0,
+      "total_price": 360.0
+    }
+  ],
+  "total": 970.0,
+  "net": 970.0,
+  "worksite": "صالون السيدات",
+  "total_match": true
+}

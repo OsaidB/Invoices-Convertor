@@ -1,0 +1,27 @@
+{
+  "date": "25/2/2025  13:22:22",
+  "items": [
+    {
+      "description": "ﺍﺟﺮﺓ ﻧﻘﻞ",
+      "quantity": 1.0,
+      "unit_price": 70.0,
+      "total_price": 70.0
+    },
+    {
+      "description": "ﺍﻟﻮﺍﺡ ﺟﺒﺺ ﺍﺧﻀﺮ ﺍﻭﺭ ﺳﻢ2.6 ﺑﻮﻧﺪ",
+      "quantity": 4.0,
+      "unit_price": 53.0,
+      "total_price": 212.0
+    },
+    {
+      "description": "ﺳﻢ ﺍﺯﺭﻕ2.6 ﺍﻟﻮﺍﺡ ﺟﺒﺺ ﺍﻭﺭ ﺑﻮﻧﺪ",
+      "quantity": 5.0,
+      "unit_price": 135.0,
+      "total_price": 675.0
+    }
+  ],
+  "total": 957.0,
+  "net": 957.0,
+  "worksite": "هيني بني",
+  "total_match": true
+}

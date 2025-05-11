@@ -1,0 +1,27 @@
+{
+  "date": "12/9/2024  07:48:33",
+  "items": [
+    {
+      "description": "ﻡ ﺿﺒﻞ50  ﺳﻢ5 ﺗﺐ ﻭﺭﻕ",
+      "quantity": 6.0,
+      "unit_price": 10.0,
+      "total_price": 60.0
+    },
+    {
+      "description": "ﻛﻴﻠﻮ5 ﻛﻠﺴﻴﻤﻮ ﻃﻤﺒﻮﺭ",
+      "quantity": 2.0,
+      "unit_price": 20.0,
+      "total_price": 40.0
+    },
+    {
+      "description": "ﻣﺘﺮ3 ﺯﻭﺍﻳﺎ ﺻﻔﺮﻳﺔ",
+      "quantity": 40.0,
+      "unit_price": 10.0,
+      "total_price": 400.0
+    }
+  ],
+  "total": 500.0,
+  "net": 500.0,
+  "worksite": "خالد فارس",
+  "total_match": true
+}

@@ -1,0 +1,27 @@
+{
+  "date": "3/7/2024  09:13:20",
+  "items": [
+    {
+      "description": "ﻣﺘﺮ50 ﻭﺭﻕ ﺟﺒﺺ",
+      "quantity": 1.0,
+      "unit_price": 25.0,
+      "total_price": 25.0
+    },
+    {
+      "description": "ﺯﻭﺍﻳﺎ ﺟﺒﺺ ﻋﺎﺩﻱ",
+      "quantity": 1.0,
+      "unit_price": 25.0,
+      "total_price": 25.0
+    },
+    {
+      "description": "ﻙ28 ﻣﻌﺠﻮﻧﺔ ﺟﻮﻟﺪ ﺑﻮﻧﺪ",
+      "quantity": 1.0,
+      "unit_price": 60.0,
+      "total_price": 60.0
+    }
+  ],
+  "total": 110.0,
+  "net": 110.0,
+  "worksite": "other",
+  "total_match": true
+}

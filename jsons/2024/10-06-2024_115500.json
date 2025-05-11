@@ -1,0 +1,33 @@
+{
+  "date": "6/10/2024  11:55:00",
+  "items": [
+    {
+      "description": "ﻡ50*2 ﺭﻭﻝ ﻧﺎﻳﻠﻮﻥ",
+      "quantity": 1.0,
+      "unit_price": 30.0,
+      "total_price": 30.0
+    },
+    {
+      "description": "\"4.5 ﻃﺎﺭﺓ ﻗﺺ ﺣﺠﺮ",
+      "quantity": 2.0,
+      "unit_price": 5.0,
+      "total_price": 5.0
+    },
+    {
+      "description": "ﺑﺮﺍﻏﻲ ﺟﺒﺺ ﻋﺎﺩﻱ 3.5*",
+      "quantity": 35.0,
+      "unit_price": 40.0,
+      "total_price": 40.0
+    },
+    {
+      "description": "ﺭﻭﻝ ﺻﻮﻑ ﺻﺨﺮﻱ ﻡ24/ﻙ12",
+      "quantity": 2.0,
+      "unit_price": 250.0,
+      "total_price": 500.0
+    }
+  ],
+  "total": 575.0,
+  "net": 575.0,
+  "worksite": "الصيدلية",
+  "total_match": true
+}

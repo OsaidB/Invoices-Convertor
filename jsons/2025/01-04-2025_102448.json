@@ -1,0 +1,21 @@
+{
+  "date": "4/1/2025  10:24:48",
+  "items": [
+    {
+      "description": "ﺳﻢ ﺗﻴﻜﻦ5 ﺍﺭﺿﻲ",
+      "quantity": 10.0,
+      "unit_price": 11.0,
+      "total_price": 110.0
+    },
+    {
+      "description": "ﺳﻢ ﺗﻴﻜﻦ5 ﻋﻤﻮﺩ",
+      "quantity": 10.0,
+      "unit_price": 12.0,
+      "total_price": 120.0
+    }
+  ],
+  "total": 230.0,
+  "net": 230.0,
+  "worksite": "دينا المصري",
+  "total_match": true
+}

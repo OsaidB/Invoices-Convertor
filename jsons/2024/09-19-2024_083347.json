@@ -1,0 +1,51 @@
+{
+  "date": "19/9/2024  08:33:47",
+  "items": [
+    {
+      "description": "ﺍﺟﺮﺓ ﻧﻘﻞ",
+      "quantity": 1.0,
+      "unit_price": 70.0,
+      "total_price": 70.0
+    },
+    {
+      "description": "ﺳﻢ ﺟﺒﺺ.5 ﺑﺮﺍﻏﻲ",
+      "quantity": 2.0,
+      "unit_price": 35.0,
+      "total_price": 70.0
+    },
+    {
+      "description": ".2*13 ﺑﺮﺍﻏﻲ ﺑﺎﺡ Click",
+      "quantity": 500.0,
+      "unit_price": 0.05,
+      "total_price": 25.0
+    },
+    {
+      "description": "ﺑﺮﺍﻏﻲ ﻣﻊ ﺩﺑﻞ",
+      "quantity": 500.0,
+      "unit_price": 0.1,
+      "total_price": 50.0
+    },
+    {
+      "description": "ﺳﻢ ﺗﻴﻜﻦ7 ﺍﺭﺿﻲ",
+      "quantity": 20.0,
+      "unit_price": 13.0,
+      "total_price": 260.0
+    },
+    {
+      "description": "ﺳﻢ ﺗﻴﻜﻦ7 ﻋﻤﻮﺩ",
+      "quantity": 30.0,
+      "unit_price": 14.0,
+      "total_price": 420.0
+    },
+    {
+      "description": "ﺍﻟﻮﺍﺡ ﺟﺒﺺ ﺍﺧﻀﺮ ﺍﻭﺭ ﻣﺘﺮ3  ﺑﻮﻧﺪ",
+      "quantity": 10.0,
+      "unit_price": 58.0,
+      "total_price": 580.0
+    }
+  ],
+  "total": 1475.0,
+  "net": 1475.0,
+  "worksite": "ابو الحمص",
+  "total_match": true
+}

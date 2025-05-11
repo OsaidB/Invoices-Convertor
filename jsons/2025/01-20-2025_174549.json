@@ -1,0 +1,33 @@
+{
+  "date": "20/1/2025  17:45:49",
+  "items": [
+    {
+      "description": "ﺳﻢ15 ﺭﻭﻝ ﻃﺮﺍﺷﺔ ﺩﻳﻜﻮﺭ",
+      "quantity": 1.0,
+      "unit_price": 15.0,
+      "total_price": 15.0
+    },
+    {
+      "description": "ﺳﻢ10 ﻧﺴﻠﺔ ﺭﻭﻝ ROLART",
+      "quantity": 4.0,
+      "unit_price": 5.0,
+      "total_price": 20.0
+    },
+    {
+      "description": "ﺳﻢ10 ﻳﺪ ﺭﻭﻝ ﺑﻮﻳﺎ",
+      "quantity": 2.0,
+      "unit_price": 10.0,
+      "total_price": 20.0
+    },
+    {
+      "description": "ﺳﻠﻨﺪﺭ ﺣﻤﺎﻡ ﻧﺠﻞ",
+      "quantity": 1.0,
+      "unit_price": 20.0,
+      "total_price": 20.0
+    }
+  ],
+  "total": 75.0,
+  "net": 75.0,
+  "worksite": "other",
+  "total_match": true
+}

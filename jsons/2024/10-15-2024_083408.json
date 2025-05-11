@@ -1,0 +1,21 @@
+{
+  "date": "15/10/2024  08:34:08",
+  "items": [
+    {
+      "description": "ﺯﻭﺍﻳﺎ ﺟﺒﺺ ﻋﺎﺩﻱ ﺍﻟﺘﺮﺍ",
+      "quantity": 1.0,
+      "unit_price": 30.0,
+      "total_price": 30.0
+    },
+    {
+      "description": "ﻛﻴﻠﻮ5 ﻛﻠﺴﻴﻤﻮ ﻃﻤﺒﻮﺭ",
+      "quantity": 2.0,
+      "unit_price": 20.0,
+      "total_price": 40.0
+    }
+  ],
+  "total": 70.0,
+  "net": 70.0,
+  "worksite": "اسطنبول",
+  "total_match": true
+}

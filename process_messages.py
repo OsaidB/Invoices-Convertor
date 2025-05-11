@@ -48,11 +48,11 @@ def download_pdf(url, output_path):
 
 # Main processing logic
 def main():
-    text_file_path = "messages.txt"  # Path to your text file
+    text_file_path = "output.txt"  # Path to your text file
     invoice_urls = read_and_filter_text_file(text_file_path)
     print(f"Found {len(invoice_urls)} invoice URLs: {invoice_urls}")
 
-    # Create output directories if they don't exist
+    # Create base output directories if they don't exist
     os.makedirs("pdfs", exist_ok=True)
     os.makedirs("jsons", exist_ok=True)
 
@@ -69,30 +69,37 @@ def main():
 
             # Use the extracted date to rename the PDF
             if invoice_data["date"]:
-                date_str = invoice_data["date"].replace("/", "-").replace(" ", "_").replace(":", "")
-                final_pdf_path = os.path.join("pdfs", f"{date_str}.pdf")
-                final_json_path = os.path.join("jsons", f"{date_str}.json")
+                # Parse date (e.g., "25/2/2025 09:17:15" -> MM-DD-YYYY_HHMMSS)
+                date_match = re.match(r"(\d{1,2})/(\d{1,2})/(\d{4})\s+(\d{2}):(\d{2}):(\d{2})", invoice_data["date"])
+                if date_match:
+                    day, month, year, hour, minute, second = date_match.groups()
+                    # Format as MM-DD-YYYY_HHMMSS
+                    date_str = f"{int(month):02d}-{int(day):02d}-{year}_{hour}{minute}{second}"
+                    # Create year-based subdirectory
+                    pdf_year_dir = os.path.join("pdfs", year)
+                    os.makedirs(pdf_year_dir, exist_ok=True)
+                    final_pdf_path = os.path.join(pdf_year_dir, f"{date_str}.pdf")
+                    final_json_path = os.path.join("jsons", year, f"{date_str}.json")
 
-                # Ensure unique filenames by appending index if file exists
-                pdf_base, pdf_ext = os.path.splitext(final_pdf_path)
-                json_base, json_ext = os.path.splitext(final_json_path)
-                pdf_index = 0
-                while os.path.exists(final_pdf_path):
-                    final_pdf_path = f"{pdf_base}_{pdf_index}{pdf_ext}"
-                    pdf_index += 1
-                json_index = 0
-                while os.path.exists(final_json_path):
-                    final_json_path = f"{json_base}_{json_index}{json_ext}"
-                    json_index += 1
+                    # Ensure unique filenames by appending index if file exists
+                    pdf_base, pdf_ext = os.path.splitext(final_pdf_path)
+                    pdf_index = 0
+                    while os.path.exists(final_pdf_path):
+                        final_pdf_path = f"{pdf_base}_{pdf_index}{pdf_ext}"
+                        pdf_index += 1
 
-                # Rename the temporary PDF to the final name
-                os.rename(pdf_path, final_pdf_path)
-                print(f"Renamed PDF to: {final_pdf_path}")
+                    # Rename the temporary PDF to the final name
+                    os.rename(pdf_path, final_pdf_path)
+                    print(f"Renamed PDF to: {final_pdf_path}")
+                else:
+                    print(f"Date format mismatch for {pdf_path}, keeping temporary PDF name")
+                    final_pdf_path = pdf_path
             else:
                 print(f"No date extracted for {pdf_path}, keeping temporary PDF name")
+                final_pdf_path = pdf_path
 
             # The JSON is already saved with the date-based name by process_invoice_pdf
-            print(f"JSON saved as: {final_json_path if invoice_data['date'] else 'default_name_in_jsons'}")
+            print(f"JSON saved as: {final_json_path if invoice_data['date'] and date_match else 'default_name_in_jsons'}")
 
             # Log the result
             print(f"Processed invoice data for {pdf_path}: {invoice_data}")

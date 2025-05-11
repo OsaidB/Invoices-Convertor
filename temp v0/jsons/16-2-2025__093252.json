@@ -1,0 +1,15 @@
+{
+  "date": "16/2/2025  09:32:52",
+  "items": [
+    {
+      "description": "ﻡ ﺍﺯﺭﻕ ﺍﻭﺭ3 ﺍﻟﻮﺍﺡ ﺟﺒﺺ ﺑﻮﻧﺪ",
+      "quantity": 2.0,
+      "unit_price": 150.0,
+      "total_price": 300.0
+    }
+  ],
+  "total": 300.0,
+  "net": 300.0,
+  "worksite": "طارق الخليلي",
+  "total_match": true
+}

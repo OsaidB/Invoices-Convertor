@@ -1,0 +1,27 @@
+{
+  "date": "25/6/2024  09:43:55",
+  "items": [
+    {
+      "description": "ﺑﺮﺍﻏﻲ ﺟﺒﺺ ﻣﻘﺪﺡ 3.5*25",
+      "quantity": 500.0,
+      "unit_price": 0.06,
+      "total_price": 30.0
+    },
+    {
+      "description": "ﺳﻢ ﺗﻴﻜﻦ5 ﺍﺭﺿﻲ",
+      "quantity": 20.0,
+      "unit_price": 11.0,
+      "total_price": 220.0
+    },
+    {
+      "description": "ﺳﻢ ﺗﻴﻜﻦ5 ﻋﻤﻮﺩ",
+      "quantity": 30.0,
+      "unit_price": 12.0,
+      "total_price": 360.0
+    }
+  ],
+  "total": 610.0,
+  "net": 610.0,
+  "worksite": "خالد فارس",
+  "total_match": true
+}

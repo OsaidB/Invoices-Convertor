@@ -1,0 +1,27 @@
+{
+  "date": "20/1/2025  12:26:28",
+  "items": [
+    {
+      "description": "ﻣﻌﺠﻮﻧﺔ ﻣﺠﻚ ﺑﻮﻧﺪ ﻃﻤﺒﻮﺭ ﻛﻴﻠﻮ25",
+      "quantity": 2.0,
+      "unit_price": 55.0,
+      "total_price": 110.0
+    },
+    {
+      "description": "BLOCK \"3 ﻓﺮﺷﺎﺓ ﻗﺺ",
+      "quantity": 2.0,
+      "unit_price": 30.0,
+      "total_price": 30.0
+    },
+    {
+      "description": "ﺭﻭﻝ ﻃﺮﺍﺷﺔ ﺩﻳﻜﻮﺭ ﺳﻢ",
+      "quantity": 25.0,
+      "unit_price": 20.0,
+      "total_price": 20.0
+    }
+  ],
+  "total": 160.0,
+  "net": 160.0,
+  "worksite": "other",
+  "total_match": true
+}

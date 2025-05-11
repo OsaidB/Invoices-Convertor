@@ -1,0 +1,69 @@
+{
+  "date": "4/1/2025  11:52:13",
+  "items": [
+    {
+      "description": "ﺍﺟﺮﺓ ﻧﻘﻞ",
+      "quantity": 1.0,
+      "unit_price": 70.0,
+      "total_price": 70.0
+    },
+    {
+      "description": "ﻣﻠﻢ7 ﺍﺳﺎﻓﻴﻦ ﺑﻼﺳﺘﻴﻚ ﺣﺒﺔ(100)",
+      "quantity": 5.0,
+      "unit_price": 4.0,
+      "total_price": 20.0
+    },
+    {
+      "description": "ﺻﺎﺝ1-16*1/4 ﺭﻭﻧﺪﻻﺕ ﻣﺒﺴﻂ",
+      "quantity": 500.0,
+      "unit_price": 0.04,
+      "total_price": 20.0
+    },
+    {
+      "description": "ﻛﻴﻠﻮ5 ﻛﻠﺴﻴﻤﻮ ﻃﻤﺒﻮﺭ",
+      "quantity": 4.0,
+      "unit_price": 20.0,
+      "total_price": 80.0
+    },
+    {
+      "description": "ﻣﻌﺠﻮﻧﺔ ﻣﺠﻚ ﺑﻮﻧﺪ ﻃﻤﺒﻮﺭ ﻛﻴﻠﻮ25",
+      "quantity": 10.0,
+      "unit_price": 55.0,
+      "total_price": 550.0
+    },
+    {
+      "description": ".0*50 ﺑﺮﺍﻏﻲ ﺳﺒﻴﺖ",
+      "quantity": 6.0,
+      "unit_price": 40.0,
+      "total_price": 40.0
+    },
+    {
+      "description": "ﺑﺮﺍﻏﻲ ﻣﻊ ﺩﺑﻞ",
+      "quantity": 500.0,
+      "unit_price": 0.1,
+      "total_price": 50.0
+    },
+    {
+      "description": ".2*13 ﺑﺮﺍﻏﻲ ﺑﺎﺡ Click",
+      "quantity": 1.0,
+      "unit_price": 50.0,
+      "total_price": 50.0
+    },
+    {
+      "description": "ﺳﻢ2.5 ﺑﺮﺍﻏﻲ ﺟﺒﺺ click",
+      "quantity": 1.0,
+      "unit_price": 350.0,
+      "total_price": 350.0
+    },
+    {
+      "description": "ﺍﻟﻮﺍﺡ ﺟﺒﺺ ﺍﺧﻀﺮ ﺍﻭﺭ ﺳﻢ2.6 ﺑﻮﻧﺪ",
+      "quantity": 15.0,
+      "unit_price": 53.0,
+      "total_price": 795.0
+    }
+  ],
+  "total": 2025.0,
+  "net": 2025.0,
+  "worksite": "العجولي",
+  "total_match": true
+}

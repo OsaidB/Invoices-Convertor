@@ -1,0 +1,21 @@
+{
+  "date": "26/1/2025  15:38:31",
+  "items": [
+    {
+      "description": "ﻛﻴﻠﻮ5 ﻛﻠﺴﻴﻤﻮ ﻃﻤﺒﻮﺭ",
+      "quantity": 1.0,
+      "unit_price": 20.0,
+      "total_price": 20.0
+    },
+    {
+      "description": "ﻣﻌﺠﻮﻧﺔ ﻣﺠﻚ ﺑﻮﻧﺪ ﻃﻤﺒﻮﺭ ﻛﻴﻠﻮ25",
+      "quantity": 3.0,
+      "unit_price": 55.0,
+      "total_price": 165.0
+    }
+  ],
+  "total": 185.0,
+  "net": 185.0,
+  "worksite": "other",
+  "total_match": true
+}

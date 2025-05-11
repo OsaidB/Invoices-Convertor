@@ -1,0 +1,15 @@
+{
+  "date": "9/10/2024  10:19:51",
+  "items": [
+    {
+      "description": "ﺷﻔﺎﻑ7 ﺳﻴﻠﻜﻮﻥ ﺳﻮﺑﺮ",
+      "quantity": 5.0,
+      "unit_price": 25.0,
+      "total_price": 125.0
+    }
+  ],
+  "total": 125.0,
+  "net": 125.0,
+  "worksite": "العجولي",
+  "total_match": true
+}

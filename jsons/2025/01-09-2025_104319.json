@@ -1,0 +1,27 @@
+{
+  "date": "9/1/2025  10:43:19",
+  "items": [
+    {
+      "description": "ﺳﻴﻠﻜﻮﻥ ﺍﺑﻴﺾ ﺍﻛﺴﺘﺮﻳﻢ",
+      "quantity": 4.0,
+      "unit_price": 25.0,
+      "total_price": 100.0
+    },
+    {
+      "description": "ﺳﻢ3.7 ﺍﺭﺿﻲ",
+      "quantity": 20.0,
+      "unit_price": 8.0,
+      "total_price": 160.0
+    },
+    {
+      "description": "(0.50) ﺳﻢ3.7 ﻋﻤﻮﺩ20",
+      "quantity": 3.0,
+      "unit_price": 9.0,
+      "total_price": 180.0
+    }
+  ],
+  "total": 440.0,
+  "net": 440.0,
+  "worksite": "الدبلوماسي",
+  "total_match": true
+}

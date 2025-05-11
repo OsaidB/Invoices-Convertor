@@ -1,0 +1,27 @@
+{
+  "date": "1/9/2024  15:57:56",
+  "items": [
+    {
+      "description": "(0.45) ﺳﻢ7 ﺍﺭﺿﻲ",
+      "quantity": 10.0,
+      "unit_price": 9.0,
+      "total_price": 90.0
+    },
+    {
+      "description": "(0.45) ﺳﻢ7 ﻋﻤﻮﺩ20",
+      "quantity": 2.0,
+      "unit_price": 10.0,
+      "total_price": 200.0
+    },
+    {
+      "description": "ﺍﻟﻮﺍﺡ ﺟﺒﺺ ﺍﺧﻀﺮ ﺍﻭﺭ ﺳﻢ2.6 ﺑﻮﻧﺪ",
+      "quantity": 15.0,
+      "unit_price": 53.0,
+      "total_price": 795.0
+    }
+  ],
+  "total": 1085.0,
+  "net": 1085.0,
+  "worksite": "اسطنبول",
+  "total_match": true
+}

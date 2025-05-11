@@ -1,0 +1,33 @@
+{
+  "date": "12/1/2025  08:02:47",
+  "items": [
+    {
+      "description": "ﺍﺟﺮﺓ ﻧﻘﻞ",
+      "quantity": 1.0,
+      "unit_price": 100.0,
+      "total_price": 100.0
+    },
+    {
+      "description": "(0.50) ﺳﻢ3.7 ﻋﻤﻮﺩ10",
+      "quantity": 2.0,
+      "unit_price": 9.0,
+      "total_price": 90.0
+    },
+    {
+      "description": "ﺳﻢ3.7 ﺍﺭﺿﻲ",
+      "quantity": 20.0,
+      "unit_price": 8.0,
+      "total_price": 160.0
+    },
+    {
+      "description": "ﻡ ﺍﺯﺭﻕ ﺍﻭﺭ3 ﺍﻟﻮﺍﺡ ﺟﺒﺺ ﺑﻮﻧﺪ",
+      "quantity": 10.0,
+      "unit_price": 150.0,
+      "total_price": 1500.0
+    }
+  ],
+  "total": 1850.0,
+  "net": 1850.0,
+  "worksite": "الدبلماسي",
+  "total_match": true
+}

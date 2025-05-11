@@ -1,0 +1,27 @@
+{
+  "date": "16/10/2024  11:00:42",
+  "items": [
+    {
+      "description": "ﻣﺎﺳﺘﻚ",
+      "quantity": 5.0,
+      "unit_price": 5.0,
+      "total_price": 25.0
+    },
+    {
+      "description": "ﻛﻴﻠﻮ5 ﻛﻠﺴﻴﻤﻮ ﻃﻤﺒﻮﺭ",
+      "quantity": 2.0,
+      "unit_price": 20.0,
+      "total_price": 40.0
+    },
+    {
+      "description": "ﻣﻌﺠﻮﻧﺔ ﻣﺠﻚ ﺑﻮﻧﺪ ﻃﻤﺒﻮﺭ ﻛﻴﻠﻮ25",
+      "quantity": 3.0,
+      "unit_price": 55.0,
+      "total_price": 165.0
+    }
+  ],
+  "total": 230.0,
+  "net": 230.0,
+  "worksite": "اسطنبول",
+  "total_match": true
+}

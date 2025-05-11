@@ -1,0 +1,39 @@
+{
+  "date": "18/1/2025  11:04:45",
+  "items": [
+    {
+      "description": "ﻭﺭﻕ ﺣﻒ ﺍﺳﻮﺩ ﺷﻤﺸﻮﻡ",
+      "quantity": 1.0,
+      "unit_price": 65.0,
+      "total_price": 65.0
+    },
+    {
+      "description": "ﺯﻭﺍﻳﺎ ﺟﺒﺺ ﻋﺎﺩﻱ ﺍﻟﺘﺮﺍ",
+      "quantity": 2.0,
+      "unit_price": 30.0,
+      "total_price": 60.0
+    },
+    {
+      "description": "ﻣﺘﺮ150 ﻭﺭﻕ ﺟﺒﺺ",
+      "quantity": 2.0,
+      "unit_price": 25.0,
+      "total_price": 50.0
+    },
+    {
+      "description": "ﻛﻴﻠﻮ5 ﻛﻠﺴﻴﻤﻮ ﻃﻤﺒﻮﺭ",
+      "quantity": 2.0,
+      "unit_price": 20.0,
+      "total_price": 40.0
+    },
+    {
+      "description": "ﻣﻌﺠﻮﻧﺔ ﻣﺠﻚ ﺑﻮﻧﺪ ﻃﻤﺒﻮﺭ ﻛﻴﻠﻮ25",
+      "quantity": 2.0,
+      "unit_price": 55.0,
+      "total_price": 110.0
+    }
+  ],
+  "total": 325.0,
+  "net": 325.0,
+  "worksite": "اسامة نمر",
+  "total_match": true
+}

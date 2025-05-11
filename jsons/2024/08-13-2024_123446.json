@@ -1,0 +1,33 @@
+{
+  "date": "13/8/2024  12:34:46",
+  "items": [
+    {
+      "description": "ﻛﻴﻠﻮ5 ﻛﻠﺴﻴﻤﻮ ﻃﻤﺒﻮﺭ",
+      "quantity": 1.0,
+      "unit_price": 20.0,
+      "total_price": 20.0
+    },
+    {
+      "description": "ﻟﺘﺮ18 ﺳﻮﺑﺮ ﻛﺮﻳﻞ ﻋﺎﺩﻱ ﻃﻤﺒﻮﺭ",
+      "quantity": 1.0,
+      "unit_price": 225.0,
+      "total_price": 225.0
+    },
+    {
+      "description": "ﻣﺘﺮ3 ﺯﻭﺍﻳﺎ ﺻﻔﺮﻳﺔ",
+      "quantity": 10.0,
+      "unit_price": 10.0,
+      "total_price": 100.0
+    },
+    {
+      "description": "ﻣﻌﺠﻮﻧﺔ ﻣﺠﻚ ﺑﻮﻧﺪ ﻃﻤﺒﻮﺭ ﻛﻴﻠﻮ25",
+      "quantity": 4.0,
+      "unit_price": 55.0,
+      "total_price": 220.0
+    }
+  ],
+  "total": 565.0,
+  "net": 565.0,
+  "worksite": "خالد فارس",
+  "total_match": true
+}

@@ -12,7 +12,7 @@ def normalize_arabic(text):
 def process_invoice_pdf(input_file, pdf_output_dir="pdfs", json_output_dir="jsons"):
     """
     Process a PDF invoice file and return the extracted data as a dictionary.
-    Saves the PDF and JSON to specified directories based on the date or input file name.
+    Saves the PDF and JSON to specified directories based on the date (MM-DD-YYYY_HHMMSS) in year-based subdirectories.
     Returns the invoice data dictionary.
     """
     doc = fitz.open(input_file)
@@ -165,10 +165,24 @@ def process_invoice_pdf(input_file, pdf_output_dir="pdfs", json_output_dir="json
 
     # Generate output file name using date if available
     if invoice_data["date"]:
-        # Format date as YYYY-MM-DD_HHMMSS (e.g., 2025-02-25_091715)
-        date_str = invoice_data["date"].replace("/", "-").replace(" ", "_").replace(":", "")
-        pdf_output_file = os.path.join(pdf_output_dir, f"{date_str}.pdf")
-        json_output_file = os.path.join(json_output_dir, f"{date_str}.json")
+        # Parse date (e.g., "25/2/2025 09:17:15" -> MM-DD-YYYY_HHMMSS)
+        date_match = re.match(r"(\d{1,2})/(\d{1,2})/(\d{4})\s+(\d{2}):(\d{2}):(\d{2})", invoice_data["date"])
+        if date_match:
+            day, month, year, hour, minute, second = date_match.groups()
+            # Format as MM-DD-YYYY_HHMMSS
+            date_str = f"{int(month):02d}-{int(day):02d}-{year}_{hour}{minute}{second}"
+            # Create year-based subdirectories
+            pdf_year_dir = os.path.join(pdf_output_dir, year)
+            json_year_dir = os.path.join(json_output_dir, year)
+            os.makedirs(pdf_year_dir, exist_ok=True)
+            os.makedirs(json_year_dir, exist_ok=True)
+            pdf_output_file = os.path.join(pdf_year_dir, f"{date_str}.pdf")
+            json_output_file = os.path.join(json_year_dir, f"{date_str}.json")
+        else:
+            base_name = os.path.splitext(os.path.basename(input_file))[0]
+            output_base_name = base_name.replace("report", "invoice")
+            pdf_output_file = os.path.join(pdf_output_dir, f"{output_base_name}.pdf")
+            json_output_file = os.path.join(json_output_dir, f"{output_base_name}.json")
     else:
         base_name = os.path.splitext(os.path.basename(input_file))[0]
         output_base_name = base_name.replace("report", "invoice")

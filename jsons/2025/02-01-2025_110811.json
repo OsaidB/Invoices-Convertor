@@ -1,0 +1,15 @@
+{
+  "date": "1/2/2025  11:08:11",
+  "items": [
+    {
+      "description": "ﻟﺘﺮ ﻃﻤﺒﻮﺭ5 ﺳﻮﺑﺮ ﻟﻚ",
+      "quantity": 1.0,
+      "unit_price": 115.0,
+      "total_price": 115.0
+    }
+  ],
+  "total": 115.0,
+  "net": 115.0,
+  "worksite": "بير نبالا",
+  "total_match": true
+}

@@ -1,0 +1,45 @@
+{
+  "date": "18/8/2024  16:28:01",
+  "items": [
+    {
+      "description": "ﺷﻔﺎﻑ7 ﺳﻴﻠﻜﻮﻥ ﺳﻮﺑﺮ",
+      "quantity": 2.0,
+      "unit_price": 25.0,
+      "total_price": 50.0
+    },
+    {
+      "description": "ﺑﺮﺍﻏﻲ ﻣﻊ ﺩﺑﻞ",
+      "quantity": 500.0,
+      "unit_price": 0.1,
+      "total_price": 50.0
+    },
+    {
+      "description": ".2*13 ﺑﺮﺍﻏﻲ ﺑﺎﺡ Click",
+      "quantity": 500.0,
+      "unit_price": 0.05,
+      "total_price": 25.0
+    },
+    {
+      "description": "ﺳﻢ ﺟﺒﺺ.5 ﺑﺮﺍﻏﻲ",
+      "quantity": 2.0,
+      "unit_price": 35.0,
+      "total_price": 70.0
+    },
+    {
+      "description": "ﺳﻢ2.5 ﺑﺮﺍﻏﻲ ﺟﺒﺺ click",
+      "quantity": 1.0,
+      "unit_price": 350.0,
+      "total_price": 350.0
+    },
+    {
+      "description": "ﺭﻳﺸﺔ ﻫﺮﻡ ﺣﺪﻳﺪ ﺳﺘﺎﻧﻠﺲ",
+      "quantity": 1.0,
+      "unit_price": 120.0,
+      "total_price": 120.0
+    }
+  ],
+  "total": 665.0,
+  "net": 665.0,
+  "worksite": "other",
+  "total_match": true
+}

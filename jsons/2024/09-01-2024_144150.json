@@ -1,0 +1,21 @@
+{
+  "date": "1/9/2024  14:41:50",
+  "items": [
+    {
+      "description": "(0.45) ﺳﻢ7 ﺍﺭﺿﻲ",
+      "quantity": 10.0,
+      "unit_price": 9.0,
+      "total_price": 90.0
+    },
+    {
+      "description": "(0.45) ﺳﻢ7 ﻋﻤﻮﺩ30",
+      "quantity": 2.0,
+      "unit_price": 10.0,
+      "total_price": 300.0
+    }
+  ],
+  "total": 390.0,
+  "net": 390.0,
+  "worksite": "اسطنبول",
+  "total_match": true
+}

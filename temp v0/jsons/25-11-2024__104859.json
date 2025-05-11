@@ -1,0 +1,33 @@
+{
+  "date": "25/11/2024  10:48:59",
+  "items": [
+    {
+      "description": "ﻛﻴﻠﻮ5 ﻛﻠﺴﻴﻤﻮ ﻃﻤﺒﻮﺭ",
+      "quantity": 2.0,
+      "unit_price": 20.0,
+      "total_price": 40.0
+    },
+    {
+      "description": "ﻣﺘﺮ50 ﻭﺭﻕ ﺟﺒﺺ",
+      "quantity": 1.0,
+      "unit_price": 25.0,
+      "total_price": 25.0
+    },
+    {
+      "description": "ﺯﻭﺍﻳﺎ ﺟﺒﺺ ﻋﺎﺩﻱ ﺍﻟﺘﺮﺍ",
+      "quantity": 3.0,
+      "unit_price": 30.0,
+      "total_price": 90.0
+    },
+    {
+      "description": "ﻣﻌﺠﻮﻧﺔ ﻣﺠﻚ ﺑﻮﻧﺪ ﻃﻤﺒﻮﺭ ﻛﻴﻠﻮ25",
+      "quantity": 9.0,
+      "unit_price": 55.0,
+      "total_price": 495.0
+    }
+  ],
+  "total": 650.0,
+  "net": 650.0,
+  "worksite": "الصيدلية",
+  "total_match": true
+}

@@ -1,0 +1,15 @@
+{
+  "date": "14/1/2025  17:40:48",
+  "items": [
+    {
+      "description": "ﻣﻌﺠﻮﻧﺔ ﻣﺠﻚ ﺑﻮﻧﺪ ﻃﻤﺒﻮﺭ ﻛﻴﻠﻮ25",
+      "quantity": 5.0,
+      "unit_price": 55.0,
+      "total_price": 275.0
+    }
+  ],
+  "total": 275.0,
+  "net": 275.0,
+  "worksite": "الدبلماسي",
+  "total_match": true
+}

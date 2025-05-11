@@ -1,0 +1,1154 @@
+Row: 3 address=AL-Eatimad, body=http://188.34.164.0/openpdf/report?k=C0A80105:0195520FFBD4:87CF:27A06A5B&c=etimad, date=1740838834468
+Row: 4 address=AL-Eatimad, body=╪º╪╡╪»╪º╪▒ ╪╖┘ä╪¿┘è┘ç ╪╣┘ä┘ë ╪¡╪│╪º╪¿┘â┘à ╪¿┘à╪¿┘ä╪║ 260.0╪┤ ┘ê╪º╪╡╪¿╪¡ ╪▒╪╡┘è╪»┘â┘à  325107.0 ╪┤ ┘ä┘ä╪¬┘ü╪º╪╡┘è┘ä, date=1740838832145
+Row: 6 address=AL-Eatimad, body=http://188.34.164.0/openpdf/report?k=C0A80103:0195518F5106:5D96:1F1C0929&c=etimad, date=1740830312625
+Row: 7 address=AL-Eatimad, body=╪º╪╡╪»╪º╪▒ ╪╖┘ä╪¿┘è┘ç ╪╣┘ä┘ë ╪¡╪│╪º╪¿┘â┘à ╪¿┘à╪¿┘ä╪║ 240.0╪┤ ┘ê╪º╪╡╪¿╪¡ ╪▒╪╡┘è╪»┘â┘à  324847.0 ╪┤ ┘ä┘ä╪¬┘ü╪º╪╡┘è┘ä, date=1740830302572
+Row: 8 address=AL-Eatimad, body=http://188.34.164.0/openpdf/report?k=C0A80103:01955189BA9B:B012:442767CE&c=etimad, date=1740829947823
+Row: 9 address=AL-Eatimad, body=╪º╪╡╪»╪º╪▒ ╪╖┘ä╪¿┘è┘ç ╪╣┘ä┘ë ╪¡╪│╪º╪¿┘â┘à ╪¿┘à╪¿┘ä╪║ 240.0╪┤ ┘ê╪º╪╡╪¿╪¡ ╪▒╪╡┘è╪»┘â┘à  324607.0 ╪┤ ┘ä┘ä╪¬┘ü╪º╪╡┘è┘ä, date=1740829940897
+Row: 12 address=AL-Eatimad, body=http://188.34.164.0/openpdf/report?k=C0A80105:0195510B08B0:3D3A:6C34694F&c=etimad, date=1740821660962
+Row: 13 address=AL-Eatimad, body=╪º╪╡╪»╪º╪▒ ╪╖┘ä╪¿┘è┘ç ╪╣┘ä┘ë ╪¡╪│╪º╪¿┘â┘à ╪¿┘à╪¿┘ä╪║ 965.0╪┤ ┘ê╪º╪╡╪¿╪¡ ╪▒╪╡┘è╪»┘â┘à  324367.0 ╪┤ ┘ä┘ä╪¬┘ü╪º╪╡┘è┘ä, date=1740821660341
+Row: 14 address=AL-Eatimad, body=http://188.34.164.0/openpdf/report?k=C0A80103:0195510656F8:C814:6C50121F&c=etimad, date=1740821312124
+Row: 15 address=AL-Eatimad, body=╪º╪╡╪»╪º╪▒ ╪╖┘ä╪¿┘è┘ç ╪╣┘ä┘ë ╪¡╪│╪º╪¿┘â┘à ╪¿┘à╪¿┘ä╪║ 70.0╪┤ ┘ê╪º╪╡╪¿╪¡ ╪▒╪╡┘è╪»┘â┘à  323402.0 ╪┤ ┘ä┘ä╪¬┘ü╪º╪╡┘è┘ä, date=1740821303020
+Row: 16 address=AL-Eatimad, body=http://188.34.164.0/openpdf/report?k=C0A80103:019550A7F96E:22A6:66D86EA3&c=etimad, date=1740815073729
+Row: 17 address=AL-Eatimad, body=╪º╪╡╪»╪º╪▒ ╪╖┘ä╪¿┘è┘ç ╪╣┘ä┘ë ╪¡╪│╪º╪¿┘â┘à ╪¿┘à╪¿┘ä╪║ 642.0╪┤ ┘ê╪º╪╡╪¿╪¡ ╪▒╪╡┘è╪»┘â┘à  323332.0 ╪┤ ┘ä┘ä╪¬┘ü╪º╪╡┘è┘ä, date=1740815062788
+Row: 18 address=AL-Eatimad, body=http://188.34.164.0/openpdf/report?k=C0A80105:0195509F93B2:419A:3B4D246B&c=etimad, date=1740814472550
+Row: 19 address=AL-Eatimad, body=╪º╪╡╪»╪º╪▒ ╪╖┘ä╪¿┘è┘ç ╪╣┘ä┘ë ╪¡╪│╪º╪¿┘â┘à ╪¿┘à╪¿┘ä╪║ 1939.0╪┤ ┘ê╪º╪╡╪¿╪¡ ╪▒╪╡┘è╪»┘â┘à  322690.0 ╪┤ ┘ä┘ä╪¬┘ü╪º╪╡┘è┘ä, date=1740814465088
+Row: 29 address=AL-Eatimad, body=http://188.34.164.0/openpdf/report?k=C0A80103:01954762FDA2:3EBB:25D2F377&c=etimad, date=1740659663002
+Row: 30 address=AL-Eatimad, body=╪º╪╡╪»╪º╪▒ ╪╖┘ä╪¿┘è┘ç ╪╣┘ä┘ë ╪¡╪│╪º╪¿┘â┘à ╪¿┘à╪¿┘ä╪║ 3480.0╪┤ ┘ê╪º╪╡╪¿╪¡ ╪▒╪╡┘è╪»┘â┘à  320751.0 ╪┤ ┘ä┘ä╪¬┘ü╪º╪╡┘è┘ä, date=1740659662345
+Row: 31 address=AL-Eatimad, body=╪º╪╡╪»╪º╪▒ ╪╖┘ä╪¿┘è┘ç ╪╣┘ä┘ë ╪¡╪│╪º╪¿┘â┘à ╪¿┘à╪¿┘ä╪║ 100.0╪┤ ┘ê╪º╪╡╪¿╪¡ ╪▒╪╡┘è╪»┘â┘à  317271.0 ╪┤ ┘ä┘ä╪¬┘ü╪º╪╡┘è┘ä, date=1740656437676
+Row: 32 address=AL-Eatimad, body=http://188.34.164.0/openpdf/report?k=C0A80103:01954730D233:8C8E:4F8210D0&c=etimad, date=1740656436996
+Row: 36 address=AL-Eatimad, body=http://188.34.164.0/openpdf/report?k=C0A80105:0195463F7B63:8A60:07BADAED&c=etimad, date=1740640594258
+Row: 37 address=AL-Eatimad, body=╪º╪╡╪»╪º╪▒ ╪╖┘ä╪¿┘è┘ç ╪╣┘ä┘ë ╪¡╪│╪º╪¿┘â┘à ╪¿┘à╪¿┘ä╪║ 885.0╪┤ ┘ê╪º╪╡╪¿╪¡ ╪▒╪╡┘è╪»┘â┘à  317171.0 ╪┤ ┘ä┘ä╪¬┘ü╪º╪╡┘è┘ä, date=1740640584577
+Row: 45 address=AL-Eatimad, body=http://188.34.164.0/openpdf/report?k=C0A80105:019541A6B1CF:A3BE:4C2EC000&c=etimad, date=1740563430865
+Row: 46 address=AL-Eatimad, body=╪º╪╡╪»╪º╪▒ ╪╖┘ä╪¿┘è┘ç ╪╣┘ä┘ë ╪¡╪│╪º╪¿┘â┘à ╪¿┘à╪¿┘ä╪║ 1064.0╪┤ ┘ê╪º╪╡╪¿╪¡ ╪▒╪╡┘è╪»┘â┘à  316286.0 ╪┤ ┘ä┘ä╪¬┘ü╪º╪╡┘è┘ä, date=1740563429995
+Row: 47 address=AL-Eatimad, body=http://188.34.164.0/openpdf/report?k=C0A80103:019541A23608:B9F1:7CAD0182&c=etimad, date=1740563063695
+Row: 48 address=AL-Eatimad, body=╪º╪╡╪»╪º╪▒ ╪╖┘ä╪¿┘è┘ç ╪╣┘ä┘ë ╪¡╪│╪º╪¿┘â┘à ╪¿┘à╪¿┘ä╪║ 5512.0╪┤ ┘ê╪º╪╡╪¿╪¡ ╪▒╪╡┘è╪»┘â┘à  315222.0 ╪┤ ┘ä┘ä╪¬┘ü╪º╪╡┘è┘ä, date=1740563061911
+Row: 49 address=AL-Eatimad, body=http://188.34.164.0/openpdf/report?k=C0A80103:019541993538:9B73:301E9402&c=etimad, date=1740562462001
+Row: 50 address=AL-Eatimad, body=╪º╪╡╪»╪º╪▒ ╪╖┘ä╪¿┘è┘ç ╪╣┘ä┘ë ╪¡╪│╪º╪¿┘â┘à ╪¿┘à╪¿┘ä╪║ 1680.0╪┤ ┘ê╪º╪╡╪¿╪¡ ╪▒╪╡┘è╪»┘â┘à  309710.0 ╪┤ ┘ä┘ä╪¬┘ü╪º╪╡┘è┘ä, date=1740562461525
+Row: 51 address=AL-Eatimad, body=http://188.34.164.0/openpdf/report?k=C0A80105:01954164C98A:B9D0:3FC9E80C&c=etimad, date=1740559115176
+Row: 52 address=AL-Eatimad, body=╪º╪╡╪»╪º╪▒ ╪╖┘ä╪¿┘è┘ç ╪╣┘ä┘ë ╪¡╪│╪º╪¿┘â┘à ╪¿┘à╪¿┘ä╪║ 200.0╪┤ ┘ê╪º╪╡╪¿╪¡ ╪▒╪╡┘è╪»┘â┘à  308030.0 ╪┤ ┘ä┘ä╪¬┘ü╪º╪╡┘è┘ä, date=1740559108177
+Row: 53 address=AL-Eatimad, body=http://188.34.164.0/openpdf/report?k=C0A80105:0195413B5DAA:7256:17D378A0&c=etimad, date=1740556345748
+Row: 54 address=AL-Eatimad, body=╪º╪╡╪»╪º╪▒ ╪╖┘ä╪¿┘è┘ç ╪╣┘ä┘ë ╪¡╪│╪º╪¿┘â┘à ╪¿┘à╪¿┘ä╪║ 100.0╪┤ ┘ê╪º╪╡╪¿╪¡ ╪▒╪╡┘è╪»┘â┘à  307830.0 ╪┤ ┘ä┘ä╪¬┘ü╪º╪╡┘è┘ä, date=1740556343466
+Row: 55 address=AL-Eatimad, body=http://188.34.164.0/openpdf/report?k=C0A80105:019541374B1A:62CF:37AB60AA&c=etimad, date=1740556240384
+Row: 56 address=AL-Eatimad, body=╪º╪╡╪»╪º╪▒ ╪╖┘ä╪¿┘è┘ç ╪╣┘ä┘ë ╪¡╪│╪º╪¿┘â┘à ╪¿┘à╪¿┘ä╪║ 100.0╪┤ ┘ê╪º╪╡╪¿╪¡ ╪▒╪╡┘è╪»┘â┘à  307730.0 ╪┤ ┘ä┘ä╪¬┘ü╪º╪╡┘è┘ä, date=1740556231958
+Row: 57 address=AL-Eatimad, body=http://188.34.164.0/openpdf/report?k=C0A80105:019541313F91:34A0:36DEE985&c=etimad, date=1740555744567
+Row: 58 address=AL-Eatimad, body=╪º╪╡╪»╪º╪▒ ╪╖┘ä╪¿┘è┘ç ╪╣┘ä┘ë ╪¡╪│╪º╪¿┘â┘à ╪¿┘à╪¿┘ä╪║ 120.0╪┤ ┘ê╪º╪╡╪¿╪¡ ╪▒╪╡┘è╪»┘â┘à  307630.0 ╪┤ ┘ä┘ä╪¬┘ü╪º╪╡┘è┘ä, date=1740555744053
+Row: 59 address=AL-Eatimad, body=http://188.34.164.0/openpdf/report?k=C0A80105:019541305175:EA0D:1401D3CB&c=etimad, date=1740555515142
+Row: 60 address=AL-Eatimad, body=╪º╪╡╪»╪º╪▒ ╪╖┘ä╪¿┘è┘ç ╪╣┘ä┘ë ╪¡╪│╪º╪¿┘â┘à ╪¿┘à╪¿┘ä╪║ 122.0╪┤ ┘ê╪º╪╡╪¿╪¡ ╪▒╪╡┘è╪»┘â┘à  307510.0 ╪┤ ┘ä┘ä╪¬┘ü╪º╪╡┘è┘ä, date=1740555506251
+Row: 61 address=AL-Eatimad, body=http://188.34.164.0/openpdf/report?k=C0A80105:0195412AFC5C:36A7:21A65ECB&c=etimad, date=1740555274527
+Row: 62 address=AL-Eatimad, body=╪º╪╡╪»╪º╪▒ ╪╖┘ä╪¿┘è┘ç ╪╣┘ä┘ë ╪¡╪│╪º╪¿┘â┘à ╪¿┘à╪¿┘ä╪║ 970.0╪┤ ┘ê╪º╪╡╪¿╪¡ ╪▒╪╡┘è╪»┘â┘à  307388.0 ╪┤ ┘ä┘ä╪¬┘ü╪º╪╡┘è┘ä, date=1740555267532
+Row: 67 address=AL-Eatimad, body=http://188.34.164.0/openpdf/report?k=C0A80105:01953DB6DA1F:40E3:364DA3AD&c=etimad, date=1740497443724
+Row: 68 address=AL-Eatimad, body=╪º╪╡╪»╪º╪▒ ╪╖┘ä╪¿┘è┘ç ╪╣┘ä┘ë ╪¡╪│╪º╪¿┘â┘à ╪¿┘à╪¿┘ä╪║ 130.0╪┤ ┘ê╪º╪╡╪¿╪¡ ╪▒╪╡┘è╪»┘â┘à  306418.0 ╪┤ ┘ä┘ä╪¬┘ü╪º╪╡┘è┘ä, date=1740497442861
+Row: 69 address=AL-Eatimad, body=http://188.34.164.0/openpdf/report?k=C0A80105:01953DAF0DA3:A95D:2ED743E2&c=etimad, date=1740496878023
+Row: 70 address=AL-Eatimad, body=╪º╪╡╪»╪º╪▒ ╪╖┘ä╪¿┘è┘ç ╪╣┘ä┘ë ╪¡╪│╪º╪¿┘â┘à ╪¿┘à╪¿┘ä╪║ 130.0╪┤ ┘ê╪º╪╡╪¿╪¡ ╪▒╪╡┘è╪»┘â┘à  306288.0 ╪┤ ┘ä┘ä╪¬┘ü╪º╪╡┘è┘ä, date=1740496871019
+Row: 72 address=AL-Eatimad, body=http://188.34.164.0/openpdf/report?k=C0A80105:01953D772A02:E8FE:65F3D8BE&c=etimad, date=1740493245984
+Row: 73 address=AL-Eatimad, body=╪º╪╡╪»╪º╪▒ ╪╖┘ä╪¿┘è┘ç ╪╣┘ä┘ë ╪¡╪│╪º╪¿┘â┘à ╪¿┘à╪¿┘ä╪║ 2826.0╪┤ ┘ê╪º╪╡╪¿╪¡ ╪▒╪╡┘è╪»┘â┘à  306158.0 ╪┤ ┘ä┘ä╪¬┘ü╪º╪╡┘è┘ä, date=1740493242299
+Row: 77 address=AL-Eatimad, body=http://188.34.164.0/openpdf/report?k=C0A80105:01953CD7FD24:5266:0F55A2FF&c=etimad, date=1740482782521
+Row: 78 address=AL-Eatimad, body=╪º╪╡╪»╪º╪▒ ╪╖┘ä╪¿┘è┘ç ╪╣┘ä┘ë ╪¡╪│╪º╪¿┘â┘à ╪¿┘à╪¿┘ä╪║ 957.0╪┤ ┘ê╪º╪╡╪¿╪¡ ╪▒╪╡┘è╪»┘â┘à  303332.0 ╪┤ ┘ä┘ä╪¬┘ü╪º╪╡┘è┘ä, date=1740482781937
+Row: 79 address=AL-Eatimad, body=http://188.34.164.0/openpdf/report?k=C0A80103:01953C85CEB9:0CFA:6B5F6553&c=etimad, date=1740477385842
+Row: 80 address=AL-Eatimad, body=╪º╪╡╪»╪º╪▒ ╪╖┘ä╪¿┘è┘ç ╪╣┘ä┘ë ╪¡╪│╪º╪¿┘â┘à ╪¿┘à╪¿┘ä╪║ 60.0╪┤ ┘ê╪º╪╡╪¿╪¡ ╪▒╪╡┘è╪»┘â┘à  302375.0 ╪┤ ┘ä┘ä╪¬┘ü╪º╪╡┘è┘ä, date=1740477385402
+Row: 82 address=AL-Eatimad, body=┘à╪▒╪¬╪¼╪╣ ╪¿╪╢╪º╪╣╪⌐ ╪╣┘ä┘ë ╪¡╪│╪º╪¿ ╪¼┘à╪º┘ä ╪º┘ä╪¿╪º╪¿╪º ╪¿┘é┘è┘à╪⌐ 610.0 ╪┤┘ê╪º╪╡╪¿╪¡ ╪▒╪╡┘è╪»┘â┘à  302315.0 ╪┤, date=1740471740078
+Row: 83 address=AL-Eatimad, body=http://188.34.164.0/openpdf/report?k=C0A80105:01953C11004E:7DDD:2B6D3FFC&c=etimad, date=1740469591299
+Row: 84 address=AL-Eatimad, body=╪º╪╡╪»╪º╪▒ ╪╖┘ä╪¿┘è┘ç ╪╣┘ä┘ë ╪¡╪│╪º╪¿┘â┘à ╪¿┘à╪¿┘ä╪║ 1733.0╪┤ ┘ê╪º╪╡╪¿╪¡ ╪▒╪╡┘è╪»┘â┘à  302925.0 ╪┤ ┘ä┘ä╪¬┘ü╪º╪╡┘è┘ä, date=1740469582604
+Row: 85 address=AL-Eatimad, body=http://188.34.164.0/openpdf/report?k=C0A80103:01953BF791B1:1596:426F5BD2&c=etimad, date=1740468046431
+Row: 86 address=AL-Eatimad, body=╪º╪╡╪»╪º╪▒ ╪╖┘ä╪¿┘è┘ç ╪╣┘ä┘ë ╪¡╪│╪º╪¿┘â┘à ╪¿┘à╪¿┘ä╪║ 1140.0╪┤ ┘ê╪º╪╡╪¿╪¡ ╪▒╪╡┘è╪»┘â┘à  301192.0 ╪┤ ┘ä┘ä╪¬┘ü╪º╪╡┘è┘ä, date=1740468037814
+Row: 87 address=AL-Eatimad, body=╪º╪╡╪»╪º╪▒ ╪╖┘ä╪¿┘è┘ç ╪╣┘ä┘ë ╪¡╪│╪º╪¿┘â┘à ╪¿┘à╪¿┘ä╪║ 2170.0╪┤ ┘ê╪º╪╡╪¿╪¡ ╪▒╪╡┘è╪»┘â┘à  300052.0 ╪┤ ┘ä┘ä╪¬┘ü╪º╪╡┘è┘ä, date=1740466581959
+Row: 88 address=AL-Eatimad, body=http://188.34.164.0/openpdf/report?k=C0A80105:01953BE173D8:7E7C:10D5978B&c=etimad, date=1740466581254
+Row: 94 address=AL-Eatimad, body=http://188.34.164.0/openpdf/report?k=C0A80105:019538618A32:80A6:635ADC06&c=etimad, date=1740407914205
+Row: 95 address=AL-Eatimad, body=╪º╪╡╪»╪º╪▒ ╪╖┘ä╪¿┘è┘ç ╪╣┘ä┘ë ╪¡╪│╪º╪¿┘â┘à ╪¿┘à╪¿┘ä╪║ 681.0╪┤ ┘ê╪º╪╡╪¿╪¡ ╪▒╪╡┘è╪»┘â┘à  297882.0 ╪┤ ┘ä┘ä╪¬┘ü╪º╪╡┘è┘ä, date=1740407905186
+Row: 97 address=AL-Eatimad, body=http://188.34.164.0/openpdf/report?k=C0A80105:019537B089E0:BD9D:038CC095&c=etimad, date=1740396141936
+Row: 98 address=AL-Eatimad, body=╪º╪╡╪»╪º╪▒ ╪╖┘ä╪¿┘è┘ç ╪╣┘ä┘ë ╪¡╪│╪º╪¿┘â┘à ╪¿┘à╪¿┘ä╪║ 940.0╪┤ ┘ê╪º╪╡╪¿╪¡ ╪▒╪╡┘è╪»┘â┘à  297201.0 ╪┤ ┘ä┘ä╪¬┘ü╪º╪╡┘è┘ä, date=1740396141396
+Row: 100 address=AL-Eatimad, body=http://188.34.164.0/openpdf/report?k=C0A80106:0195371FC76E:81B0:019D5373&c=etimad, date=1740386799589
+Row: 101 address=AL-Eatimad, body=╪º╪╡╪»╪º╪▒ ╪╖┘ä╪¿┘è┘ç ╪╣┘ä┘ë ╪¡╪│╪º╪¿┘â┘à ╪¿┘à╪¿┘ä╪║ 405.0╪┤ ┘ê╪º╪╡╪¿╪¡ ╪▒╪╡┘è╪»┘â┘à  296261.0 ╪┤ ┘ä┘ä╪¬┘ü╪º╪╡┘è┘ä, date=1740386791380
+Row: 104 address=AL-Eatimad, body=http://188.34.164.0/openpdf/report?k=C0A80107:019536C7832E:B79D:636D8059&c=etimad, date=1740380905588
+Row: 105 address=AL-Eatimad, body=╪º╪╡╪»╪º╪▒ ╪╖┘ä╪¿┘è┘ç ╪╣┘ä┘ë ╪¡╪│╪º╪¿┘â┘à ╪¿┘à╪¿┘ä╪║ 220.0╪┤ ┘ê╪º╪╡╪¿╪¡ ╪▒╪╡┘è╪»┘â┘à  295856.0 ╪┤ ┘ä┘ä╪¬┘ü╪º╪╡┘è┘ä, date=1740380904739
+Row: 110 address=AL-Eatimad, body=http://188.34.164.0/openpdf/report?k=C0A80107:019531EDF22C:22D1:0BC67009&c=etimad, date=1740299661133
+Row: 111 address=AL-Eatimad, body=╪º╪╡╪»╪º╪▒ ╪╖┘ä╪¿┘è┘ç ╪╣┘ä┘ë ╪¡╪│╪º╪¿┘â┘à ╪¿┘à╪¿┘ä╪║ 5405.0╪┤ ┘ê╪º╪╡╪¿╪¡ ╪▒╪╡┘è╪»┘â┘à  295636.0 ╪┤ ┘ä┘ä╪¬┘ü╪º╪╡┘è┘ä, date=1740299660594
+Row: 113 address=AL-Eatimad, body=http://188.34.164.0/openpdf/report?k=C0A80106:019531A81F48:A3D3:5D0DE62C&c=etimad, date=1740295110974
+Row: 114 address=AL-Eatimad, body=╪º╪╡╪»╪º╪▒ ╪╖┘ä╪¿┘è┘ç ╪╣┘ä┘ë ╪¡╪│╪º╪¿┘â┘à ╪¿┘à╪¿┘ä╪║ 1780.0╪┤ ┘ê╪º╪╡╪¿╪¡ ╪▒╪╡┘è╪»┘â┘à  290231.0 ╪┤ ┘ä┘ä╪¬┘ü╪º╪╡┘è┘ä, date=1740295102536
+Row: 116 address=AL-Eatimad, body=http://188.34.164.0/openpdf/report?k=C0A80106:01953178FD42:AFE6:617CA9B5&c=etimad, date=1740291985116
+Row: 117 address=AL-Eatimad, body=╪º╪╡╪»╪º╪▒ ╪╖┘ä╪¿┘è┘ç ╪╣┘ä┘ë ╪¡╪│╪º╪¿┘â┘à ╪¿┘à╪¿┘ä╪║ 568.0╪┤ ┘ê╪º╪╡╪¿╪¡ ╪▒╪╡┘è╪»┘â┘à  288451.0 ╪┤ ┘ä┘ä╪¬┘ü╪º╪╡┘è┘ä, date=1740291984256
+Row: 118 address=AL-Eatimad, body=http://188.34.164.0/openpdf/report?k=C0A80107:01952DA34232:8D52:0E28C59D&c=etimad, date=1740227670453
+Row: 119 address=AL-Eatimad, body=╪º╪╡╪»╪º╪▒ ╪╖┘ä╪¿┘è┘ç ╪╣┘ä┘ë ╪¡╪│╪º╪¿┘â┘à ╪¿┘à╪¿┘ä╪║ 425.0╪┤ ┘ê╪º╪╡╪¿╪¡ ╪▒╪╡┘è╪»┘â┘à  287883.0 ╪┤ ┘ä┘ä╪¬┘ü╪º╪╡┘è┘ä, date=1740227661946
+Row: 122 address=AL-Eatimad, body=┘à╪▒╪¬╪¼╪╣ ╪¿╪╢╪º╪╣╪⌐ ╪╣┘ä┘ë ╪¡╪│╪º╪¿ ╪¼┘à╪º┘ä ╪º┘ä╪¿╪º╪¿╪º ╪¿┘é┘è┘à╪⌐ 500.0 ╪┤┘ê╪º╪╡╪¿╪¡ ╪▒╪╡┘è╪»┘â┘à  287458.0 ╪┤, date=1740216502557
+Row: 123 address=AL-Eatimad, body=http://188.34.164.0/openpdf/report?k=C0A80106:01952CF29C73:3AA1:0EB9E660&c=etimad, date=1740216151312
+Row: 124 address=AL-Eatimad, body=╪º╪╡╪»╪º╪▒ ╪╖┘ä╪¿┘è┘ç ╪╣┘ä┘ë ╪¡╪│╪º╪¿┘â┘à ╪¿┘à╪¿┘ä╪║ 512.0╪┤ ┘ê╪º╪╡╪¿╪¡ ╪▒╪╡┘è╪»┘â┘à  287958.0 ╪┤ ┘ä┘ä╪¬┘ü╪º╪╡┘è┘ä, date=1740216142624
+Row: 125 address=AL-Eatimad, body=http://188.34.164.0/openpdf/report?k=C0A80106:01952C610B07:91B6:6CF5819C&c=etimad, date=1740206447857
+Row: 126 address=AL-Eatimad, body=╪º╪╡╪»╪º╪▒ ╪╖┘ä╪¿┘è┘ç ╪╣┘ä┘ë ╪¡╪│╪º╪¿┘â┘à ╪¿┘à╪¿┘ä╪║ 3600.0╪┤ ┘ê╪º╪╡╪¿╪¡ ╪▒╪╡┘è╪»┘â┘à  287446.0 ╪┤ ┘ä┘ä╪¬┘ü╪º╪╡┘è┘ä, date=1740206440527
+Row: 127 address=AL-Eatimad, body=http://188.34.164.0/openpdf/report?k=C0A80106:01952C59F92A:354E:536BBF38&c=etimad, date=1740206109677
+Row: 128 address=AL-Eatimad, body=╪º╪╡╪»╪º╪▒ ╪╖┘ä╪¿┘è┘ç ╪╣┘ä┘ë ╪¡╪│╪º╪¿┘â┘à ╪¿┘à╪¿┘ä╪║ 750.0╪┤ ┘ê╪º╪╡╪¿╪¡ ╪▒╪╡┘è╪»┘â┘à  283846.0 ╪┤ ┘ä┘ä╪¬┘ü╪º╪╡┘è┘ä, date=1740206109079
+Row: 137 address=AL-Eatimad, body=http://188.34.164.0/openpdf/report?k=C0A80107:019523344B23:F47C:61AF7E1C&c=etimad, date=1740052591548
+Row: 138 address=AL-Eatimad, body=╪º╪╡╪»╪º╪▒ ╪╖┘ä╪¿┘è┘ç ╪╣┘ä┘ë ╪¡╪│╪º╪¿┘â┘à ╪¿┘à╪¿┘ä╪║ 440.0╪┤ ┘ê╪º╪╡╪¿╪¡ ╪▒╪╡┘è╪»┘â┘à  283096.0 ╪┤ ┘ä┘ä╪¬┘ü╪º╪╡┘è┘ä, date=1740052583040
+Row: 139 address=AL-Eatimad, body=http://188.34.164.0/openpdf/report?k=C0A80107:01952307B411:9BFB:139F8552&c=etimad, date=1740049591982
+Row: 140 address=AL-Eatimad, body=╪º╪╡╪»╪º╪▒ ╪╖┘ä╪¿┘è┘ç ╪╣┘ä┘ë ╪¡╪│╪º╪¿┘â┘à ╪¿┘à╪¿┘ä╪║ 80.0╪┤ ┘ê╪º╪╡╪¿╪¡ ╪▒╪╡┘è╪»┘â┘à  282656.0 ╪┤ ┘ä┘ä╪¬┘ü╪º╪╡┘è┘ä, date=1740049585038
+Row: 147 address=AL-Eatimad, body=http://188.34.164.0/openpdf/report?k=C0A80107:0195223058F4:DB90:6ABC6ED1&c=etimad, date=1740035473506
+Row: 148 address=AL-Eatimad, body=╪º╪╡╪»╪º╪▒ ╪╖┘ä╪¿┘è┘ç ╪╣┘ä┘ë ╪¡╪│╪º╪¿┘â┘à ╪¿┘à╪¿┘ä╪║ 2460.0╪┤ ┘ê╪º╪╡╪¿╪¡ ╪▒╪╡┘è╪»┘â┘à  282576.0 ╪┤ ┘ä┘ä╪¬┘ü╪º╪╡┘è┘ä, date=1740035472944
+Row: 149 address=AL-Eatimad, body=http://188.34.164.0/openpdf/report?k=C0A80106:019522225310:43EB:219A6C19&c=etimad, date=1740034591590
+Row: 150 address=AL-Eatimad, body=╪º╪╡╪»╪º╪▒ ╪╖┘ä╪¿┘è┘ç ╪╣┘ä┘ë ╪¡╪│╪º╪¿┘â┘à ╪¿┘à╪¿┘ä╪║ 230.0╪┤ ┘ê╪º╪╡╪¿╪¡ ╪▒╪╡┘è╪»┘â┘à  280116.0 ╪┤ ┘ä┘ä╪¬┘ü╪º╪╡┘è┘ä, date=1740034582568
+Row: 151 address=AL-Eatimad, body=http://188.34.164.0/openpdf/report?k=C0A80106:019522162D3C:BCF8:76B00580&c=etimad, date=1740033864200
+Row: 152 address=AL-Eatimad, body=╪º╪╡╪»╪º╪▒ ╪╖┘ä╪¿┘è┘ç ╪╣┘ä┘ë ╪¡╪│╪º╪¿┘â┘à ╪¿┘à╪¿┘ä╪║ 83.0╪┤ ┘ê╪º╪╡╪¿╪¡ ╪▒╪╡┘è╪»┘â┘à  279886.0 ╪┤ ┘ä┘ä╪¬┘ü╪º╪╡┘è┘ä, date=1740033863714
+Row: 163 address=AL-Eatimad, body=http://188.34.164.0/openpdf/report?k=C0A80106:01951E636824:3E03:7FFE02B2&c=etimad, date=1739971841667
+Row: 164 address=AL-Eatimad, body=╪º╪╡╪»╪º╪▒ ╪╖┘ä╪¿┘è┘ç ╪╣┘ä┘ë ╪¡╪│╪º╪¿┘â┘à ╪¿┘à╪¿┘ä╪║ 950.0╪┤ ┘ê╪º╪╡╪¿╪¡ ╪▒╪╡┘è╪»┘â┘à  279803.0 ╪┤ ┘ä┘ä╪¬┘ü╪º╪╡┘è┘ä, date=1739971837353
+Row: 167 address=AL-Eatimad, body=╪º╪╡╪»╪º╪▒ ╪╖┘ä╪¿┘è┘ç ╪╣┘ä┘ë ╪¡╪│╪º╪¿┘â┘à ╪¿┘à╪¿┘ä╪║ 3260.0╪┤ ┘ê╪º╪╡╪¿╪¡ ╪▒╪╡┘è╪»┘â┘à  278853.0 ╪┤ ┘ä┘ä╪¬┘ü╪º╪╡┘è┘ä, date=1739957181651
+Row: 168 address=AL-Eatimad, body=http://188.34.164.0/openpdf/report?k=C0A80107:01951D85B7F8:C901:5B430461&c=etimad, date=1739957180721
+Row: 169 address=AL-Eatimad, body=http://188.34.164.0/openpdf/report?k=C0A80106:01951D7708D3:8E63:6DFD4D26&c=etimad, date=1739956340618
+Row: 170 address=AL-Eatimad, body=╪º╪╡╪»╪º╪▒ ╪╖┘ä╪¿┘è┘ç ╪╣┘ä┘ë ╪¡╪│╪º╪¿┘â┘à ╪¿┘à╪¿┘ä╪║ 116.0╪┤ ┘ê╪º╪╡╪¿╪¡ ╪▒╪╡┘è╪»┘â┘à  275593.0 ╪┤ ┘ä┘ä╪¬┘ü╪º╪╡┘è┘ä, date=1739956339931
+Row: 171 address=AL-Eatimad, body=http://188.34.164.0/openpdf/report?k=C0A80107:01951D47F59C:26A4:6C2592BB&c=etimad, date=1739953232509
+Row: 172 address=AL-Eatimad, body=╪º╪╡╪»╪º╪▒ ╪╖┘ä╪¿┘è┘ç ╪╣┘ä┘ë ╪¡╪│╪º╪¿┘â┘à ╪¿┘à╪¿┘ä╪║ 1575.0╪┤ ┘ê╪º╪╡╪¿╪¡ ╪▒╪╡┘è╪»┘â┘à  275477.0 ╪┤ ┘ä┘ä╪¬┘ü╪º╪╡┘è┘ä, date=1739953231750
+Row: 173 address=AL-Eatimad, body=http://188.34.164.0/openpdf/report?k=C0A80107:01951CEA99CD:6203:5D1C0FAD&c=etimad, date=1739947121064
+Row: 174 address=AL-Eatimad, body=╪º╪╡╪»╪º╪▒ ╪╖┘ä╪¿┘è┘ç ╪╣┘ä┘ë ╪¡╪│╪º╪¿┘â┘à ╪¿┘à╪¿┘ä╪║ 460.0╪┤ ┘ê╪º╪╡╪¿╪¡ ╪▒╪╡┘è╪»┘â┘à  273902.0 ╪┤ ┘ä┘ä╪¬┘ü╪º╪╡┘è┘ä, date=1739947111406
+Row: 178 address=AL-Eatimad, body=http://188.34.164.0/openpdf/report?k=C0A80107:01951860CFF4:A54F:12A401C4&c=etimad, date=1739871030592
+Row: 179 address=AL-Eatimad, body=╪º╪╡╪»╪º╪▒ ╪╖┘ä╪¿┘è┘ç ╪╣┘ä┘ë ╪¡╪│╪º╪¿┘â┘à ╪¿┘à╪¿┘ä╪║ 1100.0╪┤ ┘ê╪º╪╡╪¿╪¡ ╪▒╪╡┘è╪»┘â┘à  273442.0 ╪┤ ┘ä┘ä╪¬┘ü╪º╪╡┘è┘ä, date=1739871030012
+Row: 181 address=AL-Eatimad, body=http://188.34.164.0/openpdf/report?k=C0A80108:0195182409B2:4DD5:2B7FF00F&c=etimad, date=1739866941229
+Row: 182 address=AL-Eatimad, body=╪º╪╡╪»╪º╪▒ ╪╖┘ä╪¿┘è┘ç ╪╣┘ä┘ë ╪¡╪│╪º╪¿┘â┘à ╪¿┘à╪¿┘ä╪║ 1290.0╪┤ ┘ê╪º╪╡╪¿╪¡ ╪▒╪╡┘è╪»┘â┘à  272342.0 ╪┤ ┘ä┘ä╪¬┘ü╪º╪╡┘è┘ä, date=1739866940488
+Row: 192 address=AL-Eatimad, body=http://188.34.164.0/openpdf/report?k=C0A80108:019517E794D8:2C1B:07C6F9E5&c=etimad, date=1739862983176
+Row: 193 address=AL-Eatimad, body=╪º╪╡╪»╪º╪▒ ╪╖┘ä╪¿┘è┘ç ╪╣┘ä┘ë ╪¡╪│╪º╪¿┘â┘à ╪¿┘à╪¿┘ä╪║ 655.0╪┤ ┘ê╪º╪╡╪¿╪¡ ╪▒╪╡┘è╪»┘â┘à  271052.0 ╪┤ ┘ä┘ä╪¬┘ü╪º╪╡┘è┘ä, date=1739862982703
+Row: 200 address=AL-Eatimad, body=http://188.34.164.0/openpdf/report?k=C0A80107:019514B438B3:372E:2EDE3EE8&c=etimad, date=1739809343339
+Row: 201 address=AL-Eatimad, body=╪º╪╡╪»╪º╪▒ ╪╖┘ä╪¿┘è┘ç ╪╣┘ä┘ë ╪¡╪│╪º╪¿┘â┘à ╪¿┘à╪¿┘ä╪║ 1815.0╪┤ ┘ê╪º╪╡╪¿╪¡ ╪▒╪╡┘è╪»┘â┘à  270397.0 ╪┤ ┘ä┘ä╪¬┘ü╪º╪╡┘è┘ä, date=1739809341509
+Row: 205 address=AL-Eatimad, body=╪º╪╡╪»╪º╪▒ ╪╖┘ä╪¿┘è┘ç ╪╣┘ä┘ë ╪¡╪│╪º╪¿┘â┘à ╪¿┘à╪¿┘ä╪║ 130.0╪┤ ┘ê╪º╪╡╪¿╪¡ ╪▒╪╡┘è╪»┘â┘à  268582.0 ╪┤ ┘ä┘ä╪¬┘ü╪º╪╡┘è┘ä, date=1739795745751
+Row: 206 address=AL-Eatimad, body=http://188.34.164.0/openpdf/report?k=C0A80164:019513E1011B:D4EF:1D3E2C73&c=etimad, date=1739795744658
+Row: 207 address=AL-Eatimad, body=http://188.34.164.0/openpdf/report?k=C0A80108:01951386DB51:EB9B:5D27C3F5&c=etimad, date=1739789859163
+Row: 208 address=AL-Eatimad, body=╪º╪╡╪»╪º╪▒ ╪╖┘ä╪¿┘è┘ç ╪╣┘ä┘ë ╪¡╪│╪º╪¿┘â┘à ╪¿┘à╪¿┘ä╪║ 4395.0╪┤ ┘ê╪º╪╡╪¿╪¡ ╪▒╪╡┘è╪»┘â┘à  268452.0 ╪┤ ┘ä┘ä╪¬┘ü╪º╪╡┘è┘ä, date=1739789857286
+Row: 212 address=AL-Eatimad, body=http://188.34.164.0/openpdf/report?k=C0A80107:019513443C8D:2F23:35F6B886&c=etimad, date=1739785240228
+Row: 213 address=AL-Eatimad, body=╪º╪╡╪»╪º╪▒ ╪╖┘ä╪¿┘è┘ç ╪╣┘ä┘ë ╪¡╪│╪º╪¿┘â┘à ╪¿┘à╪¿┘ä╪║ 380.0╪┤ ┘ê╪º╪╡╪¿╪¡ ╪▒╪╡┘è╪»┘â┘à  264057.0 ╪┤ ┘ä┘ä╪¬┘ü╪º╪╡┘è┘ä, date=1739785235237
+Row: 214 address=AL-Eatimad, body=http://188.34.164.0/openpdf/report?k=C0A80107:01951320F691:2B24:1FDD369E&c=etimad, date=1739782945709
+Row: 215 address=AL-Eatimad, body=╪º╪╡╪»╪º╪▒ ╪╖┘ä╪¿┘è┘ç ╪╣┘ä┘ë ╪¡╪│╪º╪¿┘â┘à ╪¿┘à╪¿┘ä╪║ 2950.0╪┤ ┘ê╪º╪╡╪¿╪¡ ╪▒╪╡┘è╪»┘â┘à  263677.0 ╪┤ ┘ä┘ä╪¬┘ü╪º╪╡┘è┘ä, date=1739782943834
+Row: 216 address=AL-Eatimad, body=http://188.34.164.0/openpdf/report?k=C0A80107:019512C1F0F6:4340:433D62F4&c=etimad, date=1739776704103
+Row: 217 address=AL-Eatimad, body=╪º╪╡╪»╪º╪▒ ╪╖┘ä╪¿┘è┘ç ╪╣┘ä┘ë ╪¡╪│╪º╪¿┘â┘à ╪¿┘à╪¿┘ä╪║ 1170.0╪┤ ┘ê╪º╪╡╪¿╪¡ ╪▒╪╡┘è╪»┘â┘à  260727.0 ╪┤ ┘ä┘ä╪¬┘ü╪º╪╡┘è┘ä, date=1739776701795
+Row: 218 address=AL-Eatimad, body=http://188.34.164.0/openpdf/report?k=C0A80107:019512A3B886:F03C:27F6793F&c=etimad, date=1739774661633
+Row: 219 address=AL-Eatimad, body=╪º╪╡╪»╪º╪▒ ╪╖┘ä╪¿┘è┘ç ╪╣┘ä┘ë ╪¡╪│╪º╪¿┘â┘à ╪¿┘à╪¿┘ä╪║ 1855.0╪┤ ┘ê╪º╪╡╪¿╪¡ ╪▒╪╡┘è╪»┘â┘à  259557.0 ╪┤ ┘ä┘ä╪¬┘ü╪º╪╡┘è┘ä, date=1739774661047
+Row: 220 address=AL-Eatimad, body=http://188.34.164.0/openpdf/report?k=C0A80108:019512A37DB0:EF14:310BE48D&c=etimad, date=1739774660387
+Row: 221 address=AL-Eatimad, body=╪º╪╡╪»╪º╪▒ ╪╖┘ä╪¿┘è┘ç ╪╣┘ä┘ë ╪¡╪│╪º╪¿┘â┘à ╪¿┘à╪¿┘ä╪║ 275.0╪┤ ┘ê╪º╪╡╪¿╪¡ ╪▒╪╡┘è╪»┘â┘à  259557.0 ╪┤ ┘ä┘ä╪¬┘ü╪º╪╡┘è┘ä, date=1739774658980
+Row: 224 address=AL-Eatimad, body=http://188.34.164.0/openpdf/report?k=C0A80108:01950E535A1F:EA7B:42E49DE4&c=etimad, date=1739702303488
+Row: 225 address=AL-Eatimad, body=╪º╪╡╪»╪º╪▒ ╪╖┘ä╪¿┘è┘ç ╪╣┘ä┘ë ╪¡╪│╪º╪¿┘â┘à ╪¿┘à╪¿┘ä╪║ 90.0╪┤ ┘ê╪º╪╡╪¿╪¡ ╪▒╪╡┘è╪»┘â┘à  257427.0 ╪┤ ┘ä┘ä╪¬┘ü╪º╪╡┘è┘ä, date=1739702301211
+Row: 228 address=AL-Eatimad, body=http://188.34.164.0/openpdf/report?k=C0A80107:01950DACA2CE:F9AE:5F2CAC7F&c=etimad, date=1739691263365
+Row: 229 address=AL-Eatimad, body=╪º╪╡╪»╪º╪▒ ╪╖┘ä╪¿┘è┘ç ╪╣┘ä┘ë ╪¡╪│╪º╪¿┘â┘à ╪¿┘à╪¿┘ä╪║ 300.0╪┤ ┘ê╪º╪╡╪¿╪¡ ╪▒╪╡┘è╪»┘â┘à  257337.0 ╪┤ ┘ä┘ä╪¬┘ü╪º╪╡┘è┘ä, date=1739691260764
+Row: 230 address=AL-Eatimad, body=http://188.34.164.0/openpdf/report?k=C0A80108:01950D8E0208:FE9D:5372ECDB&c=etimad, date=1739689417765
+Row: 231 address=AL-Eatimad, body=╪º╪╡╪»╪º╪▒ ╪╖┘ä╪¿┘è┘ç ╪╣┘ä┘ë ╪¡╪│╪º╪¿┘â┘à ╪¿┘à╪¿┘ä╪║ 435.0╪┤ ┘ê╪º╪╡╪¿╪¡ ╪▒╪╡┘è╪»┘â┘à  257037.0 ╪┤ ┘ä┘ä╪¬┘ü╪º╪╡┘è┘ä, date=1739689417044
+Row: 232 address=AL-Eatimad, body=http://188.34.164.0/openpdf/report?k=C0A80108:01950D58BC62:5711:1B2DA251&c=etimad, date=1739685859359
+Row: 233 address=AL-Eatimad, body=╪º╪╡╪»╪º╪▒ ╪╖┘ä╪¿┘è┘ç ╪╣┘ä┘ë ╪¡╪│╪º╪¿┘â┘à ╪¿┘à╪¿┘ä╪║ 580.0╪┤ ┘ê╪º╪╡╪¿╪¡ ╪▒╪╡┘è╪»┘â┘à  256602.0 ╪┤ ┘ä┘ä╪¬┘ü╪º╪╡┘è┘ä, date=1739685858282
+Row: 234 address=AL-Eatimad, body=╪▒╪╡┘è╪»┘â┘à ┘ä╪║╪º┘è╪⌐  15/2/2025┘ç┘ê 256022.0 ╪┤  ┘ä┘ä┘à╪▒╪º╪¼╪╣┘ç022409006.┘å╪╣╪¬╪▓ ╪¿╪½┘é╪¬┘â┘à ., date=1739640468597
+Row: 239 address=AL-Eatimad, body=http://188.34.164.0/openpdf/report?k=C0A80107:019509863B3F:D41B:6EA67DEA&c=etimad, date=1739621782105
+Row: 240 address=AL-Eatimad, body=╪º╪╡╪»╪º╪▒ ╪╖┘ä╪¿┘è┘ç ╪╣┘ä┘ë ╪¡╪│╪º╪¿┘â┘à ╪¿┘à╪¿┘ä╪║ 80.0╪┤ ┘ê╪º╪╡╪¿╪¡ ╪▒╪╡┘è╪»┘â┘à  256022.0 ╪┤ ┘ä┘ä╪¬┘ü╪º╪╡┘è┘ä, date=1739621781236
+Row: 247 address=AL-Eatimad, body=http://188.34.164.0/openpdf/report?k=C0A80108:0195085CE052:6CD7:132F4D17&c=etimad, date=1739602344320
+Row: 248 address=AL-Eatimad, body=╪º╪╡╪»╪º╪▒ ╪╖┘ä╪¿┘è┘ç ╪╣┘ä┘ë ╪¡╪│╪º╪¿┘â┘à ╪¿┘à╪¿┘ä╪║ 3680.0╪┤ ┘ê╪º╪╡╪¿╪¡ ╪▒╪╡┘è╪»┘â┘à  255942.0 ╪┤ ┘ä┘ä╪¬┘ü╪º╪╡┘è┘ä, date=1739602343516
+Row: 250 address=AL-Eatimad, body=http://188.34.164.0/openpdf/report?k=C0A80107:01950839DCB1:541E:716F09B1&c=etimad, date=1739600063991
+Row: 251 address=AL-Eatimad, body=╪º╪╡╪»╪º╪▒ ╪╖┘ä╪¿┘è┘ç ╪╣┘ä┘ë ╪¡╪│╪º╪¿┘â┘à ╪¿┘à╪¿┘ä╪║ 320.0╪┤ ┘ê╪º╪╡╪¿╪¡ ╪▒╪╡┘è╪»┘â┘à  252262.0 ╪┤ ┘ä┘ä╪¬┘ü╪º╪╡┘è┘ä, date=1739600062260
+Row: 261 address=AL-Eatimad, body=╪º╪╡╪»╪º╪▒ ╪╖┘ä╪¿┘è┘ç ╪╣┘ä┘ë ╪¡╪│╪º╪¿┘â┘à ╪¿┘à╪¿┘ä╪║ 440.0╪┤ ┘ê╪º╪╡╪¿╪¡ ╪▒╪╡┘è╪»┘â┘à  251942.0 ╪┤ ┘ä┘ä╪¬┘ü╪º╪╡┘è┘ä, date=1739442645040
+Row: 262 address=AL-Eatimad, body=http://188.34.164.0/openpdf/report?k=C0A80107:0194FED87AE4:67CD:05979532&c=etimad, date=1739442633804
+Row: 263 address=AL-Eatimad, body=http://188.34.164.0/openpdf/report?k=C0A80107:0194FE51D07A:2E72:4806BA47&c=etimad, date=1739433745467
+Row: 264 address=AL-Eatimad, body=╪º╪╡╪»╪º╪▒ ╪╖┘ä╪¿┘è┘ç ╪╣┘ä┘ë ╪¡╪│╪º╪¿┘â┘à ╪¿┘à╪¿┘ä╪║ 220.0╪┤ ┘ê╪º╪╡╪¿╪¡ ╪▒╪╡┘è╪»┘â┘à  251502.0 ╪┤ ┘ä┘ä╪¬┘ü╪º╪╡┘è┘ä, date=1739433744759
+Row: 265 address=AL-Eatimad, body=http://188.34.164.0/openpdf/report?k=C0A80107:0194FE0A4770:1642:1DDFA639&c=etimad, date=1739429071444
+Row: 266 address=AL-Eatimad, body=╪º╪╡╪»╪º╪▒ ╪╖┘ä╪¿┘è┘ç ╪╣┘ä┘ë ╪¡╪│╪º╪¿┘â┘à ╪¿┘à╪¿┘ä╪║ 430.0╪┤ ┘ê╪º╪╡╪¿╪¡ ╪▒╪╡┘è╪»┘â┘à  251282.0 ╪┤ ┘ä┘ä╪¬┘ü╪º╪╡┘è┘ä, date=1739429062301
+Row: 267 address=AL-Eatimad, body=http://188.34.164.0/openpdf/report?k=C0A80108:0194FDEB6F13:6148:620F1D94&c=etimad, date=1739427030079
+Row: 268 address=AL-Eatimad, body=╪º╪╡╪»╪º╪▒ ╪╖┘ä╪¿┘è┘ç ╪╣┘ä┘ë ╪¡╪│╪º╪¿┘â┘à ╪¿┘à╪¿┘ä╪║ 280.0╪┤ ┘ê╪º╪╡╪¿╪¡ ╪▒╪╡┘è╪»┘â┘à  250852.0 ╪┤ ┘ä┘ä╪¬┘ü╪º╪╡┘è┘ä, date=1739427028971
+Row: 269 address=AL-Eatimad, body=http://188.34.164.0/openpdf/report?k=C0A80108:0194F99B3247:2AD6:2F8AD941&c=etimad, date=1739354661754
+Row: 270 address=AL-Eatimad, body=╪º╪╡╪»╪º╪▒ ╪╖┘ä╪¿┘è┘ç ╪╣┘ä┘ë ╪¡╪│╪º╪¿┘â┘à ╪¿┘à╪¿┘ä╪║ 330.0╪┤ ┘ê╪º╪╡╪¿╪¡ ╪▒╪╡┘è╪»┘â┘à  250572.0 ╪┤ ┘ä┘ä╪¬┘ü╪º╪╡┘è┘ä, date=1739354661182
+Row: 271 address=AL-Eatimad, body=http://188.34.164.0/openpdf/report?k=C0A80108:0194F92B41D3:B774:7C977CD2&c=etimad, date=1739347529193
+Row: 272 address=AL-Eatimad, body=╪º╪╡╪»╪º╪▒ ╪╖┘ä╪¿┘è┘ç ╪╣┘ä┘ë ╪¡╪│╪º╪¿┘â┘à ╪¿┘à╪¿┘ä╪║ 660.0╪┤ ┘ê╪º╪╡╪¿╪¡ ╪▒╪╡┘è╪»┘â┘à  250242.0 ╪┤ ┘ä┘ä╪¬┘ü╪º╪╡┘è┘ä, date=1739347528407
+Row: 273 address=AL-Eatimad, body=http://188.34.164.0/openpdf/report?k=C0A80107:0194F8E9E185:3DF9:15A1E713&c=etimad, date=1739343029539
+Row: 274 address=AL-Eatimad, body=╪º╪╡╪»╪º╪▒ ╪╖┘ä╪¿┘è┘ç ╪╣┘ä┘ë ╪¡╪│╪º╪¿┘â┘à ╪¿┘à╪¿┘ä╪║ 440.0╪┤ ┘ê╪º╪╡╪¿╪¡ ╪▒╪╡┘è╪»┘â┘à  249582.0 ╪┤ ┘ä┘ä╪¬┘ü╪º╪╡┘è┘ä, date=1739343028283
+Row: 278 address=AL-Eatimad, body=http://188.34.164.0/openpdf/report?k=C0A80108:0194F4CF439A:115D:566066BC&c=etimad, date=1739274267103
+Row: 279 address=AL-Eatimad, body=╪º╪╡╪»╪º╪▒ ╪╖┘ä╪¿┘è┘ç ╪╣┘ä┘ë ╪¡╪│╪º╪¿┘â┘à ╪¿┘à╪¿┘ä╪║ 3220.0╪┤ ┘ê╪º╪╡╪¿╪¡ ╪▒╪╡┘è╪»┘â┘à  249142.0 ╪┤ ┘ä┘ä╪¬┘ü╪º╪╡┘è┘ä, date=1739274264563
+Row: 281 address=AL-Eatimad, body=http://188.34.164.0/openpdf/report?k=C0A80108:0194F4412DAB:95A0:419336A2&c=etimad, date=1739264902829
+Row: 282 address=AL-Eatimad, body=╪º╪╡╪»╪º╪▒ ╪╖┘ä╪¿┘è┘ç ╪╣┘ä┘ë ╪¡╪│╪º╪¿┘â┘à ╪¿┘à╪¿┘ä╪║ 380.0╪┤ ┘ê╪º╪╡╪¿╪¡ ╪▒╪╡┘è╪»┘â┘à  245922.0 ╪┤ ┘ä┘ä╪¬┘ü╪º╪╡┘è┘ä, date=1739264900734
+Row: 283 address=AL-Eatimad, body=http://188.34.164.0/openpdf/report?k=C0A80107:0194F42CD423:D3DF:6D8E1067&c=etimad, date=1739263461194
+Row: 284 address=AL-Eatimad, body=╪º╪╡╪»╪º╪▒ ╪╖┘ä╪¿┘è┘ç ╪╣┘ä┘ë ╪¡╪│╪º╪¿┘â┘à ╪¿┘à╪¿┘ä╪║ 100.0╪┤ ┘ê╪º╪╡╪¿╪¡ ╪▒╪╡┘è╪»┘â┘à  245542.0 ╪┤ ┘ä┘ä╪¬┘ü╪º╪╡┘è┘ä, date=1739263460538
+Row: 286 address=AL-Eatimad, body=http://188.34.164.0/openpdf/report?k=C0A80107:0194F3BCB8B1:004D:21E8DF74&c=etimad, date=1739256263441
+Row: 287 address=AL-Eatimad, body=╪º╪╡╪»╪º╪▒ ╪╖┘ä╪¿┘è┘ç ╪╣┘ä┘ë ╪¡╪│╪º╪¿┘â┘à ╪¿┘à╪¿┘ä╪║ 130.0╪┤ ┘ê╪º╪╡╪¿╪¡ ╪▒╪╡┘è╪»┘â┘à  245442.0 ╪┤ ┘ä┘ä╪¬┘ü╪º╪╡┘è┘ä, date=1739256261330
+Row: 288 address=AL-Eatimad, body=http://188.34.164.0/openpdf/report?k=C0A80107:0194F3B3B0B7:78B6:3D2EADD8&c=etimad, date=1739255665317
+Row: 289 address=AL-Eatimad, body=╪º╪╡╪»╪º╪▒ ╪╖┘ä╪¿┘è┘ç ╪╣┘ä┘ë ╪¡╪│╪º╪¿┘â┘à ╪¿┘à╪¿┘ä╪║ 50.0╪┤ ┘ê╪º╪╡╪¿╪¡ ╪▒╪╡┘è╪»┘â┘à  245312.0 ╪┤ ┘ä┘ä╪¬┘ü╪º╪╡┘è┘ä, date=1739255662837
+Row: 290 address=AL-Eatimad, body=http://188.34.164.0/openpdf/report?k=C0A80108:0194F39E249F:5743:41D8B59E&c=etimad, date=1739254147069
+Row: 291 address=AL-Eatimad, body=╪º╪╡╪»╪º╪▒ ╪╖┘ä╪¿┘è┘ç ╪╣┘ä┘ë ╪¡╪│╪º╪¿┘â┘à ╪¿┘à╪¿┘ä╪║ 2706.0╪┤ ┘ê╪º╪╡╪¿╪¡ ╪▒╪╡┘è╪»┘â┘à  245262.0 ╪┤ ┘ä┘ä╪¬┘ü╪º╪╡┘è┘ä, date=1739254146007
+Row: 298 address=AL-Eatimad, body=http://188.34.164.0/openpdf/report?k=C0A80108:0194EFE41172:4E8C:713B8601&c=etimad, date=1739191838162
+Row: 299 address=AL-Eatimad, body=╪º╪╡╪»╪º╪▒ ╪╖┘ä╪¿┘è┘ç ╪╣┘ä┘ë ╪¡╪│╪º╪¿┘â┘à ╪¿┘à╪¿┘ä╪║ 20.0╪┤ ┘ê╪º╪╡╪¿╪¡ ╪▒╪╡┘è╪»┘â┘à  242556.0 ╪┤ ┘ä┘ä╪¬┘ü╪º╪╡┘è┘ä, date=1739191837583
+Row: 310 address=AL-Eatimad, body=http://188.34.164.0/openpdf/report?k=C0A80107:0194EAAB8FDA:31A1:0852AF2A&c=etimad, date=1739103988780
+Row: 311 address=AL-Eatimad, body=╪º╪╡╪»╪º╪▒ ╪╖┘ä╪¿┘è┘ç ╪╣┘ä┘ë ╪¡╪│╪º╪¿┘â┘à ╪¿┘à╪¿┘ä╪║ 1600.0╪┤ ┘ê╪º╪╡╪¿╪¡ ╪▒╪╡┘è╪»┘â┘à  242536.0 ╪┤ ┘ä┘ä╪¬┘ü╪º╪╡┘è┘ä, date=1739103987953
+Row: 312 address=AL-Eatimad, body=http://188.34.164.0/openpdf/report?k=C0A80107:0194EAA1DD72:4475:6C3F1057&c=etimad, date=1739103498971
+Row: 313 address=AL-Eatimad, body=╪º╪╡╪»╪º╪▒ ╪╖┘ä╪¿┘è┘ç ╪╣┘ä┘ë ╪¡╪│╪º╪¿┘â┘à ╪¿┘à╪¿┘ä╪║ 126.0╪┤ ┘ê╪º╪╡╪¿╪¡ ╪▒╪╡┘è╪»┘â┘à  240936.0 ╪┤ ┘ä┘ä╪¬┘ü╪º╪╡┘è┘ä, date=1739103497976
+Row: 316 address=AL-Eatimad, body=╪º╪╡╪»╪º╪▒ ╪╖┘ä╪¿┘è┘ç ╪╣┘ä┘ë ╪¡╪│╪º╪¿┘â┘à ╪¿┘à╪¿┘ä╪║ 520.0╪┤ ┘ê╪º╪╡╪¿╪¡ ╪▒╪╡┘è╪»┘â┘à  240810.0 ╪┤ ┘ä┘ä╪¬┘ü╪º╪╡┘è┘ä, date=1739094381067
+Row: 317 address=AL-Eatimad, body=http://188.34.164.0/openpdf/report?k=C0A80107:0194EA168B76:171C:32DC6908&c=etimad, date=1739094380056
+Row: 319 address=AL-Eatimad, body=http://188.34.164.0/openpdf/report?k=C0A80108:0194E9EC260A:3E4E:04B6EA39&c=etimad, date=1739091502765
+Row: 320 address=AL-Eatimad, body=╪º╪╡╪»╪º╪▒ ╪╖┘ä╪¿┘è┘ç ╪╣┘ä┘ë ╪¡╪│╪º╪¿┘â┘à ╪¿┘à╪¿┘ä╪║ 120.0╪┤ ┘ê╪º╪╡╪¿╪¡ ╪▒╪╡┘è╪»┘â┘à  240290.0 ╪┤ ┘ä┘ä╪¬┘ü╪º╪╡┘è┘ä, date=1739091500849
+Row: 323 address=AL-Eatimad, body=╪º╪╡╪»╪º╪▒ ╪╖┘ä╪¿┘è┘ç ╪╣┘ä┘ë ╪¡╪│╪º╪¿┘â┘à ╪¿┘à╪¿┘ä╪║ 2300.0╪┤ ┘ê╪º╪╡╪¿╪¡ ╪▒╪╡┘è╪»┘â┘à  240170.0 ╪┤ ┘ä┘ä╪¬┘ü╪º╪╡┘è┘ä, date=1739084779243
+Row: 324 address=AL-Eatimad, body=http://188.34.164.0/openpdf/report?k=C0A80108:0194E986DE8D:7009:733CF3F5&c=etimad, date=1739084778505
+Row: 326 address=AL-Eatimad, body=http://188.34.164.0/openpdf/report?k=C0A80108:0194E9540ED4:E113:44FC37C7&c=etimad, date=1739081660051
+Row: 327 address=AL-Eatimad, body=╪º╪╡╪»╪º╪▒ ╪╖┘ä╪¿┘è┘ç ╪╣┘ä┘ë ╪¡╪│╪º╪¿┘â┘à ╪¿┘à╪¿┘ä╪║ 1126.0╪┤ ┘ê╪º╪╡╪¿╪¡ ╪▒╪╡┘è╪»┘â┘à  237870.0 ╪┤ ┘ä┘ä╪¬┘ü╪º╪╡┘è┘ä, date=1739081659342
+Row: 331 address=AL-Eatimad, body=http://188.34.164.0/openpdf/report?k=C0A80108:0194E45F9F76:58CE:4DAC92D1&c=etimad, date=1738998396853
+Row: 332 address=AL-Eatimad, body=╪º╪╡╪»╪º╪▒ ╪╖┘ä╪¿┘è┘ç ╪╣┘ä┘ë ╪¡╪│╪º╪¿┘â┘à ╪¿┘à╪¿┘ä╪║ 45.0╪┤ ┘ê╪º╪╡╪¿╪¡ ╪▒╪╡┘è╪»┘â┘à  236744.0 ╪┤ ┘ä┘ä╪¬┘ü╪º╪╡┘è┘ä, date=1738998396175
+Row: 333 address=AL-Eatimad, body=http://188.34.164.0/openpdf/report?k=C0A80107:0194E45B4B94:868C:7AB73896&c=etimad, date=1738998363974
+Row: 334 address=AL-Eatimad, body=╪º╪╡╪»╪º╪▒ ╪╖┘ä╪¿┘è┘ç ╪╣┘ä┘ë ╪¡╪│╪º╪¿┘â┘à ╪¿┘à╪¿┘ä╪║ 140.0╪┤ ┘ê╪º╪╡╪¿╪¡ ╪▒╪╡┘è╪»┘â┘à  236699.0 ╪┤ ┘ä┘ä╪¬┘ü╪º╪╡┘è┘ä, date=1738998363285
+Row: 335 address=AL-Eatimad, body=http://188.34.164.0/openpdf/report?k=C0A80108:0194E4477B9D:674F:2879B87E&c=etimad, date=1738996944959
+Row: 336 address=AL-Eatimad, body=╪º╪╡╪»╪º╪▒ ╪╖┘ä╪¿┘è┘ç ╪╣┘ä┘ë ╪¡╪│╪º╪¿┘â┘à ╪¿┘à╪¿┘ä╪║ 50.0╪┤ ┘ê╪º╪╡╪¿╪¡ ╪▒╪╡┘è╪»┘â┘à  236559.0 ╪┤ ┘ä┘ä╪¬┘ü╪º╪╡┘è┘ä, date=1738996942269
+Row: 337 address=AL-Eatimad, body=http://188.34.164.0/openpdf/report?k=C0A80107:0194E407C6C6:0B01:6B889C23&c=etimad, date=1738992745942
+Row: 338 address=AL-Eatimad, body=╪º╪╡╪»╪º╪▒ ╪╖┘ä╪¿┘è┘ç ╪╣┘ä┘ë ╪¡╪│╪º╪¿┘â┘à ╪¿┘à╪¿┘ä╪║ 175.0╪┤ ┘ê╪º╪╡╪¿╪¡ ╪▒╪╡┘è╪»┘â┘à  236509.0 ╪┤ ┘ä┘ä╪¬┘ü╪º╪╡┘è┘ä, date=1738992744099
+Row: 340 address=AL-Eatimad, body=┘à╪▒╪¬╪¼╪╣ ╪¿╪╢╪º╪╣╪⌐ ╪╣┘ä┘ë ╪¡╪│╪º╪¿ ╪¼┘à╪º┘ä ╪º┘ä╪¿╪º╪¿╪º ╪¿┘é┘è┘à╪⌐ 833.0 ╪┤┘ê╪º╪╡╪¿╪¡ ╪▒╪╡┘è╪»┘â┘à  236334.0 ╪┤, date=1738857500400
+Row: 343 address=AL-Eatimad, body=http://188.34.164.0/openpdf/report?k=C0A80108:0194DAACE0F9:9445:46F873BE&c=etimad, date=1738835781748
+Row: 344 address=AL-Eatimad, body=╪º╪╡╪»╪º╪▒ ╪╖┘ä╪¿┘è┘ç ╪╣┘ä┘ë ╪¡╪│╪º╪¿┘â┘à ╪¿┘à╪¿┘ä╪║ 40.0╪┤ ┘ê╪º╪╡╪¿╪¡ ╪▒╪╡┘è╪»┘â┘à  237167.0 ╪┤ ┘ä┘ä╪¬┘ü╪º╪╡┘è┘ä, date=1738835780808
+Row: 346 address=AL-Eatimad, body=http://188.34.164.0/openpdf/report?k=C0A80108:0194DA1489D0:DA78:021078AB&c=etimad, date=1738826939715
+Row: 347 address=AL-Eatimad, body=╪º╪╡╪»╪º╪▒ ╪╖┘ä╪¿┘è┘ç ╪╣┘ä┘ë ╪¡╪│╪º╪¿┘â┘à ╪¿┘à╪¿┘ä╪║ 230.0╪┤ ┘ê╪º╪╡╪¿╪¡ ╪▒╪╡┘è╪»┘â┘à  237127.0 ╪┤ ┘ä┘ä╪¬┘ü╪º╪╡┘è┘ä, date=1738826938772
+Row: 348 address=AL-Eatimad, body=http://188.34.164.0/openpdf/report?k=C0A80107:0194D9FB335C:2BDC:3856B89E&c=etimad, date=1738824338433
+Row: 349 address=AL-Eatimad, body=╪º╪╡╪»╪º╪▒ ╪╖┘ä╪¿┘è┘ç ╪╣┘ä┘ë ╪¡╪│╪º╪¿┘â┘à ╪¿┘à╪¿┘ä╪║ 100.0╪┤ ┘ê╪º╪╡╪¿╪¡ ╪▒╪╡┘è╪»┘â┘à  236897.0 ╪┤ ┘ä┘ä╪¬┘ü╪º╪╡┘è┘ä, date=1738824337454
+Row: 350 address=AL-Eatimad, body=http://188.34.164.0/openpdf/report?k=C0A80107:0194D9F9D496:B248:576A30F4&c=etimad, date=1738824336289
+Row: 351 address=AL-Eatimad, body=╪º╪╡╪»╪º╪▒ ╪╖┘ä╪¿┘è┘ç ╪╣┘ä┘ë ╪¡╪│╪º╪¿┘â┘à ╪¿┘à╪¿┘ä╪║ 2580.0╪┤ ┘ê╪º╪╡╪¿╪¡ ╪▒╪╡┘è╪»┘â┘à  236897.0 ╪┤ ┘ä┘ä╪¬┘ü╪º╪╡┘è┘ä, date=1738824335804
+Row: 352 address=AL-Eatimad, body=http://188.34.164.0/openpdf/report?k=C0A80107:0194D9E9F6A0:2961:718181DC&c=etimad, date=1738822941035
+Row: 353 address=AL-Eatimad, body=╪º╪╡╪»╪º╪▒ ╪╖┘ä╪¿┘è┘ç ╪╣┘ä┘ë ╪¡╪│╪º╪¿┘â┘à ╪¿┘à╪¿┘ä╪║ 445.0╪┤ ┘ê╪º╪╡╪¿╪¡ ╪▒╪╡┘è╪»┘â┘à  234217.0 ╪┤ ┘ä┘ä╪¬┘ü╪º╪╡┘è┘ä, date=1738822939343
+Row: 358 address=AL-Eatimad, body=http://188.34.164.0/openpdf/report?k=C0A80108:0194D570C24E:2517:618C25D1&c=etimad, date=1738747942382
+Row: 359 address=AL-Eatimad, body=╪º╪╡╪»╪º╪▒ ╪╖┘ä╪¿┘è┘ç ╪╣┘ä┘ë ╪¡╪│╪º╪¿┘â┘à ╪¿┘à╪¿┘ä╪║ 40.0╪┤ ┘ê╪º╪╡╪¿╪¡ ╪▒╪╡┘è╪»┘â┘à  233772.0 ╪┤ ┘ä┘ä╪¬┘ü╪º╪╡┘è┘ä, date=1738747941633
+Row: 360 address=AL-Eatimad, body=http://188.34.164.0/openpdf/report?k=C0A80107:0194D53A865B:33CD:04CB5570&c=etimad, date=1738744462117
+Row: 361 address=AL-Eatimad, body=╪º╪╡╪»╪º╪▒ ╪╖┘ä╪¿┘è┘ç ╪╣┘ä┘ë ╪¡╪│╪º╪¿┘â┘à ╪¿┘à╪¿┘ä╪║ 305.0╪┤ ┘ê╪º╪╡╪¿╪¡ ╪▒╪╡┘è╪»┘â┘à  233732.0 ╪┤ ┘ä┘ä╪¬┘ü╪º╪╡┘è┘ä, date=1738744459397
+Row: 368 address=AL-Eatimad, body=http://188.34.164.0/openpdf/report?k=C0A80107:0194D18FA656:749E:1D42A338&c=etimad, date=1738682780938
+Row: 369 address=AL-Eatimad, body=╪º╪╡╪»╪º╪▒ ╪╖┘ä╪¿┘è┘ç ╪╣┘ä┘ë ╪¡╪│╪º╪¿┘â┘à ╪¿┘à╪¿┘ä╪║ 110.0╪┤ ┘ê╪º╪╡╪¿╪¡ ╪▒╪╡┘è╪»┘â┘à  233427.0 ╪┤ ┘ä┘ä╪¬┘ü╪º╪╡┘è┘ä, date=1738682779807
+Row: 371 address=AL-Eatimad, body=http://188.34.164.0/openpdf/report?k=C0A80107:0194D097215C:782E:5FE6C62A&c=etimad, date=1738666581528
+Row: 372 address=AL-Eatimad, body=╪º╪╡╪»╪º╪▒ ╪╖┘ä╪¿┘è┘ç ╪╣┘ä┘ë ╪¡╪│╪º╪¿┘â┘à ╪¿┘à╪¿┘ä╪║ 800.0╪┤ ┘ê╪º╪╡╪¿╪¡ ╪▒╪╡┘è╪»┘â┘à  233317.0 ╪┤ ┘ä┘ä╪¬┘ü╪º╪╡┘è┘ä, date=1738666580385
+Row: 373 address=AL-Eatimad, body=http://188.34.164.0/openpdf/report?k=C0A80108:0194D05CD55C:C5B4:18334C89&c=etimad, date=1738662748962
+Row: 374 address=AL-Eatimad, body=╪º╪╡╪»╪º╪▒ ╪╖┘ä╪¿┘è┘ç ╪╣┘ä┘ë ╪¡╪│╪º╪¿┘â┘à ╪¿┘à╪¿┘ä╪║ 4490.0╪┤ ┘ê╪º╪╡╪¿╪¡ ╪▒╪╡┘è╪»┘â┘à  232517.0 ╪┤ ┘ä┘ä╪¬┘ü╪º╪╡┘è┘ä, date=1738662740581
+Row: 375 address=AL-Eatimad, body=http://188.34.164.0/openpdf/report?k=C0A80107:0194D0424E80:DB18:7DE1BC9B&c=etimad, date=1738661069332
+Row: 376 address=AL-Eatimad, body=╪º╪╡╪»╪º╪▒ ╪╖┘ä╪¿┘è┘ç ╪╣┘ä┘ë ╪¡╪│╪º╪¿┘â┘à ╪¿┘à╪¿┘ä╪║ 55.0╪┤ ┘ê╪º╪╡╪¿╪¡ ╪▒╪╡┘è╪»┘â┘à  228027.0 ╪┤ ┘ä┘ä╪¬┘ü╪º╪╡┘è┘ä, date=1738661058875
+Row: 377 address=AL-Eatimad, body=http://188.34.164.0/openpdf/report?k=C0A80107:0194D03A754F:3925:70CC7D16&c=etimad, date=1738660580693
+Row: 378 address=AL-Eatimad, body=╪º╪╡╪»╪º╪▒ ╪╖┘ä╪¿┘è┘ç ╪╣┘ä┘ë ╪¡╪│╪º╪¿┘â┘à ╪¿┘à╪¿┘ä╪║ 920.0╪┤ ┘ê╪º╪╡╪¿╪¡ ╪▒╪╡┘è╪»┘â┘à  227972.0 ╪┤ ┘ä┘ä╪¬┘ü╪º╪╡┘è┘ä, date=1738660579406
+Row: 379 address=AL-Eatimad, body=http://188.34.164.0/openpdf/report?k=C0A80108:0194CFC26DA7:9F60:70E9BE63&c=etimad, date=1738652659943
+Row: 380 address=AL-Eatimad, body=╪º╪╡╪»╪º╪▒ ╪╖┘ä╪¿┘è┘ç ╪╣┘ä┘ë ╪¡╪│╪º╪¿┘â┘à ╪¿┘à╪¿┘ä╪║ 4105.0╪┤ ┘ê╪º╪╡╪¿╪¡ ╪▒╪╡┘è╪»┘â┘à  227052.0 ╪┤ ┘ä┘ä╪¬┘ü╪º╪╡┘è┘ä, date=1738652658569
+Row: 382 address=AL-Eatimad, body=http://188.34.164.0/openpdf/report?k=C0A80108:0194CB5AD273:4982:77FB19EF&c=etimad, date=1738578751497
+Row: 383 address=AL-Eatimad, body=╪º╪╡╪»╪º╪▒ ╪╖┘ä╪¿┘è┘ç ╪╣┘ä┘ë ╪¡╪│╪º╪¿┘â┘à ╪¿┘à╪¿┘ä╪║ 508.0╪┤ ┘ê╪º╪╡╪¿╪¡ ╪▒╪╡┘è╪»┘â┘à  222947.0 ╪┤ ┘ä┘ä╪¬┘ü╪º╪╡┘è┘ä, date=1738578748405
+Row: 384 address=AL-Eatimad, body=http://188.34.164.0/openpdf/report?k=C0A80107:0194CB302AEC:09B2:18500BD9&c=etimad, date=1738575868189
+Row: 385 address=AL-Eatimad, body=╪º╪╡╪»╪º╪▒ ╪╖┘ä╪¿┘è┘ç ╪╣┘ä┘ë ╪¡╪│╪º╪¿┘â┘à ╪¿┘à╪¿┘ä╪║ 280.0╪┤ ┘ê╪º╪╡╪¿╪¡ ╪▒╪╡┘è╪»┘â┘à  222439.0 ╪┤ ┘ä┘ä╪¬┘ü╪º╪╡┘è┘ä, date=1738575866768
+Row: 389 address=AL-Eatimad, body=http://188.34.164.0/openpdf/report?k=C0A80107:0194CACF991A:A2F5:73183A7C&c=etimad, date=1738569503859
+Row: 390 address=AL-Eatimad, body=╪º╪╡╪»╪º╪▒ ╪╖┘ä╪¿┘è┘ç ╪╣┘ä┘ë ╪¡╪│╪º╪¿┘â┘à ╪¿┘à╪¿┘ä╪║ 40.0╪┤ ┘ê╪º╪╡╪¿╪¡ ╪▒╪╡┘è╪»┘â┘à  222159.0 ╪┤ ┘ä┘ä╪¬┘ü╪º╪╡┘è┘ä, date=1738569501418
+Row: 392 address=AL-Eatimad, body=http://188.34.164.0/openpdf/report?k=C0A80107:0194C71CB985:D095:3AB12ACE&c=etimad, date=1738507468387
+Row: 393 address=AL-Eatimad, body=╪º╪╡╪»╪º╪▒ ╪╖┘ä╪¿┘è┘ç ╪╣┘ä┘ë ╪¡╪│╪º╪¿┘â┘à ╪¿┘à╪¿┘ä╪║ 30.0╪┤ ┘ê╪º╪╡╪¿╪¡ ╪▒╪╡┘è╪»┘â┘à  222119.0 ╪┤ ┘ä┘ä╪¬┘ü╪º╪╡┘è┘ä, date=1738507466238
+Row: 395 address=AL-Eatimad, body=╪┤┘â╪▒╪º ┘ä╪│╪»╪º╪» ┘à╪¿┘ä╪║20000.0 ╪┤┘ê╪º╪╡╪¿╪¡ ╪▒╪╡┘è╪»┘â┘à  222089.0 ╪┤, date=1738486841084
+Row: 398 address=AL-Eatimad, body=http://188.34.164.0/openpdf/report?k=C0A80107:0194C55FB86E:EDF8:1324B120&c=etimad, date=1738478300897
+Row: 399 address=AL-Eatimad, body=╪º╪╡╪»╪º╪▒ ╪╖┘ä╪¿┘è┘ç ╪╣┘ä┘ë ╪¡╪│╪º╪¿┘â┘à ╪¿┘à╪¿┘ä╪║ 6396.0╪┤ ┘ê╪º╪╡╪¿╪¡ ╪▒╪╡┘è╪»┘â┘à  242089.0 ╪┤ ┘ä┘ä╪¬┘ü╪º╪╡┘è┘ä, date=1738478300094
+Row: 403 address=AL-Eatimad, body=http://188.34.164.0/openpdf/report?k=C0A8016B:0194C2417C78:B3B0:6BB6439B&c=etimad, date=1738426106347
+Row: 404 address=AL-Eatimad, body=╪º╪╡╪»╪º╪▒ ╪╖┘ä╪¿┘è┘ç ╪╣┘ä┘ë ╪¡╪│╪º╪¿┘â┘à ╪¿┘à╪¿┘ä╪║ 580.0╪┤ ┘ê╪º╪╡╪¿╪¡ ╪▒╪╡┘è╪»┘â┘à  235693.0 ╪┤ ┘ä┘ä╪¬┘ü╪º╪╡┘è┘ä, date=1738426103410
+Row: 406 address=AL-Eatimad, body=http://188.34.164.0/openpdf/report?k=C0A80107:0194C0C48310:2CA2:3AFF1E9B&c=etimad, date=1738401034330
+Row: 407 address=AL-Eatimad, body=╪º╪╡╪»╪º╪▒ ╪╖┘ä╪¿┘è┘ç ╪╣┘ä┘ë ╪¡╪│╪º╪¿┘â┘à ╪¿┘à╪¿┘ä╪║ 115.0╪┤ ┘ê╪º╪╡╪¿╪¡ ╪▒╪╡┘è╪»┘â┘à  235113.0 ╪┤ ┘ä┘ä╪¬┘ü╪º╪╡┘è┘ä, date=1738401032851
+Row: 409 address=AL-Eatimad, body=╪▒╪╡┘è╪»┘â┘à ┘ä╪║╪º┘è╪⌐  30/1/2025┘ç┘ê 234998.0 ╪┤  ┘ä┘ä┘à╪▒╪º╪¼╪╣┘ç022409006.┘å╪╣╪¬╪▓ ╪¿╪½┘é╪¬┘â┘à ., date=1738256846738
+Row: 412 address=AL-Eatimad, body=http://188.34.164.0/openpdf/report?k=C0A80107:0194B6501F07:7BD1:25501161&c=etimad, date=1738225835542
+Row: 413 address=AL-Eatimad, body=╪º╪╡╪»╪º╪▒ ╪╖┘ä╪¿┘è┘ç ╪╣┘ä┘ë ╪¡╪│╪º╪¿┘â┘à ╪¿┘à╪¿┘ä╪║ 920.0╪┤ ┘ê╪º╪╡╪¿╪¡ ╪▒╪╡┘è╪»┘â┘à  234998.0 ╪┤ ┘ä┘ä╪¬┘ü╪º╪╡┘è┘ä, date=1738225834544
+Row: 417 address=AL-Eatimad, body=http://188.34.164.0/openpdf/report?k=C0A80107:0194B6044E95:ABE8:1FBCCF9C&c=etimad, date=1738220664420
+Row: 418 address=AL-Eatimad, body=╪º╪╡╪»╪º╪▒ ╪╖┘ä╪¿┘è┘ç ╪╣┘ä┘ë ╪¡╪│╪º╪¿┘â┘à ╪¿┘à╪¿┘ä╪║ 637.0╪┤ ┘ê╪º╪╡╪¿╪¡ ╪▒╪╡┘è╪»┘â┘à  234078.0 ╪┤ ┘ä┘ä╪¬┘ü╪º╪╡┘è┘ä, date=1738220662010
+Row: 419 address=AL-Eatimad, body=http://188.34.164.0/openpdf/report?k=C0A80107:0194B5F4511A:4ACD:349A6BD0&c=etimad, date=1738219588242
+Row: 420 address=AL-Eatimad, body=╪º╪╡╪»╪º╪▒ ╪╖┘ä╪¿┘è┘ç ╪╣┘ä┘ë ╪¡╪│╪º╪¿┘â┘à ╪¿┘à╪¿┘ä╪║ 102.0╪┤ ┘ê╪º╪╡╪¿╪¡ ╪▒╪╡┘è╪»┘â┘à  233441.0 ╪┤ ┘ä┘ä╪¬┘ü╪º╪╡┘è┘ä, date=1738219585886
+Row: 424 address=AL-Eatimad, body=http://188.34.164.0/openpdf/report?k=C0A80108:0194B1B8704E:0060:4F235E34&c=etimad, date=1738148559828
+Row: 425 address=AL-Eatimad, body=╪º╪╡╪»╪º╪▒ ╪╖┘ä╪¿┘è┘ç ╪╣┘ä┘ë ╪¡╪│╪º╪¿┘â┘à ╪¿┘à╪¿┘ä╪║ 120.0╪┤ ┘ê╪º╪╡╪¿╪¡ ╪▒╪╡┘è╪»┘â┘à  233339.0 ╪┤ ┘ä┘ä╪¬┘ü╪º╪╡┘è┘ä, date=1738148558329
+Row: 426 address=AL-Eatimad, body=╪º╪╡╪»╪º╪▒ ╪╖┘ä╪¿┘è┘ç ╪╣┘ä┘ë ╪¡╪│╪º╪¿┘â┘à ╪¿┘à╪¿┘ä╪║ 628.0╪┤ ┘ê╪º╪╡╪¿╪¡ ╪▒╪╡┘è╪»┘â┘à  233219.0 ╪┤ ┘ä┘ä╪¬┘ü╪º╪╡┘è┘ä, date=1738148311951
+Row: 427 address=AL-Eatimad, body=http://188.34.164.0/openpdf/report?k=C0A80107:0194B1B4A3C5:0959:49794200&c=etimad, date=1738148311280
+Row: 429 address=AL-Eatimad, body=http://188.34.164.0/openpdf/report?k=C0A80107:0194B17BFF9D:EBFE:4B2C4470&c=etimad, date=1738144710522
+Row: 430 address=AL-Eatimad, body=╪º╪╡╪»╪º╪▒ ╪╖┘ä╪¿┘è┘ç ╪╣┘ä┘ë ╪¡╪│╪º╪¿┘â┘à ╪¿┘à╪¿┘ä╪║ 960.0╪┤ ┘ê╪º╪╡╪¿╪¡ ╪▒╪╡┘è╪»┘â┘à  232591.0 ╪┤ ┘ä┘ä╪¬┘ü╪º╪╡┘è┘ä, date=1738144708971
+Row: 432 address=AL-Eatimad, body=http://188.34.164.0/openpdf/report?k=C0A80107:0194AC594127:CC3D:1A76F406&c=etimad, date=1738058672258
+Row: 433 address=AL-Eatimad, body=╪º╪╡╪»╪º╪▒ ╪╖┘ä╪¿┘è┘ç ╪╣┘ä┘ë ╪¡╪│╪º╪¿┘â┘à ╪¿┘à╪¿┘ä╪║ 110.0╪┤ ┘ê╪º╪╡╪¿╪¡ ╪▒╪╡┘è╪»┘â┘à  231631.0 ╪┤ ┘ä┘ä╪¬┘ü╪º╪╡┘è┘ä, date=1738058669647
+Row: 436 address=AL-Eatimad, body=http://188.34.164.0/openpdf/report?k=C0A80107:0194AC2E2FA2:C375:6372EABB&c=etimad, date=1738055662937
+Row: 437 address=AL-Eatimad, body=╪º╪╡╪»╪º╪▒ ╪╖┘ä╪¿┘è┘ç ╪╣┘ä┘ë ╪¡╪│╪º╪¿┘â┘à ╪¿┘à╪¿┘ä╪║ 1191.0╪┤ ┘ê╪º╪╡╪¿╪¡ ╪▒╪╡┘è╪»┘â┘à  231521.0 ╪┤ ┘ä┘ä╪¬┘ü╪º╪╡┘è┘ä, date=1738055662014
+Row: 439 address=AL-Eatimad, body=http://188.34.164.0/openpdf/report?k=C0A80107:0194AB90EE5F:D7C2:7CE0D73D&c=etimad, date=1738045348224
+Row: 440 address=AL-Eatimad, body=╪º╪╡╪»╪º╪▒ ╪╖┘ä╪¿┘è┘ç ╪╣┘ä┘ë ╪¡╪│╪º╪¿┘â┘à ╪¿┘à╪¿┘ä╪║ 145.0╪┤ ┘ê╪º╪╡╪¿╪¡ ╪▒╪╡┘è╪»┘â┘à  230330.0 ╪┤ ┘ä┘ä╪¬┘ü╪º╪╡┘è┘ä, date=1738045346066
+Row: 443 address=AL-Eatimad, body=http://188.34.164.0/openpdf/report?k=C0A80108:0194A7FB2B30:0899:7A4F8041&c=etimad, date=1737985346179
+Row: 444 address=AL-Eatimad, body=╪º╪╡╪»╪º╪▒ ╪╖┘ä╪¿┘è┘ç ╪╣┘ä┘ë ╪¡╪│╪º╪¿┘â┘à ╪¿┘à╪¿┘ä╪║ 440.0╪┤ ┘ê╪º╪╡╪¿╪¡ ╪▒╪╡┘è╪»┘â┘à  230185.0 ╪┤ ┘ä┘ä╪¬┘ü╪º╪╡┘è┘ä, date=1737985344446
+Row: 447 address=AL-Eatimad, body=http://188.34.164.0/openpdf/report?k=C0A80107:0194A719CF27:1865:71F5DCBB&c=etimad, date=1737970641868
+Row: 448 address=AL-Eatimad, body=╪º╪╡╪»╪º╪▒ ╪╖┘ä╪¿┘è┘ç ╪╣┘ä┘ë ╪¡╪│╪º╪¿┘â┘à ╪¿┘à╪¿┘ä╪║ 105.0╪┤ ┘ê╪º╪╡╪¿╪¡ ╪▒╪╡┘è╪»┘â┘à  229745.0 ╪┤ ┘ä┘ä╪¬┘ü╪º╪╡┘è┘ä, date=1737970641230
+Row: 449 address=AL-Eatimad, body=http://188.34.164.0/openpdf/report?k=C0A80107:0194A716824F:FBEB:1C32B33C&c=etimad, date=1737970640682
+Row: 450 address=AL-Eatimad, body=╪º╪╡╪»╪º╪▒ ╪╖┘ä╪¿┘è┘ç ╪╣┘ä┘ë ╪¡╪│╪º╪¿┘â┘à ╪¿┘à╪¿┘ä╪║ 340.0╪┤ ┘ê╪º╪╡╪¿╪¡ ╪▒╪╡┘è╪»┘â┘à  229640.0 ╪┤ ┘ä┘ä╪¬┘ü╪º╪╡┘è┘ä, date=1737970639484
+Row: 456 address=AL-Eatimad, body=http://188.34.164.0/openpdf/report?k=C0A80108:0194A689A668:3808:2EF4B319&c=etimad, date=1737961104589
+Row: 457 address=AL-Eatimad, body=╪º╪╡╪»╪º╪▒ ╪╖┘ä╪¿┘è┘ç ╪╣┘ä┘ë ╪¡╪│╪º╪¿┘â┘à ╪¿┘à╪¿┘ä╪║ 938.0╪┤ ┘ê╪º╪╡╪¿╪¡ ╪▒╪╡┘è╪»┘â┘à  229300.0 ╪┤ ┘ä┘ä╪¬┘ü╪º╪╡┘è┘ä, date=1737961103861
+Row: 469 address=AL-Eatimad, body=http://188.34.164.0/openpdf/report?k=C0A80108:0194A2D5D9A0:B9F2:7958A144&c=etimad, date=1737898835557
+Row: 470 address=AL-Eatimad, body=╪º╪╡╪»╪º╪▒ ╪╖┘ä╪¿┘è┘ç ╪╣┘ä┘ë ╪¡╪│╪º╪¿┘â┘à ╪¿┘à╪¿┘ä╪║ 185.0╪┤ ┘ê╪º╪╡╪¿╪¡ ╪▒╪╡┘è╪»┘â┘à  228362.0 ╪┤ ┘ä┘ä╪¬┘ü╪º╪╡┘è┘ä, date=1737898834020
+Row: 471 address=AL-Eatimad, body=╪º╪╡╪»╪º╪▒ ╪╖┘ä╪¿┘è┘ç ╪╣┘ä┘ë ╪¡╪│╪º╪¿┘â┘à ╪¿┘à╪¿┘ä╪║ 940.0╪┤ ┘ê╪º╪╡╪¿╪¡ ╪▒╪╡┘è╪»┘â┘à  228177.0 ╪┤ ┘ä┘ä╪¬┘ü╪º╪╡┘è┘ä, date=1737891184183
+Row: 472 address=AL-Eatimad, body=http://188.34.164.0/openpdf/report?k=C0A80107:0194A25E4D7C:6186:5A30BBDA&c=etimad, date=1737891183140
+Row: 475 address=AL-Eatimad, body=http://188.34.164.0/openpdf/report?k=C0A80108:0194A1A439A8:4A6F:633972CD&c=etimad, date=1737878786586
+Row: 476 address=AL-Eatimad, body=╪º╪╡╪»╪º╪▒ ╪╖┘ä╪¿┘è┘ç ╪╣┘ä┘ë ╪¡╪│╪º╪¿┘â┘à ╪¿┘à╪¿┘ä╪║ 140.0╪┤ ┘ê╪º╪╡╪¿╪¡ ╪▒╪╡┘è╪»┘â┘à  227237.0 ╪┤ ┘ä┘ä╪¬┘ü╪º╪╡┘è┘ä, date=1737878785901
+Row: 485 address=AL-Eatimad, body=╪º╪╡╪»╪º╪▒ ╪╖┘ä╪¿┘è┘ç ╪╣┘ä┘ë ╪¡╪│╪º╪¿┘â┘à ╪¿┘à╪¿┘ä╪║ 820.0╪┤ ┘ê╪º╪╡╪¿╪¡ ╪▒╪╡┘è╪»┘â┘à  227097.0 ╪┤ ┘ä┘ä╪¬┘ü╪º╪╡┘è┘ä, date=1737794444548
+Row: 486 address=AL-Eatimad, body=http://188.34.164.0/openpdf/report?k=C0A80108:01949C9CE5C6:2E1C:4A12E0B4&c=etimad, date=1737794439807
+Row: 488 address=AL-Eatimad, body=http://188.34.164.0/openpdf/report?k=C0A80107:01949C3E24F5:EB59:095D3A7E&c=etimad, date=1737788303177
+Row: 489 address=AL-Eatimad, body=╪º╪╡╪»╪º╪▒ ╪╖┘ä╪¿┘è┘ç ╪╣┘ä┘ë ╪¡╪│╪º╪¿┘â┘à ╪¿┘à╪¿┘ä╪║ 859.0╪┤ ┘ê╪º╪╡╪¿╪¡ ╪▒╪╡┘è╪»┘â┘à  226277.0 ╪┤ ┘ä┘ä╪¬┘ü╪º╪╡┘è┘ä, date=1737788302502
+Row: 490 address=AL-Eatimad, body=http://188.34.164.0/openpdf/report?k=C0A80108:01949C3A56DE:DE99:1B643F8D&c=etimad, date=1737787951449
+Row: 491 address=AL-Eatimad, body=╪º╪╡╪»╪º╪▒ ╪╖┘ä╪¿┘è┘ç ╪╣┘ä┘ë ╪¡╪│╪º╪¿┘â┘à ╪¿┘à╪¿┘ä╪║ 220.0╪┤ ┘ê╪º╪╡╪¿╪¡ ╪▒╪╡┘è╪»┘â┘à  225418.0 ╪┤ ┘ä┘ä╪¬┘ü╪º╪╡┘è┘ä, date=1737787943179
+Row: 492 address=AL-Eatimad, body=http://188.34.164.0/openpdf/report?k=C0A80108:01949C2C7A25:7025:287D0E70&c=etimad, date=1737787107198
+Row: 493 address=AL-Eatimad, body=╪º╪╡╪»╪º╪▒ ╪╖┘ä╪¿┘è┘ç ╪╣┘ä┘ë ╪¡╪│╪º╪¿┘â┘à ╪¿┘à╪¿┘ä╪║ 6246.0╪┤ ┘ê╪º╪╡╪¿╪¡ ╪▒╪╡┘è╪»┘â┘à  225198.0 ╪┤ ┘ä┘ä╪¬┘ü╪º╪╡┘è┘ä, date=1737787105156
+Row: 507 address=AL-Eatimad, body=http://188.34.164.0/openpdf/report?k=C0A80108:0194925BA0D1:4976:3CDFBB53&c=etimad, date=1737622471048
+Row: 508 address=AL-Eatimad, body=╪º╪╡╪»╪º╪▒ ╪╖┘ä╪¿┘è┘ç ╪╣┘ä┘ë ╪¡╪│╪º╪¿┘â┘à ╪¿┘à╪¿┘ä╪║ 120.0╪┤ ┘ê╪º╪╡╪¿╪¡ ╪▒╪╡┘è╪»┘â┘à  218952.0 ╪┤ ┘ä┘ä╪¬┘ü╪º╪╡┘è┘ä, date=1737622468068
+Row: 511 address=AL-Eatimad, body=http://188.34.164.0/openpdf/report?k=C0A8016B:01948EC0E395:4ADA:67C07361&c=etimad, date=1737561989602
+Row: 512 address=AL-Eatimad, body=╪º╪╡╪»╪º╪▒ ╪╖┘ä╪¿┘è┘ç ╪╣┘ä┘ë ╪¡╪│╪º╪¿┘â┘à ╪¿┘à╪¿┘ä╪║ 45.0╪┤ ┘ê╪º╪╡╪¿╪¡ ╪▒╪╡┘è╪»┘â┘à  218832.0 ╪┤ ┘ä┘ä╪¬┘ü╪º╪╡┘è┘ä, date=1737561986364
+Row: 514 address=AL-Eatimad, body=http://188.34.164.0/openpdf/report?k=C0A80107:01948DF7D71F:EB8F:1E25F26E&c=etimad, date=1737548788195
+Row: 515 address=AL-Eatimad, body=╪º╪╡╪»╪º╪▒ ╪╖┘ä╪¿┘è┘ç ╪╣┘ä┘ë ╪¡╪│╪º╪¿┘â┘à ╪¿┘à╪¿┘ä╪║ 318.0╪┤ ┘ê╪º╪╡╪¿╪¡ ╪▒╪╡┘è╪»┘â┘à  218787.0 ╪┤ ┘ä┘ä╪¬┘ü╪º╪╡┘è┘ä, date=1737548785983
+Row: 518 address=AL-Eatimad, body=http://188.34.164.0/openpdf/report?k=C0A80107:01948D461191:2EEC:7A012964&c=etimad, date=1737538469909
+Row: 519 address=AL-Eatimad, body=╪º╪╡╪»╪º╪▒ ╪╖┘ä╪¿┘è┘ç ╪╣┘ä┘ë ╪¡╪│╪º╪¿┘â┘à ╪¿┘à╪¿┘ä╪║ 600.0╪┤ ┘ê╪º╪╡╪¿╪¡ ╪▒╪╡┘è╪»┘â┘à  218469.0 ╪┤ ┘ä┘ä╪¬┘ü╪º╪╡┘è┘ä, date=1737538468524
+Row: 520 address=AL-Eatimad, body=http://188.34.164.0/openpdf/report?k=C0A80107:01948CCE0BA6:C4CC:1BA27FE5&c=etimad, date=1737538465705
+Row: 521 address=AL-Eatimad, body=╪º╪╡╪»╪º╪▒ ╪╖┘ä╪¿┘è┘ç ╪╣┘ä┘ë ╪¡╪│╪º╪¿┘â┘à ╪¿┘à╪¿┘ä╪║ 530.0╪┤ ┘ê╪º╪╡╪¿╪¡ ╪▒╪╡┘è╪»┘â┘à  218469.0 ╪┤ ┘ä┘ä╪¬┘ü╪º╪╡┘è┘ä, date=1737538464718
+Row: 526 address=AL-Eatimad, body=http://188.34.164.0/openpdf/report?k=C0A80107:019487EE3F9E:D2A0:5D5AFC6D&c=etimad, date=1737447645937
+Row: 527 address=AL-Eatimad, body=╪º╪╡╪»╪º╪▒ ╪╖┘ä╪¿┘è┘ç ╪╣┘ä┘ë ╪¡╪│╪º╪¿┘â┘à ╪¿┘à╪¿┘ä╪║ 35.0╪┤ ┘ê╪º╪╡╪¿╪¡ ╪▒╪╡┘è╪»┘â┘à  217339.0 ╪┤ ┘ä┘ä╪¬┘ü╪º╪╡┘è┘ä, date=1737447642267
+Row: 528 address=AL-Eatimad, body=http://188.34.164.0/openpdf/report?k=C0A80107:019487C95623:6022:673F8FB0&c=etimad, date=1737445110458
+Row: 529 address=AL-Eatimad, body=╪º╪╡╪»╪º╪▒ ╪╖┘ä╪¿┘è┘ç ╪╣┘ä┘ë ╪¡╪│╪º╪¿┘â┘à ╪¿┘à╪¿┘ä╪║ 1230.0╪┤ ┘ê╪º╪╡╪¿╪¡ ╪▒╪╡┘è╪»┘â┘à  217304.0 ╪┤ ┘ä┘ä╪¬┘ü╪º╪╡┘è┘ä, date=1737445109133
+Row: 530 address=AL-Eatimad, body=http://188.34.164.0/openpdf/report?k=C0A80107:019487740217:263D:7542E73A&c=etimad, date=1737439466808
+Row: 531 address=AL-Eatimad, body=╪º╪╡╪»╪º╪▒ ╪╖┘ä╪¿┘è┘ç ╪╣┘ä┘ë ╪¡╪│╪º╪¿┘â┘à ╪¿┘à╪¿┘ä╪║ 550.0╪┤ ┘ê╪º╪╡╪¿╪¡ ╪▒╪╡┘è╪»┘â┘à  216074.0 ╪┤ ┘ä┘ä╪¬┘ü╪º╪╡┘è┘ä, date=1737439465054
+Row: 533 address=AL-Eatimad, body=http://188.34.164.0/openpdf/report?k=C0A8016B:019484643D7D:5B1B:21FACB3E&c=etimad, date=1737388241762
+Row: 534 address=AL-Eatimad, body=╪º╪╡╪»╪º╪▒ ╪╖┘ä╪¿┘è┘ç ╪╣┘ä┘ë ╪¡╪│╪º╪¿┘â┘à ╪¿┘à╪¿┘ä╪║ 75.0╪┤ ┘ê╪º╪╡╪¿╪¡ ╪▒╪╡┘è╪»┘â┘à  215524.0 ╪┤ ┘ä┘ä╪¬┘ü╪º╪╡┘è┘ä, date=1737388240406
+Row: 539 address=AL-Eatimad, body=http://188.34.164.0/openpdf/report?k=C0A80108:019483443BB7:12C6:31C55F04&c=etimad, date=1737369270243
+Row: 540 address=AL-Eatimad, body=╪º╪╡╪»╪º╪▒ ╪╖┘ä╪¿┘è┘ç ╪╣┘ä┘ë ╪¡╪│╪º╪¿┘â┘à ╪¿┘à╪¿┘ä╪║ 14.0╪┤ ┘ê╪º╪╡╪¿╪¡ ╪▒╪╡┘è╪»┘â┘à  215449.0 ╪┤ ┘ä┘ä╪¬┘ü╪º╪╡┘è┘ä, date=1737369267342
+Row: 541 address=AL-Eatimad, body=http://188.34.164.0/openpdf/report?k=C0A80108:0194833FDF57:1F2B:6720E158&c=etimad, date=1737369082383
+Row: 542 address=AL-Eatimad, body=╪º╪╡╪»╪º╪▒ ╪╖┘ä╪¿┘è┘ç ╪╣┘ä┘ë ╪¡╪│╪º╪¿┘â┘à ╪¿┘à╪¿┘ä╪║ 160.0╪┤ ┘ê╪º╪╡╪¿╪¡ ╪▒╪╡┘è╪»┘â┘à  215435.0 ╪┤ ┘ä┘ä╪¬┘ü╪º╪╡┘è┘ä, date=1737369037705
+Row: 543 address=AL-Eatimad, body=http://188.34.164.0/openpdf/report?k=C0A80107:019482821251:2CED:17746C09&c=etimad, date=1737356661736
+Row: 544 address=AL-Eatimad, body=╪º╪╡╪»╪º╪▒ ╪╖┘ä╪¿┘è┘ç ╪╣┘ä┘ë ╪¡╪│╪º╪¿┘â┘à ╪¿┘à╪¿┘ä╪║ 55.0╪┤ ┘ê╪º╪╡╪¿╪¡ ╪▒╪╡┘è╪»┘â┘à  215275.0 ╪┤ ┘ä┘ä╪¬┘ü╪º╪╡┘è┘ä, date=1737356660062
+Row: 545 address=AL-Eatimad, body=http://188.34.164.0/openpdf/report?k=C0A80107:01947E752AE4:0E3E:12BA5765&c=etimad, date=1737288509174
+Row: 546 address=AL-Eatimad, body=╪º╪╡╪»╪º╪▒ ╪╖┘ä╪¿┘è┘ç ╪╣┘ä┘ë ╪¡╪│╪º╪¿┘â┘à ╪¿┘à╪¿┘ä╪║ 424.0╪┤ ┘ê╪º╪╡╪¿╪¡ ╪▒╪╡┘è╪»┘â┘à  215220.0 ╪┤ ┘ä┘ä╪¬┘ü╪º╪╡┘è┘ä, date=1737288508214
+Row: 548 address=AL-Eatimad, body=http://188.34.164.0/openpdf/report?k=C0A80107:01947DCEFEDF:C9A2:6269A2EC&c=etimad, date=1737277701886
+Row: 549 address=AL-Eatimad, body=╪º╪╡╪»╪º╪▒ ╪╖┘ä╪¿┘è┘ç ╪╣┘ä┘ë ╪¡╪│╪º╪¿┘â┘à ╪¿┘à╪¿┘ä╪║ 140.0╪┤ ┘ê╪º╪╡╪¿╪¡ ╪▒╪╡┘è╪»┘â┘à  214796.0 ╪┤ ┘ä┘ä╪¬┘ü╪º╪╡┘è┘ä, date=1737277701161
+Row: 550 address=AL-Eatimad, body=http://188.34.164.0/openpdf/report?k=C0A80107:01947DC33DC8:0290:740E283E&c=etimad, date=1737276982936
+Row: 551 address=AL-Eatimad, body=╪º╪╡╪»╪º╪▒ ╪╖┘ä╪¿┘è┘ç ╪╣┘ä┘ë ╪¡╪│╪º╪¿┘â┘à ╪¿┘à╪¿┘ä╪║ 1784.0╪┤ ┘ê╪º╪╡╪¿╪¡ ╪▒╪╡┘è╪»┘â┘à  214656.0 ╪┤ ┘ä┘ä╪¬┘ü╪º╪╡┘è┘ä, date=1737276982279
+Row: 553 address=AL-Eatimad, body=╪º╪╡╪»╪º╪▒ ╪╖┘ä╪¿┘è┘ç ╪╣┘ä┘ë ╪¡╪│╪º╪¿┘â┘à ╪¿┘à╪¿┘ä╪║ 645.0╪┤ ┘ê╪º╪╡╪¿╪¡ ╪▒╪╡┘è╪»┘â┘à  212872.0 ╪┤ ┘ä┘ä╪¬┘ü╪º╪╡┘è┘ä, date=1737270508877
+Row: 554 address=AL-Eatimad, body=http://188.34.164.0/openpdf/report?k=C0A80108:01947D6101B0:5A51:3BC86B42&c=etimad, date=1737270508342
+Row: 555 address=AL-Eatimad, body=http://188.34.164.0/openpdf/report?k=C0A80107:01947D5CD9CB:78AE:72778CD0&c=etimad, date=1737270310164
+Row: 556 address=AL-Eatimad, body=╪º╪╡╪»╪º╪▒ ╪╖┘ä╪¿┘è┘ç ╪╣┘ä┘ë ╪¡╪│╪º╪¿┘â┘à ╪¿┘à╪¿┘ä╪║ 468.0╪┤ ┘ê╪º╪╡╪¿╪¡ ╪▒╪╡┘è╪»┘â┘à  212227.0 ╪┤ ┘ä┘ä╪¬┘ü╪º╪╡┘è┘ä, date=1737270309518
+Row: 563 address=AL-Eatimad, body=http://188.34.164.0/openpdf/report?k=C0A80108:019478D068B5:8CB8:26E37DC8&c=etimad, date=1737193840501
+Row: 564 address=AL-Eatimad, body=╪º╪╡╪»╪º╪▒ ╪╖┘ä╪¿┘è┘ç ╪╣┘ä┘ë ╪¡╪│╪º╪¿┘â┘à ╪¿┘à╪¿┘ä╪║ 1570.0╪┤ ┘ê╪º╪╡╪¿╪¡ ╪▒╪╡┘è╪»┘â┘à  211759.0 ╪┤ ┘ä┘ä╪¬┘ü╪º╪╡┘è┘ä, date=1737193837303
+Row: 565 address=AL-Eatimad, body=http://188.34.164.0/openpdf/report?k=C0A80108:019478B29D3F:6E5A:317E59A0&c=etimad, date=1737192081016
+Row: 566 address=AL-Eatimad, body=╪º╪╡╪»╪º╪▒ ╪╖┘ä╪¿┘è┘ç ╪╣┘ä┘ë ╪¡╪│╪º╪¿┘â┘à ╪¿┘à╪¿┘ä╪║ 7.0╪┤ ┘ê╪º╪╡╪¿╪¡ ╪▒╪╡┘è╪»┘â┘à  210189.0 ╪┤ ┘ä┘ä╪¬┘ü╪º╪╡┘è┘ä, date=1737192033815
+Row: 567 address=AL-Eatimad, body=http://188.34.164.0/openpdf/report?k=C0A80108:019478A8536D:E111:45A86E36&c=etimad, date=1737191183986
+Row: 568 address=AL-Eatimad, body=╪º╪╡╪»╪º╪▒ ╪╖┘ä╪¿┘è┘ç ╪╣┘ä┘ë ╪¡╪│╪º╪¿┘â┘à ╪¿┘à╪¿┘ä╪║ 325.0╪┤ ┘ê╪º╪╡╪¿╪¡ ╪▒╪╡┘è╪»┘â┘à  210182.0 ╪┤ ┘ä┘ä╪¬┘ü╪º╪╡┘è┘ä, date=1737191183267
+Row: 569 address=AL-Eatimad, body=http://188.34.164.0/openpdf/report?k=C0A80107:019478A3ACD6:9008:44C223A0&c=etimad, date=1737190949099
+Row: 570 address=AL-Eatimad, body=╪º╪╡╪»╪º╪▒ ╪╖┘ä╪¿┘è┘ç ╪╣┘ä┘ë ╪¡╪│╪º╪¿┘â┘à ╪¿┘à╪¿┘ä╪║ 1450.0╪┤ ┘ê╪º╪╡╪¿╪¡ ╪▒╪╡┘è╪»┘â┘à  209857.0 ╪┤ ┘ä┘ä╪¬┘ü╪º╪╡┘è┘ä, date=1737190946726
+Row: 571 address=AL-Eatimad, body=http://188.34.164.0/openpdf/report?k=C0A80107:019478124503:DB39:1E6D4145&c=etimad, date=1737181465566
+Row: 572 address=AL-Eatimad, body=╪º╪╡╪»╪º╪▒ ╪╖┘ä╪¿┘è┘ç ╪╣┘ä┘ë ╪¡╪│╪º╪¿┘â┘à ╪¿┘à╪¿┘ä╪║ 95.0╪┤ ┘ê╪º╪╡╪¿╪¡ ╪▒╪╡┘è╪»┘â┘à  208407.0 ╪┤ ┘ä┘ä╪¬┘ü╪º╪╡┘è┘ä, date=1737181462940
+Row: 593 address=AL-Eatimad, body=http://188.34.164.0/openpdf/report?k=C0A80107:01946EF00953:0690:3902C896&c=etimad, date=1737028234695
+Row: 594 address=AL-Eatimad, body=╪º╪╡╪»╪º╪▒ ╪╖┘ä╪¿┘è┘ç ╪╣┘ä┘ë ╪¡╪│╪º╪¿┘â┘à ╪¿┘à╪¿┘ä╪║ 103.0╪┤ ┘ê╪º╪╡╪¿╪¡ ╪▒╪╡┘è╪»┘â┘à  208312.0 ╪┤ ┘ä┘ä╪¬┘ü╪º╪╡┘è┘ä, date=1737028232180
+Row: 595 address=AL-Eatimad, body=╪º╪╡╪»╪º╪▒ ╪╖┘ä╪¿┘è┘ç ╪╣┘ä┘ë ╪¡╪│╪º╪¿┘â┘à ╪¿┘à╪¿┘ä╪║ 1870.0╪┤ ┘ê╪º╪╡╪¿╪¡ ╪▒╪╡┘è╪»┘â┘à  208209.0 ╪┤ ┘ä┘ä╪¬┘ü╪º╪╡┘è┘ä, date=1737022343175
+Row: 596 address=AL-Eatimad, body=http://188.34.164.0/openpdf/report?k=C0A80107:01946E9605AB:B861:702A5135&c=etimad, date=1737022341999
+Row: 601 address=AL-Eatimad, body=http://188.34.164.0/openpdf/report?k=C0A80107:019469D162B3:C4B8:3EBFDA03&c=etimad, date=1736942299224
+Row: 602 address=AL-Eatimad, body=╪º╪╡╪»╪º╪▒ ╪╖┘ä╪¿┘è┘ç ╪╣┘ä┘ë ╪¡╪│╪º╪¿┘â┘à ╪¿┘à╪¿┘ä╪║ 600.0╪┤ ┘ê╪º╪╡╪¿╪¡ ╪▒╪╡┘è╪»┘â┘à  206339.0 ╪┤ ┘ä┘ä╪¬┘ü╪º╪╡┘è┘ä, date=1736942298525
+Row: 603 address=AL-Eatimad, body=http://188.34.164.0/openpdf/report?k=C0A80107:019469CBE15F:A823:63D64B08&c=etimad, date=1736941942608
+Row: 604 address=AL-Eatimad, body=╪º╪╡╪»╪º╪▒ ╪╖┘ä╪¿┘è┘ç ╪╣┘ä┘ë ╪¡╪│╪º╪¿┘â┘à ╪¿┘à╪¿┘ä╪║ 100.0╪┤ ┘ê╪º╪╡╪¿╪¡ ╪▒╪╡┘è╪»┘â┘à  205739.0 ╪┤ ┘ä┘ä╪¬┘ü╪º╪╡┘è┘ä, date=1736941941597
+Row: 607 address=AL-Eatimad, body=http://188.34.164.0/openpdf/report?k=C0A80108:019465797ECE:DD0C:123E9EAA&c=etimad, date=1736869460907
+Row: 608 address=AL-Eatimad, body=╪º╪╡╪»╪º╪▒ ╪╖┘ä╪¿┘è┘ç ╪╣┘ä┘ë ╪¡╪│╪º╪¿┘â┘à ╪¿┘à╪¿┘ä╪║ 275.0╪┤ ┘ê╪º╪╡╪¿╪¡ ╪▒╪╡┘è╪»┘â┘à  205639.0 ╪┤ ┘ä┘ä╪¬┘ü╪º╪╡┘è┘ä, date=1736869458714
+Row: 610 address=AL-Eatimad, body=http://188.34.164.0/openpdf/report?k=C0A80107:019465386E23:CBB9:47050BF7&c=etimad, date=1736865145133
+Row: 611 address=AL-Eatimad, body=╪º╪╡╪»╪º╪▒ ╪╖┘ä╪¿┘è┘ç ╪╣┘ä┘ë ╪¡╪│╪º╪¿┘â┘à ╪¿┘à╪¿┘ä╪║ 70.0╪┤ ┘ê╪º╪╡╪¿╪¡ ╪▒╪╡┘è╪»┘â┘à  205364.0 ╪┤ ┘ä┘ä╪¬┘ü╪º╪╡┘è┘ä, date=1736865144025
+Row: 617 address=AL-Eatimad, body=http://188.34.164.0/openpdf/report?k=C0A80108:01945F28B3E2:17E0:05CB66ED&c=etimad, date=1736763509072
+Row: 618 address=AL-Eatimad, body=╪º╪╡╪»╪º╪▒ ╪╖┘ä╪¿┘è┘ç ╪╣┘ä┘ë ╪¡╪│╪º╪¿┘â┘à ╪¿┘à╪¿┘ä╪║ 564.0╪┤ ┘ê╪º╪╡╪¿╪¡ ╪▒╪╡┘è╪»┘â┘à  205294.0 ╪┤ ┘ä┘ä╪¬┘ü╪º╪╡┘è┘ä, date=1736763505807
+Row: 619 address=AL-Eatimad, body=http://188.34.164.0/openpdf/report?k=C0A80107:01945E930108:AB48:2942755D&c=etimad, date=1736753661619
+Row: 620 address=AL-Eatimad, body=╪º╪╡╪»╪º╪▒ ╪╖┘ä╪¿┘è┘ç ╪╣┘ä┘ë ╪¡╪│╪º╪¿┘â┘à ╪¿┘à╪¿┘ä╪║ 195.0╪┤ ┘ê╪º╪╡╪¿╪¡ ╪▒╪╡┘è╪»┘â┘à  204730.0 ╪┤ ┘ä┘ä╪¬┘ü╪º╪╡┘è┘ä, date=1736753661023
+Row: 622 address=AL-Eatimad, body=http://188.34.164.0/openpdf/report?k=C0A80107:01945E450659:AE63:2822B34B&c=etimad, date=1736748628555
+Row: 623 address=AL-Eatimad, body=╪º╪╡╪»╪º╪▒ ╪╖┘ä╪¿┘è┘ç ╪╣┘ä┘ë ╪¡╪│╪º╪¿┘â┘à ╪¿┘à╪¿┘ä╪║ 250.0╪┤ ┘ê╪º╪╡╪¿╪¡ ╪▒╪╡┘è╪»┘â┘à  204535.0 ╪┤ ┘ä┘ä╪¬┘ü╪º╪╡┘è┘ä, date=1736748625653
+Row: 625 address=AL-Eatimad, body=╪┤┘â╪▒╪º ┘ä╪│╪»╪º╪» ┘à╪¿┘ä╪║1000.0 ╪┤┘ê╪º╪╡╪¿╪¡ ╪▒╪╡┘è╪»┘â┘à  204285.0 ╪┤, date=1736680586543
+Row: 628 address=AL-Eatimad, body=http://188.34.164.0/openpdf/report?k=C0A80107:01945926C16E:211D:094E198A&c=etimad, date=1736662697210
+Row: 629 address=AL-Eatimad, body=╪º╪╡╪»╪º╪▒ ╪╖┘ä╪¿┘è┘ç ╪╣┘ä┘ë ╪¡╪│╪º╪¿┘â┘à ╪¿┘à╪¿┘ä╪║ 50.0╪┤ ┘ê╪º╪╡╪¿╪¡ ╪▒╪╡┘è╪»┘â┘à  205285.0 ╪┤ ┘ä┘ä╪¬┘ü╪º╪╡┘è┘ä, date=1736662696100
+Row: 630 address=AL-Eatimad, body=http://188.34.164.0/openpdf/report?k=C0A80107:0194591EF139:2976:47A82A7D&c=etimad, date=1736662417052
+Row: 631 address=AL-Eatimad, body=╪º╪╡╪»╪º╪▒ ╪╖┘ä╪¿┘è┘ç ╪╣┘ä┘ë ╪¡╪│╪º╪¿┘â┘à ╪¿┘à╪¿┘ä╪║ 540.0╪┤ ┘ê╪º╪╡╪¿╪¡ ╪▒╪╡┘è╪»┘â┘à  205235.0 ╪┤ ┘ä┘ä╪¬┘ü╪º╪╡┘è┘ä, date=1736662102989
+Row: 632 address=AL-Eatimad, body=http://188.34.164.0/openpdf/report?k=C0A80107:0194591B9366:93E0:2E2AF2F5&c=etimad, date=1736661861640
+Row: 633 address=AL-Eatimad, body=╪º╪╡╪»╪º╪▒ ╪╖┘ä╪¿┘è┘ç ╪╣┘ä┘ë ╪¡╪│╪º╪¿┘â┘à ╪¿┘à╪¿┘ä╪║ 1850.0╪┤ ┘ê╪º╪╡╪¿╪¡ ╪▒╪╡┘è╪»┘â┘à  204695.0 ╪┤ ┘ä┘ä╪¬┘ü╪º╪╡┘è┘ä, date=1736661860675
+Row: 641 address=AL-Eatimad, body=http://188.34.164.0/openpdf/report?k=C0A80108:01945563051E:2B0B:05554EDB&c=etimad, date=1736599579849
+Row: 642 address=AL-Eatimad, body=╪º╪╡╪»╪º╪▒ ╪╖┘ä╪¿┘è┘ç ╪╣┘ä┘ë ╪¡╪│╪º╪¿┘â┘à ╪¿┘à╪¿┘ä╪║ 155.0╪┤ ┘ê╪º╪╡╪¿╪¡ ╪▒╪╡┘è╪»┘â┘à  202845.0 ╪┤ ┘ä┘ä╪¬┘ü╪º╪╡┘è┘ä, date=1736599577473
+Row: 646 address=AL-Eatimad, body=http://188.34.164.0/openpdf/report?k=C0A80107:0194545DA969:CEA2:21282556&c=etimad, date=1736582433366
+Row: 647 address=AL-Eatimad, body=╪º╪╡╪»╪º╪▒ ╪╖┘ä╪¿┘è┘ç ╪╣┘ä┘ë ╪¡╪│╪º╪¿┘â┘à ╪¿┘à╪¿┘ä╪║ 940.0╪┤ ┘ê╪º╪╡╪¿╪¡ ╪▒╪╡┘è╪»┘â┘à  202690.0 ╪┤ ┘ä┘ä╪¬┘ü╪º╪╡┘è┘ä, date=1736582432562
+Row: 659 address=AL-Eatimad, body=http://188.34.164.0/openpdf/report?k=C0A80107:01944B2302D2:B4C1:3F29183E&c=etimad, date=1736427632492
+Row: 660 address=AL-Eatimad, body=╪º╪╡╪»╪º╪▒ ╪╖┘ä╪¿┘è┘ç ╪╣┘ä┘ë ╪¡╪│╪º╪¿┘â┘à ╪¿┘à╪¿┘ä╪║ 160.0╪┤ ┘ê╪º╪╡╪¿╪¡ ╪▒╪╡┘è╪»┘â┘à  201750.0 ╪┤ ┘ä┘ä╪¬┘ü╪º╪╡┘è┘ä, date=1736427631165
+Row: 663 address=AL-Eatimad, body=http://188.34.164.0/openpdf/report?k=C0A80108:01944AAB8EA7:5483:2CF5B981&c=etimad, date=1736419837106
+Row: 664 address=AL-Eatimad, body=╪º╪╡╪»╪º╪▒ ╪╖┘ä╪¿┘è┘ç ╪╣┘ä┘ë ╪¡╪│╪º╪¿┘â┘à ╪¿┘à╪¿┘ä╪║ 1265.0╪┤ ┘ê╪º╪╡╪¿╪¡ ╪▒╪╡┘è╪»┘â┘à  201590.0 ╪┤ ┘ä┘ä╪¬┘ü╪º╪╡┘è┘ä, date=1736419835330
+Row: 665 address=AL-Eatimad, body=http://188.34.164.0/openpdf/report?k=C0A80108:01944A3B795F:4D85:798D2DB5&c=etimad, date=1736412378138
+Row: 666 address=AL-Eatimad, body=╪º╪╡╪»╪º╪▒ ╪╖┘ä╪¿┘è┘ç ╪╣┘ä┘ë ╪¡╪│╪º╪¿┘â┘à ╪¿┘à╪¿┘ä╪║ 440.0╪┤ ┘ê╪º╪╡╪¿╪¡ ╪▒╪╡┘è╪»┘â┘à  200325.0 ╪┤ ┘ä┘ä╪¬┘ü╪º╪╡┘è┘ä, date=1736412377560
+Row: 667 address=AL-Eatimad, body=┘à╪▒╪¬╪¼╪╣ ╪¿╪╢╪º╪╣╪⌐ ╪╣┘ä┘ë ╪¡╪│╪º╪¿ ╪¼┘à╪º┘ä ╪º┘ä╪¿╪º╪¿╪º ╪¿┘é┘è┘à╪⌐ 980.0 ╪┤┘ê╪º╪╡╪¿╪¡ ╪▒╪╡┘è╪»┘â┘à  199885.0 ╪┤, date=1736412262473
+Row: 668 address=AL-Eatimad, body=http://188.34.164.0/openpdf/report?k=C0A80107:01944A384A12:7235:736069AF&c=etimad, date=1736412261890
+Row: 669 address=AL-Eatimad, body=╪º╪╡╪»╪º╪▒ ╪╖┘ä╪¿┘è┘ç ╪╣┘ä┘ë ╪¡╪│╪º╪¿┘â┘à ╪¿┘à╪¿┘ä╪║ 700.0╪┤ ┘ê╪º╪╡╪¿╪¡ ╪▒╪╡┘è╪»┘â┘à  199885.0 ╪┤ ┘ä┘ä╪¬┘ü╪º╪╡┘è┘ä, date=1736412260628
+Row: 670 address=AL-Eatimad, body=╪º╪╡╪»╪º╪▒ ╪╖┘ä╪¿┘è┘ç ╪╣┘ä┘ë ╪¡╪│╪º╪¿┘â┘à ╪¿┘à╪¿┘ä╪║ 10256.0╪┤ ┘ê╪º╪╡╪¿╪¡ ╪▒╪╡┘è╪»┘â┘à  200165.0 ╪┤ ┘ä┘ä╪¬┘ü╪º╪╡┘è┘ä, date=1736409387631
+Row: 671 address=AL-Eatimad, body=http://188.34.164.0/openpdf/report?k=C0A80107:01944A0D02D8:AAAF:6612311A&c=etimad, date=1736409387035
+Row: 672 address=AL-Eatimad, body=http://188.34.164.0/openpdf/report?k=C0A80107:019449F722CC:540E:2D4093ED&c=etimad, date=1736407941081
+Row: 673 address=AL-Eatimad, body=╪º╪╡╪»╪º╪▒ ╪╖┘ä╪¿┘è┘ç ╪╣┘ä┘ë ╪¡╪│╪º╪¿┘â┘à ╪¿┘à╪¿┘ä╪║ 1520.0╪┤ ┘ê╪º╪╡╪¿╪¡ ╪▒╪╡┘è╪»┘â┘à  189909.0 ╪┤ ┘ä┘ä╪¬┘ü╪º╪╡┘è┘ä, date=1736407939831
+Row: 676 address=AL-Eatimad, body=http://188.34.164.0/openpdf/report?k=C0A80107:0194458E7E17:145F:731C0F0D&c=etimad, date=1736333905660
+Row: 677 address=AL-Eatimad, body=╪º╪╡╪»╪º╪▒ ╪╖┘ä╪¿┘è┘ç ╪╣┘ä┘ë ╪¡╪│╪º╪¿┘â┘à ╪¿┘à╪¿┘ä╪║ 940.0╪┤ ┘ê╪º╪╡╪¿╪¡ ╪▒╪╡┘è╪»┘â┘à  188389.0 ╪┤ ┘ä┘ä╪¬┘ü╪º╪╡┘è┘ä, date=1736333903419
+Row: 678 address=AL-Eatimad, body=http://188.34.164.0/openpdf/report?k=C0A80107:019444BFA84D:CF6A:43904E56&c=etimad, date=1736320350002
+Row: 679 address=AL-Eatimad, body=╪º╪╡╪»╪º╪▒ ╪╖┘ä╪¿┘è┘ç ╪╣┘ä┘ë ╪¡╪│╪º╪¿┘â┘à ╪¿┘à╪¿┘ä╪║ 28.0╪┤ ┘ê╪º╪╡╪¿╪¡ ╪▒╪╡┘è╪»┘â┘à  187449.0 ╪┤ ┘ä┘ä╪¬┘ü╪º╪╡┘è┘ä, date=1736320335438
+Row: 680 address=AL-Eatimad, body=http://188.34.164.0/openpdf/report?k=C0A80107:019444B2AE62:0633:49474E66&c=etimad, date=1736319513355
+Row: 681 address=AL-Eatimad, body=╪º╪╡╪»╪º╪▒ ╪╖┘ä╪¿┘è┘ç ╪╣┘ä┘ë ╪¡╪│╪º╪¿┘â┘à ╪¿┘à╪¿┘ä╪║ 430.0╪┤ ┘ê╪º╪╡╪¿╪¡ ╪▒╪╡┘è╪»┘â┘à  187421.0 ╪┤ ┘ä┘ä╪¬┘ü╪º╪╡┘è┘ä, date=1736319512276
+Row: 682 address=AL-Eatimad, body=http://188.34.164.0/openpdf/report?k=C0A80107:019444A9EEFB:F217:271EB07C&c=etimad, date=1736319085926
+Row: 683 address=AL-Eatimad, body=╪º╪╡╪»╪º╪▒ ╪╖┘ä╪¿┘è┘ç ╪╣┘ä┘ë ╪¡╪│╪º╪¿┘â┘à ╪¿┘à╪¿┘ä╪║ 1598.0╪┤ ┘ê╪º╪╡╪¿╪¡ ╪▒╪╡┘è╪»┘â┘à  186991.0 ╪┤ ┘ä┘ä╪¬┘ü╪º╪╡┘è┘ä, date=1736319083297
+Row: 693 address=AL-Eatimad, body=http://188.34.164.0/openpdf/report?k=C0A80108:01944064242B:AEFC:4E1230D4&c=etimad, date=1736247385030
+Row: 694 address=AL-Eatimad, body=╪º╪╡╪»╪º╪▒ ╪╖┘ä╪¿┘è┘ç ╪╣┘ä┘ë ╪¡╪│╪º╪¿┘â┘à ╪¿┘à╪¿┘ä╪║ 8206.0╪┤ ┘ê╪º╪╡╪¿╪¡ ╪▒╪╡┘è╪»┘â┘à  185393.0 ╪┤ ┘ä┘ä╪¬┘ü╪º╪╡┘è┘ä, date=1736247382961
+Row: 696 address=AL-Eatimad, body=http://188.34.164.0/openpdf/report?k=C0A80107:01943FB790E6:FF40:1206FD21&c=etimad, date=1736235983349
+Row: 697 address=AL-Eatimad, body=╪º╪╡╪»╪º╪▒ ╪╖┘ä╪¿┘è┘ç ╪╣┘ä┘ë ╪¡╪│╪º╪¿┘â┘à ╪¿┘à╪¿┘ä╪║ 50.0╪┤ ┘ê╪º╪╡╪¿╪¡ ╪▒╪╡┘è╪»┘â┘à  177187.0 ╪┤ ┘ä┘ä╪¬┘ü╪º╪╡┘è┘ä, date=1736235982801
+Row: 709 address=AL-Eatimad, body=http://188.34.164.0/openpdf/report?k=C0A80108:0194368CF40C:CC4E:6C99435F&c=etimad, date=1736082150095
+Row: 710 address=AL-Eatimad, body=╪º╪╡╪»╪º╪▒ ╪╖┘ä╪¿┘è┘ç ╪╣┘ä┘ë ╪¡╪│╪º╪¿┘â┘à ╪¿┘à╪¿┘ä╪║ 200.0╪┤ ┘ê╪º╪╡╪¿╪¡ ╪▒╪╡┘è╪»┘â┘à  177137.0 ╪┤ ┘ä┘ä╪¬┘ü╪º╪╡┘è┘ä, date=1736082147150
+Row: 719 address=AL-Eatimad, body=http://188.34.164.0/openpdf/report?k=C0A80108:0194356937C2:01D0:6FD382FF&c=etimad, date=1736063103491
+Row: 720 address=AL-Eatimad, body=╪º╪╡╪»╪º╪▒ ╪╖┘ä╪¿┘è┘ç ╪╣┘ä┘ë ╪¡╪│╪º╪¿┘â┘à ╪¿┘à╪¿┘ä╪║ 990.0╪┤ ┘ê╪º╪╡╪¿╪¡ ╪▒╪╡┘è╪»┘â┘à  176937.0 ╪┤ ┘ä┘ä╪¬┘ü╪º╪╡┘è┘ä, date=1736063102811
+Row: 733 address=AL-Eatimad, body=http://188.34.164.0/openpdf/report?k=C0A80107:0194315F6BB4:918F:213B4E4D&c=etimad, date=1735995384130
+Row: 734 address=AL-Eatimad, body=╪º╪╡╪»╪º╪▒ ╪╖┘ä╪¿┘è┘ç ╪╣┘ä┘ë ╪¡╪│╪º╪¿┘â┘à ╪¿┘à╪¿┘ä╪║ 3025.0╪┤ ┘ê╪º╪╡╪¿╪¡ ╪▒╪╡┘è╪»┘â┘à  175947.0 ╪┤ ┘ä┘ä╪¬┘ü╪º╪╡┘è┘ä, date=1735995379230
+Row: 736 address=AL-Eatimad, body=http://188.34.164.0/openpdf/report?k=C0A80108:019430BAC1AD:7A77:1411C02F&c=etimad, date=1735984584459
+Row: 737 address=AL-Eatimad, body=╪º╪╡╪»╪º╪▒ ╪╖┘ä╪¿┘è┘ç ╪╣┘ä┘ë ╪¡╪│╪º╪¿┘â┘à ╪¿┘à╪¿┘ä╪║ 2025.0╪┤ ┘ê╪º╪╡╪¿╪¡ ╪▒╪╡┘è╪»┘â┘à  172922.0 ╪┤ ┘ä┘ä╪¬┘ü╪º╪╡┘è┘ä, date=1735984582570
+Row: 739 address=AL-Eatimad, body=http://188.34.164.0/openpdf/report?k=C0A80107:0194306AB8D3:4FD5:50F5324F&c=etimad, date=1735979305140
+Row: 740 address=AL-Eatimad, body=╪º╪╡╪»╪º╪▒ ╪╖┘ä╪¿┘è┘ç ╪╣┘ä┘ë ╪¡╪│╪º╪¿┘â┘à ╪¿┘à╪¿┘ä╪║ 230.0╪┤ ┘ê╪º╪╡╪¿╪¡ ╪▒╪╡┘è╪»┘â┘à  170897.0 ╪┤ ┘ä┘ä╪¬┘ü╪º╪╡┘è┘ä, date=1735979301545
+Row: 749 address=AL-Eatimad, body=http://188.34.164.0/openpdf/report?k=C0A80107:0194271C1E2D:CD2D:5CF2B4D0&c=etimad, date=1735823063031
+Row: 750 address=AL-Eatimad, body=╪º╪╡╪»╪º╪▒ ╪╖┘ä╪¿┘è┘ç ╪╣┘ä┘ë ╪¡╪│╪º╪¿┘â┘à ╪¿┘à╪¿┘ä╪║ 1055.0╪┤ ┘ê╪º╪╡╪¿╪¡ ╪▒╪╡┘è╪»┘â┘à  170667.0 ╪┤ ┘ä┘ä╪¬┘ü╪º╪╡┘è┘ä, date=1735823061097
+Row: 751 address=AL-Eatimad, body=http://188.34.164.0/openpdf/report?k=C0A80107:019425C4AD8F:10F1:24847FE9&c=etimad, date=1735800629367
+Row: 752 address=AL-Eatimad, body=╪º╪╡╪»╪º╪▒ ╪╖┘ä╪¿┘è┘ç ╪╣┘ä┘ë ╪¡╪│╪º╪¿┘â┘à ╪¿┘à╪¿┘ä╪║ 146.0╪┤ ┘ê╪º╪╡╪¿╪¡ ╪▒╪╡┘è╪»┘â┘à  169612.0 ╪┤ ┘ä┘ä╪¬┘ü╪º╪╡┘è┘ä, date=1735800626459
+Row: 753 address=AL-Eatimad, body=http://188.34.164.0/openpdf/report?k=C0A80107:019425BE421C:EC31:3BCF17F2&c=etimad, date=1735800256986
+Row: 754 address=AL-Eatimad, body=╪º╪╡╪»╪º╪▒ ╪╖┘ä╪¿┘è┘ç ╪╣┘ä┘ë ╪¡╪│╪º╪¿┘â┘à ╪¿┘à╪¿┘ä╪║ 680.0╪┤ ┘ê╪º╪╡╪¿╪¡ ╪▒╪╡┘è╪»┘â┘à  169466.0 ╪┤ ┘ä┘ä╪¬┘ü╪º╪╡┘è┘ä, date=1735800256093
+Row: 761 address=AL-Eatimad, body=http://188.34.164.0/openpdf/report?k=C0A8016B:01942193E0B1:C565:07F8F298&c=etimad, date=1735730442186
+Row: 762 address=AL-Eatimad, body=╪º╪╡╪»╪º╪▒ ╪╖┘ä╪¿┘è┘ç ╪╣┘ä┘ë ╪¡╪│╪º╪¿┘â┘à ╪¿┘à╪¿┘ä╪║ 60.0╪┤ ┘ê╪º╪╡╪¿╪¡ ╪▒╪╡┘è╪»┘â┘à  168786.0 ╪┤ ┘ä┘ä╪¬┘ü╪º╪╡┘è┘ä, date=1735730441219
+Row: 764 address=AL-Eatimad, body=http://188.34.164.0/openpdf/report?k=C0A80107:019420D46898:05A3:04999DC7&c=etimad, date=1735717828604
+Row: 765 address=AL-Eatimad, body=╪º╪╡╪»╪º╪▒ ╪╖┘ä╪¿┘è┘ç ╪╣┘ä┘ë ╪¡╪│╪º╪¿┘â┘à ╪¿┘à╪¿┘ä╪║ 115.0╪┤ ┘ê╪º╪╡╪¿╪¡ ╪▒╪╡┘è╪»┘â┘à  168726.0 ╪┤ ┘ä┘ä╪¬┘ü╪º╪╡┘è┘ä, date=1735717825945
+Row: 767 address=AL-Eatimad, body=http://188.34.164.0/openpdf/report?k=C0A80108:01942092C565:5E73:611C03F6&c=etimad, date=1735713502323
+Row: 768 address=AL-Eatimad, body=╪º╪╡╪»╪º╪▒ ╪╖┘ä╪¿┘è┘ç ╪╣┘ä┘ë ╪¡╪│╪º╪¿┘â┘à ╪¿┘à╪¿┘ä╪║ 2876.0╪┤ ┘ê╪º╪╡╪¿╪¡ ╪▒╪╡┘è╪»┘â┘à  168611.0 ╪┤ ┘ä┘ä╪¬┘ü╪º╪╡┘è┘ä, date=1735713501142
+Row: 775 address=AL-Eatimad, body=http://188.34.164.0/openpdf/report?k=C0A80107:019417F42F05:4255:2E8F3AE3&c=etimad, date=1735568902472
+Row: 776 address=AL-Eatimad, body=╪º╪╡╪»╪º╪▒ ╪╖┘ä╪¿┘è┘ç ╪╣┘ä┘ë ╪¡╪│╪º╪¿┘â┘à ╪¿┘à╪¿┘ä╪║ 440.0╪┤ ┘ê╪º╪╡╪¿╪¡ ╪▒╪╡┘è╪»┘â┘à  165735.0 ╪┤ ┘ä┘ä╪¬┘ü╪º╪╡┘è┘ä, date=1735568901350
+Row: 779 address=AL-Eatimad, body=http://188.34.164.0/openpdf/report?k=C0A80108:019416910372:DEEC:3CAACA11&c=etimad, date=1735545507006
+Row: 780 address=AL-Eatimad, body=╪º╪╡╪»╪º╪▒ ╪╖┘ä╪¿┘è┘ç ╪╣┘ä┘ë ╪¡╪│╪º╪¿┘â┘à ╪¿┘à╪¿┘ä╪║ 752.0╪┤ ┘ê╪º╪╡╪¿╪¡ ╪▒╪╡┘è╪»┘â┘à  165295.0 ╪┤ ┘ä┘ä╪¬┘ü╪º╪╡┘è┘ä, date=1735545504212
+Row: 788 address=AL-Eatimad, body=http://188.34.164.0/openpdf/report?k=C0A80107:01941191A2C0:B43F:32B285A8&c=etimad, date=1735461743649
+Row: 789 address=AL-Eatimad, body=╪º╪╡╪»╪º╪▒ ╪╖┘ä╪¿┘è┘ç ╪╣┘ä┘ë ╪¡╪│╪º╪¿┘â┘à ╪¿┘à╪¿┘ä╪║ 1713.0╪┤ ┘ê╪º╪╡╪¿╪¡ ╪▒╪╡┘è╪»┘â┘à  164543.0 ╪┤ ┘ä┘ä╪¬┘ü╪º╪╡┘è┘ä, date=1735461741424
+Row: 794 address=AL-Eatimad, body=http://188.34.164.0/openpdf/report?k=C0A80108:01940DA47CB3:3884:0970671C&c=etimad, date=1735395979544
+Row: 795 address=AL-Eatimad, body=╪º╪╡╪»╪º╪▒ ╪╖┘ä╪¿┘è┘ç ╪╣┘ä┘ë ╪¡╪│╪º╪¿┘â┘à ╪¿┘à╪¿┘ä╪║ 350.0╪┤ ┘ê╪º╪╡╪¿╪¡ ╪▒╪╡┘è╪»┘â┘à  162830.0 ╪┤ ┘ä┘ä╪¬┘ü╪º╪╡┘è┘ä, date=1735395977785
+Row: 799 address=AL-Eatimad, body=http://188.34.164.0/openpdf/report?k=C0A80107:01940C1EE842:F646:4DDB7C5E&c=etimad, date=1735370454578
+Row: 800 address=AL-Eatimad, body=╪º╪╡╪»╪º╪▒ ╪╖┘ä╪¿┘è┘ç ╪╣┘ä┘ë ╪¡╪│╪º╪¿┘â┘à ╪¿┘à╪¿┘ä╪║ 1055.0╪┤ ┘ê╪º╪╡╪¿╪¡ ╪▒╪╡┘è╪»┘â┘à  162480.0 ╪┤ ┘ä┘ä╪¬┘ü╪º╪╡┘è┘ä, date=1735370429999
+Row: 816 address=AL-Eatimad, body=http://188.34.164.0/openpdf/report?k=C0A80107:019401B2450C:98A5:7655A13C&c=etimad, date=1735195463096
+Row: 817 address=AL-Eatimad, body=╪º╪╡╪»╪º╪▒ ╪╖┘ä╪¿┘è┘ç ╪╣┘ä┘ë ╪¡╪│╪º╪¿┘â┘à ╪¿┘à╪¿┘ä╪║ 4340.0╪┤ ┘ê╪º╪╡╪¿╪¡ ╪▒╪╡┘è╪»┘â┘à  161425.0 ╪┤ ┘ä┘ä╪¬┘ü╪º╪╡┘è┘ä, date=1735195461942
+Row: 826 address=AL-Eatimad, body=http://188.34.164.0/openpdf/report?k=C0A80107:0193F910DF55:BE81:3DC0E37F&c=etimad, date=1735050627817
+Row: 827 address=AL-Eatimad, body=╪º╪╡╪»╪º╪▒ ╪╖┘ä╪¿┘è┘ç ╪╣┘ä┘ë ╪¡╪│╪º╪¿┘â┘à ╪¿┘à╪¿┘ä╪║ 45.0╪┤ ┘ê╪º╪╡╪¿╪¡ ╪▒╪╡┘è╪»┘â┘à  157085.0 ╪┤ ┘ä┘ä╪¬┘ü╪º╪╡┘è┘ä, date=1735050626987
+Row: 828 address=AL-Eatimad, body=╪¬┘ç╪»┘è┘â┘à ╪┤╪▒┘â╪⌐ ╪º┘ä╪º╪╣╪¬┘à╪º╪» ╪º╪╖┘è╪¿ ╪º┘ä╪¬╪¡┘è╪º╪¬ ┘ê╪¬╪¬┘à┘å┘ë ┘à┘å ╪¡╪╢╪▒╪¬┘â┘à ╪¬╪│╪»┘è╪» ╪º┘ä╪¡╪│╪º╪¿ ╪º┘ä┘à╪¬╪▒╪º┘â┘à ╪╣┘ä┘è┘â┘à ┘é╪¿┘ä 31/12, date=1735050297491
+Row: 833 address=AL-Eatimad, body=http://188.34.164.0/openpdf/report?k=C0A80108:0193F4078B8F:891F:5E85B7C7&c=etimad, date=1734966140539
+Row: 834 address=AL-Eatimad, body=╪º╪╡╪»╪º╪▒ ╪╖┘ä╪¿┘è┘ç ╪╣┘ä┘ë ╪¡╪│╪º╪¿┘â┘à ╪¿┘à╪¿┘ä╪║ 40.0╪┤ ┘ê╪º╪╡╪¿╪¡ ╪▒╪╡┘è╪»┘â┘à  157040.0 ╪┤ ┘ä┘ä╪¬┘ü╪º╪╡┘è┘ä, date=1734966139820
+Row: 835 address=AL-Eatimad, body=http://188.34.164.0/openpdf/report?k=C0A80108:0193F404D5C4:D896:06B5487E&c=etimad, date=1734965902331
+Row: 836 address=AL-Eatimad, body=╪º╪╡╪»╪º╪▒ ╪╖┘ä╪¿┘è┘ç ╪╣┘ä┘ë ╪¡╪│╪º╪¿┘â┘à ╪¿┘à╪¿┘ä╪║ 80.0╪┤ ┘ê╪º╪╡╪¿╪¡ ╪▒╪╡┘è╪»┘â┘à  157000.0 ╪┤ ┘ä┘ä╪¬┘ü╪º╪╡┘è┘ä, date=1734965900464
+Row: 852 address=AL-Eatimad, body=http://188.34.164.0/openpdf/report?k=C0A80107:0193ED666300:7126:28B145DC&c=etimad, date=1734854778356
+Row: 853 address=AL-Eatimad, body=╪º╪╡╪»╪º╪▒ ╪╖┘ä╪¿┘è┘ç ╪╣┘ä┘ë ╪¡╪│╪º╪¿┘â┘à ╪¿┘à╪¿┘ä╪║ 600.0╪┤ ┘ê╪º╪╡╪¿╪¡ ╪▒╪╡┘è╪»┘â┘à  156920.0 ╪┤ ┘ä┘ä╪¬┘ü╪º╪╡┘è┘ä, date=1734854777312
+Row: 854 address=AL-Eatimad, body=http://188.34.164.0/openpdf/report?k=C0A80107:0193ED3620BE:BF51:490EBBE6&c=etimad, date=1734851904426
+Row: 855 address=AL-Eatimad, body=╪º╪╡╪»╪º╪▒ ╪╖┘ä╪¿┘è┘ç ╪╣┘ä┘ë ╪¡╪│╪º╪¿┘â┘à ╪¿┘à╪¿┘ä╪║ 4800.0╪┤ ┘ê╪º╪╡╪¿╪¡ ╪▒╪╡┘è╪»┘â┘à  156320.0 ╪┤ ┘ä┘ä╪¬┘ü╪º╪╡┘è┘ä, date=1734851900486
+Row: 866 address=AL-Eatimad, body=http://188.34.164.0/openpdf/report?k=C0A80108:0193E86D0574:F1C1:62CCC782&c=etimad, date=1734771542262
+Row: 867 address=AL-Eatimad, body=╪º╪╡╪»╪º╪▒ ╪╖┘ä╪¿┘è┘ç ╪╣┘ä┘ë ╪¡╪│╪º╪¿┘â┘à ╪¿┘à╪¿┘ä╪║ 1220.0╪┤ ┘ê╪º╪╡╪¿╪¡ ╪▒╪╡┘è╪»┘â┘à  151520.0 ╪┤ ┘ä┘ä╪¬┘ü╪º╪╡┘è┘ä, date=1734771541321
+Row: 868 address=AL-Eatimad, body=┘à╪▒╪¬╪¼╪╣ ╪¿╪╢╪º╪╣╪⌐ ╪╣┘ä┘ë ╪¡╪│╪º╪¿ ╪¼┘à╪º┘ä ╪º┘ä╪¿╪º╪¿╪º ╪¿┘é┘è┘à╪⌐ 200.0 ╪┤┘ê╪º╪╡╪¿╪¡ ╪▒╪╡┘è╪»┘â┘à  150300.0 ╪┤, date=1734765143604
+Row: 869 address=AL-Eatimad, body=http://188.34.164.0/openpdf/report?k=C0A80107:0193E7D8AC03:66F3:53D00696&c=etimad, date=1734761778033
+Row: 870 address=AL-Eatimad, body=╪º╪╡╪»╪º╪▒ ╪╖┘ä╪¿┘è┘ç ╪╣┘ä┘ë ╪¡╪│╪º╪¿┘â┘à ╪¿┘à╪¿┘ä╪║ 1400.0╪┤ ┘ê╪º╪╡╪¿╪¡ ╪▒╪╡┘è╪»┘â┘à  150500.0 ╪┤ ┘ä┘ä╪¬┘ü╪º╪╡┘è┘ä, date=1734761776565
+Row: 879 address=AL-Eatimad, body=http://188.34.164.0/openpdf/report?k=C0A8016B:0193DFAF1141:C72A:6D5B5095&c=etimad, date=1734624861091
+Row: 880 address=AL-Eatimad, body=╪º╪╡╪»╪º╪▒ ╪╖┘ä╪¿┘è┘ç ╪╣┘ä┘ë ╪¡╪│╪º╪¿┘â┘à ╪¿┘à╪¿┘ä╪║ 195.0╪┤ ┘ê╪º╪╡╪¿╪¡ ╪▒╪╡┘è╪»┘â┘à  149100.0 ╪┤ ┘ä┘ä╪¬┘ü╪º╪╡┘è┘ä, date=1734624859383
+Row: 882 address=AL-Eatimad, body=http://188.34.164.0/openpdf/report?k=C0A80108:0193DE8F245A:8F78:0E7488DD&c=etimad, date=1734605906276
+Row: 883 address=AL-Eatimad, body=╪º╪╡╪»╪º╪▒ ╪╖┘ä╪¿┘è┘ç ╪╣┘ä┘ë ╪¡╪│╪º╪¿┘â┘à ╪¿┘à╪¿┘ä╪║ 70.0╪┤ ┘ê╪º╪╡╪¿╪¡ ╪▒╪╡┘è╪»┘â┘à  148905.0 ╪┤ ┘ä┘ä╪¬┘ü╪º╪╡┘è┘ä, date=1734605905554
+Row: 884 address=AL-Eatimad, body=http://188.34.164.0/openpdf/report?k=C0A80108:0193DE8F089C:6F4D:52304C10&c=etimad, date=1734605904659
+Row: 885 address=AL-Eatimad, body=╪º╪╡╪»╪º╪▒ ╪╖┘ä╪¿┘è┘ç ╪╣┘ä┘ë ╪¡╪│╪º╪¿┘â┘à ╪¿┘à╪¿┘ä╪║ 670.0╪┤ ┘ê╪º╪╡╪¿╪¡ ╪▒╪╡┘è╪»┘â┘à  148905.0 ╪┤ ┘ä┘ä╪¬┘ü╪º╪╡┘è┘ä, date=1734605901886
+Row: 886 address=AL-Eatimad, body=http://188.34.164.0/openpdf/report?k=C0A80107:0193DDDA8789:9C0E:627F5A12&c=etimad, date=1734594137453
+Row: 887 address=AL-Eatimad, body=╪º╪╡╪»╪º╪▒ ╪╖┘ä╪¿┘è┘ç ╪╣┘ä┘ë ╪¡╪│╪º╪¿┘â┘à ╪¿┘à╪¿┘ä╪║ 50.0╪┤ ┘ê╪º╪╡╪¿╪¡ ╪▒╪╡┘è╪»┘â┘à  148165.0 ╪┤ ┘ä┘ä╪¬┘ü╪º╪╡┘è┘ä, date=1734594136587
+Row: 888 address=AL-Eatimad, body=http://188.34.164.0/openpdf/report?k=C0A80107:0193DDC00F1C:0DD2:0BB8424C&c=etimad, date=1734592405447
+Row: 889 address=AL-Eatimad, body=╪º╪╡╪»╪º╪▒ ╪╖┘ä╪¿┘è┘ç ╪╣┘ä┘ë ╪¡╪│╪º╪¿┘â┘à ╪¿┘à╪¿┘ä╪║ 126.0╪┤ ┘ê╪º╪╡╪¿╪¡ ╪▒╪╡┘è╪»┘â┘à  148115.0 ╪┤ ┘ä┘ä╪¬┘ü╪º╪╡┘è┘ä, date=1734592404212
+Row: 897 address=AL-Eatimad, body=http://188.34.164.0/openpdf/report?k=C0A80107:0193D9003412:2400:00F8E321&c=etimad, date=1734512583649
+Row: 898 address=AL-Eatimad, body=╪º╪╡╪»╪º╪▒ ╪╖┘ä╪¿┘è┘ç ╪╣┘ä┘ë ╪¡╪│╪º╪¿┘â┘à ╪¿┘à╪¿┘ä╪║ 2395.0╪┤ ┘ê╪º╪╡╪¿╪¡ ╪▒╪╡┘è╪»┘â┘à  147989.0 ╪┤ ┘ä┘ä╪¬┘ü╪º╪╡┘è┘ä, date=1734512580680
+Row: 899 address=AL-Eatimad, body=http://188.34.164.0/openpdf/report?k=C0A80107:0193D88DD378:00D5:2513DD3B&c=etimad, date=1734505105558
+Row: 900 address=AL-Eatimad, body=╪º╪╡╪»╪º╪▒ ╪╖┘ä╪¿┘è┘ç ╪╣┘ä┘ë ╪¡╪│╪º╪¿┘â┘à ╪¿┘à╪¿┘ä╪║ 328.0╪┤ ┘ê╪º╪╡╪¿╪¡ ╪▒╪╡┘è╪»┘â┘à  145594.0 ╪┤ ┘ä┘ä╪¬┘ü╪º╪╡┘è┘ä, date=1734505104628
+Row: 910 address=AL-Eatimad, body=╪º╪╡╪»╪º╪▒ ╪╖┘ä╪¿┘è┘ç ╪╣┘ä┘ë ╪¡╪│╪º╪¿┘â┘à ╪¿┘à╪¿┘ä╪║ 25.0╪┤ ┘ê╪º╪╡╪¿╪¡ ╪▒╪╡┘è╪»┘â┘à  145266.0 ╪┤ ┘ä┘ä╪¬┘ü╪º╪╡┘è┘ä, date=1734433458207
+Row: 911 address=AL-Eatimad, body=http://188.34.164.0/openpdf/report?k=C0A80108:0193D4490EDB:183F:0F633344&c=etimad, date=1734433457236
+Row: 912 address=AL-Eatimad, body=http://188.34.164.0/openpdf/report?k=C0A80107:0193D443E342:C741:6B776861&c=etimad, date=1734433338976
+Row: 913 address=AL-Eatimad, body=╪º╪╡╪»╪º╪▒ ╪╖┘ä╪¿┘è┘ç ╪╣┘ä┘ë ╪¡╪│╪º╪¿┘â┘à ╪¿┘à╪¿┘ä╪║ 4276.0╪┤ ┘ê╪º╪╡╪¿╪¡ ╪▒╪╡┘è╪»┘â┘à  145241.0 ╪┤ ┘ä┘ä╪¬┘ü╪º╪╡┘è┘ä, date=1734433338066
+Row: 917 address=AL-Eatimad, body=http://188.34.164.0/openpdf/report?k=C0A80108:0193D3FE7428:02E5:26ED82C5&c=etimad, date=1734428706041
+Row: 918 address=AL-Eatimad, body=╪º╪╡╪»╪º╪▒ ╪╖┘ä╪¿┘è┘ç ╪╣┘ä┘ë ╪¡╪│╪º╪¿┘â┘à ╪¿┘à╪¿┘ä╪║ 150.0╪┤ ┘ê╪º╪╡╪¿╪¡ ╪▒╪╡┘è╪»┘â┘à  140965.0 ╪┤ ┘ä┘ä╪¬┘ü╪º╪╡┘è┘ä, date=1734428705322
+Row: 924 address=AL-Eatimad, body=http://188.34.164.0/openpdf/report?k=C0A8016B:0193D001C5F3:75CC:2A3A3A48&c=etimad, date=1734361941030
+Row: 925 address=AL-Eatimad, body=╪º╪╡╪»╪º╪▒ ╪╖┘ä╪¿┘è┘ç ╪╣┘ä┘ë ╪¡╪│╪º╪¿┘â┘à ╪¿┘à╪¿┘ä╪║ 165.0╪┤ ┘ê╪º╪╡╪¿╪¡ ╪▒╪╡┘è╪»┘â┘à  140815.0 ╪┤ ┘ä┘ä╪¬┘ü╪º╪╡┘è┘ä, date=1734361938940
+Row: 966 address=AL-Eatimad, body=http://188.34.164.0/openpdf/report?k=C0A80107:0193ABE8E7F4:16C4:32F96CCB&c=etimad, date=1733756191590
+Row: 967 address=AL-Eatimad, body=╪º╪╡╪»╪º╪▒ ╪╖┘ä╪¿┘è┘ç ╪╣┘ä┘ë ╪¡╪│╪º╪¿┘â┘à ╪¿┘à╪¿┘ä╪║ 255.0╪┤ ┘ê╪º╪╡╪¿╪¡ ╪▒╪╡┘è╪»┘â┘à  126927.5 ╪┤ ┘ä┘ä╪¬┘ü╪º╪╡┘è┘ä, date=1733756190232
+Row: 968 address=AL-Eatimad, body=┘à╪▒╪¬╪¼╪╣ ╪¿╪╢╪º╪╣╪⌐ ╪╣┘ä┘ë ╪¡╪│╪º╪¿ ╪¼┘à╪º┘ä ╪º┘ä╪¿╪º╪¿╪º ╪¿┘é┘è┘à╪⌐ 40.0 ╪┤┘ê╪º╪╡╪¿╪¡ ╪▒╪╡┘è╪»┘â┘à  126672.5 ╪┤, date=1733755946959
+Row: 969 address=AL-Eatimad, body=http://188.34.164.0/openpdf/report?k=C0A80107:0193AA767923:169F:4F9D6AFC&c=etimad, date=1733731949741
+Row: 970 address=AL-Eatimad, body=╪º╪╡╪»╪º╪▒ ╪╖┘ä╪¿┘è┘ç ╪╣┘ä┘ë ╪¡╪│╪º╪¿┘â┘à ╪¿┘à╪¿┘ä╪║ 7047.0╪┤ ┘ê╪º╪╡╪¿╪¡ ╪▒╪╡┘è╪»┘â┘à  126712.5 ╪┤ ┘ä┘ä╪¬┘ü╪º╪╡┘è┘ä, date=1733731947223
+Row: 971 address=AL-Eatimad, body=http://188.34.164.0/openpdf/report?k=C0A80108:0193AA4B9BD6:13C4:646E53E7&c=etimad, date=1733729183337
+Row: 972 address=AL-Eatimad, body=╪º╪╡╪»╪º╪▒ ╪╖┘ä╪¿┘è┘ç ╪╣┘ä┘ë ╪¡╪│╪º╪¿┘â┘à ╪¿┘à╪¿┘ä╪║ 338.0╪┤ ┘ê╪º╪╡╪¿╪¡ ╪▒╪╡┘è╪»┘â┘à  119665.5 ╪┤ ┘ä┘ä╪¬┘ü╪º╪╡┘è┘ä, date=1733729181634
+Row: 974 address=AL-Eatimad, body=http://188.34.164.0/openpdf/report?k=C0A80107:0193A62B3507:78CF:416EBD55&c=etimad, date=1733659946486
+Row: 975 address=AL-Eatimad, body=╪º╪╡╪»╪º╪▒ ╪╖┘ä╪¿┘è┘ç ╪╣┘ä┘ë ╪¡╪│╪º╪¿┘â┘à ╪¿┘à╪¿┘ä╪║ 1699.0╪┤ ┘ê╪º╪╡╪¿╪¡ ╪▒╪╡┘è╪»┘â┘à  119327.5 ╪┤ ┘ä┘ä╪¬┘ü╪º╪╡┘è┘ä, date=1733659945797
+Row: 979 address=AL-Eatimad, body=┘à╪▒╪¬╪¼╪╣ ╪¿╪╢╪º╪╣╪⌐ ╪╣┘ä┘ë ╪¡╪│╪º╪¿ ╪¼┘à╪º┘ä ╪º┘ä╪¿╪º╪¿╪º ╪¿┘é┘è┘à╪⌐ 8.0 ╪┤┘ê╪º╪╡╪¿╪¡ ╪▒╪╡┘è╪»┘â┘à  117628.5 ╪┤, date=1733656705439
+Row: 981 address=AL-Eatimad, body=http://188.34.164.0/openpdf/report?k=C0A80107:0193A515D778:D2EE:7308DE32&c=etimad, date=1733641720911
+Row: 982 address=AL-Eatimad, body=╪º╪╡╪»╪º╪▒ ╪╖┘ä╪¿┘è┘ç ╪╣┘ä┘ë ╪¡╪│╪º╪¿┘â┘à ╪¿┘à╪¿┘ä╪║ 460.0╪┤ ┘ê╪º╪╡╪¿╪¡ ╪▒╪╡┘è╪»┘â┘à  117636.5 ╪┤ ┘ä┘ä╪¬┘ü╪º╪╡┘è┘ä, date=1733641718373
+Row: 990 address=AL-Eatimad, body=http://188.34.164.0/openpdf/report?k=C0A8016B:0193A1A2F0A1:806E:07B03E04&c=etimad, date=1733583868317
+Row: 991 address=AL-Eatimad, body=╪º╪╡╪»╪º╪▒ ╪╖┘ä╪¿┘è┘ç ╪╣┘ä┘ë ╪¡╪│╪º╪¿┘â┘à ╪¿┘à╪¿┘ä╪║ 70.0╪┤ ┘ê╪º╪╡╪¿╪¡ ╪▒╪╡┘è╪»┘â┘à  117176.5 ╪┤ ┘ä┘ä╪¬┘ü╪º╪╡┘è┘ä, date=1733583865903
+Row: 1001 address=AL-Eatimad, body=http://188.34.164.0/openpdf/report?k=C0A80107:01939771D7F4:DBC9:2781311B&c=etimad, date=1733412916100
+Row: 1002 address=AL-Eatimad, body=╪º╪╡╪»╪º╪▒ ╪╖┘ä╪¿┘è┘ç ╪╣┘ä┘ë ╪¡╪│╪º╪¿┘â┘à ╪¿┘à╪¿┘ä╪║ 955.0╪┤ ┘ê╪º╪╡╪¿╪¡ ╪▒╪╡┘è╪»┘â┘à  117106.5 ╪┤ ┘ä┘ä╪¬┘ü╪º╪╡┘è┘ä, date=1733412869804
+Row: 1013 address=AL-Eatimad, body=http://188.34.164.0/openpdf/report?k=C0A80107:01939575C388:FF88:5C023715&c=etimad, date=1733379643616
+Row: 1014 address=AL-Eatimad, body=╪º╪╡╪»╪º╪▒ ╪╖┘ä╪¿┘è┘ç ╪╣┘ä┘ë ╪¡╪│╪º╪¿┘â┘à ╪¿┘à╪¿┘ä╪║ 90.0╪┤ ┘ê╪º╪╡╪¿╪¡ ╪▒╪╡┘è╪»┘â┘à  116151.5 ╪┤ ┘ä┘ä╪¬┘ü╪º╪╡┘è┘ä, date=1733379641258
+Row: 1017 address=AL-Eatimad, body=http://188.34.164.0/openpdf/report?k=C0A80107:01939076AF7D:8AB3:51300E1F&c=etimad, date=1733295747490
+Row: 1018 address=AL-Eatimad, body=╪º╪╡╪»╪º╪▒ ╪╖┘ä╪¿┘è┘ç ╪╣┘ä┘ë ╪¡╪│╪º╪¿┘â┘à ╪¿┘à╪¿┘ä╪║ 5358.0╪┤ ┘ê╪º╪╡╪¿╪¡ ╪▒╪╡┘è╪»┘â┘à  116061.5 ╪┤ ┘ä┘ä╪¬┘ü╪º╪╡┘è┘ä, date=1733295744460
+Row: 1021 address=AL-Eatimad, body=╪º╪╡╪»╪º╪▒ ╪╖┘ä╪¿┘è┘ç ╪╣┘ä┘ë ╪¡╪│╪º╪¿┘â┘à ╪¿┘à╪¿┘ä╪║ 880.0╪┤ ┘ê╪º╪╡╪¿╪¡ ╪▒╪╡┘è╪»┘â┘à  110703.5 ╪┤ ┘ä┘ä╪¬┘ü╪º╪╡┘è┘ä, date=1733291788058
+Row: 1022 address=AL-Eatimad, body=http://188.34.164.0/openpdf/report?k=C0A80107:01939039E47F:F208:7E01CD63&c=etimad, date=1733291785990
+Row: 1035 address=AL-Eatimad, body=http://188.34.164.0/openpdf/report?k=C0A80108:0193861763E2:9D7C:3B6E8C55&c=etimad, date=1733121746256
+Row: 1036 address=AL-Eatimad, body=╪º╪╡╪»╪º╪▒ ╪╖┘ä╪¿┘è┘ç ╪╣┘ä┘ë ╪¡╪│╪º╪¿┘â┘à ╪¿┘à╪¿┘ä╪║ 290.0╪┤ ┘ê╪º╪╡╪¿╪¡ ╪▒╪╡┘è╪»┘â┘à  109823.5 ╪┤ ┘ä┘ä╪¬┘ü╪º╪╡┘è┘ä, date=1733121743955
+Row: 1042 address=AL-Eatimad, body=http://188.34.164.0/openpdf/report?k=C0A80108:01938111003C:BA2B:098ADB92&c=etimad, date=1733037392337
+Row: 1043 address=AL-Eatimad, body=╪º╪╡╪»╪º╪▒ ╪╖┘ä╪¿┘è┘ç ╪╣┘ä┘ë ╪¡╪│╪º╪¿┘â┘à ╪¿┘à╪¿┘ä╪║ 2050.0╪┤ ┘ê╪º╪╡╪¿╪¡ ╪▒╪╡┘è╪»┘â┘à  109533.5 ╪┤ ┘ä┘ä╪¬┘ü╪º╪╡┘è┘ä, date=1733037385315
+Row: 1053 address=AL-Eatimad, body=http://188.34.164.0/openpdf/report?k=C0A80107:01937C977537:4BCA:2BF43EF7&c=etimad, date=1732962387919
+Row: 1054 address=AL-Eatimad, body=╪º╪╡╪»╪º╪▒ ╪╖┘ä╪¿┘è┘ç ╪╣┘ä┘ë ╪¡╪│╪º╪¿┘â┘à ╪¿┘à╪¿┘ä╪║ 300.0╪┤ ┘ê╪º╪╡╪¿╪¡ ╪▒╪╡┘è╪»┘â┘à  107483.5 ╪┤ ┘ä┘ä╪¬┘ü╪º╪╡┘è┘ä, date=1732962385699
+Row: 1056 address=AL-Eatimad, body=http://188.34.164.0/openpdf/report?k=C0A80108:01937BF3765B:8D6C:33108300&c=etimad, date=1732951583738
+Row: 1057 address=AL-Eatimad, body=╪º╪╡╪»╪º╪▒ ╪╖┘ä╪¿┘è┘ç ╪╣┘ä┘ë ╪¡╪│╪º╪¿┘â┘à ╪¿┘à╪¿┘ä╪║ 2100.0╪┤ ┘ê╪º╪╡╪¿╪¡ ╪▒╪╡┘è╪»┘â┘à  107183.5 ╪┤ ┘ä┘ä╪¬┘ü╪º╪╡┘è┘ä, date=1732951581626
+Row: 1058 address=AL-Eatimad, body=╪º╪╡╪»╪º╪▒ ╪╖┘ä╪¿┘è┘ç ╪╣┘ä┘ë ╪¡╪│╪º╪¿┘â┘à ╪¿┘à╪¿┘ä╪║ 12522.0╪┤ ┘ê╪º╪╡╪¿╪¡ ╪▒╪╡┘è╪»┘â┘à  105083.5 ╪┤ ┘ä┘ä╪¬┘ü╪º╪╡┘è┘ä, date=1732947637478
+Row: 1059 address=AL-Eatimad, body=http://188.34.164.0/openpdf/report?k=C0A80107:01937BB6B639:6E59:61A5E5F1&c=etimad, date=1732947636459
+Row: 1070 address=AL-Eatimad, body=http://188.34.164.0/openpdf/report?k=C0A80107:019371A1A595:1F11:03F4A223&c=etimad, date=1732778434734
+Row: 1071 address=AL-Eatimad, body=╪º╪╡╪»╪º╪▒ ╪╖┘ä╪¿┘è┘ç ╪╣┘ä┘ë ╪¡╪│╪º╪¿┘â┘à ╪¿┘à╪¿┘ä╪║ 347.0╪┤ ┘ê╪º╪╡╪¿╪¡ ╪▒╪╡┘è╪»┘â┘à  92561.5 ╪┤ ┘ä┘ä╪¬┘ü╪º╪╡┘è┘ä, date=1732778433479
+Row: 1083 address=AL-Eatimad, body=http://188.34.164.0/openpdf/report?k=C0A80108:01936C6F596D:CC35:059F3AD1&c=etimad, date=1732691304960
+Row: 1084 address=AL-Eatimad, body=╪º╪╡╪»╪º╪▒ ╪╖┘ä╪¿┘è┘ç ╪╣┘ä┘ë ╪¡╪│╪º╪¿┘â┘à ╪¿┘à╪¿┘ä╪║ 130.0╪┤ ┘ê╪º╪╡╪¿╪¡ ╪▒╪╡┘è╪»┘â┘à  92214.5 ╪┤ ┘ä┘ä╪¬┘ü╪º╪╡┘è┘ä, date=1732691303999
+Row: 1085 address=AL-Eatimad, body=http://188.34.164.0/openpdf/report?k=C0A80108:01936C54D08E:B458:33B05130&c=etimad, date=1732689641708
+Row: 1086 address=AL-Eatimad, body=╪º╪╡╪»╪º╪▒ ╪╖┘ä╪¿┘è┘ç ╪╣┘ä┘ë ╪¡╪│╪º╪¿┘â┘à ╪¿┘à╪¿┘ä╪║ 4730.0╪┤ ┘ê╪º╪╡╪¿╪¡ ╪▒╪╡┘è╪»┘â┘à  92084.5 ╪┤ ┘ä┘ä╪¬┘ü╪º╪╡┘è┘ä, date=1732689637592
+Row: 1087 address=AL-Eatimad, body=http://188.34.164.0/openpdf/report?k=C0A80107:019368D3218E:3A09:3470A283&c=etimad, date=1732630705113
+Row: 1088 address=AL-Eatimad, body=╪º╪╡╪»╪º╪▒ ╪╖┘ä╪¿┘è┘ç ╪╣┘ä┘ë ╪¡╪│╪º╪¿┘â┘à ╪¿┘à╪¿┘ä╪║ 320.0╪┤ ┘ê╪º╪╡╪¿╪¡ ╪▒╪╡┘è╪»┘â┘à  87354.5 ╪┤ ┘ä┘ä╪¬┘ü╪º╪╡┘è┘ä, date=1732630704238
+Row: 1090 address=AL-Eatimad, body=http://188.34.164.0/openpdf/report?k=C0A80108:01936864A481:74F8:6EF7C65A&c=etimad, date=1732623510595
+Row: 1091 address=AL-Eatimad, body=╪º╪╡╪»╪º╪▒ ╪╖┘ä╪¿┘è┘ç ╪╣┘ä┘ë ╪¡╪│╪º╪¿┘â┘à ╪¿┘à╪¿┘ä╪║ 36.0╪┤ ┘ê╪º╪╡╪¿╪¡ ╪▒╪╡┘è╪»┘â┘à  87034.5 ╪┤ ┘ä┘ä╪¬┘ü╪º╪╡┘è┘ä, date=1732623508068
+Row: 1092 address=AL-Eatimad, body=http://188.34.164.0/openpdf/report?k=C0A80108:01936851A432:B9C0:71CDBF69&c=etimad, date=1732622188915
+Row: 1093 address=AL-Eatimad, body=╪º╪╡╪»╪º╪▒ ╪╖┘ä╪¿┘è┘ç ╪╣┘ä┘ë ╪¡╪│╪º╪¿┘â┘à ╪¿┘à╪¿┘ä╪║ 3543.0╪┤ ┘ê╪º╪╡╪¿╪¡ ╪▒╪╡┘è╪»┘â┘à  86998.5 ╪┤ ┘ä┘ä╪¬┘ü╪º╪╡┘è┘ä, date=1732622184579
+Row: 1104 address=AL-Eatimad, body=http://188.34.164.0/openpdf/report?k=C0A80108:019363B9B749:0DD8:58B681FD&c=etimad, date=1732545144828
+Row: 1105 address=AL-Eatimad, body=╪º╪╡╪»╪º╪▒ ╪╖┘ä╪¿┘è┘ç ╪╣┘ä┘ë ╪¡╪│╪º╪¿┘â┘à ╪¿┘à╪¿┘ä╪║ 3635.0╪┤ ┘ê╪º╪╡╪¿╪¡ ╪▒╪╡┘è╪»┘â┘à  83455.5 ╪┤ ┘ä┘ä╪¬┘ü╪º╪╡┘è┘ä, date=1732545143810
+Row: 1109 address=AL-Eatimad, body=http://188.34.164.0/openpdf/report?k=C0A80108:019362827DE5:2F13:2F696675&c=etimad, date=1732524787669
+Row: 1110 address=AL-Eatimad, body=╪º╪╡╪»╪º╪▒ ╪╖┘ä╪¿┘è┘ç ╪╣┘ä┘ë ╪¡╪│╪º╪¿┘â┘à ╪¿┘à╪¿┘ä╪║ 650.0╪┤ ┘ê╪º╪╡╪¿╪¡ ╪▒╪╡┘è╪»┘â┘à  79820.5 ╪┤ ┘ä┘ä╪¬┘ü╪º╪╡┘è┘ä, date=1732524787179
+Row: 1115 address=AL-Eatimad, body=http://188.34.164.0/openpdf/report?k=C0A80108:01935EEBCD6D:1651:385B83DB&c=etimad, date=1732464641577
+Row: 1116 address=AL-Eatimad, body=╪º╪╡╪»╪º╪▒ ╪╖┘ä╪¿┘è┘ç ╪╣┘ä┘ë ╪¡╪│╪º╪¿┘â┘à ╪¿┘à╪¿┘ä╪║ 561.0╪┤ ┘ê╪º╪╡╪¿╪¡ ╪▒╪╡┘è╪»┘â┘à  79170.5 ╪┤ ┘ä┘ä╪¬┘ü╪º╪╡┘è┘ä, date=1732464634894
+Row: 1120 address=AL-Eatimad, body=http://188.34.164.0/openpdf/report?k=C0A80108:01935D58CBF4:D429:4487EE9F&c=etimad, date=1732438234285
+Row: 1121 address=AL-Eatimad, body=╪º╪╡╪»╪º╪▒ ╪╖┘ä╪¿┘è┘ç ╪╣┘ä┘ë ╪¡╪│╪º╪¿┘â┘à ╪¿┘à╪¿┘ä╪║ 978.0╪┤ ┘ê╪º╪╡╪¿╪¡ ╪▒╪╡┘è╪»┘â┘à  78609.5 ╪┤ ┘ä┘ä╪¬┘ü╪º╪╡┘è┘ä, date=1732438233224
+Row: 1124 address=AL-Eatimad, body=┘à╪▒╪¬╪¼╪╣ ╪¿╪╢╪º╪╣╪⌐ ╪╣┘ä┘ë ╪¡╪│╪º╪¿ ╪¼┘à╪º┘ä ╪º┘ä╪¿╪º╪¿╪º ╪¿┘é┘è┘à╪⌐ 100.0 ╪┤┘ê╪º╪╡╪¿╪¡ ╪▒╪╡┘è╪»┘â┘à  77631.5 ╪┤, date=1732434883158
+Row: 1125 address=AL-Eatimad, body=http://188.34.164.0/openpdf/report?k=C0A8016B:01935D24BB44:140B:3DF8F386&c=etimad, date=1732434880159
+Row: 1126 address=AL-Eatimad, body=╪º╪╡╪»╪º╪▒ ╪╖┘ä╪¿┘è┘ç ╪╣┘ä┘ë ╪¡╪│╪º╪¿┘â┘à ╪¿┘à╪¿┘ä╪║ 260.0╪┤ ┘ê╪º╪╡╪¿╪¡ ╪▒╪╡┘è╪»┘â┘à  77631.5 ╪┤ ┘ä┘ä╪¬┘ü╪º╪╡┘è┘ä, date=1732434873292
+Row: 1127 address=AL-Eatimad, body=http://188.34.164.0/openpdf/report?k=C0A8016B:01935D15F117:7737:4DFB7A9E&c=etimad, date=1732433947184
+Row: 1128 address=AL-Eatimad, body=╪º╪╡╪»╪º╪▒ ╪╖┘ä╪¿┘è┘ç ╪╣┘ä┘ë ╪¡╪│╪º╪¿┘â┘à ╪¿┘à╪¿┘ä╪║ 290.0╪┤ ┘ê╪º╪╡╪¿╪¡ ╪▒╪╡┘è╪»┘â┘à  77471.5 ╪┤ ┘ä┘ä╪¬┘ü╪º╪╡┘è┘ä, date=1732433944917
+Row: 1136 address=AL-Eatimad, body=http://188.34.164.0/openpdf/report?k=C0A80108:0193580C6714:E7CC:2127DDE7&c=etimad, date=1732349303759
+Row: 1137 address=AL-Eatimad, body=╪º╪╡╪»╪º╪▒ ╪╖┘ä╪¿┘è┘ç ╪╣┘ä┘ë ╪¡╪│╪º╪¿┘â┘à ╪¿┘à╪¿┘ä╪║ 8055.0╪┤ ┘ê╪º╪╡╪¿╪¡ ╪▒╪╡┘è╪»┘â┘à  77181.5 ╪┤ ┘ä┘ä╪¬┘ü╪º╪╡┘è┘ä, date=1732349302961
+Row: 1138 address=AL-Eatimad, body=http://188.34.164.0/openpdf/report?k=C0A80108:019357CEF22F:7AB1:5EE47235&c=etimad, date=1732345100465
+Row: 1139 address=AL-Eatimad, body=╪º╪╡╪»╪º╪▒ ╪╖┘ä╪¿┘è┘ç ╪╣┘ä┘ë ╪¡╪│╪º╪¿┘â┘à ╪¿┘à╪¿┘ä╪║ 840.0╪┤ ┘ê╪º╪╡╪¿╪¡ ╪▒╪╡┘è╪»┘â┘à  69126.5 ╪┤ ┘ä┘ä╪¬┘ü╪º╪╡┘è┘ä, date=1732345099641
+Row: 1140 address=AL-Eatimad, body=╪┤┘â╪▒╪º ┘ä╪│╪»╪º╪» ┘à╪¿┘ä╪║2000.0 ╪┤┘ê╪º╪╡╪¿╪¡ ╪▒╪╡┘è╪»┘â┘à  68286.5 ╪┤, date=1732344984407
+Row: 1144 address=AL-Eatimad, body=┘à╪▒╪¬╪¼╪╣ ╪¿╪╢╪º╪╣╪⌐ ╪╣┘ä┘ë ╪¡╪│╪º╪¿ ╪¼┘à╪º┘ä ╪º┘ä╪¿╪º╪¿╪º ╪¿┘é┘è┘à╪⌐ 200.0 ╪┤┘ê╪º╪╡╪¿╪¡ ╪▒╪╡┘è╪»┘â┘à  70286.5 ╪┤, date=1732202668683
+Row: 1147 address=AL-Eatimad, body=http://188.34.164.0/openpdf/report?k=C0A80107:01934E0CD990:4C94:73AE760A&c=etimad, date=1732181543131
+Row: 1148 address=AL-Eatimad, body=╪º╪╡╪»╪º╪▒ ╪╖┘ä╪¿┘è┘ç ╪╣┘ä┘ë ╪¡╪│╪º╪¿┘â┘à ╪¿┘à╪¿┘ä╪║ 300.0╪┤ ┘ê╪º╪╡╪¿╪¡ ╪▒╪╡┘è╪»┘â┘à  70486.5 ╪┤ ┘ä┘ä╪¬┘ü╪º╪╡┘è┘ä, date=1732181542029
+Row: 1149 address=AL-Eatimad, body=http://188.34.164.0/openpdf/report?k=C0A80107:01934D82E32F:C40C:4799347C&c=etimad, date=1732172442034
+Row: 1150 address=AL-Eatimad, body=╪º╪╡╪»╪º╪▒ ╪╖┘ä╪¿┘è┘ç ╪╣┘ä┘ë ╪¡╪│╪º╪¿┘â┘à ╪¿┘à╪¿┘ä╪║ 5046.0╪┤ ┘ê╪º╪╡╪¿╪¡ ╪▒╪╡┘è╪»┘â┘à  70186.5 ╪┤ ┘ä┘ä╪¬┘ü╪º╪╡┘è┘ä, date=1732172438494
+Row: 1155 address=AL-Eatimad, body=http://188.34.164.0/openpdf/report?k=C0A8016B:0193483DFA49:5A5A:577825D5&c=etimad, date=1732084108472
+Row: 1156 address=AL-Eatimad, body=╪º╪╡╪»╪º╪▒ ╪╖┘ä╪¿┘è┘ç ╪╣┘ä┘ë ╪¡╪│╪º╪¿┘â┘à ╪¿┘à╪¿┘ä╪║ 3.0╪┤ ┘ê╪º╪╡╪¿╪¡ ╪▒╪╡┘è╪»┘â┘à  65140.5 ╪┤ ┘ä┘ä╪¬┘ü╪º╪╡┘è┘ä, date=1732084107701
+Row: 1157 address=AL-Eatimad, body=http://188.34.164.0/openpdf/report?k=C0A8016B:0193483D7904:5048:4EA14FCB&c=etimad, date=1732084107039
+Row: 1158 address=AL-Eatimad, body=╪º╪╡╪»╪º╪▒ ╪╖┘ä╪¿┘è┘ç ╪╣┘ä┘ë ╪¡╪│╪º╪¿┘â┘à ╪¿┘à╪¿┘ä╪║ 200.0╪┤ ┘ê╪º╪╡╪¿╪¡ ╪▒╪╡┘è╪»┘â┘à  65140.5 ╪┤ ┘ä┘ä╪¬┘ü╪º╪╡┘è┘ä, date=1732084105870
+Row: 1159 address=AL-Eatimad, body=http://188.34.164.0/openpdf/report?k=C0A80107:0193483652BA:474A:1D6EB984&c=etimad, date=1732083501831
+Row: 1160 address=AL-Eatimad, body=╪º╪╡╪»╪º╪▒ ╪╖┘ä╪¿┘è┘ç ╪╣┘ä┘ë ╪¡╪│╪º╪¿┘â┘à ╪¿┘à╪¿┘ä╪║ 2177.5╪┤ ┘ê╪º╪╡╪¿╪¡ ╪▒╪╡┘è╪»┘â┘à  64937.5 ╪┤ ┘ä┘ä╪¬┘ü╪º╪╡┘è┘ä, date=1732083500874
+Row: 1167 address=AL-Eatimad, body=http://188.34.164.0/openpdf/report?k=C0A80107:0193445187AE:1818:6A206158&c=etimad, date=1732018353889
+Row: 1168 address=AL-Eatimad, body=╪º╪╡╪»╪º╪▒ ╪╖┘ä╪¿┘è┘ç ╪╣┘ä┘ë ╪¡╪│╪º╪¿┘â┘à ╪¿┘à╪¿┘ä╪║ 435.0╪┤ ┘ê╪º╪╡╪¿╪¡ ╪▒╪╡┘è╪»┘â┘à  62760.0 ╪┤ ┘ä┘ä╪¬┘ü╪º╪╡┘è┘ä, date=1732018351008
+Row: 1170 address=AL-Eatimad, body=http://188.34.164.0/openpdf/report?k=C0A80107:01934360D3AB:CA97:7E61C207&c=etimad, date=1732002388827
+Row: 1171 address=AL-Eatimad, body=╪º╪╡╪»╪º╪▒ ╪╖┘ä╪¿┘è┘ç ╪╣┘ä┘ë ╪¡╪│╪º╪¿┘â┘à ╪¿┘à╪¿┘ä╪║ 1040.0╪┤ ┘ê╪º╪╡╪¿╪¡ ╪▒╪╡┘è╪»┘â┘à  62325.0 ╪┤ ┘ä┘ä╪¬┘ü╪º╪╡┘è┘ä, date=1732002386784
+Row: 1172 address=AL-Eatimad, body=http://188.34.164.0/openpdf/report?k=C0A80107:01934351B022:A210:324E7992&c=etimad, date=1732001550385
+Row: 1173 address=AL-Eatimad, body=╪º╪╡╪»╪º╪▒ ╪╖┘ä╪¿┘è┘ç ╪╣┘ä┘ë ╪¡╪│╪º╪¿┘â┘à ╪¿┘à╪¿┘ä╪║ 72.0╪┤ ┘ê╪º╪╡╪¿╪¡ ╪▒╪╡┘è╪»┘â┘à  61285.0 ╪┤ ┘ä┘ä╪¬┘ü╪º╪╡┘è┘ä, date=1732001548317
+Row: 1176 address=AL-Eatimad, body=http://188.34.164.0/openpdf/report?k=C0A80107:01933E246798:6687:211DC7BA&c=etimad, date=1731914666359
+Row: 1177 address=AL-Eatimad, body=╪º╪╡╪»╪º╪▒ ╪╖┘ä╪¿┘è┘ç ╪╣┘ä┘ë ╪¡╪│╪º╪¿┘â┘à ╪¿┘à╪¿┘ä╪║ 340.0╪┤ ┘ê╪º╪╡╪¿╪¡ ╪▒╪╡┘è╪»┘â┘à  61213.0 ╪┤ ┘ä┘ä╪¬┘ü╪º╪╡┘è┘ä, date=1731914663812
+Row: 1183 address=AL-Eatimad, body=http://188.34.164.0/openpdf/report?k=C0A80107:019339C5DB86:3D17:64BECFAF&c=etimad, date=1731841471931
+Row: 1184 address=AL-Eatimad, body=╪º╪╡╪»╪º╪▒ ╪╖┘ä╪¿┘è┘ç ╪╣┘ä┘ë ╪¡╪│╪º╪¿┘â┘à ╪¿┘à╪¿┘ä╪║ 315.0╪┤ ┘ê╪º╪╡╪¿╪¡ ╪▒╪╡┘è╪»┘â┘à  60873.0 ╪┤ ┘ä┘ä╪¬┘ü╪º╪╡┘è┘ä, date=1731841469205
+Row: 1193 address=AL-Eatimad, body=http://188.34.164.0/openpdf/report?k=C0A80108:019338D7C88F:86B6:57FFA7D1&c=etimad, date=1731825743791
+Row: 1194 address=AL-Eatimad, body=╪º╪╡╪»╪º╪▒ ╪╖┘ä╪¿┘è┘ç ╪╣┘ä┘ë ╪¡╪│╪º╪¿┘â┘à ╪¿┘à╪¿┘ä╪║ 5810.0╪┤ ┘ê╪º╪╡╪¿╪¡ ╪▒╪╡┘è╪»┘â┘à  60558.0 ╪┤ ┘ä┘ä╪¬┘ü╪º╪╡┘è┘ä, date=1731825741954
+Row: 1201 address=AL-Eatimad, body=┘à╪▒╪¬╪¼╪╣ ╪¿╪╢╪º╪╣╪⌐ ╪╣┘ä┘ë ╪¡╪│╪º╪¿ ╪¼┘à╪º┘ä ╪º┘ä╪¿╪º╪¿╪º ╪¿┘é┘è┘à╪⌐ 250.0 ╪┤┘ê╪º╪╡╪¿╪¡ ╪▒╪╡┘è╪»┘â┘à  54748.0 ╪┤, date=1731767439065
+Row: 1204 address=AL-Eatimad, body=http://188.34.164.0/openpdf/report?k=C0A80107:01933500CFDB:8946:3B572148&c=etimad, date=1731761180100
+Row: 1205 address=AL-Eatimad, body=╪º╪╡╪»╪º╪▒ ╪╖┘ä╪¿┘è┘ç ╪╣┘ä┘ë ╪¡╪│╪º╪¿┘â┘à ╪¿┘à╪¿┘ä╪║ 500.0╪┤ ┘ê╪º╪╡╪¿╪¡ ╪▒╪╡┘è╪»┘â┘à  54998.0 ╪┤ ┘ä┘ä╪¬┘ü╪º╪╡┘è┘ä, date=1731761179062
+Row: 1206 address=AL-Eatimad, body=http://188.34.164.0/openpdf/report?k=C0A80107:019334E2DC57:C61B:42CA90DA&c=etimad, date=1731759409331
+Row: 1207 address=AL-Eatimad, body=╪º╪╡╪»╪º╪▒ ╪╖┘ä╪¿┘è┘ç ╪╣┘ä┘ë ╪¡╪│╪º╪¿┘â┘à ╪¿┘à╪¿┘ä╪║ 355.0╪┤ ┘ê╪º╪╡╪¿╪¡ ╪▒╪╡┘è╪»┘â┘à  54498.0 ╪┤ ┘ä┘ä╪¬┘ü╪º╪╡┘è┘ä, date=1731759407953
+Row: 1208 address=AL-Eatimad, body=http://188.34.164.0/openpdf/report?k=C0A80108:0193348DF66C:C800:69EF86BD&c=etimad, date=1731753747110
+Row: 1209 address=AL-Eatimad, body=╪º╪╡╪»╪º╪▒ ╪╖┘ä╪¿┘è┘ç ╪╣┘ä┘ë ╪¡╪│╪º╪¿┘â┘à ╪¿┘à╪¿┘ä╪║ 133.0╪┤ ┘ê╪º╪╡╪¿╪¡ ╪▒╪╡┘è╪»┘â┘à  54143.0 ╪┤ ┘ä┘ä╪¬┘ü╪º╪╡┘è┘ä, date=1731753746514
+Row: 1215 address=AL-Eatimad, body=http://188.34.164.0/openpdf/report?k=C0A80108:019333C9EF85:E655:07F5BD39&c=etimad, date=1731740903178
+Row: 1216 address=AL-Eatimad, body=╪º╪╡╪»╪º╪▒ ╪╖┘ä╪¿┘è┘ç ╪╣┘ä┘ë ╪¡╪│╪º╪¿┘â┘à ╪¿┘à╪¿┘ä╪║ 675.0╪┤ ┘ê╪º╪╡╪¿╪¡ ╪▒╪╡┘è╪»┘â┘à  54010.0 ╪┤ ┘ä┘ä╪¬┘ü╪º╪╡┘è┘ä, date=1731740902058
+Row: 1226 address=AL-Eatimad, body=http://188.34.164.0/openpdf/report?k=C0A80108:01932A566E7E:4318:23CD97B3&c=etimad, date=1731582264945
+Row: 1227 address=AL-Eatimad, body=╪º╪╡╪»╪º╪▒ ╪╖┘ä╪¿┘è┘ç ╪╣┘ä┘ë ╪¡╪│╪º╪¿┘â┘à ╪¿┘à╪¿┘ä╪║ 440.0╪┤ ┘ê╪º╪╡╪¿╪¡ ╪▒╪╡┘è╪»┘â┘à  53335.0 ╪┤ ┘ä┘ä╪¬┘ü╪º╪╡┘è┘ä, date=1731582263850
+Row: 1230 address=AL-Eatimad, body=http://188.34.164.0/openpdf/report?k=C0A80108:0193296F2D85:5BC5:33A5AC28&c=etimad, date=1731567266449
+Row: 1231 address=AL-Eatimad, body=╪º╪╡╪»╪º╪▒ ╪╖┘ä╪¿┘è┘ç ╪╣┘ä┘ë ╪¡╪│╪º╪¿┘â┘à ╪¿┘à╪¿┘ä╪║ 3330.0╪┤ ┘ê╪º╪╡╪¿╪¡ ╪▒╪╡┘è╪»┘â┘à  52895.0 ╪┤ ┘ä┘ä╪¬┘ü╪º╪╡┘è┘ä, date=1731567263846
+Row: 1233 address=AL-Eatimad, body=http://188.34.164.0/openpdf/report?k=C0A80108:01932953B97B:9EB6:574F6940&c=etimad, date=1731565343895
+Row: 1234 address=AL-Eatimad, body=╪º╪╡╪»╪º╪▒ ╪╖┘ä╪¿┘è┘ç ╪╣┘ä┘ë ╪¡╪│╪º╪¿┘â┘à ╪¿┘à╪¿┘ä╪║ 1386.0╪┤ ┘ê╪º╪╡╪¿╪¡ ╪▒╪╡┘è╪»┘â┘à  49565.0 ╪┤ ┘ä┘ä╪¬┘ü╪º╪╡┘è┘ä, date=1731565342566
+Row: 1237 address=AL-Eatimad, body=http://188.34.164.0/openpdf/report?k=C0A80107:01932614A438:8307:6D464838&c=etimad, date=1731510981915
+Row: 1238 address=AL-Eatimad, body=╪º╪╡╪»╪º╪▒ ╪╖┘ä╪¿┘è┘ç ╪╣┘ä┘ë ╪¡╪│╪º╪¿┘â┘à ╪¿┘à╪¿┘ä╪║ 446.0╪┤ ┘ê╪º╪╡╪¿╪¡ ╪▒╪╡┘è╪»┘â┘à  48179.0 ╪┤ ┘ä┘ä╪¬┘ü╪º╪╡┘è┘ä, date=1731510981030
+Row: 1244 address=AL-Eatimad, body=http://188.34.164.0/openpdf/report?k=C0A80108:0193244C783A:A62D:3DD15AA4&c=etimad, date=1731481109976
+Row: 1245 address=AL-Eatimad, body=╪º╪╡╪»╪º╪▒ ╪╖┘ä╪¿┘è┘ç ╪╣┘ä┘ë ╪¡╪│╪º╪¿┘â┘à ╪¿┘à╪¿┘ä╪║ 623.0╪┤ ┘ê╪º╪╡╪¿╪¡ ╪▒╪╡┘è╪»┘â┘à  47733.0 ╪┤ ┘ä┘ä╪¬┘ü╪º╪╡┘è┘ä, date=1731481108360
+Row: 1252 address=AL-Eatimad, body=http://188.34.164.0/openpdf/report?k=C0A80108:0193209F53D4:E37D:26359820&c=etimad, date=1731419476165
+Row: 1253 address=AL-Eatimad, body=╪º╪╡╪»╪º╪▒ ╪╖┘ä╪¿┘è┘ç ╪╣┘ä┘ë ╪¡╪│╪º╪¿┘â┘à ╪¿┘à╪¿┘ä╪║ 120.0╪┤ ┘ê╪º╪╡╪¿╪¡ ╪▒╪╡┘è╪»┘â┘à  47110.0 ╪┤ ┘ä┘ä╪¬┘ü╪º╪╡┘è┘ä, date=1731419469233
+Row: 1257 address=AL-Eatimad, body=http://188.34.164.0/openpdf/report?k=C0A80107:019320395B9D:EEE2:5581A7CF&c=etimad, date=1731412703500
+Row: 1258 address=AL-Eatimad, body=╪º╪╡╪»╪º╪▒ ╪╖┘ä╪¿┘è┘ç ╪╣┘ä┘ë ╪¡╪│╪º╪¿┘â┘à ╪¿┘à╪¿┘ä╪║ 890.0╪┤ ┘ê╪º╪╡╪¿╪¡ ╪▒╪╡┘è╪»┘â┘à  46990.0 ╪┤ ┘ä┘ä╪¬┘ü╪º╪╡┘è┘ä, date=1731412702815
+Row: 1262 address=AL-Eatimad, body=http://188.34.164.0/openpdf/report?k=C0A80108:019320073263:012D:1E26ED95&c=etimad, date=1731409344742
+Row: 1263 address=AL-Eatimad, body=╪º╪╡╪»╪º╪▒ ╪╖┘ä╪¿┘è┘ç ╪╣┘ä┘ë ╪¡╪│╪º╪¿┘â┘à ╪¿┘à╪¿┘ä╪║ 217.0╪┤ ┘ê╪º╪╡╪¿╪¡ ╪▒╪╡┘è╪»┘â┘à  46100.0 ╪┤ ┘ä┘ä╪¬┘ü╪º╪╡┘è┘ä, date=1731409341958
+Row: 1268 address=AL-Eatimad, body=http://188.34.164.0/openpdf/report?k=C0A80108:01931F2FDE8A:3D12:0094AC84&c=etimad, date=1731395305595
+Row: 1269 address=AL-Eatimad, body=╪º╪╡╪»╪º╪▒ ╪╖┘ä╪¿┘è┘ç ╪╣┘ä┘ë ╪¡╪│╪º╪¿┘â┘à ╪¿┘à╪¿┘ä╪║ 20.0╪┤ ┘ê╪º╪╡╪¿╪¡ ╪▒╪╡┘è╪»┘â┘à  45883.0 ╪┤ ┘ä┘ä╪¬┘ü╪º╪╡┘è┘ä, date=1731395302990
+Row: 1270 address=AL-Eatimad, body=http://188.34.164.0/openpdf/report?k=C0A80108:01931F2B7759:201A:3358933A&c=etimad, date=1731394946734
+Row: 1271 address=AL-Eatimad, body=╪º╪╡╪»╪º╪▒ ╪╖┘ä╪¿┘è┘ç ╪╣┘ä┘ë ╪¡╪│╪º╪¿┘â┘à ╪¿┘à╪¿┘ä╪║ 6372.0╪┤ ┘ê╪º╪╡╪¿╪¡ ╪▒╪╡┘è╪»┘â┘à  45863.0 ╪┤ ┘ä┘ä╪¬┘ü╪º╪╡┘è┘ä, date=1731394944758
+Row: 1274 address=AL-Eatimad, body=╪┤┘â╪▒╪º ┘ä╪│╪»╪º╪» ┘à╪¿┘ä╪║200000.0 ╪┤┘ê╪º╪╡╪¿╪¡ ╪▒╪╡┘è╪»┘â┘à  39491.0 ╪┤, date=1731338663436
+Row: 1276 address=AL-Eatimad, body=http://188.34.164.0/openpdf/report?k=C0A80108:01931BA745D4:C07D:07A89994&c=etimad, date=1731335905610
+Row: 1277 address=AL-Eatimad, body=╪º╪╡╪»╪º╪▒ ╪╖┘ä╪¿┘è┘ç ╪╣┘ä┘ë ╪¡╪│╪º╪¿┘â┘à ╪¿┘à╪¿┘ä╪║ 90.0╪┤ ┘ê╪º╪╡╪¿╪¡ ╪▒╪╡┘è╪»┘â┘à  239491.0 ╪┤ ┘ä┘ä╪¬┘ü╪º╪╡┘è┘ä, date=1731335904449
+Row: 1285 address=AL-Eatimad, body=╪º╪╡╪»╪º╪▒ ╪╖┘ä╪¿┘è┘ç ╪╣┘ä┘ë ╪¡╪│╪º╪¿┘â┘à ╪¿┘à╪¿┘ä╪║ 50.0╪┤ ┘ê╪º╪╡╪¿╪¡ ╪▒╪╡┘è╪»┘â┘à  239401.0 ╪┤ ┘ä┘ä╪¬┘ü╪º╪╡┘è┘ä, date=1731320435744
+Row: 1286 address=AL-Eatimad, body=http://188.34.164.0/openpdf/report?k=C0A80107:01931AB93AAB:8EF8:30EF5222&c=etimad, date=1731320434915
+Row: 1292 address=AL-Eatimad, body=http://188.34.164.0/openpdf/report?k=C0A80107:01931A3636A7:C329:71AB5EB2&c=etimad, date=1731311783309
+Row: 1293 address=AL-Eatimad, body=╪º╪╡╪»╪º╪▒ ╪╖┘ä╪¿┘è┘ç ╪╣┘ä┘ë ╪¡╪│╪º╪¿┘â┘à ╪¿┘à╪¿┘ä╪║ 690.0╪┤ ┘ê╪º╪╡╪¿╪¡ ╪▒╪╡┘è╪»┘â┘à  239351.0 ╪┤ ┘ä┘ä╪¬┘ü╪º╪╡┘è┘ä, date=1731311782465
+Row: 1306 address=AL-Eatimad, body=╪┤┘â╪▒╪º ┘ä╪│╪»╪º╪» ┘à╪¿┘ä╪║80.0 ╪┤┘ê╪º╪╡╪¿╪¡ ╪▒╪╡┘è╪»┘â┘à  238661.0 ╪┤, date=1731234271770
+Row: 1307 address=AL-Eatimad, body=http://188.34.164.0/openpdf/report?k=C0A80107:019315155294:0330:4B90ADD0&c=etimad, date=1731225862749
+Row: 1308 address=AL-Eatimad, body=╪º╪╡╪»╪º╪▒ ╪╖┘ä╪¿┘è┘ç ╪╣┘ä┘ë ╪¡╪│╪º╪¿┘â┘à ╪¿┘à╪¿┘ä╪║ 600.0╪┤ ┘ê╪º╪╡╪¿╪¡ ╪▒╪╡┘è╪»┘â┘à  238741.0 ╪┤ ┘ä┘ä╪¬┘ü╪º╪╡┘è┘ä, date=1731225861839
+Row: 1309 address=AL-Eatimad, body=http://188.34.164.0/openpdf/report?k=C0A80107:019314EF31D6:49F6:3A17F786&c=etimad, date=1731223344503
+Row: 1310 address=AL-Eatimad, body=╪º╪╡╪»╪º╪▒ ╪╖┘ä╪¿┘è┘ç ╪╣┘ä┘ë ╪¡╪│╪º╪¿┘â┘à ╪¿┘à╪¿┘ä╪║ 7089.0╪┤ ┘ê╪º╪╡╪¿╪¡ ╪▒╪╡┘è╪»┘â┘à  238141.0 ╪┤ ┘ä┘ä╪¬┘ü╪º╪╡┘è┘ä, date=1731223343604
+Row: 1316 address=AL-Eatimad, body=http://188.34.164.0/openpdf/report?k=C0A80108:0193107F2459:A44A:1519BE12&c=etimad, date=1731148834309
+Row: 1317 address=AL-Eatimad, body=╪º╪╡╪»╪º╪▒ ╪╖┘ä╪¿┘è┘ç ╪╣┘ä┘ë ╪¡╪│╪º╪¿┘â┘à ╪¿┘à╪¿┘ä╪║ 50.0╪┤ ┘ê╪º╪╡╪¿╪¡ ╪▒╪╡┘è╪»┘â┘à  231052.0 ╪┤ ┘ä┘ä╪¬┘ü╪º╪╡┘è┘ä, date=1731148833420
+Row: 1319 address=AL-Eatimad, body=http://188.34.164.0/openpdf/report?k=C0A80108:01931037CC7A:D37D:33889C1D&c=etimad, date=1731144148037
+Row: 1320 address=AL-Eatimad, body=╪º╪╡╪»╪º╪▒ ╪╖┘ä╪¿┘è┘ç ╪╣┘ä┘ë ╪¡╪│╪º╪¿┘â┘à ╪¿┘à╪¿┘ä╪║ 3897.5╪┤ ┘ê╪º╪╡╪¿╪¡ ╪▒╪╡┘è╪»┘â┘à  231002.0 ╪┤ ┘ä┘ä╪¬┘ü╪º╪╡┘è┘ä, date=1731144145837
+Row: 1329 address=AL-Eatimad, body=http://188.34.164.0/openpdf/report?k=C0A80108:019305A9F333:F2CB:46515FBE&c=etimad, date=1730967036944
+Row: 1330 address=AL-Eatimad, body=╪º╪╡╪»╪º╪▒ ╪╖┘ä╪¿┘è┘ç ╪╣┘ä┘ë ╪¡╪│╪º╪¿┘â┘à ╪¿┘à╪¿┘ä╪║ 420.0╪┤ ┘ê╪º╪╡╪¿╪¡ ╪▒╪╡┘è╪»┘â┘à  227104.5 ╪┤ ┘ä┘ä╪¬┘ü╪º╪╡┘è┘ä, date=1730967035454
+Row: 1331 address=AL-Eatimad, body=http://188.34.164.0/openpdf/report?k=C0A80108:01930554E120:A6D0:6D60D6C2&c=etimad, date=1730961506859
+Row: 1332 address=AL-Eatimad, body=╪º╪╡╪»╪º╪▒ ╪╖┘ä╪¿┘è┘ç ╪╣┘ä┘ë ╪¡╪│╪º╪¿┘â┘à ╪¿┘à╪¿┘ä╪║ 142.0╪┤ ┘ê╪º╪╡╪¿╪¡ ╪▒╪╡┘è╪»┘â┘à  226684.5 ╪┤ ┘ä┘ä╪¬┘ü╪º╪╡┘è┘ä, date=1730961505008
+Row: 1335 address=AL-Eatimad, body=http://188.34.164.0/openpdf/report?k=C0A80108:019301958D6E:0968:132C0039&c=etimad, date=1730898749203
+Row: 1336 address=AL-Eatimad, body=╪º╪╡╪»╪º╪▒ ╪╖┘ä╪¿┘è┘ç ╪╣┘ä┘ë ╪¡╪│╪º╪¿┘â┘à ╪¿┘à╪¿┘ä╪║ 100.0╪┤ ┘ê╪º╪╡╪¿╪¡ ╪▒╪╡┘è╪»┘â┘à  226542.5 ╪┤ ┘ä┘ä╪¬┘ü╪º╪╡┘è┘ä, date=1730898747361
+Row: 1343 address=AL-Eatimad, body=http://188.34.164.0/openpdf/report?k=C0A80107:0193007FCD22:8A61:3A0EDA9C&c=etimad, date=1730880506725
+Row: 1344 address=AL-Eatimad, body=╪º╪╡╪»╪º╪▒ ╪╖┘ä╪¿┘è┘ç ╪╣┘ä┘ë ╪¡╪│╪º╪¿┘â┘à ╪¿┘à╪¿┘ä╪║ 5790.0╪┤ ┘ê╪º╪╡╪¿╪¡ ╪▒╪╡┘è╪»┘â┘à  226442.5 ╪┤ ┘ä┘ä╪¬┘ü╪º╪╡┘è┘ä, date=1730880505642
+Row: 1351 address=AL-Eatimad, body=http://188.34.164.0/openpdf/report?k=C0A80107:0192FB40D966:E454:76E18045&c=etimad, date=1730792434430
+Row: 1352 address=AL-Eatimad, body=╪º╪╡╪»╪º╪▒ ╪╖┘ä╪¿┘è┘ç ╪╣┘ä┘ë ╪¡╪│╪º╪¿┘â┘à ╪¿┘à╪¿┘ä╪║ 50.0╪┤ ┘ê╪º╪╡╪¿╪¡ ╪▒╪╡┘è╪»┘â┘à  220652.5 ╪┤ ┘ä┘ä╪¬┘ü╪º╪╡┘è┘ä, date=1730792433689
+Row: 1353 address=AL-Eatimad, body=http://188.34.164.0/openpdf/report?k=C0A80108:0192FB3E6AB5:757D:29B37BCE&c=etimad, date=1730792185211
+Row: 1354 address=AL-Eatimad, body=╪º╪╡╪»╪º╪▒ ╪╖┘ä╪¿┘è┘ç ╪╣┘ä┘ë ╪¡╪│╪º╪¿┘â┘à ╪¿┘à╪¿┘ä╪║ 10.0╪┤ ┘ê╪º╪╡╪¿╪¡ ╪▒╪╡┘è╪»┘â┘à  220602.5 ╪┤ ┘ä┘ä╪¬┘ü╪º╪╡┘è┘ä, date=1730792184306
+Row: 1355 address=AL-Eatimad, body=http://188.34.164.0/openpdf/report?k=C0A80108:0192FB3D827F:8187:40A819B2&c=etimad, date=1730792183272
+Row: 1356 address=AL-Eatimad, body=╪º╪╡╪»╪º╪▒ ╪╖┘ä╪¿┘è┘ç ╪╣┘ä┘ë ╪¡╪│╪º╪¿┘â┘à ╪¿┘à╪¿┘ä╪║ 290.0╪┤ ┘ê╪º╪╡╪¿╪¡ ╪▒╪╡┘è╪»┘â┘à  220602.5 ╪┤ ┘ä┘ä╪¬┘ü╪º╪╡┘è┘ä, date=1730792182123
+Row: 1364 address=AL-Eatimad, body=http://188.34.164.0/openpdf/report?k=C0A80107:0192F7B11BB4:C006:7BCFD0FD&c=etimad, date=1730732667844
+Row: 1365 address=AL-Eatimad, body=╪º╪╡╪»╪º╪▒ ╪╖┘ä╪¿┘è┘ç ╪╣┘ä┘ë ╪¡╪│╪º╪¿┘â┘à ╪¿┘à╪¿┘ä╪║ 180.0╪┤ ┘ê╪º╪╡╪¿╪¡ ╪▒╪╡┘è╪»┘â┘à  220302.5 ╪┤ ┘ä┘ä╪¬┘ü╪º╪╡┘è┘ä, date=1730732665121
+Row: 1370 address=AL-Eatimad, body=http://188.34.164.0/openpdf/report?k=C0A80107:0192F66876DF:8523:0E229FDE&c=etimad, date=1730711073072
+Row: 1371 address=AL-Eatimad, body=╪º╪╡╪»╪º╪▒ ╪╖┘ä╪¿┘è┘ç ╪╣┘ä┘ë ╪¡╪│╪º╪¿┘â┘à ╪¿┘à╪¿┘ä╪║ 150.0╪┤ ┘ê╪º╪╡╪¿╪¡ ╪▒╪╡┘è╪»┘â┘à  220122.5 ╪┤ ┘ä┘ä╪¬┘ü╪º╪╡┘è┘ä, date=1730711072005
+Row: 1372 address=AL-Eatimad, body=http://188.34.164.0/openpdf/report?k=C0A80108:0192F658334E:DD07:647857CA&c=etimad, date=1730710343811
+Row: 1374 address=AL-Eatimad, body=╪º╪╡╪»╪º╪▒ ╪╖┘ä╪¿┘è┘ç ╪╣┘ä┘ë ╪¡╪│╪º╪¿┘â┘à ╪¿┘à╪¿┘ä╪║ 3640.0╪┤ ┘ê╪º╪╡╪¿╪¡ ╪▒╪╡┘è╪»┘â┘à  219972.5 ╪┤ ┘ä┘ä╪¬┘ü╪º╪╡┘è┘ä, date=1730710007999
+Row: 1375 address=AL-Eatimad, body=http://188.34.164.0/openpdf/report?k=C0A80108:0192F6533B26:71DB:60C386E1&c=etimad, date=1730709742229
+Row: 1376 address=AL-Eatimad, body=╪º╪╡╪»╪º╪▒ ╪╖┘ä╪¿┘è┘ç ╪╣┘ä┘ë ╪¡╪│╪º╪¿┘â┘à ╪¿┘à╪¿┘ä╪║ 710.0╪┤ ┘ê╪º╪╡╪¿╪¡ ╪▒╪╡┘è╪»┘â┘à  216332.5 ╪┤ ┘ä┘ä╪¬┘ü╪º╪╡┘è┘ä, date=1730709741406
+Row: 1382 address=AL-Eatimad, body=http://188.34.164.0/openpdf/report?k=C0A80108:0192F2B2E3F0:757C:19FB0B96&c=etimad, date=1730648899306
+Row: 1383 address=AL-Eatimad, body=╪º╪╡╪»╪º╪▒ ╪╖┘ä╪¿┘è┘ç ╪╣┘ä┘ë ╪¡╪│╪º╪¿┘â┘à ╪¿┘à╪¿┘ä╪║ 250.0╪┤ ┘ê╪º╪╡╪¿╪¡ ╪▒╪╡┘è╪»┘â┘à  215622.5 ╪┤ ┘ä┘ä╪¬┘ü╪º╪╡┘è┘ä, date=1730648897070
+Row: 1401 address=AL-Eatimad, body=http://188.34.164.0/openpdf/report?k=C0A80107:0192ECA30B03:CA52:4298E775&c=etimad, date=1730547137381
+Row: 1402 address=AL-Eatimad, body=╪º╪╡╪»╪º╪▒ ╪╖┘ä╪¿┘è┘ç ╪╣┘ä┘ë ╪¡╪│╪º╪¿┘â┘à ╪¿┘à╪¿┘ä╪║ 1530.0╪┤ ┘ê╪º╪╡╪¿╪¡ ╪▒╪╡┘è╪»┘â┘à  215372.5 ╪┤ ┘ä┘ä╪¬┘ü╪º╪╡┘è┘ä, date=1730547136609
+Row: 1407 address=AL-Eatimad, body=http://188.34.164.0/openpdf/report?k=C0A80107:0192EB762E0C:562B:179D4705&c=etimad, date=1730527501101
+Row: 1408 address=AL-Eatimad, body=╪º╪╡╪»╪º╪▒ ╪╖┘ä╪¿┘è┘ç ╪╣┘ä┘ë ╪¡╪│╪º╪¿┘â┘à ╪¿┘à╪¿┘ä╪║ 465.0╪┤ ┘ê╪º╪╡╪¿╪¡ ╪▒╪╡┘è╪»┘â┘à  213842.5 ╪┤ ┘ä┘ä╪¬┘ü╪º╪╡┘è┘ä, date=1730527457603
+Row: 1416 address=AL-Eatimad, body=http://188.34.164.0/openpdf/report?k=C0A80108:0192E30CC4E2:3A24:4B149955&c=etimad, date=1730386456079
+Row: 1417 address=AL-Eatimad, body=╪º╪╡╪»╪º╪▒ ╪╖┘ä╪¿┘è┘ç ╪╣┘ä┘ë ╪¡╪│╪º╪¿┘â┘à ╪¿┘à╪¿┘ä╪║ 240.0╪┤ ┘ê╪º╪╡╪¿╪¡ ╪▒╪╡┘è╪»┘â┘à  213377.5 ╪┤ ┘ä┘ä╪¬┘ü╪º╪╡┘è┘ä, date=1730386455173
+Row: 1421 address=AL-Eatimad, body=╪º╪╡╪»╪º╪▒ ╪╖┘ä╪¿┘è┘ç ╪╣┘ä┘ë ╪¡╪│╪º╪¿┘â┘à ╪¿┘à╪¿┘ä╪║ 120.0╪┤ ┘ê╪º╪╡╪¿╪¡ ╪▒╪╡┘è╪»┘â┘à  213137.5 ╪┤ ┘ä┘ä╪¬┘ü╪º╪╡┘è┘ä, date=1730364543380
+Row: 1422 address=AL-Eatimad, body=http://188.34.164.0/openpdf/report?k=C0A80107:0192E1978637:A99D:552101A0&c=etimad, date=1730364542070
+Row: 1429 address=AL-Eatimad, body=http://188.34.164.0/openpdf/report?k=C0A80108:0192DDA8F922:67AE:2CE450F8&c=etimad, date=1730295875767
+Row: 1430 address=AL-Eatimad, body=╪º╪╡╪»╪º╪▒ ╪╖┘ä╪¿┘è┘ç ╪╣┘ä┘ë ╪¡╪│╪º╪¿┘â┘à ╪¿┘à╪¿┘ä╪║ 3005.0╪┤ ┘ê╪º╪╡╪¿╪¡ ╪▒╪╡┘è╪»┘â┘à  213017.5 ╪┤ ┘ä┘ä╪¬┘ü╪º╪╡┘è┘ä, date=1730295873364
+Row: 1431 address=AL-Eatimad, body=http://188.34.164.0/openpdf/report?k=C0A80108:0192DC7FBBFC:4A58:18386621&c=etimad, date=1730276550205
+Row: 1432 address=AL-Eatimad, body=╪º╪╡╪»╪º╪▒ ╪╖┘ä╪¿┘è┘ç ╪╣┘ä┘ë ╪¡╪│╪º╪¿┘â┘à ╪¿┘à╪¿┘ä╪║ 120.0╪┤ ┘ê╪º╪╡╪¿╪¡ ╪▒╪╡┘è╪»┘â┘à  210012.5 ╪┤ ┘ä┘ä╪¬┘ü╪º╪╡┘è┘ä, date=1730276548407
+Row: 1434 address=AL-Eatimad, body=http://188.34.164.0/openpdf/report?k=C0A80108:0192DC402929:8E5A:38158426&c=etimad, date=1730272359647
+Row: 1435 address=AL-Eatimad, body=╪º╪╡╪»╪º╪▒ ╪╖┘ä╪¿┘è┘ç ╪╣┘ä┘ë ╪¡╪│╪º╪¿┘â┘à ╪¿┘à╪¿┘ä╪║ 60.0╪┤ ┘ê╪º╪╡╪¿╪¡ ╪▒╪╡┘è╪»┘â┘à  209892.5 ╪┤ ┘ä┘ä╪¬┘ü╪º╪╡┘è┘ä, date=1730272351039
+Row: 1436 address=AL-Eatimad, body=http://188.34.164.0/openpdf/report?k=C0A80108:0192DC21145B:C456:257D72F4&c=etimad, date=1730270313060
+Row: 1437 address=AL-Eatimad, body=╪º╪╡╪»╪º╪▒ ╪╖┘ä╪¿┘è┘ç ╪╣┘ä┘ë ╪¡╪│╪º╪¿┘â┘à ╪¿┘à╪¿┘ä╪║ 6035.0╪┤ ┘ê╪º╪╡╪¿╪¡ ╪▒╪╡┘è╪»┘â┘à  209832.5 ╪┤ ┘ä┘ä╪¬┘ü╪º╪╡┘è┘ä, date=1730270311556
+Row: 1439 address=AL-Eatimad, body=http://188.34.164.0/openpdf/report?k=C0A80107:0192D809509C:F001:4CC88A77&c=etimad, date=1730201454334
+Row: 1440 address=AL-Eatimad, body=╪º╪╡╪»╪º╪▒ ╪╖┘ä╪¿┘è┘ç ╪╣┘ä┘ë ╪¡╪│╪º╪¿┘â┘à ╪¿┘à╪¿┘ä╪║ 100.0╪┤ ┘ê╪º╪╡╪¿╪¡ ╪▒╪╡┘è╪»┘â┘à  203797.5 ╪┤ ┘ä┘ä╪¬┘ü╪º╪╡┘è┘ä, date=1730201452032
+Row: 1441 address=AL-Eatimad, body=http://188.34.164.0/openpdf/report?k=C0A80107:0192D7EC24DD:0199:0CFA690E&c=etimad, date=1730199753636
+Row: 1442 address=AL-Eatimad, body=╪º╪╡╪»╪º╪▒ ╪╖┘ä╪¿┘è┘ç ╪╣┘ä┘ë ╪¡╪│╪º╪¿┘â┘à ╪¿┘à╪¿┘ä╪║ 110.0╪┤ ┘ê╪º╪╡╪¿╪¡ ╪▒╪╡┘è╪»┘â┘à  203697.5 ╪┤ ┘ä┘ä╪¬┘ü╪º╪╡┘è┘ä, date=1730199750564
+Row: 1443 address=AL-Eatimad, body=http://188.34.164.0/openpdf/report?k=C0A80108:0192D7C86D3C:AD3E:69C80963&c=etimad, date=1730197251535
+Row: 1444 address=AL-Eatimad, body=╪º╪╡╪»╪º╪▒ ╪╖┘ä╪¿┘è┘ç ╪╣┘ä┘ë ╪¡╪│╪º╪¿┘â┘à ╪¿┘à╪¿┘ä╪║ 80.0╪┤ ┘ê╪º╪╡╪¿╪¡ ╪▒╪╡┘è╪»┘â┘à  203587.5 ╪┤ ┘ä┘ä╪¬┘ü╪º╪╡┘è┘ä, date=1730197247875
+Row: 1445 address=AL-Eatimad, body=http://188.34.164.0/openpdf/report?k=C0A80107:0192D7A94BCC:A45D:3C2A539E&c=etimad, date=1730195190072
+Row: 1446 address=AL-Eatimad, body=╪º╪╡╪»╪º╪▒ ╪╖┘ä╪¿┘è┘ç ╪╣┘ä┘ë ╪¡╪│╪º╪¿┘â┘à ╪¿┘à╪¿┘ä╪║ 4555.0╪┤ ┘ê╪º╪╡╪¿╪¡ ╪▒╪╡┘è╪»┘â┘à  203507.5 ╪┤ ┘ä┘ä╪¬┘ü╪º╪╡┘è┘ä, date=1730195189223
+Row: 1450 address=AL-Eatimad, body=http://188.34.164.0/openpdf/report?k=C0A80108:0192D6EEF219:EE19:75C42DA7&c=etimad, date=1730182950123
+Row: 1451 address=AL-Eatimad, body=╪º╪╡╪»╪º╪▒ ╪╖┘ä╪¿┘è┘ç ╪╣┘ä┘ë ╪¡╪│╪º╪¿┘â┘à ╪¿┘à╪¿┘ä╪║ 118.0╪┤ ┘ê╪º╪╡╪¿╪¡ ╪▒╪╡┘è╪»┘â┘à  198952.5 ╪┤ ┘ä┘ä╪¬┘ü╪º╪╡┘è┘ä, date=1730182948572
+Row: 1456 address=AL-Eatimad, body=http://188.34.164.0/openpdf/report?k=C0A80107:0192D238DCAD:904D:359079F6&c=etimad, date=1730103999940
+Row: 1457 address=AL-Eatimad, body=╪º╪╡╪»╪º╪▒ ╪╖┘ä╪¿┘è┘ç ╪╣┘ä┘ë ╪¡╪│╪º╪¿┘â┘à ╪¿┘à╪¿┘ä╪║ 35.0╪┤ ┘ê╪º╪╡╪¿╪¡ ╪▒╪╡┘è╪»┘â┘à  198834.5 ╪┤ ┘ä┘ä╪¬┘ü╪º╪╡┘è┘ä, date=1730103999004
+Row: 1458 address=AL-Eatimad, body=http://188.34.164.0/openpdf/report?k=C0A80107:0192D1F2F01B:7B60:1828EC39&c=etimad, date=1730099493359
+Row: 1459 address=AL-Eatimad, body=╪º╪╡╪»╪º╪▒ ╪╖┘ä╪¿┘è┘ç ╪╣┘ä┘ë ╪¡╪│╪º╪¿┘â┘à ╪¿┘à╪¿┘ä╪║ 445.0╪┤ ┘ê╪º╪╡╪¿╪¡ ╪▒╪╡┘è╪»┘â┘à  198799.5 ╪┤ ┘ä┘ä╪¬┘ü╪º╪╡┘è┘ä, date=1730099491785
+Row: 1473 address=AL-Eatimad, body=http://188.34.164.0/openpdf/report?k=C0A80108:0192CD91D4D8:4990:3AABF0C4&c=etimad, date=1730025987050
+Row: 1474 address=AL-Eatimad, body=╪º╪╡╪»╪º╪▒ ╪╖┘ä╪¿┘è┘ç ╪╣┘ä┘ë ╪¡╪│╪º╪¿┘â┘à ╪¿┘à╪¿┘ä╪║ 90.0╪┤ ┘ê╪º╪╡╪¿╪¡ ╪▒╪╡┘è╪»┘â┘à  198354.5 ╪┤ ┘ä┘ä╪¬┘ü╪º╪╡┘è┘ä, date=1730025985373
+Row: 1481 address=AL-Eatimad, body=http://188.34.164.0/openpdf/report?k=C0A80108:0192CD87FA32:D621:22FB6577&c=etimad, date=1730025401064
+Row: 1482 address=AL-Eatimad, body=╪º╪╡╪»╪º╪▒ ╪╖┘ä╪¿┘è┘ç ╪╣┘ä┘ë ╪¡╪│╪º╪¿┘â┘à ╪¿┘à╪¿┘ä╪║ 5796.0╪┤ ┘ê╪º╪╡╪¿╪¡ ╪▒╪╡┘è╪»┘â┘à  198264.5 ╪┤ ┘ä┘ä╪¬┘ü╪º╪╡┘è┘ä, date=1730025389414
+Row: 1486 address=AL-Eatimad, body=http://188.34.164.0/openpdf/report?k=C0A80107:0192CCC8B4F9:5FAB:260EB6A8&c=etimad, date=1730012669197
+Row: 1487 address=AL-Eatimad, body=╪º╪╡╪»╪º╪▒ ╪╖┘ä╪¿┘è┘ç ╪╣┘ä┘ë ╪¡╪│╪º╪¿┘â┘à ╪¿┘à╪¿┘ä╪║ 770.0╪┤ ┘ê╪º╪╡╪¿╪¡ ╪▒╪╡┘è╪»┘â┘à  192468.5 ╪┤ ┘ä┘ä╪¬┘ü╪º╪╡┘è┘ä, date=1730012666503
+Row: 1508 address=AL-Eatimad, body=http://188.34.164.0/openpdf/report?k=C0A80107:0192C7A8848C:9219:463455C9&c=etimad, date=1729926642556
+Row: 1509 address=AL-Eatimad, body=╪º╪╡╪»╪º╪▒ ╪╖┘ä╪¿┘è┘ç ╪╣┘ä┘ë ╪¡╪│╪º╪¿┘â┘à ╪¿┘à╪¿┘ä╪║ 2707.0╪┤ ┘ê╪º╪╡╪¿╪¡ ╪▒╪╡┘è╪»┘â┘à  191698.5 ╪┤ ┘ä┘ä╪¬┘ü╪º╪╡┘è┘ä, date=1729926639901
+Row: 1511 address=AL-Eatimad, body=http://188.34.164.0/openpdf/report?k=C0A80108:0192C79737AC:9260:775061C0&c=etimad, date=1729925672151
+Row: 1512 address=AL-Eatimad, body=╪º╪╡╪»╪º╪▒ ╪╖┘ä╪¿┘è┘ç ╪╣┘ä┘ë ╪¡╪│╪º╪¿┘â┘à ╪¿┘à╪¿┘ä╪║ 1730.0╪┤ ┘ê╪º╪╡╪¿╪¡ ╪▒╪╡┘è╪»┘â┘à  188991.5 ╪┤ ┘ä┘ä╪¬┘ü╪º╪╡┘è┘ä, date=1729925669543
+Row: 1527 address=AL-Eatimad, body=http://188.34.164.0/openpdf/report?k=C0A80107:0192BDE5FA1B:84EC:0EF6BC33&c=etimad, date=1729763070256
+Row: 1528 address=AL-Eatimad, body=╪º╪╡╪»╪º╪▒ ╪╖┘ä╪¿┘è┘ç ╪╣┘ä┘ë ╪¡╪│╪º╪¿┘â┘à ╪¿┘à╪¿┘ä╪║ 20.0╪┤ ┘ê╪º╪╡╪¿╪¡ ╪▒╪╡┘è╪»┘â┘à  187261.5 ╪┤ ┘ä┘ä╪¬┘ü╪º╪╡┘è┘ä, date=1729763068746
+Row: 1531 address=AL-Eatimad, body=http://188.34.164.0/openpdf/report?k=C0A80107:0192B9A29863:43B2:75D3B884&c=etimad, date=1729691438443
+Row: 1532 address=AL-Eatimad, body=╪º╪╡╪»╪º╪▒ ╪╖┘ä╪¿┘è┘ç ╪╣┘ä┘ë ╪¡╪│╪º╪¿┘â┘à ╪¿┘à╪¿┘ä╪║ 265.0╪┤ ┘ê╪º╪╡╪¿╪¡ ╪▒╪╡┘è╪»┘â┘à  187241.5 ╪┤ ┘ä┘ä╪¬┘ü╪º╪╡┘è┘ä, date=1729691437671
+Row: 1535 address=AL-Eatimad, body=http://188.34.164.0/openpdf/report?k=C0A80107:0192B8400B97:8BCD:7FA72B0E&c=etimad, date=1729668380292
+Row: 1536 address=AL-Eatimad, body=╪º╪╡╪»╪º╪▒ ╪╖┘ä╪¿┘è┘ç ╪╣┘ä┘ë ╪¡╪│╪º╪¿┘â┘à ╪¿┘à╪¿┘ä╪║ 35.0╪┤ ┘ê╪º╪╡╪¿╪¡ ╪▒╪╡┘è╪»┘â┘à  186976.5 ╪┤ ┘ä┘ä╪¬┘ü╪º╪╡┘è┘ä, date=1729668379331
+Row: 1537 address=AL-Eatimad, body=http://188.34.164.0/openpdf/report?k=C0A80107:0192B7DCB3CA:BD9B:1FFEC661&c=etimad, date=1729661782279
+Row: 1538 address=AL-Eatimad, body=╪º╪╡╪»╪º╪▒ ╪╖┘ä╪¿┘è┘ç ╪╣┘ä┘ë ╪¡╪│╪º╪¿┘â┘à ╪¿┘à╪¿┘ä╪║ 3448.0╪┤ ┘ê╪º╪╡╪¿╪¡ ╪▒╪╡┘è╪»┘â┘à  186941.5 ╪┤ ┘ä┘ä╪¬┘ü╪º╪╡┘è┘ä, date=1729661780973
+Row: 1568 address=AL-Eatimad, body=http://188.34.164.0/openpdf/report?k=C0A80108:0192A90E6523:0F54:679042F2&c=etimad, date=1729413386791
+Row: 1569 address=AL-Eatimad, body=╪º╪╡╪»╪º╪▒ ╪╖┘ä╪¿┘è┘ç ╪╣┘ä┘ë ╪¡╪│╪º╪¿┘â┘à ╪¿┘à╪¿┘ä╪║ 55.0╪┤ ┘ê╪º╪╡╪¿╪¡ ╪▒╪╡┘è╪»┘â┘à  183493.5 ╪┤ ┘ä┘ä╪¬┘ü╪º╪╡┘è┘ä, date=1729413382541
+Row: 1570 address=AL-Eatimad, body=http://188.34.164.0/openpdf/report?k=C0A80108:0192A9019194:1C18:60D4E898&c=etimad, date=1729412540463
+Row: 1571 address=AL-Eatimad, body=╪º╪╡╪»╪º╪▒ ╪╖┘ä╪¿┘è┘ç ╪╣┘ä┘ë ╪¡╪│╪º╪¿┘â┘à ╪¿┘à╪¿┘ä╪║ 440.0╪┤ ┘ê╪º╪╡╪¿╪¡ ╪▒╪╡┘è╪»┘â┘à  183438.5 ╪┤ ┘ä┘ä╪¬┘ü╪º╪╡┘è┘ä, date=1729412539523
+Row: 1574 address=AL-Eatimad, body=http://188.34.164.0/openpdf/report?k=C0A80107:0192A89AA227:0174:6B012321&c=etimad, date=1729405844555
+Row: 1575 address=AL-Eatimad, body=╪º╪╡╪»╪º╪▒ ╪╖┘ä╪¿┘è┘ç ╪╣┘ä┘ë ╪¡╪│╪º╪¿┘â┘à ╪¿┘à╪¿┘ä╪║ 150.0╪┤ ┘ê╪º╪╡╪¿╪¡ ╪▒╪╡┘è╪»┘â┘à  182998.5 ╪┤ ┘ä┘ä╪¬┘ü╪º╪╡┘è┘ä, date=1729405841085
+Row: 1579 address=AL-Eatimad, body=http://188.34.164.0/openpdf/report?k=C0A80108:0192A85303EB:EC7E:7BECACDF&c=etimad, date=1729401138896
+Row: 1580 address=AL-Eatimad, body=╪º╪╡╪»╪º╪▒ ╪╖┘ä╪¿┘è┘ç ╪╣┘ä┘ë ╪¡╪│╪º╪¿┘â┘à ╪¿┘à╪¿┘ä╪║ 6805.0╪┤ ┘ê╪º╪╡╪¿╪¡ ╪▒╪╡┘è╪»┘â┘à  182848.5 ╪┤ ┘ä┘ä╪¬┘ü╪º╪╡┘è┘ä, date=1729401137185
+Row: 1586 address=AL-Eatimad, body=http://188.34.164.0/openpdf/report?k=C0A80107:0192A35A0AE4:9205:4236B9B1&c=etimad, date=1729317861057
+Row: 1587 address=AL-Eatimad, body=╪º╪╡╪»╪º╪▒ ╪╖┘ä╪¿┘è┘ç ╪╣┘ä┘ë ╪¡╪│╪º╪¿┘â┘à ╪¿┘à╪¿┘ä╪║ 70.0╪┤ ┘ê╪º╪╡╪¿╪¡ ╪▒╪╡┘è╪»┘â┘à  176043.5 ╪┤ ┘ä┘ä╪¬┘ü╪º╪╡┘è┘ä, date=1729317860315
+Row: 1589 address=AL-Eatimad, body=http://188.34.164.0/openpdf/report?k=C0A80107:0192A33D4301:E0C8:108D407D&c=etimad, date=1729315833432
+Row: 1590 address=AL-Eatimad, body=╪º╪╡╪»╪º╪▒ ╪╖┘ä╪¿┘è┘ç ╪╣┘ä┘ë ╪¡╪│╪º╪¿┘â┘à ╪¿┘à╪¿┘ä╪║ 886.0╪┤ ┘ê╪º╪╡╪¿╪¡ ╪▒╪╡┘è╪»┘â┘à  175973.5 ╪┤ ┘ä┘ä╪¬┘ü╪º╪╡┘è┘ä, date=1729315830939
+Row: 1597 address=AL-Eatimad, body=http://188.34.164.0/openpdf/report?k=C0A80108:019299B5A222:A60D:0B1A11A2&c=etimad, date=1729155860745
+Row: 1598 address=AL-Eatimad, body=╪º╪╡╪»╪º╪▒ ╪╖┘ä╪¿┘è┘ç ╪╣┘ä┘ë ╪¡╪│╪º╪¿┘â┘à ╪¿┘à╪¿┘ä╪║ 1800.0╪┤ ┘ê╪º╪╡╪¿╪¡ ╪▒╪╡┘è╪»┘â┘à  175087.5 ╪┤ ┘ä┘ä╪¬┘ü╪º╪╡┘è┘ä, date=1729155859820
+Row: 1599 address=AL-Eatimad, body=http://188.34.164.0/openpdf/report?k=C0A80107:019299AFE6BA:4F57:5D981B41&c=etimad, date=1729155505650
+Row: 1600 address=AL-Eatimad, body=╪º╪╡╪»╪º╪▒ ╪╖┘ä╪¿┘è┘ç ╪╣┘ä┘ë ╪¡╪│╪º╪¿┘â┘à ╪¿┘à╪¿┘ä╪║ 1130.0╪┤ ┘ê╪º╪╡╪¿╪¡ ╪▒╪╡┘è╪»┘â┘à  173287.5 ╪┤ ┘ä┘ä╪¬┘ü╪º╪╡┘è┘ä, date=1729155504887
+Row: 1609 address=AL-Eatimad, body=http://188.34.164.0/openpdf/report?k=C0A80108:01929457E962:5E64:4B5E3CAC&c=etimad, date=1729065861056
+Row: 1610 address=AL-Eatimad, body=╪º╪╡╪»╪º╪▒ ╪╖┘ä╪¿┘è┘ç ╪╣┘ä┘ë ╪¡╪│╪º╪¿┘â┘à ╪¿┘à╪¿┘ä╪║ 230.0╪┤ ┘ê╪º╪╡╪¿╪¡ ╪▒╪╡┘è╪»┘â┘à  172157.5 ╪┤ ┘ä┘ä╪¬┘ü╪º╪╡┘è┘ä, date=1729065859894
+Row: 1621 address=AL-Eatimad, body=http://188.34.164.0/openpdf/report?k=C0A80108:01928EDEF75B:B0A9:150EBB1A&c=etimad, date=1728974065585
+Row: 1622 address=AL-Eatimad, body=╪º╪╡╪»╪º╪▒ ╪╖┘ä╪¿┘è┘ç ╪╣┘ä┘ë ╪¡╪│╪º╪¿┘â┘à ╪¿┘à╪¿┘ä╪║ 2505.0╪┤ ┘ê╪º╪╡╪¿╪¡ ╪▒╪╡┘è╪»┘â┘à  171927.5 ╪┤ ┘ä┘ä╪¬┘ü╪º╪╡┘è┘ä, date=1728974064571
+Row: 1623 address=AL-Eatimad, body=╪º╪╡╪»╪º╪▒ ╪╖┘ä╪¿┘è┘ç ╪╣┘ä┘ë ╪¡╪│╪º╪¿┘â┘à ╪¿┘à╪¿┘ä╪║ 70.0╪┤ ┘ê╪º╪╡╪¿╪¡ ╪▒╪╡┘è╪»┘â┘à  169422.5 ╪┤ ┘ä┘ä╪¬┘ü╪º╪╡┘è┘ä, date=1728970704778
+Row: 1624 address=AL-Eatimad, body=http://188.34.164.0/openpdf/report?k=C0A80108:01928EAB6027:6BC3:16C63B57&c=etimad, date=1728970703888
+Row: 1634 address=AL-Eatimad, body=╪º╪╡╪»╪º╪▒ ╪╖┘ä╪¿┘è┘ç ╪╣┘ä┘ë ╪¡╪│╪º╪¿┘â┘à ╪¿┘à╪¿┘ä╪║ 232.0╪┤ ┘ê╪º╪╡╪¿╪¡ ╪▒╪╡┘è╪»┘â┘à  169352.5 ╪┤ ┘ä┘ä╪¬┘ü╪º╪╡┘è┘ä, date=1728741989458
+Row: 1635 address=AL-Eatimad, body=http://188.34.164.0/openpdf/report?k=C0A80107:0192810B4BEF:D13B:234B3DE4&c=etimad, date=1728741988163
+Row: 1639 address=AL-Eatimad, body=http://188.34.164.0/openpdf/report?k=C0A80108:01927F889EDB:6098:41AB99CD&c=etimad, date=1728716669597
+Row: 1640 address=AL-Eatimad, body=╪º╪╡╪»╪º╪▒ ╪╖┘ä╪¿┘è┘ç ╪╣┘ä┘ë ╪¡╪│╪º╪¿┘â┘à ╪¿┘à╪¿┘ä╪║ 150.0╪┤ ┘ê╪º╪╡╪¿╪¡ ╪▒╪╡┘è╪»┘â┘à  169120.5 ╪┤ ┘ä┘ä╪¬┘ü╪º╪╡┘è┘ä, date=1728716666983
+Row: 1641 address=AL-Eatimad, body=http://188.34.164.0/openpdf/report?k=C0A80108:01927F6C9D81:4DC6:338739FC&c=etimad, date=1728714869380
+Row: 1642 address=AL-Eatimad, body=╪º╪╡╪»╪º╪▒ ╪╖┘ä╪¿┘è┘ç ╪╣┘ä┘ë ╪¡╪│╪º╪¿┘â┘à ╪¿┘à╪¿┘ä╪║ 570.0╪┤ ┘ê╪º╪╡╪¿╪¡ ╪▒╪╡┘è╪»┘â┘à  168970.5 ╪┤ ┘ä┘ä╪¬┘ü╪º╪╡┘è┘ä, date=1728714868805
+Row: 1655 address=AL-Eatimad, body=http://188.34.164.0/openpdf/report?k=C0A80107:019275B30D4A:E322:41D3C340&c=etimad, date=1728552525472
+Row: 1656 address=AL-Eatimad, body=╪º╪╡╪»╪º╪▒ ╪╖┘ä╪¿┘è┘ç ╪╣┘ä┘ë ╪¡╪│╪º╪¿┘â┘à ╪¿┘à╪¿┘ä╪║ 646.0╪┤ ┘ê╪º╪╡╪¿╪¡ ╪▒╪╡┘è╪»┘â┘à  168400.5 ╪┤ ┘ä┘ä╪¬┘ü╪º╪╡┘è┘ä, date=1728552523518
+Row: 1658 address=AL-Eatimad, body=http://188.34.164.0/openpdf/report?k=C0A80108:019274EA4CC2:B750:113F076E&c=etimad, date=1728539544628
+Row: 1659 address=AL-Eatimad, body=╪º╪╡╪»╪º╪▒ ╪╖┘ä╪¿┘è┘ç ╪╣┘ä┘ë ╪¡╪│╪º╪¿┘â┘à ╪¿┘à╪¿┘ä╪║ 650.0╪┤ ┘ê╪º╪╡╪¿╪¡ ╪▒╪╡┘è╪»┘â┘à  167754.5 ╪┤ ┘ä┘ä╪¬┘ü╪º╪╡┘è┘ä, date=1728539542437
+Row: 1663 address=AL-Eatimad, body=http://188.34.164.0/openpdf/report?k=C0A80108:019271349CB7:7966:7F2F44C3&c=etimad, date=1728476656015
+Row: 1664 address=AL-Eatimad, body=╪º╪╡╪»╪º╪▒ ╪╖┘ä╪¿┘è┘ç ╪╣┘ä┘ë ╪¡╪│╪º╪¿┘â┘à ╪¿┘à╪¿┘ä╪║ 675.0╪┤ ┘ê╪º╪╡╪¿╪¡ ╪▒╪╡┘è╪»┘â┘à  167104.5 ╪┤ ┘ä┘ä╪¬┘ü╪º╪╡┘è┘ä, date=1728476655322
+Row: 1670 address=AL-Eatimad, body=http://188.34.164.0/openpdf/report?k=C0A80108:019270260107:7D79:128B5AD1&c=etimad, date=1728460461093
+Row: 1671 address=AL-Eatimad, body=╪º╪╡╪»╪º╪▒ ╪╖┘ä╪¿┘è┘ç ╪╣┘ä┘ë ╪¡╪│╪º╪¿┘â┘à ╪¿┘à╪¿┘ä╪║ 125.0╪┤ ┘ê╪º╪╡╪¿╪¡ ╪▒╪╡┘è╪»┘â┘à  166429.5 ╪┤ ┘ä┘ä╪¬┘ü╪º╪╡┘è┘ä, date=1728460459586
+Row: 1676 address=AL-Eatimad, body=http://188.34.164.0/openpdf/report?k=C0A80108:01926C026640:9BB9:6FD7A86B&c=etimad, date=1728389550248
+Row: 1677 address=AL-Eatimad, body=╪º╪╡╪»╪º╪▒ ╪╖┘ä╪¿┘è┘ç ╪╣┘ä┘ë ╪¡╪│╪º╪¿┘â┘à ╪¿┘à╪¿┘ä╪║ 50.0╪┤ ┘ê╪º╪╡╪¿╪¡ ╪▒╪╡┘è╪»┘â┘à  166304.5 ╪┤ ┘ä┘ä╪¬┘ü╪º╪╡┘è┘ä, date=1728389547516
+Row: 1680 address=AL-Eatimad, body=http://188.34.164.0/openpdf/report?k=C0A80107:01926A94C332:9A76:514498D2&c=etimad, date=1728366714250
+Row: 1681 address=AL-Eatimad, body=╪º╪╡╪»╪º╪▒ ╪╖┘ä╪¿┘è┘ç ╪╣┘ä┘ë ╪¡╪│╪º╪¿┘â┘à ╪¿┘à╪¿┘ä╪║ 3925.0╪┤ ┘ê╪º╪╡╪¿╪¡ ╪▒╪╡┘è╪»┘â┘à  166254.5 ╪┤ ┘ä┘ä╪¬┘ü╪º╪╡┘è┘ä, date=1728366711719
+Row: 1686 address=AL-Eatimad, body=http://188.34.164.0/openpdf/report?k=C0A80108:019266AA5418:C227:34869B40&c=etimad, date=1728302402370
+Row: 1687 address=AL-Eatimad, body=╪º╪╡╪»╪º╪▒ ╪╖┘ä╪¿┘è┘ç ╪╣┘ä┘ë ╪¡╪│╪º╪¿┘â┘à ╪¿┘à╪¿┘ä╪║ 265.0╪┤ ┘ê╪º╪╡╪¿╪¡ ╪▒╪╡┘è╪»┘â┘à  162329.5 ╪┤ ┘ä┘ä╪¬┘ü╪º╪╡┘è┘ä, date=1728302398285
+Row: 1692 address=AL-Eatimad, body=http://188.34.164.0/openpdf/report?k=C0A80107:0192657E0870:4C63:69AF0E2D&c=etimad, date=1728281104986
+Row: 1693 address=AL-Eatimad, body=╪º╪╡╪»╪º╪▒ ╪╖┘ä╪¿┘è┘ç ╪╣┘ä┘ë ╪¡╪│╪º╪¿┘â┘à ╪¿┘à╪¿┘ä╪║ 405.0╪┤ ┘ê╪º╪╡╪¿╪¡ ╪▒╪╡┘è╪»┘â┘à  162064.5 ╪┤ ┘ä┘ä╪¬┘ü╪º╪╡┘è┘ä, date=1728281104191
+Row: 1694 address=AL-Eatimad, body=http://188.34.164.0/openpdf/report?k=C0A80108:01926569BD92:1D36:709B6840&c=etimad, date=1728279730442
+Row: 1695 address=AL-Eatimad, body=╪º╪╡╪»╪º╪▒ ╪╖┘ä╪¿┘è┘ç ╪╣┘ä┘ë ╪¡╪│╪º╪¿┘â┘à ╪¿┘à╪¿┘ä╪║ 400.0╪┤ ┘ê╪º╪╡╪¿╪¡ ╪▒╪╡┘è╪»┘â┘à  161659.5 ╪┤ ┘ä┘ä╪¬┘ü╪º╪╡┘è┘ä, date=1728279729604
+Row: 1707 address=AL-Eatimad, body=http://188.34.164.0/openpdf/report?k=C0A80107:0192610A0736:FF6B:1A1D717E&c=etimad, date=1728205391466
+Row: 1708 address=AL-Eatimad, body=╪º╪╡╪»╪º╪▒ ╪╖┘ä╪¿┘è┘ç ╪╣┘ä┘ë ╪¡╪│╪º╪¿┘â┘à ╪¿┘à╪¿┘ä╪║ 575.0╪┤ ┘ê╪º╪╡╪¿╪¡ ╪▒╪╡┘è╪»┘â┘à  161259.5 ╪┤ ┘ä┘ä╪¬┘ü╪º╪╡┘è┘ä, date=1728205390859
+Row: 1711 address=AL-Eatimad, body=http://188.34.164.0/openpdf/report?k=C0A80108:019260D941B2:89C6:426A6F1D&c=etimad, date=1728201914553
+Row: 1712 address=AL-Eatimad, body=╪º╪╡╪»╪º╪▒ ╪╖┘ä╪¿┘è┘ç ╪╣┘ä┘ë ╪¡╪│╪º╪¿┘â┘à ╪¿┘à╪¿┘ä╪║ 10.0╪┤ ┘ê╪º╪╡╪¿╪¡ ╪▒╪╡┘è╪»┘â┘à  160684.5 ╪┤ ┘ä┘ä╪¬┘ü╪º╪╡┘è┘ä, date=1728201913395
+Row: 1726 address=AL-Eatimad, body=http://188.34.164.0/openpdf/report?k=C0A80107:01924D2F5FB4:DD6B:1C3FABFE&c=etimad, date=1727872176042
+Row: 1727 address=AL-Eatimad, body=╪º╪╡╪»╪º╪▒ ╪╖┘ä╪¿┘è┘ç ╪╣┘ä┘ë ╪¡╪│╪º╪¿┘â┘à ╪¿┘à╪¿┘ä╪║ 230.0╪┤ ┘ê╪º╪╡╪¿╪¡ ╪▒╪╡┘è╪»┘â┘à  159414.5 ╪┤ ┘ä┘ä╪¬┘ü╪º╪╡┘è┘ä, date=1727872175108
+Row: 1728 address=AL-Eatimad, body=http://188.34.164.0/openpdf/report?k=C0A80107:01924CCA00F2:C2C1:74E04846&c=etimad, date=1727865267990
+Row: 1729 address=AL-Eatimad, body=╪º╪╡╪»╪º╪▒ ╪╖┘ä╪¿┘è┘ç ╪╣┘ä┘ë ╪¡╪│╪º╪¿┘â┘à ╪¿┘à╪¿┘ä╪║ 145.0╪┤ ┘ê╪º╪╡╪¿╪¡ ╪▒╪╡┘è╪»┘â┘à  159184.5 ╪┤ ┘ä┘ä╪¬┘ü╪º╪╡┘è┘ä, date=1727865266346
+Row: 1731 address=AL-Eatimad, body=http://188.34.164.0/openpdf/report?k=C0A80107:01924C7BBE81:7D4F:5840BB1B&c=etimad, date=1727860109791
+Row: 1732 address=AL-Eatimad, body=╪º╪╡╪»╪º╪▒ ╪╖┘ä╪¿┘è┘ç ╪╣┘ä┘ë ╪¡╪│╪º╪¿┘â┘à ╪¿┘à╪¿┘ä╪║ 25.0╪┤ ┘ê╪º╪╡╪¿╪¡ ╪▒╪╡┘è╪»┘â┘à  159039.5 ╪┤ ┘ä┘ä╪¬┘ü╪º╪╡┘è┘ä, date=1727860108840
+Row: 1733 address=AL-Eatimad, body=http://188.34.164.0/openpdf/report?k=C0A80107:01924C47D7FB:0FC2:03CC1948&c=etimad, date=1727856857049
+Row: 1734 address=AL-Eatimad, body=╪º╪╡╪»╪º╪▒ ╪╖┘ä╪¿┘è┘ç ╪╣┘ä┘ë ╪¡╪│╪º╪¿┘â┘à ╪¿┘à╪¿┘ä╪║ 517.0╪┤ ┘ê╪º╪╡╪¿╪¡ ╪▒╪╡┘è╪»┘â┘à  159014.5 ╪┤ ┘ä┘ä╪¬┘ü╪º╪╡┘è┘ä, date=1727856854773
+Row: 1737 address=AL-Eatimad, body=╪º╪╡╪»╪º╪▒ ╪╖┘ä╪¿┘è┘ç ╪╣┘ä┘ë ╪¡╪│╪º╪¿┘â┘à ╪¿┘à╪¿┘ä╪║ 6120.0╪┤ ┘ê╪º╪╡╪¿╪¡ ╪▒╪╡┘è╪»┘â┘à  158497.5 ╪┤ ┘ä┘ä╪¬┘ü╪º╪╡┘è┘ä, date=1727850679366
+Row: 1738 address=AL-Eatimad, body=http://188.34.164.0/openpdf/report?k=C0A80108:01924BE743EE:9B52:2990A67A&c=etimad, date=1727850678299
+Row: 1739 address=AL-Eatimad, body=http://188.34.164.0/openpdf/report?k=C0A80108:01924BC55C8E:6BBF:23550FA3&c=etimad, date=1727848380521
+Row: 1740 address=AL-Eatimad, body=╪º╪╡╪»╪º╪▒ ╪╖┘ä╪¿┘è┘ç ╪╣┘ä┘ë ╪¡╪│╪º╪¿┘â┘à ╪¿┘à╪¿┘ä╪║ 250.0╪┤ ┘ê╪º╪╡╪¿╪¡ ╪▒╪╡┘è╪»┘â┘à  152377.5 ╪┤ ┘ä┘ä╪¬┘ü╪º╪╡┘è┘ä, date=1727848378885
+Row: 1751 address=AL-Eatimad, body=http://188.34.164.0/openpdf/report?k=C0A80107:01924759F8B7:325E:45BEC926&c=etimad, date=1727774066410
+Row: 1752 address=AL-Eatimad, body=╪º╪╡╪»╪º╪▒ ╪╖┘ä╪¿┘è┘ç ╪╣┘ä┘ë ╪¡╪│╪º╪¿┘â┘à ╪¿┘à╪¿┘ä╪║ 75.0╪┤ ┘ê╪º╪╡╪¿╪¡ ╪▒╪╡┘è╪»┘â┘à  152127.5 ╪┤ ┘ä┘ä╪¬┘ü╪º╪╡┘è┘ä, date=1727774065663
+Row: 1757 address=AL-Eatimad, body=╪▒╪╡┘è╪»┘â┘à ┘ä╪║╪º┘è╪⌐  30/9/2024┘ç┘ê 152052.5 ╪┤  ┘ä┘ä┘à╪▒╪º╪¼╪╣┘ç022409006.┘å╪╣╪¬╪▓ ╪¿╪½┘é╪¬┘â┘à ., date=1727716161209
+Row: 1758 address=AL-Eatimad, body=http://188.34.164.0/openpdf/report?k=C0A80108:0192432CF00F:6270:15BFA9EE&c=etimad, date=1727704046348
+Row: 1759 address=AL-Eatimad, body=╪º╪╡╪»╪º╪▒ ╪╖┘ä╪¿┘è┘ç ╪╣┘ä┘ë ╪¡╪│╪º╪¿┘â┘à ╪¿┘à╪¿┘ä╪║ 75.0╪┤ ┘ê╪º╪╡╪¿╪¡ ╪▒╪╡┘è╪»┘â┘à  152052.5 ╪┤ ┘ä┘ä╪¬┘ü╪º╪╡┘è┘ä, date=1727704043525
+Row: 1764 address=AL-Eatimad, body=http://188.34.164.0/openpdf/report?k=C0A80108:019242788F8B:E380:027DC084&c=etimad, date=1727692177310
+Row: 1765 address=AL-Eatimad, body=╪º╪╡╪»╪º╪▒ ╪╖┘ä╪¿┘è┘ç ╪╣┘ä┘ë ╪¡╪│╪º╪¿┘â┘à ╪¿┘à╪¿┘ä╪║ 564.0╪┤ ┘ê╪º╪╡╪¿╪¡ ╪▒╪╡┘è╪»┘â┘à  151977.5 ╪┤ ┘ä┘ä╪¬┘ü╪º╪╡┘è┘ä, date=1727692176148
+Row: 1774 address=AL-Eatimad, body=╪º╪╡╪»╪º╪▒ ╪╖┘ä╪¿┘è┘ç ╪╣┘ä┘ë ╪¡╪│╪º╪¿┘â┘à ╪¿┘à╪¿┘ä╪║ 1947.0╪┤ ┘ê╪º╪╡╪¿╪¡ ╪▒╪╡┘è╪»┘â┘à  151413.5 ╪┤ ┘ä┘ä╪¬┘ü╪º╪╡┘è┘ä, date=1727673598520
+Row: 1775 address=AL-Eatimad, body=http://188.34.164.0/openpdf/report?k=C0A80107:0192415A6E50:1400:11F00FF0&c=etimad, date=1727673596720
+Row: 1779 address=AL-Eatimad, body=http://188.34.164.0/openpdf/report?k=C0A80165:01923CB9CE96:8AFA:7F515A70&c=etimad, date=1727595860001
+Row: 1780 address=AL-Eatimad, body=╪º╪╡╪»╪º╪▒ ╪╖┘ä╪¿┘è┘ç ╪╣┘ä┘ë ╪¡╪│╪º╪¿┘â┘à ╪¿┘à╪¿┘ä╪║ 30.0╪┤ ┘ê╪º╪╡╪¿╪¡ ╪▒╪╡┘è╪»┘â┘à  149466.5 ╪┤ ┘ä┘ä╪¬┘ü╪º╪╡┘è┘ä, date=1727595852748
+Row: 1793 address=AL-Eatimad, body=http://188.34.164.0/openpdf/report?k=C0A80107:019237474DDF:6E28:322ED9D4&c=etimad, date=1727504647407
+Row: 1794 address=AL-Eatimad, body=╪º╪╡╪»╪º╪▒ ╪╖┘ä╪¿┘è┘ç ╪╣┘ä┘ë ╪¡╪│╪º╪¿┘â┘à ╪¿┘à╪¿┘ä╪║ 740.0╪┤ ┘ê╪º╪╡╪¿╪¡ ╪▒╪╡┘è╪»┘â┘à  149436.5 ╪┤ ┘ä┘ä╪¬┘ü╪º╪╡┘è┘ä, date=1727504646066
+Row: 1799 address=AL-Eatimad, body=http://188.34.164.0/openpdf/report?k=C0A80107:01922E24DF93:E043:2A3B5075&c=etimad, date=1727351269789
+Row: 1800 address=AL-Eatimad, body=╪º╪╡╪»╪º╪▒ ╪╖┘ä╪¿┘è┘ç ╪╣┘ä┘ë ╪¡╪│╪º╪¿┘â┘à ╪¿┘à╪¿┘ä╪║ 75.0╪┤ ┘ê╪º╪╡╪¿╪¡ ╪▒╪╡┘è╪»┘â┘à  148696.5 ╪┤ ┘ä┘ä╪¬┘ü╪º╪╡┘è┘ä, date=1727351269005
+Row: 1802 address=AL-Eatimad, body=http://188.34.164.0/openpdf/report?k=C0A80107:01922D880B39:FB78:33100253&c=etimad, date=1727341037469
+Row: 1803 address=AL-Eatimad, body=╪º╪╡╪»╪º╪▒ ╪╖┘ä╪¿┘è┘ç ╪╣┘ä┘ë ╪¡╪│╪º╪¿┘â┘à ╪¿┘à╪¿┘ä╪║ 1520.0╪┤ ┘ê╪º╪╡╪¿╪¡ ╪▒╪╡┘è╪»┘â┘à  148621.5 ╪┤ ┘ä┘ä╪¬┘ü╪º╪╡┘è┘ä, date=1727341036784
+Row: 1804 address=AL-Eatimad, body=http://188.34.164.0/openpdf/report?k=C0A80107:01922D87E43D:EACF:12F8A115&c=etimad, date=1727341036149
+Row: 1805 address=AL-Eatimad, body=╪º╪╡╪»╪º╪▒ ╪╖┘ä╪¿┘è┘ç ╪╣┘ä┘ë ╪¡╪│╪º╪¿┘â┘à ╪¿┘à╪¿┘ä╪║ 2146.0╪┤ ┘ê╪º╪╡╪¿╪¡ ╪▒╪╡┘è╪»┘â┘à  148621.5 ╪┤ ┘ä┘ä╪¬┘ü╪º╪╡┘è┘ä, date=1727341034170
+Row: 1806 address=AL-Eatimad, body=http://188.34.164.0/openpdf/report?k=C0A80107:01922D36A876:7B0C:586824BB&c=etimad, date=1727335694792
+Row: 1807 address=AL-Eatimad, body=╪º╪╡╪»╪º╪▒ ╪╖┘ä╪¿┘è┘ç ╪╣┘ä┘ë ╪¡╪│╪º╪¿┘â┘à ╪¿┘à╪¿┘ä╪║ 170.0╪┤ ┘ê╪º╪╡╪¿╪¡ ╪▒╪╡┘è╪»┘â┘à  144955.5 ╪┤ ┘ä┘ä╪¬┘ü╪º╪╡┘è┘ä, date=1727335693205
+Row: 1812 address=AL-Eatimad, body=http://188.34.164.0/openpdf/report?k=C0A80107:01922873AFC9:A629:337CFC8C&c=etimad, date=1727255705864
+Row: 1813 address=AL-Eatimad, body=╪º╪╡╪»╪º╪▒ ╪╖┘ä╪¿┘è┘ç ╪╣┘ä┘ë ╪¡╪│╪º╪¿┘â┘à ╪¿┘à╪¿┘ä╪║ 275.0╪┤ ┘ê╪º╪╡╪¿╪¡ ╪▒╪╡┘è╪»┘â┘à  144785.5 ╪┤ ┘ä┘ä╪¬┘ü╪º╪╡┘è┘ä, date=1727255705178
+Row: 1816 address=AL-Eatimad, body=http://188.34.164.0/openpdf/report?k=C0A80107:0192281AC148:2BF2:092B2E42&c=etimad, date=1727249967681
+Row: 1817 address=AL-Eatimad, body=╪º╪╡╪»╪º╪▒ ╪╖┘ä╪¿┘è┘ç ╪╣┘ä┘ë ╪¡╪│╪º╪¿┘â┘à ╪¿┘à╪¿┘ä╪║ 415.0╪┤ ┘ê╪º╪╡╪¿╪¡ ╪▒╪╡┘è╪»┘â┘à  144510.5 ╪┤ ┘ä┘ä╪¬┘ü╪º╪╡┘è┘ä, date=1727249966531
+Row: 1822 address=AL-Eatimad, body=http://188.34.164.0/openpdf/report?k=C0A80107:019222C0C5AF:6235:69A6719A&c=etimad, date=1727160145824
+Row: 1823 address=AL-Eatimad, body=╪º╪╡╪»╪º╪▒ ╪╖┘ä╪¿┘è┘ç ╪╣┘ä┘ë ╪¡╪│╪º╪¿┘â┘à ╪¿┘à╪¿┘ä╪║ 262.0╪┤ ┘ê╪º╪╡╪¿╪¡ ╪▒╪╡┘è╪»┘â┘à  144095.5 ╪┤ ┘ä┘ä╪¬┘ü╪º╪╡┘è┘ä, date=1727160143304
+Row: 1828 address=AL-Eatimad, body=http://188.34.164.0/openpdf/report?k=C0A80107:01921E7AAF37:0CBB:535D89BB&c=etimad, date=1727088308877
+Row: 1829 address=AL-Eatimad, body=╪º╪╡╪»╪º╪▒ ╪╖┘ä╪¿┘è┘ç ╪╣┘ä┘ë ╪¡╪│╪º╪¿┘â┘à ╪¿┘à╪¿┘ä╪║ 120.0╪┤ ┘ê╪º╪╡╪¿╪¡ ╪▒╪╡┘è╪»┘â┘à  143833.5 ╪┤ ┘ä┘ä╪¬┘ü╪º╪╡┘è┘ä, date=1727088308299
+Row: 1830 address=AL-Eatimad, body=http://188.34.164.0/openpdf/report?k=C0A80107:01921E6E701C:F277:12A402A9&c=etimad, date=1727087840340
+Row: 1831 address=AL-Eatimad, body=╪º╪╡╪»╪º╪▒ ╪╖┘ä╪¿┘è┘ç ╪╣┘ä┘ë ╪¡╪│╪º╪¿┘â┘à ╪¿┘à╪¿┘ä╪║ 3226.0╪┤ ┘ê╪º╪╡╪¿╪¡ ╪▒╪╡┘è╪»┘â┘à  143713.5 ╪┤ ┘ä┘ä╪¬┘ü╪º╪╡┘è┘ä, date=1727087839604
+Row: 1845 address=AL-Eatimad, body=╪º╪╡╪»╪º╪▒ ╪╖┘ä╪¿┘è┘ç ╪╣┘ä┘ë ╪¡╪│╪º╪¿┘â┘à ╪¿┘à╪¿┘ä╪║ 55.0╪┤ ┘ê╪º╪╡╪¿╪¡ ╪▒╪╡┘è╪»┘â┘à  140487.5 ╪┤ ┘ä┘ä╪¬┘ü╪º╪╡┘è┘ä, date=1727004881579
+Row: 1846 address=AL-Eatimad, body=http://188.34.164.0/openpdf/report?k=C0A80108:0192197E345F:8AA9:6B18B966&c=etimad, date=1727004880792
+Row: 1851 address=AL-Eatimad, body=http://188.34.164.0/openpdf/report?k=C0A80107:019218F370DC:CDE5:258200C1&c=etimad, date=1726995806454
+Row: 1852 address=AL-Eatimad, body=╪º╪╡╪»╪º╪▒ ╪╖┘ä╪¿┘è┘ç ╪╣┘ä┘ë ╪¡╪│╪º╪¿┘â┘à ╪¿┘à╪¿┘ä╪║ 230.0╪┤ ┘ê╪º╪╡╪¿╪¡ ╪▒╪╡┘è╪»┘â┘à  140432.5 ╪┤ ┘ä┘ä╪¬┘ü╪º╪╡┘è┘ä, date=1726995805088
+Row: 1860 address=AL-Eatimad, body=╪º╪╡╪»╪º╪▒ ╪╖┘ä╪¿┘è┘ç ╪╣┘ä┘ë ╪¡╪│╪º╪¿┘â┘à ╪¿┘à╪¿┘ä╪║ 426.0╪┤ ┘ê╪º╪╡╪¿╪¡ ╪▒╪╡┘è╪»┘â┘à  140202.5 ╪┤ ┘ä┘ä╪¬┘ü╪º╪╡┘è┘ä, date=1726908737726
+Row: 1861 address=AL-Eatimad, body=http://188.34.164.0/openpdf/report?k=C0A80108:019213C2AD8C:A1D7:42383512&c=etimad, date=1726908736172
+Row: 1863 address=AL-Eatimad, body=http://188.34.164.0/openpdf/report?k=C0A80108:01921366B69E:52F6:555B26CA&c=etimad, date=1726902699754
+Row: 1864 address=AL-Eatimad, body=╪º╪╡╪»╪º╪▒ ╪╖┘ä╪¿┘è┘ç ╪╣┘ä┘ë ╪¡╪│╪º╪¿┘â┘à ╪¿┘à╪¿┘ä╪║ 310.0╪┤ ┘ê╪º╪╡╪¿╪¡ ╪▒╪╡┘è╪»┘â┘à  139776.5 ╪┤ ┘ä┘ä╪¬┘ü╪º╪╡┘è┘ä, date=1726902698722
+Row: 1869 address=AL-Eatimad, body=http://188.34.164.0/openpdf/report?k=C0A80108:019209907FF3:40E4:3E8F276D&c=etimad, date=1726737512856
+Row: 1870 address=AL-Eatimad, body=╪º╪╡╪»╪º╪▒ ╪╖┘ä╪¿┘è┘ç ╪╣┘ä┘ë ╪¡╪│╪º╪¿┘â┘à ╪¿┘à╪¿┘ä╪║ 250.0╪┤ ┘ê╪º╪╡╪¿╪¡ ╪▒╪╡┘è╪»┘â┘à  139466.5 ╪┤ ┘ä┘ä╪¬┘ü╪º╪╡┘è┘ä, date=1726737512163
+Row: 1873 address=AL-Eatimad, body=http://188.34.164.0/openpdf/report?k=C0A80107:019208C64912:A5A9:0FB762E6&c=etimad, date=1726724381219
+Row: 1874 address=AL-Eatimad, body=╪º╪╡╪»╪º╪▒ ╪╖┘ä╪¿┘è┘ç ╪╣┘ä┘ë ╪¡╪│╪º╪¿┘â┘à ╪¿┘à╪¿┘ä╪║ 735.0╪┤ ┘ê╪º╪╡╪¿╪¡ ╪▒╪╡┘è╪»┘â┘à  139216.5 ╪┤ ┘ä┘ä╪¬┘ü╪º╪╡┘è┘ä, date=1726724380506
+Row: 1875 address=AL-Eatimad, body=http://188.34.164.0/openpdf/report?k=C0A80107:019208C5B5DA:8112:16479D80&c=etimad, date=1726724379810
+Row: 1876 address=AL-Eatimad, body=╪º╪╡╪»╪º╪▒ ╪╖┘ä╪¿┘è┘ç ╪╣┘ä┘ë ╪¡╪│╪º╪¿┘â┘à ╪¿┘à╪¿┘ä╪║ 1475.0╪┤ ┘ê╪º╪╡╪¿╪¡ ╪▒╪╡┘è╪»┘â┘à  139216.5 ╪┤ ┘ä┘ä╪¬┘ü╪º╪╡┘è┘ä, date=1726724377803
+Row: 1881 address=AL-Eatimad, body=http://188.34.164.0/openpdf/report?k=C0A80108:019203B0FF5A:2E87:2E04433A&c=etimad, date=1726639086525
+Row: 1882 address=AL-Eatimad, body=╪º╪╡╪»╪º╪▒ ╪╖┘ä╪¿┘è┘ç ╪╣┘ä┘ë ╪¡╪│╪º╪¿┘â┘à ╪¿┘à╪¿┘ä╪║ 20.0╪┤ ┘ê╪º╪╡╪¿╪¡ ╪▒╪╡┘è╪»┘â┘à  137006.5 ╪┤ ┘ä┘ä╪¬┘ü╪º╪╡┘è┘ä, date=1726639084520
+Row: 1883 address=AL-Eatimad, body=http://188.34.164.0/openpdf/report?k=C0A80107:019203ADE6C3:9DE5:18D2CA63&c=etimad, date=1726638830183
+Row: 1884 address=AL-Eatimad, body=╪º╪╡╪»╪º╪▒ ╪╖┘ä╪¿┘è┘ç ╪╣┘ä┘ë ╪¡╪│╪º╪¿┘â┘à ╪¿┘à╪¿┘ä╪║ 453.0╪┤ ┘ê╪º╪╡╪¿╪¡ ╪▒╪╡┘è╪»┘â┘à  136986.5 ╪┤ ┘ä┘ä╪¬┘ü╪º╪╡┘è┘ä, date=1726638828284
+Row: 1886 address=AL-Eatimad, body=┘à╪▒╪¬╪¼╪╣ ╪¿╪╢╪º╪╣╪⌐ ╪╣┘ä┘ë ╪¡╪│╪º╪¿ ╪¼┘à╪º┘ä ╪º┘ä╪¿╪º╪¿╪º ╪¿┘é┘è┘à╪⌐ 2400.0 ╪┤┘ê╪º╪╡╪¿╪¡ ╪▒╪╡┘è╪»┘â┘à  136533.5 ╪┤, date=1726637274812
+Row: 1887 address=AL-Eatimad, body=http://188.34.164.0/openpdf/report?k=C0A80107:0192038CB88C:B8ED:0F178971&c=etimad, date=1726636765191
+Row: 1888 address=AL-Eatimad, body=╪º╪╡╪»╪º╪▒ ╪╖┘ä╪¿┘è┘ç ╪╣┘ä┘ë ╪¡╪│╪º╪¿┘â┘à ╪¿┘à╪¿┘ä╪║ 8130.0╪┤ ┘ê╪º╪╡╪¿╪¡ ╪▒╪╡┘è╪»┘â┘à  138933.5 ╪┤ ┘ä┘ä╪¬┘ü╪º╪╡┘è┘ä, date=1726636763784
+Row: 1892 address=AL-Eatimad, body=http://188.34.164.0/openpdf/report?k=C0A80107:0191FF96FB08:EE57:192CDC3C&c=etimad, date=1726570152917
+Row: 1893 address=AL-Eatimad, body=╪º╪╡╪»╪º╪▒ ╪╖┘ä╪¿┘è┘ç ╪╣┘ä┘ë ╪¡╪│╪º╪¿┘â┘à ╪¿┘à╪¿┘ä╪║ 205.0╪┤ ┘ê╪º╪╡╪¿╪¡ ╪▒╪╡┘è╪»┘â┘à  130803.5 ╪┤ ┘ä┘ä╪¬┘ü╪º╪╡┘è┘ä, date=1726570150732
+Row: 1896 address=AL-Eatimad, body=http://188.34.164.0/openpdf/report?k=C0A80107:0191FF44298F:CBA8:32790C17&c=etimad, date=1726564987887
+Row: 1897 address=AL-Eatimad, body=╪º╪╡╪»╪º╪▒ ╪╖┘ä╪¿┘è┘ç ╪╣┘ä┘ë ╪¡╪│╪º╪¿┘â┘à ╪¿┘à╪¿┘ä╪║ 35.0╪┤ ┘ê╪º╪╡╪¿╪¡ ╪▒╪╡┘è╪»┘â┘à  130598.5 ╪┤ ┘ä┘ä╪¬┘ü╪º╪╡┘è┘ä, date=1726564987129
+Row: 1898 address=AL-Eatimad, body=http://188.34.164.0/openpdf/report?k=C0A80107:0191FF4258FE:258B:1120C6BB&c=etimad, date=1726564986471
+Row: 1899 address=AL-Eatimad, body=╪º╪╡╪»╪º╪▒ ╪╖┘ä╪¿┘è┘ç ╪╣┘ä┘ë ╪¡╪│╪º╪¿┘â┘à ╪¿┘à╪¿┘ä╪║ 410.0╪┤ ┘ê╪º╪╡╪¿╪¡ ╪▒╪╡┘è╪»┘â┘à  130598.5 ╪┤ ┘ä┘ä╪¬┘ü╪º╪╡┘è┘ä, date=1726564983190
+Row: 1901 address=AL-Eatimad, body=http://188.34.164.0/openpdf/report?k=C0A80107:0191FF2CB236:688B:5A1515C6&c=etimad, date=1726563233250
+Row: 1902 address=AL-Eatimad, body=╪º╪╡╪»╪º╪▒ ╪╖┘ä╪¿┘è┘ç ╪╣┘ä┘ë ╪¡╪│╪º╪¿┘â┘à ╪¿┘à╪¿┘ä╪║ 280.0╪┤ ┘ê╪º╪╡╪¿╪¡ ╪▒╪╡┘è╪»┘â┘à  130153.5 ╪┤ ┘ä┘ä╪¬┘ü╪º╪╡┘è┘ä, date=1726563232370
+Row: 1904 address=AL-Eatimad, body=http://188.34.164.0/openpdf/report?k=C0A80107:0191FEEF6FA0:3AE9:1FAEE41F&c=etimad, date=1726559264059
+Row: 1905 address=AL-Eatimad, body=╪º╪╡╪»╪º╪▒ ╪╖┘ä╪¿┘è┘ç ╪╣┘ä┘ë ╪¡╪│╪º╪¿┘â┘à ╪¿┘à╪¿┘ä╪║ 1181.0╪┤ ┘ê╪º╪╡╪¿╪¡ ╪▒╪╡┘è╪»┘â┘à  129873.5 ╪┤ ┘ä┘ä╪¬┘ü╪º╪╡┘è┘ä, date=1726559261724
+Row: 1906 address=AL-Eatimad, body=http://188.34.164.0/openpdf/report?k=C0A80165:0191FEA67A7C:02F7:609F66D8&c=etimad, date=1726554562303
+Row: 1907 address=AL-Eatimad, body=╪º╪╡╪»╪º╪▒ ╪╖┘ä╪¿┘è┘ç ╪╣┘ä┘ë ╪¡╪│╪º╪¿┘â┘à ╪¿┘à╪¿┘ä╪║ 15.0╪┤ ┘ê╪º╪╡╪¿╪¡ ╪▒╪╡┘è╪»┘â┘à  128692.5 ╪┤ ┘ä┘ä╪¬┘ü╪º╪╡┘è┘ä, date=1726554561705
+Row: 1908 address=AL-Eatimad, body=http://188.34.164.0/openpdf/report?k=C0A80108:0191FEA04FA4:EF96:687BEDF5&c=etimad, date=1726553957189
+Row: 1909 address=AL-Eatimad, body=╪º╪╡╪»╪º╪▒ ╪╖┘ä╪¿┘è┘ç ╪╣┘ä┘ë ╪¡╪│╪º╪¿┘â┘à ╪¿┘à╪¿┘ä╪║ 395.0╪┤ ┘ê╪º╪╡╪¿╪¡ ╪▒╪╡┘è╪»┘â┘à  128677.5 ╪┤ ┘ä┘ä╪¬┘ü╪º╪╡┘è┘ä, date=1726553956366
+Row: 1910 address=AL-Eatimad, body=http://188.34.164.0/openpdf/report?k=C0A80107:0191FE65B36B:D7A1:7AA4576B&c=etimad, date=1726550275210
+Row: 1911 address=AL-Eatimad, body=╪º╪╡╪»╪º╪▒ ╪╖┘ä╪¿┘è┘ç ╪╣┘ä┘ë ╪¡╪│╪º╪¿┘â┘à ╪¿┘à╪¿┘ä╪║ 5310.0╪┤ ┘ê╪º╪╡╪¿╪¡ ╪▒╪╡┘è╪»┘â┘à  128282.5 ╪┤ ┘ä┘ä╪¬┘ü╪º╪╡┘è┘ä, date=1726550273517
+Row: 1915 address=AL-Eatimad, body=http://188.34.164.0/openpdf/report?k=C0A80108:0191FAB6C4D9:55BE:2CED4583&c=etimad, date=1726488518006
+Row: 1916 address=AL-Eatimad, body=╪º╪╡╪»╪º╪▒ ╪╖┘ä╪¿┘è┘ç ╪╣┘ä┘ë ╪¡╪│╪º╪¿┘â┘à ╪¿┘à╪¿┘ä╪║ 40.0╪┤ ┘ê╪º╪╡╪¿╪¡ ╪▒╪╡┘è╪»┘â┘à  122972.5 ╪┤ ┘ä┘ä╪¬┘ü╪º╪╡┘è┘ä, date=1726488515919
+Row: 1918 address=AL-Eatimad, body=http://188.34.164.0/openpdf/report?k=C0A80107:0191FA522706:5F5E:44BBB6A9&c=etimad, date=1726481949735
+Row: 1919 address=AL-Eatimad, body=╪º╪╡╪»╪º╪▒ ╪╖┘ä╪¿┘è┘ç ╪╣┘ä┘ë ╪¡╪│╪º╪¿┘â┘à ╪¿┘à╪¿┘ä╪║ 1431.0╪┤ ┘ê╪º╪╡╪¿╪¡ ╪▒╪╡┘è╪»┘â┘à  122932.5 ╪┤ ┘ä┘ä╪¬┘ü╪º╪╡┘è┘ä, date=1726481949009
+Row: 1921 address=AL-Eatimad, body=http://188.34.164.0/openpdf/report?k=C0A80108:0191F9B40C72:9B04:5C3EAC00&c=etimad, date=1726471440528
+Row: 1922 address=AL-Eatimad, body=╪º╪╡╪»╪º╪▒ ╪╖┘ä╪¿┘è┘ç ╪╣┘ä┘ë ╪¡╪│╪º╪¿┘â┘à ╪¿┘à╪¿┘ä╪║ 5.0╪┤ ┘ê╪º╪╡╪¿╪¡ ╪▒╪╡┘è╪»┘â┘à  121501.5 ╪┤ ┘ä┘ä╪¬┘ü╪º╪╡┘è┘ä, date=1726471439875
+Row: 1923 address=AL-Eatimad, body=http://188.34.164.0/openpdf/report?k=C0A80108:0191F9B0724D:82B6:39F174AB&c=etimad, date=1726471174270
+Row: 1924 address=AL-Eatimad, body=╪º╪╡╪»╪º╪▒ ╪╖┘ä╪¿┘è┘ç ╪╣┘ä┘ë ╪¡╪│╪º╪¿┘â┘à ╪¿┘à╪¿┘ä╪║ 440.0╪┤ ┘ê╪º╪╡╪¿╪¡ ╪▒╪╡┘è╪»┘â┘à  121496.5 ╪┤ ┘ä┘ä╪¬┘ü╪º╪╡┘è┘ä, date=1726471173395
+Row: 1925 address=AL-Eatimad, body=http://188.34.164.0/openpdf/report?k=C0A80108:0191F9A1F468:FF8D:523E2870&c=etimad, date=1726470552688
+Row: 1926 address=AL-Eatimad, body=╪º╪╡╪»╪º╪▒ ╪╖┘ä╪¿┘è┘ç ╪╣┘ä┘ë ╪¡╪│╪º╪¿┘â┘à ╪¿┘à╪¿┘ä╪║ 1050.0╪┤ ┘ê╪º╪╡╪¿╪¡ ╪▒╪╡┘è╪»┘â┘à  121056.5 ╪┤ ┘ä┘ä╪¬┘ü╪º╪╡┘è┘ä, date=1726470551839
+Row: 1927 address=AL-Eatimad, body=http://188.34.164.0/openpdf/report?k=C0A80165:0191F9538053:571E:33FA38CD&c=etimad, date=1726465152440
+Row: 1928 address=AL-Eatimad, body=╪º╪╡╪»╪º╪▒ ╪╖┘ä╪¿┘è┘ç ╪╣┘ä┘ë ╪¡╪│╪º╪¿┘â┘à ╪¿┘à╪¿┘ä╪║ 95.0╪┤ ┘ê╪º╪╡╪¿╪¡ ╪▒╪╡┘è╪»┘â┘à  120006.5 ╪┤ ┘ä┘ä╪¬┘ü╪º╪╡┘è┘ä, date=1726465151757
+Row: 1936 address=AL-Eatimad, body=╪▒╪╡┘è╪»┘â┘à ┘ä╪║╪º┘è╪⌐  15/9/2024┘ç┘ê 119911.5 ╪┤  ┘ä┘ä┘à╪▒╪º╪¼╪╣┘ç022409006.┘å╪╣╪¬╪▓ ╪¿╪½┘é╪¬┘â┘à ., date=1726420091432
+Row: 1937 address=AL-Eatimad, body=http://188.34.164.0/openpdf/report?k=C0A80108:0191F590808B:9CC5:55837519&c=etimad, date=1726402090535
+Row: 1938 address=AL-Eatimad, body=╪º╪╡╪»╪º╪▒ ╪╖┘ä╪¿┘è┘ç ╪╣┘ä┘ë ╪¡╪│╪º╪¿┘â┘à ╪¿┘à╪¿┘ä╪║ 680.0╪┤ ┘ê╪º╪╡╪¿╪¡ ╪▒╪╡┘è╪»┘â┘à  119911.5 ╪┤ ┘ä┘ä╪¬┘ü╪º╪╡┘è┘ä, date=1726402089624
+Row: 1939 address=AL-Eatimad, body=http://188.34.164.0/openpdf/report?k=C0A80107:0191F53789FB:D208:6A7F494F&c=etimad, date=1726396131694
+Row: 1940 address=AL-Eatimad, body=╪º╪╡╪»╪º╪▒ ╪╖┘ä╪¿┘è┘ç ╪╣┘ä┘ë ╪¡╪│╪º╪¿┘â┘à ╪¿┘à╪¿┘ä╪║ 30.0╪┤ ┘ê╪º╪╡╪¿╪¡ ╪▒╪╡┘è╪»┘â┘à  119231.5 ╪┤ ┘ä┘ä╪¬┘ü╪º╪╡┘è┘ä, date=1726396130806
+Row: 1941 address=AL-Eatimad, body=┘à╪▒╪¬╪¼╪╣ ╪¿╪╢╪º╪╣╪⌐ ╪╣┘ä┘ë ╪¡╪│╪º╪¿ ╪¼┘à╪º┘ä ╪º┘ä╪¿╪º╪¿╪º ╪¿┘é┘è┘à╪⌐ 90.0 ╪┤┘ê╪º╪╡╪¿╪¡ ╪▒╪╡┘è╪»┘â┘à  119201.5 ╪┤, date=1726390956924
+Row: 1942 address=AL-Eatimad, body=http://188.34.164.0/openpdf/report?k=C0A80108:0191F4E8AB2C:B33D:3584E9D5&c=etimad, date=1726390956295
+Row: 1943 address=AL-Eatimad, body=╪º╪╡╪»╪º╪▒ ╪╖┘ä╪¿┘è┘ç ╪╣┘ä┘ë ╪¡╪│╪º╪¿┘â┘à ╪¿┘à╪¿┘ä╪║ 680.0╪┤ ┘ê╪º╪╡╪¿╪¡ ╪▒╪╡┘è╪»┘â┘à  119201.5 ╪┤ ┘ä┘ä╪¬┘ü╪º╪╡┘è┘ä, date=1726390953294
+Row: 1944 address=AL-Eatimad, body=http://188.34.164.0/openpdf/report?k=C0A80107:0191F47CFA0E:D9CC:4A3943D0&c=etimad, date=1726383902172
+Row: 1945 address=AL-Eatimad, body=╪º╪╡╪»╪º╪▒ ╪╖┘ä╪¿┘è┘ç ╪╣┘ä┘ë ╪¡╪│╪º╪¿┘â┘à ╪¿┘à╪¿┘ä╪║ 70.0╪┤ ┘ê╪º╪╡╪¿╪¡ ╪▒╪╡┘è╪»┘â┘à  118611.5 ╪┤ ┘ä┘ä╪¬┘ü╪º╪╡┘è┘ä, date=1726383899747
+Row: 1947 address=AL-Eatimad, body=http://188.34.164.0/openpdf/report?k=C0A80107:0191F0B58AFF:91E3:552923B4&c=etimad, date=1726320802385
+Row: 1948 address=AL-Eatimad, body=╪º╪╡╪»╪º╪▒ ╪╖┘ä╪¿┘è┘ç ╪╣┘ä┘ë ╪¡╪│╪º╪¿┘â┘à ╪¿┘à╪¿┘ä╪║ 325.0╪┤ ┘ê╪º╪╡╪¿╪¡ ╪▒╪╡┘è╪»┘â┘à  118541.5 ╪┤ ┘ä┘ä╪¬┘ü╪º╪╡┘è┘ä, date=1726320797845
+Row: 1952 address=AL-Eatimad, body=http://188.34.164.0/openpdf/report?k=C0A80108:0191EFE82AEB:BD85:364B8533&c=etimad, date=1726307234703
+Row: 1953 address=AL-Eatimad, body=╪º╪╡╪»╪º╪▒ ╪╖┘ä╪¿┘è┘ç ╪╣┘ä┘ë ╪¡╪│╪º╪¿┘â┘à ╪¿┘à╪¿┘ä╪║ 482.0╪┤ ┘ê╪º╪╡╪¿╪¡ ╪▒╪╡┘è╪»┘â┘à  118216.5 ╪┤ ┘ä┘ä╪¬┘ü╪º╪╡┘è┘ä, date=1726307233812
+Row: 1954 address=AL-Eatimad, body=http://188.34.164.0/openpdf/report?k=C0A80107:0191EFA7CBE0:E11C:369F35D5&c=etimad, date=1726303160965
+Row: 1955 address=AL-Eatimad, body=╪º╪╡╪»╪º╪▒ ╪╖┘ä╪¿┘è┘ç ╪╣┘ä┘ë ╪¡╪│╪º╪¿┘â┘à ╪¿┘à╪¿┘ä╪║ 47.0╪┤ ┘ê╪º╪╡╪¿╪¡ ╪▒╪╡┘è╪»┘â┘à  117734.5 ╪┤ ┘ä┘ä╪¬┘ü╪º╪╡┘è┘ä, date=1726303158768
+Row: 1957 address=AL-Eatimad, body=http://188.34.164.0/openpdf/report?k=C0A80108:0191EF8424FF:6C89:6131D2F6&c=etimad, date=1726301110216
+Row: 1958 address=AL-Eatimad, body=╪º╪╡╪»╪º╪▒ ╪╖┘ä╪¿┘è┘ç ╪╣┘ä┘ë ╪¡╪│╪º╪¿┘â┘à ╪¿┘à╪¿┘ä╪║ 217.0╪┤ ┘ê╪º╪╡╪¿╪¡ ╪▒╪╡┘è╪»┘â┘à  117687.5 ╪┤ ┘ä┘ä╪¬┘ü╪º╪╡┘è┘ä, date=1726301109390
+Row: 1959 address=AL-Eatimad, body=http://188.34.164.0/openpdf/report?k=C0A80107:0191EF550506:1D43:2C0C180D&c=etimad, date=1726297471180
+Row: 1960 address=AL-Eatimad, body=╪º╪╡╪»╪º╪▒ ╪╖┘ä╪¿┘è┘ç ╪╣┘ä┘ë ╪¡╪│╪º╪¿┘â┘à ╪¿┘à╪¿┘ä╪║ 70.0╪┤ ┘ê╪º╪╡╪¿╪¡ ╪▒╪╡┘è╪»┘â┘à  117470.5 ╪┤ ┘ä┘ä╪¬┘ü╪º╪╡┘è┘ä, date=1726297467204
+Row: 1961 address=AL-Eatimad, body=http://188.34.164.0/openpdf/report?k=C0A80107:0191EF52A2AA:467E:44C95456&c=etimad, date=1726297466417
+Row: 1962 address=AL-Eatimad, body=╪º╪╡╪»╪º╪▒ ╪╖┘ä╪¿┘è┘ç ╪╣┘ä┘ë ╪¡╪│╪º╪¿┘â┘à ╪¿┘à╪¿┘ä╪║ 12.0╪┤ ┘ê╪º╪╡╪¿╪¡ ╪▒╪╡┘è╪»┘â┘à  117470.5 ╪┤ ┘ä┘ä╪¬┘ü╪º╪╡┘è┘ä, date=1726297465511
+Row: 1963 address=AL-Eatimad, body=http://188.34.164.0/openpdf/report?k=C0A80108:0191EF46886F:6950:20BB587D&c=etimad, date=1726296440157
+Row: 1964 address=AL-Eatimad, body=╪º╪╡╪»╪º╪▒ ╪╖┘ä╪¿┘è┘ç ╪╣┘ä┘ë ╪¡╪│╪º╪¿┘â┘à ╪¿┘à╪¿┘ä╪║ 1000.0╪┤ ┘ê╪º╪╡╪¿╪¡ ╪▒╪╡┘è╪»┘â┘à  117388.5 ╪┤ ┘ä┘ä╪¬┘ü╪º╪╡┘è┘ä, date=1726296438955
+Row: 1965 address=AL-Eatimad, body=http://188.34.164.0/openpdf/report?k=C0A80107:0191EF1A23E9:B52C:4929EC83&c=etimad, date=1726293868847
+Row: 1966 address=AL-Eatimad, body=╪º╪╡╪»╪º╪▒ ╪╖┘ä╪¿┘è┘ç ╪╣┘ä┘ë ╪¡╪│╪º╪¿┘â┘à ╪¿┘à╪¿┘ä╪║ 1730.0╪┤ ┘ê╪º╪╡╪¿╪¡ ╪▒╪╡┘è╪»┘â┘à  116388.5 ╪┤ ┘ä┘ä╪¬┘ü╪º╪╡┘è┘ä, date=1726293563429
+Row: 1970 address=AL-Eatimad, body=┘à╪▒╪¬╪¼╪╣ ╪¿╪╢╪º╪╣╪⌐ ╪╣┘ä┘ë ╪¡╪│╪º╪¿ ╪¼┘à╪º┘ä ╪º┘ä╪¿╪º╪¿╪º ╪¿┘é┘è┘à╪⌐ 330.0 ╪┤┘ê╪º╪╡╪¿╪¡ ╪▒╪╡┘è╪»┘â┘à  114658.5 ╪┤, date=1726148280866
+Row: 1976 address=AL-Eatimad, body=┘à╪▒╪¬╪¼╪╣ ╪¿╪╢╪º╪╣╪⌐ ╪╣┘ä┘ë ╪¡╪│╪º╪¿ ╪¼┘à╪º┘ä ╪º┘ä╪¿╪º╪¿╪º ╪¿┘é┘è┘à╪⌐ 530.0 ╪┤┘ê╪º╪╡╪¿╪¡ ╪▒╪╡┘è╪»┘â┘à  114988.5 ╪┤, date=1726122253444
+Row: 1977 address=AL-Eatimad, body=http://188.34.164.0/openpdf/report?k=C0A80107:0191E4BBCAC8:4DC3:6A1A47EF&c=etimad, date=1726119758959
+Row: 1978 address=AL-Eatimad, body=╪º╪╡╪»╪º╪▒ ╪╖┘ä╪¿┘è┘ç ╪╣┘ä┘ë ╪¡╪│╪º╪¿┘â┘à ╪¿┘à╪¿┘ä╪║ 2820.0╪┤ ┘ê╪º╪╡╪¿╪¡ ╪▒╪╡┘è╪»┘â┘à  115518.5 ╪┤ ┘ä┘ä╪¬┘ü╪º╪╡┘è┘ä, date=1726119757531
+Row: 1979 address=AL-Eatimad, body=http://188.34.164.0/openpdf/report?k=C0A80107:0191E48FC5B8:182E:370B5A5B&c=etimad, date=1726116650096
+Row: 1980 address=AL-Eatimad, body=╪º╪╡╪»╪º╪▒ ╪╖┘ä╪¿┘è┘ç ╪╣┘ä┘ë ╪¡╪│╪º╪¿┘â┘à ╪¿┘à╪¿┘ä╪║ 500.0╪┤ ┘ê╪º╪╡╪¿╪¡ ╪▒╪╡┘è╪»┘â┘à  112698.5 ╪┤ ┘ä┘ä╪¬┘ü╪º╪╡┘è┘ä, date=1726116648797
+Row: 1982 address=AL-Eatimad, body=http://188.34.164.0/openpdf/report?k=C0A80107:0191E02959C3:36AF:07B136D2&c=etimad, date=1726042937270
+Row: 1983 address=AL-Eatimad, body=╪º╪╡╪»╪º╪▒ ╪╖┘ä╪¿┘è┘ç ╪╣┘ä┘ë ╪¡╪│╪º╪¿┘â┘à ╪¿┘à╪¿┘ä╪║ 990.0╪┤ ┘ê╪º╪╡╪¿╪¡ ╪▒╪╡┘è╪»┘â┘à  112198.5 ╪┤ ┘ä┘ä╪¬┘ü╪º╪╡┘è┘ä, date=1726042935289
+Row: 1985 address=AL-Eatimad, body=http://188.34.164.0/openpdf/report?k=C0A80108:0191DFF5672A:3BC5:657E68BF&c=etimad, date=1726039393031
+Row: 1986 address=AL-Eatimad, body=╪º╪╡╪»╪º╪▒ ╪╖┘ä╪¿┘è┘ç ╪╣┘ä┘ë ╪¡╪│╪º╪¿┘â┘à ╪¿┘à╪¿┘ä╪║ 875.0╪┤ ┘ê╪º╪╡╪¿╪¡ ╪▒╪╡┘è╪»┘â┘à  111208.5 ╪┤ ┘ä┘ä╪¬┘ü╪º╪╡┘è┘ä, date=1726039392048
+Row: 1987 address=AL-Eatimad, body=╪º╪╡╪»╪º╪▒ ╪╖┘ä╪¿┘è┘ç ╪╣┘ä┘ë ╪¡╪│╪º╪¿┘â┘à ╪¿┘à╪¿┘ä╪║ 100.0╪┤ ┘ê╪º╪╡╪¿╪¡ ╪▒╪╡┘è╪»┘â┘à  110333.5 ╪┤ ┘ä┘ä╪¬┘ü╪º╪╡┘è┘ä, date=1726036921799
+Row: 1988 address=AL-Eatimad, body=http://188.34.164.0/openpdf/report?k=C0A80107:0191DFCDB48D:1569:74BB8C9D&c=etimad, date=1726036921128
+Row: 1996 address=AL-Eatimad, body=http://188.34.164.0/openpdf/report?k=C0A80107:0191DB115771:E50D:1AE4CC4B&c=etimad, date=1725957429615
+Row: 1997 address=AL-Eatimad, body=╪º╪╡╪»╪º╪▒ ╪╖┘ä╪¿┘è┘ç ╪╣┘ä┘ë ╪¡╪│╪º╪¿┘â┘à ╪¿┘à╪¿┘ä╪║ 8.0╪┤ ┘ê╪º╪╡╪¿╪¡ ╪▒╪╡┘è╪»┘â┘à  110233.5 ╪┤ ┘ä┘ä╪¬┘ü╪º╪╡┘è┘ä, date=1725957428590
+Row: 1998 address=AL-Eatimad, body=http://188.34.164.0/openpdf/report?k=C0A80107:0191DB10AEAD:F5D0:301CE646&c=etimad, date=1725957427729
+Row: 1999 address=AL-Eatimad, body=╪º╪╡╪»╪º╪▒ ╪╖┘ä╪¿┘è┘ç ╪╣┘ä┘ë ╪¡╪│╪º╪¿┘â┘à ╪¿┘à╪¿┘ä╪║ 75.0╪┤ ┘ê╪º╪╡╪¿╪¡ ╪▒╪╡┘è╪»┘â┘à  110233.5 ╪┤ ┘ä┘ä╪¬┘ü╪º╪╡┘è┘ä, date=1725957426550
+Row: 2001 address=AL-Eatimad, body=http://188.34.164.0/openpdf/report?k=C0A80108:0191DAD92B3C:D05C:128E29AB&c=etimad, date=1725953833671
+Row: 2002 address=AL-Eatimad, body=╪º╪╡╪»╪º╪▒ ╪╖┘ä╪¿┘è┘ç ╪╣┘ä┘ë ╪¡╪│╪º╪¿┘â┘à ╪¿┘à╪¿┘ä╪║ 750.0╪┤ ┘ê╪º╪╡╪¿╪¡ ╪▒╪╡┘è╪»┘â┘à  110150.5 ╪┤ ┘ä┘ä╪¬┘ü╪º╪╡┘è┘ä, date=1725953832069
+Row: 2004 address=AL-Eatimad, body=http://188.34.164.0/openpdf/report?k=C0A80107:0191DA6FC29B:BE95:133B4026&c=etimad, date=1725946864314
+Row: 2005 address=AL-Eatimad, body=╪º╪╡╪»╪º╪▒ ╪╖┘ä╪¿┘è┘ç ╪╣┘ä┘ë ╪¡╪│╪º╪¿┘â┘à ╪¿┘à╪¿┘ä╪║ 1155.0╪┤ ┘ê╪º╪╡╪¿╪¡ ╪▒╪╡┘è╪»┘â┘à  109400.5 ╪┤ ┘ä┘ä╪¬┘ü╪º╪╡┘è┘ä, date=1725946861508
+Row: 2006 address=AL-Eatimad, body=http://188.34.164.0/openpdf/report?k=C0A80165:0191DA558A90:3DA9:60A06794&c=etimad, date=1725945166558
+Row: 2007 address=AL-Eatimad, body=╪º╪╡╪»╪º╪▒ ╪╖┘ä╪¿┘è┘ç ╪╣┘ä┘ë ╪¡╪│╪º╪¿┘â┘à ╪¿┘à╪¿┘ä╪║ 165.0╪┤ ┘ê╪º╪╡╪¿╪¡ ╪▒╪╡┘è╪»┘â┘à  108245.5 ╪┤ ┘ä┘ä╪¬┘ü╪º╪╡┘è┘ä, date=1725945162681
+Row: 2008 address=AL-Eatimad, body=http://188.34.164.0/openpdf/report?k=C0A80108:0191DA51F66D:ADE9:46DAD9E9&c=etimad, date=1725944841956
+Row: 2009 address=AL-Eatimad, body=╪º╪╡╪»╪º╪▒ ╪╖┘ä╪¿┘è┘ç ╪╣┘ä┘ë ╪¡╪│╪º╪¿┘â┘à ╪¿┘à╪¿┘ä╪║ 2510.0╪┤ ┘ê╪º╪╡╪¿╪¡ ╪▒╪╡┘è╪»┘â┘à  108080.5 ╪┤ ┘ä┘ä╪¬┘ü╪º╪╡┘è┘ä, date=1725944840940
+Row: 2017 address=AL-Eatimad, body=http://188.34.164.0/openpdf/report?k=C0A80108:0191D656F77E:0D09:4DFFAA95&c=etimad, date=1725880333606
+Row: 2018 address=AL-Eatimad, body=╪º╪╡╪»╪º╪▒ ╪╖┘ä╪¿┘è┘ç ╪╣┘ä┘ë ╪¡╪│╪º╪¿┘â┘à ╪¿┘à╪¿┘ä╪║ 2560.0╪┤ ┘ê╪º╪╡╪¿╪¡ ╪▒╪╡┘è╪»┘â┘à  105570.5 ╪┤ ┘ä┘ä╪¬┘ü╪º╪╡┘è┘ä, date=1725880332678
+Row: 2019 address=AL-Eatimad, body=http://188.34.164.0/openpdf/report?k=C0A80107:0191D5B97B8F:502C:2624D92D&c=etimad, date=1725880094713
+Row: 2020 address=AL-Eatimad, body=╪º╪╡╪»╪º╪▒ ╪╖┘ä╪¿┘è┘ç ╪╣┘ä┘ë ╪¡╪│╪º╪¿┘â┘à ╪¿┘à╪¿┘ä╪║ 1090.0╪┤ ┘ê╪º╪╡╪¿╪¡ ╪▒╪╡┘è╪»┘â┘à  103010.5 ╪┤ ┘ä┘ä╪¬┘ü╪º╪╡┘è┘ä, date=1725880093812
+Row: 2021 address=AL-Eatimad, body=http://188.34.164.0/openpdf/report?k=C0A80107:0191D5A2C721:6E47:60F93D75&c=etimad, date=1725880093249
+Row: 2022 address=AL-Eatimad, body=╪º╪╡╪»╪º╪▒ ╪╖┘ä╪¿┘è┘ç ╪╣┘ä┘ë ╪¡╪│╪º╪¿┘â┘à ╪¿┘à╪¿┘ä╪║ 453.0╪┤ ┘ê╪º╪╡╪¿╪¡ ╪▒╪╡┘è╪»┘â┘à  103010.5 ╪┤ ┘ä┘ä╪¬┘ü╪º╪╡┘è┘ä, date=1725880092195
+Row: 2034 address=AL-Eatimad, body=http://188.34.164.0/openpdf/report?k=C0A80107:0191D110552F:603A:5D1994DF&c=etimad, date=1725789745018
+Row: 2035 address=AL-Eatimad, body=╪º╪╡╪»╪º╪▒ ╪╖┘ä╪¿┘è┘ç ╪╣┘ä┘ë ╪¡╪│╪º╪¿┘â┘à ╪¿┘à╪¿┘ä╪║ 35.0╪┤ ┘ê╪º╪╡╪¿╪¡ ╪▒╪╡┘è╪»┘â┘à  101467.5 ╪┤ ┘ä┘ä╪¬┘ü╪º╪╡┘è┘ä, date=1725789739933
+Row: 2041 address=AL-Eatimad, body=http://188.34.164.0/openpdf/report?k=C0A80108:0191CBA3A8FD:2A6A:66038DB0&c=etimad, date=1725698657128
+Row: 2042 address=AL-Eatimad, body=http://188.34.164.0/openpdf/report?k=C0A80108:0191CBA3809F:7F0C:7BD7BEDD&c=etimad, date=1725698656448
+Row: 2043 address=AL-Eatimad, body=╪º╪╡╪»╪º╪▒ ╪╖┘ä╪¿┘è┘ç ╪╣┘ä┘ë ╪¡╪│╪º╪¿┘â┘à ╪¿┘à╪¿┘ä╪║ 4120.0╪┤ ┘ê╪º╪╡╪¿╪¡ ╪▒╪╡┘è╪»┘â┘à  101432.5 ╪┤ ┘ä┘ä╪¬┘ü╪º╪╡┘è┘ä, date=1725698655801
+Row: 2044 address=AL-Eatimad, body=╪º╪╡╪»╪º╪▒ ╪╖┘ä╪¿┘è┘ç ╪╣┘ä┘ë ╪¡╪│╪º╪¿┘â┘à ╪¿┘à╪¿┘ä╪║ 160.0╪┤ ┘ê╪º╪╡╪¿╪¡ ╪▒╪╡┘è╪»┘â┘à  101432.5 ╪┤ ┘ä┘ä╪¬┘ü╪º╪╡┘è┘ä, date=1725698652103
+Row: 2046 address=AL-Eatimad, body=http://188.34.164.0/openpdf/report?k=C0A80108:0191CB617D22:1D9D:4A876306&c=etimad, date=1725694205526
+Row: 2047 address=AL-Eatimad, body=╪º╪╡╪»╪º╪▒ ╪╖┘ä╪¿┘è┘ç ╪╣┘ä┘ë ╪¡╪│╪º╪¿┘â┘à ╪¿┘à╪¿┘ä╪║ 505.0╪┤ ┘ê╪º╪╡╪¿╪¡ ╪▒╪╡┘è╪»┘â┘à  97152.5 ╪┤ ┘ä┘ä╪¬┘ü╪º╪╡┘è┘ä, date=1725694204865
+Row: 2048 address=AL-Eatimad, body=http://188.34.164.0/openpdf/report?k=C0A80108:0191CB1230FD:E359:18AA619C&c=etimad, date=1725689052473
+Row: 2049 address=AL-Eatimad, body=╪º╪╡╪»╪º╪▒ ╪╖┘ä╪¿┘è┘ç ╪╣┘ä┘ë ╪¡╪│╪º╪¿┘â┘à ╪¿┘à╪¿┘ä╪║ 835.0╪┤ ┘ê╪º╪╡╪¿╪¡ ╪▒╪╡┘è╪»┘â┘à  96647.5 ╪┤ ┘ä┘ä╪¬┘ü╪º╪╡┘è┘ä, date=1725689050009
+Row: 2050 address=AL-Eatimad, body=http://188.34.164.0/openpdf/report?k=C0A80108:0191CB01FC60:0E55:75D6F6FC&c=etimad, date=1725688016711
+Row: 2051 address=AL-Eatimad, body=╪º╪╡╪»╪º╪▒ ╪╖┘ä╪¿┘è┘ç ╪╣┘ä┘ë ╪¡╪│╪º╪¿┘â┘à ╪¿┘à╪¿┘ä╪║ 268.0╪┤ ┘ê╪º╪╡╪¿╪¡ ╪▒╪╡┘è╪»┘â┘à  95812.5 ╪┤ ┘ä┘ä╪¬┘ü╪º╪╡┘è┘ä, date=1725688015070
+Row: 2054 address=AL-Eatimad, body=http://188.34.164.0/openpdf/report?k=C0A80107:0191C27996D7:7E2B:31B5461E&c=etimad, date=1725544979409
+Row: 2055 address=AL-Eatimad, body=╪º╪╡╪»╪º╪▒ ╪╖┘ä╪¿┘è┘ç ╪╣┘ä┘ë ╪¡╪│╪º╪¿┘â┘à ╪¿┘à╪¿┘ä╪║ 30.0╪┤ ┘ê╪º╪╡╪¿╪¡ ╪▒╪╡┘è╪»┘â┘à  95544.5 ╪┤ ┘ä┘ä╪¬┘ü╪º╪╡┘è┘ä, date=1725544978196
+Row: 2056 address=AL-Eatimad, body=http://188.34.164.0/openpdf/report?k=C0A80108:0191C20835B0:D951:50FDBD3F&c=etimad, date=1725537499076
+Row: 2057 address=AL-Eatimad, body=╪º╪╡╪»╪º╪▒ ╪╖┘ä╪¿┘è┘ç ╪╣┘ä┘ë ╪¡╪│╪º╪¿┘â┘à ╪¿┘à╪¿┘ä╪║ 25.0╪┤ ┘ê╪º╪╡╪¿╪¡ ╪▒╪╡┘è╪»┘â┘à  95514.5 ╪┤ ┘ä┘ä╪¬┘ü╪º╪╡┘è┘ä, date=1725537495866
+Row: 2059 address=AL-Eatimad, body=http://188.34.164.0/openpdf/report?k=C0A80107:0191C1BE1F48:FD3C:5BA47DD9&c=etimad, date=1725532658353
+Row: 2060 address=AL-Eatimad, body=╪º╪╡╪»╪º╪▒ ╪╖┘ä╪¿┘è┘ç ╪╣┘ä┘ë ╪¡╪│╪º╪¿┘â┘à ╪¿┘à╪¿┘ä╪║ 453.0╪┤ ┘ê╪º╪╡╪¿╪¡ ╪▒╪╡┘è╪»┘â┘à  95489.5 ╪┤ ┘ä┘ä╪¬┘ü╪º╪╡┘è┘ä, date=1725532657458
+Row: 2062 address=AL-Eatimad, body=http://188.34.164.0/openpdf/report?k=C0A80107:0191C18AD599:21CC:28F17D81&c=etimad, date=1725529339651
+Row: 2063 address=AL-Eatimad, body=╪º╪╡╪»╪º╪▒ ╪╖┘ä╪¿┘è┘ç ╪╣┘ä┘ë ╪¡╪│╪º╪¿┘â┘à ╪¿┘à╪¿┘ä╪║ 30.0╪┤ ┘ê╪º╪╡╪¿╪¡ ╪▒╪╡┘è╪»┘â┘à  95036.5 ╪┤ ┘ä┘ä╪¬┘ü╪º╪╡┘è┘ä, date=1725529337925
+Row: 2072 address=AL-Eatimad, body=http://188.34.164.0/openpdf/report?k=C0A80107:0191C09B8FBF:C954:38FD9507&c=etimad, date=1725513454115
+Row: 2073 address=AL-Eatimad, body=╪º╪╡╪»╪º╪▒ ╪╖┘ä╪¿┘è┘ç ╪╣┘ä┘ë ╪¡╪│╪º╪¿┘â┘à ╪¿┘à╪¿┘ä╪║ 1786.0╪┤ ┘ê╪º╪╡╪¿╪¡ ╪▒╪╡┘è╪»┘â┘à  95006.5 ╪┤ ┘ä┘ä╪¬┘ü╪º╪╡┘è┘ä, date=1725513451383
+Row: 2075 address=AL-Eatimad, body=http://188.34.164.0/openpdf/report?k=C0A80108:0191BD7A624B:A521:36DF2EB4&c=etimad, date=1725461053799
+Row: 2076 address=AL-Eatimad, body=╪º╪╡╪»╪º╪▒ ╪╖┘ä╪¿┘è┘ç ╪╣┘ä┘ë ╪¡╪│╪º╪¿┘â┘à ╪¿┘à╪¿┘ä╪║ 350.0╪┤ ┘ê╪º╪╡╪¿╪¡ ╪▒╪╡┘è╪»┘â┘à  93220.5 ╪┤ ┘ä┘ä╪¬┘ü╪º╪╡┘è┘ä, date=1725461052650
+Row: 2079 address=AL-Eatimad, body=http://188.34.164.0/openpdf/report?k=C0A80107:0191BCEED81A:9232:216EB0D8&c=etimad, date=1725451746966
+Row: 2080 address=AL-Eatimad, body=╪º╪╡╪»╪º╪▒ ╪╖┘ä╪¿┘è┘ç ╪╣┘ä┘ë ╪¡╪│╪º╪¿┘â┘à ╪¿┘à╪¿┘ä╪║ 533.5╪┤ ┘ê╪º╪╡╪¿╪¡ ╪▒╪╡┘è╪»┘â┘à  92870.5 ╪┤ ┘ä┘ä╪¬┘ü╪º╪╡┘è┘ä, date=1725451746141
+Row: 2082 address=AL-Eatimad, body=http://188.34.164.0/openpdf/report?k=C0A80108:0191BBDA3ACF:B5FC:2D4833F6&c=etimad, date=1725433708414
+Row: 2083 address=AL-Eatimad, body=╪º╪╡╪»╪º╪▒ ╪╖┘ä╪¿┘è┘ç ╪╣┘ä┘ë ╪¡╪│╪º╪¿┘â┘à ╪¿┘à╪¿┘ä╪║ 125.0╪┤ ┘ê╪º╪╡╪¿╪¡ ╪▒╪╡┘è╪»┘â┘à  92337.0 ╪┤ ┘ä┘ä╪¬┘ü╪º╪╡┘è┘ä, date=1725433707700
+Row: 2085 address=AL-Eatimad, body=╪º╪╡╪»╪º╪▒ ╪╖┘ä╪¿┘è┘ç ╪╣┘ä┘ë ╪¡╪│╪º╪¿┘â┘à ╪¿┘à╪¿┘ä╪║ 97.0╪┤ ┘ê╪º╪╡╪¿╪¡ ╪▒╪╡┘è╪»┘â┘à  92212.0 ╪┤ ┘ä┘ä╪¬┘ü╪º╪╡┘è┘ä, date=1725433380557
+Row: 2086 address=AL-Eatimad, body=http://188.34.164.0/openpdf/report?k=C0A80108:0191BBD53332:14EF:7C394A62&c=etimad, date=1725433379922
+Row: 2087 address=AL-Eatimad, body=http://188.34.164.0/openpdf/report?k=C0A80108:0191BBC63C19:0992:6B542A56&c=etimad, date=1725432526023
+Row: 2088 address=AL-Eatimad, body=╪º╪╡╪»╪º╪▒ ╪╖┘ä╪¿┘è┘ç ╪╣┘ä┘ë ╪¡╪│╪º╪¿┘â┘à ╪¿┘à╪¿┘ä╪║ 57.0╪┤ ┘ê╪º╪╡╪¿╪¡ ╪▒╪╡┘è╪»┘â┘à  92115.0 ╪┤ ┘ä┘ä╪¬┘ü╪º╪╡┘è┘ä, date=1725432525236
+Row: 2089 address=AL-Eatimad, body=http://188.34.164.0/openpdf/report?k=C0A80108:0191BBBE9D61:9611:78419840&c=etimad, date=1725431826882
+Row: 2090 address=AL-Eatimad, body=╪º╪╡╪»╪º╪▒ ╪╖┘ä╪¿┘è┘ç ╪╣┘ä┘ë ╪¡╪│╪º╪¿┘â┘à ╪¿┘à╪¿┘ä╪║ 610.0╪┤ ┘ê╪º╪╡╪¿╪¡ ╪▒╪╡┘è╪»┘â┘à  92058.0 ╪┤ ┘ä┘ä╪¬┘ü╪º╪╡┘è┘ä, date=1725431825554
+Row: 2091 address=AL-Eatimad, body=http://188.34.164.0/openpdf/report?k=C0A80108:0191BB99E69C:4656:6D106577&c=etimad, date=1725429463719
+Row: 2092 address=AL-Eatimad, body=╪º╪╡╪»╪º╪▒ ╪╖┘ä╪¿┘è┘ç ╪╣┘ä┘ë ╪¡╪│╪º╪¿┘â┘à ╪¿┘à╪¿┘ä╪║ 750.0╪┤ ┘ê╪º╪╡╪¿╪¡ ╪▒╪╡┘è╪»┘â┘à  91448.0 ╪┤ ┘ä┘ä╪¬┘ü╪º╪╡┘è┘ä, date=1725429461674
+Row: 2099 address=AL-Eatimad, body=http://188.34.164.0/openpdf/report?k=C0A80107:0191B67D9FAA:E280:1CC39E4B&c=etimad, date=1725343753656
+Row: 2100 address=AL-Eatimad, body=╪º╪╡╪»╪º╪▒ ╪╖┘ä╪¿┘è┘ç ╪╣┘ä┘ë ╪¡╪│╪º╪¿┘â┘à ╪¿┘à╪¿┘ä╪║ 48.0╪┤ ┘ê╪º╪╡╪¿╪¡ ╪▒╪╡┘è╪»┘â┘à  90698.0 ╪┤ ┘ä┘ä╪¬┘ü╪º╪╡┘è┘ä, date=1725343752882
+Row: 2102 address=AL-Eatimad, body=http://188.34.164.0/openpdf/report?k=C0A80107:0191B30649CB:F2A7:28C584D7&c=etimad, date=1725285733016
+Row: 2103 address=AL-Eatimad, body=╪º╪╡╪»╪º╪▒ ╪╖┘ä╪¿┘è┘ç ╪╣┘ä┘ë ╪¡╪│╪º╪¿┘â┘à ╪¿┘à╪¿┘ä╪║ 166.0╪┤ ┘ê╪º╪╡╪¿╪¡ ╪▒╪╡┘è╪»┘â┘à  90650.0 ╪┤ ┘ä┘ä╪¬┘ü╪º╪╡┘è┘ä, date=1725285732436
+Row: 2108 address=AL-Eatimad, body=http://188.34.164.0/openpdf/report?k=C0A80108:0191B298B54D:F063:60266C08&c=etimad, date=1725278534792
+Row: 2109 address=AL-Eatimad, body=╪º╪╡╪»╪º╪▒ ╪╖┘ä╪¿┘è┘ç ╪╣┘ä┘ë ╪¡╪│╪º╪¿┘â┘à ╪¿┘à╪¿┘ä╪║ 110.0╪┤ ┘ê╪º╪╡╪¿╪¡ ╪▒╪╡┘è╪»┘â┘à  90484.0 ╪┤ ┘ä┘ä╪¬┘ü╪º╪╡┘è┘ä, date=1725278532976
+Row: 2110 address=AL-Eatimad, body=╪º╪╡╪»╪º╪▒ ╪╖┘ä╪¿┘è┘ç ╪╣┘ä┘ë ╪¡╪│╪º╪¿┘â┘à ╪¿┘à╪¿┘ä╪║ 3570.0╪┤ ┘ê╪º╪╡╪¿╪¡ ╪▒╪╡┘è╪»┘â┘à  90374.0 ╪┤ ┘ä┘ä╪¬┘ü╪º╪╡┘è┘ä, date=1725277448538
+Row: 2111 address=AL-Eatimad, body=http://188.34.164.0/openpdf/report?k=C0A80108:0191B2896E19:0D41:722C6968&c=etimad, date=1725277447210
+Row: 2114 address=AL-Eatimad, body=http://188.34.164.0/openpdf/report?k=C0A80107:0191B1DC6015:147F:2E676B9B&c=etimad, date=1725266262379
+Row: 2115 address=AL-Eatimad, body=╪º╪╡╪»╪º╪▒ ╪╖┘ä╪¿┘è┘ç ╪╣┘ä┘ë ╪¡╪│╪º╪¿┘â┘à ╪¿┘à╪¿┘ä╪║ 2610.0╪┤ ┘ê╪º╪╡╪¿╪¡ ╪▒╪╡┘è╪»┘â┘à  86804.0 ╪┤ ┘ä┘ä╪¬┘ü╪º╪╡┘è┘ä, date=1725266261675
+Row: 2119 address=AL-Eatimad, body=http://188.34.164.0/openpdf/report?k=C0A80107:0191B1DC0700:7DF1:7A3B6AE6&c=etimad, date=1725265973027
+Row: 2120 address=AL-Eatimad, body=╪º╪╡╪»╪º╪▒ ╪╖┘ä╪¿┘è┘ç ╪╣┘ä┘ë ╪¡╪│╪º╪¿┘â┘à ╪¿┘à╪¿┘ä╪║ 240.0╪┤ ┘ê╪º╪╡╪¿╪¡ ╪▒╪╡┘è╪»┘â┘à  84194.0 ╪┤ ┘ä┘ä╪¬┘ü╪º╪╡┘è┘ä, date=1725265969754
+Row: 2124 address=AL-Eatimad, body=http://188.34.164.0/openpdf/report?k=C0A80108:0191B1A6FD95:6AA1:1622A010&c=etimad, date=1725262639422
+Row: 2125 address=AL-Eatimad, body=╪º╪╡╪»╪º╪▒ ╪╖┘ä╪¿┘è┘ç ╪╣┘ä┘ë ╪¡╪│╪º╪¿┘â┘à ╪¿┘à╪¿┘ä╪║ 60.0╪┤ ┘ê╪º╪╡╪¿╪¡ ╪▒╪╡┘è╪»┘â┘à  83954.0 ╪┤ ┘ä┘ä╪¬┘ü╪º╪╡┘è┘ä, date=1725262638112
+Row: 2126 address=AL-Eatimad, body=http://188.34.164.0/openpdf/report?k=C0A80108:0191B14F2E15:F1B3:03A212EA&c=etimad, date=1725256945670
+Row: 2127 address=AL-Eatimad, body=╪º╪╡╪»╪º╪▒ ╪╖┘ä╪¿┘è┘ç ╪╣┘ä┘ë ╪¡╪│╪º╪¿┘â┘à ╪¿┘à╪¿┘ä╪║ 85.0╪┤ ┘ê╪º╪╡╪¿╪¡ ╪▒╪╡┘è╪»┘â┘à  83894.0 ╪┤ ┘ä┘ä╪¬┘ü╪º╪╡┘è┘ä, date=1725256942648
+Row: 2129 address=AL-Eatimad, body=http://188.34.164.0/openpdf/report?k=C0A80108:0191ADB31FFE:5814:44A1EF55&c=etimad, date=1725196302640
+Row: 2130 address=AL-Eatimad, body=╪º╪╡╪»╪º╪▒ ╪╖┘ä╪¿┘è┘ç ╪╣┘ä┘ë ╪¡╪│╪º╪¿┘â┘à ╪¿┘à╪¿┘ä╪║ 60.0╪┤ ┘ê╪º╪╡╪¿╪¡ ╪▒╪╡┘è╪»┘â┘à  83809.0 ╪┤ ┘ä┘ä╪¬┘ü╪º╪╡┘è┘ä, date=1725196301990
+Row: 2131 address=AL-Eatimad, body=http://188.34.164.0/openpdf/report?k=C0A80108:0191ADA9DE0C:352F:0F4B75B6&c=etimad, date=1725195729856
+Row: 2132 address=AL-Eatimad, body=╪º╪╡╪»╪º╪▒ ╪╖┘ä╪¿┘è┘ç ╪╣┘ä┘ë ╪¡╪│╪º╪¿┘â┘à ╪¿┘à╪¿┘ä╪║ 1085.0╪┤ ┘ê╪º╪╡╪¿╪¡ ╪▒╪╡┘è╪»┘â┘à  83749.0 ╪┤ ┘ä┘ä╪¬┘ü╪º╪╡┘è┘ä, date=1725195728819
+Row: 2134 address=AL-Eatimad, body=http://188.34.164.0/openpdf/report?k=C0A80107:0191AD643061:4BBA:0F069CE7&c=etimad, date=1725190964344
+Row: 2135 address=AL-Eatimad, body=╪º╪╡╪»╪º╪▒ ╪╖┘ä╪¿┘è┘ç ╪╣┘ä┘ë ╪¡╪│╪º╪¿┘â┘à ╪¿┘à╪¿┘ä╪║ 390.0╪┤ ┘ê╪º╪╡╪¿╪¡ ╪▒╪╡┘è╪»┘â┘à  82664.0 ╪┤ ┘ä┘ä╪¬┘ü╪º╪╡┘è┘ä, date=1725190961833
+Row: 2138 address=AL-Eatimad, body=http://188.34.164.0/openpdf/report?k=C0A80107:0191AC2718F0:D210:2F618C69&c=etimad, date=1725170238591
+Row: 2139 address=AL-Eatimad, body=╪º╪╡╪»╪º╪▒ ╪╖┘ä╪¿┘è┘ç ╪╣┘ä┘ë ╪¡╪│╪º╪¿┘â┘à ╪¿┘à╪¿┘ä╪║ 210.0╪┤ ┘ê╪º╪╡╪¿╪¡ ╪▒╪╡┘è╪»┘â┘à  82274.0 ╪┤ ┘ä┘ä╪¬┘ü╪º╪╡┘è┘ä, date=1725170236194
+Row: 2143 address=AL-Eatimad, body=http://188.34.164.0/openpdf/report?k=C0A80107:0191AC15F024:F0CE:065A36B2&c=etimad, date=1725169376719
+Row: 2144 address=AL-Eatimad, body=╪º╪╡╪»╪º╪▒ ╪╖┘ä╪¿┘è┘ç ╪╣┘ä┘ë ╪¡╪│╪º╪¿┘â┘à ╪¿┘à╪¿┘ä╪║ 2355.0╪┤ ┘ê╪º╪╡╪¿╪¡ ╪▒╪╡┘è╪»┘â┘à  82064.0 ╪┤ ┘ä┘ä╪¬┘ü╪º╪╡┘è┘ä, date=1725169332073
+Row: 2146 address=AL-Eatimad, body=http://188.34.164.0/openpdf/report?k=C0A80108:0191A704F39A:AAA9:5BABC2B7&c=etimad, date=1725084255898
+Row: 2147 address=AL-Eatimad, body=╪º╪╡╪»╪º╪▒ ╪╖┘ä╪¿┘è┘ç ╪╣┘ä┘ë ╪¡╪│╪º╪¿┘â┘à ╪¿┘à╪¿┘ä╪║ 223.0╪┤ ┘ê╪º╪╡╪¿╪¡ ╪▒╪╡┘è╪»┘â┘à  79709.0 ╪┤ ┘ä┘ä╪¬┘ü╪º╪╡┘è┘ä, date=1725084252345
+Row: 2148 address=AL-Eatimad, body=http://188.34.164.0/openpdf/report?k=C0A80108:0191A6E2A24D:C1C9:565C04AF&c=etimad, date=1725082082119
+Row: 2149 address=AL-Eatimad, body=╪º╪╡╪»╪º╪▒ ╪╖┘ä╪¿┘è┘ç ╪╣┘ä┘ë ╪¡╪│╪º╪¿┘â┘à ╪¿┘à╪¿┘ä╪║ 3290.0╪┤ ┘ê╪º╪╡╪¿╪¡ ╪▒╪╡┘è╪»┘â┘à  79486.0 ╪┤ ┘ä┘ä╪¬┘ü╪º╪╡┘è┘ä, date=1725082081136
+Row: 2150 address=AL-Eatimad, body=╪▒╪╡┘è╪»┘â┘à ┘ä╪║╪º┘è╪⌐  30/8/2024┘ç┘ê 76196.0 ╪┤  ┘ä┘ä┘à╪▒╪º╪¼╪╣┘ç022409006.┘å╪╣╪¬╪▓ ╪¿╪½┘é╪¬┘â┘à ., date=1725037737492
+Row: 2161 address=AL-Eatimad, body=╪º╪╡╪»╪º╪▒ ╪╖┘ä╪¿┘è┘ç ╪╣┘ä┘ë ╪¡╪│╪º╪¿┘â┘à ╪¿┘à╪¿┘ä╪║ 154.0╪┤ ┘ê╪º╪╡╪¿╪¡ ╪▒╪╡┘è╪»┘â┘à  76196.0 ╪┤ ┘ä┘ä╪¬┘ü╪º╪╡┘è┘ä, date=1724913881022
+Row: 2162 address=AL-Eatimad, body=http://188.34.164.0/openpdf/report?k=C0A80108:01919CDF9B19:AC8F:44B4E619&c=etimad, date=1724913880397
+Row: 2163 address=AL-Eatimad, body=╪º╪╡╪»╪º╪▒ ╪╖┘ä╪¿┘è┘ç ╪╣┘ä┘ë ╪¡╪│╪º╪¿┘â┘à ╪¿┘à╪¿┘ä╪║ 180.0╪┤ ┘ê╪º╪╡╪¿╪¡ ╪▒╪╡┘è╪»┘â┘à  76196.0 ╪┤ ┘ä┘ä╪¬┘ü╪º╪╡┘è┘ä, date=1724913879728
+Row: 2164 address=AL-Eatimad, body=http://188.34.164.0/openpdf/report?k=C0A80108:01919CDF6E66:A7EC:60E7039E&c=etimad, date=1724913876437
+Row: 2165 address=AL-Eatimad, body=http://188.34.164.0/openpdf/report?k=C0A80108:01919C953E26:A04F:5A4B140A&c=etimad, date=1724909272512
+Row: 2166 address=AL-Eatimad, body=╪º╪╡╪»╪º╪▒ ╪╖┘ä╪¿┘è┘ç ╪╣┘ä┘ë ╪¡╪│╪º╪¿┘â┘à ╪¿┘à╪¿┘ä╪║ 109.0╪┤ ┘ê╪º╪╡╪¿╪¡ ╪▒╪╡┘è╪»┘â┘à  75862.0 ╪┤ ┘ä┘ä╪¬┘ü╪º╪╡┘è┘ä, date=1724909271731
+Row: 2168 address=AL-Eatimad, body=http://188.34.164.0/openpdf/report?k=C0A80107:01919826DC02:0BC7:6FA42254&c=etimad, date=1724834854950
+Row: 2169 address=AL-Eatimad, body=╪º╪╡╪»╪º╪▒ ╪╖┘ä╪¿┘è┘ç ╪╣┘ä┘ë ╪¡╪│╪º╪¿┘â┘à ╪¿┘à╪¿┘ä╪║ 1780.0╪┤ ┘ê╪º╪╡╪¿╪¡ ╪▒╪╡┘è╪»┘â┘à  75753.0 ╪┤ ┘ä┘ä╪¬┘ü╪º╪╡┘è┘ä, date=1724834853302
+Row: 2170 address=AL-Eatimad, body=http://188.34.164.0/openpdf/report?k=C0A80165:019197E515BD:A97C:13F3C708&c=etimad, date=1724830633605
+Row: 2171 address=AL-Eatimad, body=╪º╪╡╪»╪º╪▒ ╪╖┘ä╪¿┘è┘ç ╪╣┘ä┘ë ╪¡╪│╪º╪¿┘â┘à ╪¿┘à╪¿┘ä╪║ 270.0╪┤ ┘ê╪º╪╡╪¿╪¡ ╪▒╪╡┘è╪»┘â┘à  73973.0 ╪┤ ┘ä┘ä╪¬┘ü╪º╪╡┘è┘ä, date=1724830631890
+Row: 2172 address=AL-Eatimad, body=http://188.34.164.0/openpdf/report?k=C0A80107:0191978AB8E3:5A9E:5A1C26EF&c=etimad, date=1724824648016
+Row: 2173 address=AL-Eatimad, body=╪º╪╡╪»╪º╪▒ ╪╖┘ä╪¿┘è┘ç ╪╣┘ä┘ë ╪¡╪│╪º╪¿┘â┘à ╪¿┘à╪¿┘ä╪║ 305.0╪┤ ┘ê╪º╪╡╪¿╪¡ ╪▒╪╡┘è╪»┘â┘à  73703.0 ╪┤ ┘ä┘ä╪¬┘ü╪º╪╡┘è┘ä, date=1724824646014
+Row: 2177 address=AL-Eatimad, body=http://188.34.164.0/openpdf/report?k=C0A80108:019192CA57D7:4B56:35593421&c=etimad, date=1724744835344
+Row: 2178 address=AL-Eatimad, body=╪º╪╡╪»╪º╪▒ ╪╖┘ä╪¿┘è┘ç ╪╣┘ä┘ë ╪¡╪│╪º╪¿┘â┘à ╪¿┘à╪¿┘ä╪║ 640.0╪┤ ┘ê╪º╪╡╪¿╪¡ ╪▒╪╡┘è╪»┘â┘à  73398.0 ╪┤ ┘ä┘ä╪¬┘ü╪º╪╡┘è┘ä, date=1724744833711
+Row: 2183 address=AL-Eatimad, body=http://188.34.164.0/openpdf/report?k=C0A80108:01919232361F:DBD9:3F2A8333&c=etimad, date=1724734949011
+Row: 2184 address=AL-Eatimad, body=╪º╪╡╪»╪º╪▒ ╪╖┘ä╪¿┘è┘ç ╪╣┘ä┘ë ╪¡╪│╪º╪¿┘â┘à ╪¿┘à╪¿┘ä╪║ 135.0╪┤ ┘ê╪º╪╡╪¿╪¡ ╪▒╪╡┘è╪»┘â┘à  72758.0 ╪┤ ┘ä┘ä╪¬┘ü╪º╪╡┘è┘ä, date=1724734944180
+Row: 2192 address=AL-Eatimad, body=http://188.34.164.0/openpdf/report?k=C0A80107:01918D0BECCB:5304:3C45A509&c=etimad, date=1724648582236
+Row: 2193 address=AL-Eatimad, body=╪º╪╡╪»╪º╪▒ ╪╖┘ä╪¿┘è┘ç ╪╣┘ä┘ë ╪¡╪│╪º╪¿┘â┘à ╪¿┘à╪¿┘ä╪║ 195.0╪┤ ┘ê╪º╪╡╪¿╪¡ ╪▒╪╡┘è╪»┘â┘à  72623.0 ╪┤ ┘ä┘ä╪¬┘ü╪º╪╡┘è┘ä, date=1724648580323
+Row: 2204 address=AL-Eatimad, body=http://188.34.164.0/openpdf/report?k=C0A80108:019188DB867D:D335:18E19ABD&c=etimad, date=1724578294474
+Row: 2205 address=AL-Eatimad, body=╪º╪╡╪»╪º╪▒ ╪╖┘ä╪¿┘è┘ç ╪╣┘ä┘ë ╪¡╪│╪º╪¿┘â┘à ╪¿┘à╪¿┘ä╪║ 1660.0╪┤ ┘ê╪º╪╡╪¿╪¡ ╪▒╪╡┘è╪»┘â┘à  72428.0 ╪┤ ┘ä┘ä╪¬┘ü╪º╪╡┘è┘ä, date=1724578293302
+Row: 2206 address=AL-Eatimad, body=http://188.34.164.0/openpdf/report?k=C0A80107:0191889F71A4:7070:3557FF20&c=etimad, date=1724574185190
+Row: 2207 address=AL-Eatimad, body=╪º╪╡╪»╪º╪▒ ╪╖┘ä╪¿┘è┘ç ╪╣┘ä┘ë ╪¡╪│╪º╪¿┘â┘à ╪¿┘à╪¿┘ä╪║ 150.0╪┤ ┘ê╪º╪╡╪¿╪¡ ╪▒╪╡┘è╪»┘â┘à  70768.0 ╪┤ ┘ä┘ä╪¬┘ü╪º╪╡┘è┘ä, date=1724574184289
+Row: 2208 address=AL-Eatimad, body=http://188.34.164.0/openpdf/report?k=C0A80108:0191889CFD36:97B0:722F18A9&c=etimad, date=1724574100880
+Row: 2209 address=AL-Eatimad, body=╪º╪╡╪»╪º╪▒ ╪╖┘ä╪¿┘è┘ç ╪╣┘ä┘ë ╪¡╪│╪º╪¿┘â┘à ╪¿┘à╪¿┘ä╪║ 270.0╪┤ ┘ê╪º╪╡╪¿╪¡ ╪▒╪╡┘è╪»┘â┘à  70618.0 ╪┤ ┘ä┘ä╪¬┘ü╪º╪╡┘è┘ä, date=1724574099287
+Row: 2218 address=AL-Eatimad, body=http://188.34.164.0/openpdf/report?k=C0A80107:01918392C66C:41ED:14AC6A5C&c=etimad, date=1724489593141
+Row: 2219 address=AL-Eatimad, body=╪º╪╡╪»╪º╪▒ ╪╖┘ä╪¿┘è┘ç ╪╣┘ä┘ë ╪¡╪│╪º╪¿┘â┘à ╪¿┘à╪¿┘ä╪║ 35.0╪┤ ┘ê╪º╪╡╪¿╪¡ ╪▒╪╡┘è╪»┘â┘à  70348.0 ╪┤ ┘ä┘ä╪¬┘ü╪º╪╡┘è┘ä, date=1724489591744
+Row: 2221 address=AL-Eatimad, body=http://188.34.164.0/openpdf/report?k=C0A80108:019182FC633E:AC20:62F3B1D9&c=etimad, date=1724479648967
+Row: 2222 address=AL-Eatimad, body=╪º╪╡╪»╪º╪▒ ╪╖┘ä╪¿┘è┘ç ╪╣┘ä┘ë ╪¡╪│╪º╪¿┘â┘à ╪¿┘à╪¿┘ä╪║ 175.0╪┤ ┘ê╪º╪╡╪¿╪¡ ╪▒╪╡┘è╪»┘â┘à  70313.0 ╪┤ ┘ä┘ä╪¬┘ü╪º╪╡┘è┘ä, date=1724479646980
+Row: 2237 address=AL-Eatimad, body=http://188.34.164.0/openpdf/report?k=C0A80108:01917520A767:840E:0C98944B&c=etimad, date=1724247148114
+Row: 2238 address=AL-Eatimad, body=╪º╪╡╪»╪º╪▒ ╪╖┘ä╪¿┘è┘ç ╪╣┘ä┘ë ╪¡╪│╪º╪¿┘â┘à ╪¿┘à╪¿┘ä╪║ 3940.0╪┤ ┘ê╪º╪╡╪¿╪¡ ╪▒╪╡┘è╪»┘â┘à  70138.0 ╪┤ ┘ä┘ä╪¬┘ü╪º╪╡┘è┘ä, date=1724247145882
+Row: 2239 address=AL-Eatimad, body=http://188.34.164.0/openpdf/report?k=C0A80107:019174A49E75:1CD1:4F91FA05&c=etimad, date=1724239010044
+Row: 2240 address=AL-Eatimad, body=╪º╪╡╪»╪º╪▒ ╪╖┘ä╪¿┘è┘ç ╪╣┘ä┘ë ╪¡╪│╪º╪¿┘â┘à ╪¿┘à╪¿┘ä╪║ 170.0╪┤ ┘ê╪º╪╡╪¿╪¡ ╪▒╪╡┘è╪»┘â┘à  66198.0 ╪┤ ┘ä┘ä╪¬┘ü╪º╪╡┘è┘ä, date=1724239009135
+Row: 2243 address=AL-Eatimad, body=http://188.34.164.0/openpdf/report?k=C0A80108:019173C544D6:F976:18370CB6&c=etimad, date=1724224448620
+Row: 2244 address=AL-Eatimad, body=╪º╪╡╪»╪º╪▒ ╪╖┘ä╪¿┘è┘ç ╪╣┘ä┘ë ╪¡╪│╪º╪¿┘â┘à ╪¿┘à╪¿┘ä╪║ 865.0╪┤ ┘ê╪º╪╡╪¿╪¡ ╪▒╪╡┘è╪»┘â┘à  66028.0 ╪┤ ┘ä┘ä╪¬┘ü╪º╪╡┘è┘ä, date=1724224447857
+Row: 2245 address=AL-Eatimad, body=http://188.34.164.0/openpdf/report?k=C0A80107:019173660E19:17CA:40D706F6&c=etimad, date=1724218319632
+Row: 2246 address=AL-Eatimad, body=╪º╪╡╪»╪º╪▒ ╪╖┘ä╪¿┘è┘ç ╪╣┘ä┘ë ╪¡╪│╪º╪¿┘â┘à ╪¿┘à╪¿┘ä╪║ 3605.0╪┤ ┘ê╪º╪╡╪¿╪¡ ╪▒╪╡┘è╪»┘â┘à  65163.0 ╪┤ ┘ä┘ä╪¬┘ü╪º╪╡┘è┘ä, date=1724218318329
+Row: 2248 address=AL-Eatimad, body=╪º╪╡╪»╪º╪▒ ╪╖┘ä╪¿┘è┘ç ╪╣┘ä┘ë ╪¡╪│╪º╪¿┘â┘à ╪¿┘à╪¿┘ä╪║ 165.0╪┤ ┘ê╪º╪╡╪¿╪¡ ╪▒╪╡┘è╪»┘â┘à  61558.0 ╪┤ ┘ä┘ä╪¬┘ü╪º╪╡┘è┘ä, date=1724155025513
+Row: 2249 address=AL-Eatimad, body=http://188.34.164.0/openpdf/report?k=C0A80108:01916F9A9A28:D3D7:533938DA&c=etimad, date=1724154534203
+Row: 2250 address=AL-Eatimad, body=╪┤┘â╪▒╪º ┘ä╪│╪»╪º╪» ┘à╪¿┘ä╪║9900.0 ╪┤┘ê╪º╪╡╪¿╪¡ ╪▒╪╡┘è╪»┘â┘à  61393.0 ╪┤, date=1724153821937
+Row: 2256 address=AL-Eatimad, body=http://188.34.164.0/openpdf/report?k=C0A80107:01916E8AF15F:5082:6D448DA3&c=etimad, date=1724136636364
+Row: 2257 address=AL-Eatimad, body=╪º╪╡╪»╪º╪▒ ╪╖┘ä╪¿┘è┘ç ╪╣┘ä┘ë ╪¡╪│╪º╪¿┘â┘à ╪¿┘à╪¿┘ä╪║ 15.0╪┤ ┘ê╪º╪╡╪¿╪¡ ╪▒╪╡┘è╪»┘â┘à  71293.0 ╪┤ ┘ä┘ä╪¬┘ü╪º╪╡┘è┘ä, date=1724136635425
+Row: 2258 address=AL-Eatimad, body=http://188.34.164.0/openpdf/report?k=C0A80107:01916E59F75D:F945:6A264E3C&c=etimad, date=1724133492151
+Row: 2259 address=AL-Eatimad, body=╪º╪╡╪»╪º╪▒ ╪╖┘ä╪¿┘è┘ç ╪╣┘ä┘ë ╪¡╪│╪º╪¿┘â┘à ╪¿┘à╪¿┘ä╪║ 1670.0╪┤ ┘ê╪º╪╡╪¿╪¡ ╪▒╪╡┘è╪»┘â┘à  71278.0 ╪┤ ┘ä┘ä╪¬┘ü╪º╪╡┘è┘ä, date=1724133490197
+Row: 2268 address=AL-Eatimad, body=┘à╪▒╪¬╪¼╪╣ ╪¿╪╢╪º╪╣╪⌐ ╪╣┘ä┘ë ╪¡╪│╪º╪¿ ╪¼┘à╪º┘ä ╪º┘ä╪¿╪º╪¿╪º ╪¿┘é┘è┘à╪⌐ 600.0 ╪┤┘ê╪º╪╡╪¿╪¡ ╪▒╪╡┘è╪»┘â┘à  69608.0 ╪┤, date=1724066594354
+Row: 2269 address=AL-Eatimad, body=http://188.34.164.0/openpdf/report?k=C0A80107:01916A5D13B9:C9A0:29919352&c=etimad, date=1724066593604
+Row: 2270 address=AL-Eatimad, body=╪º╪╡╪»╪º╪▒ ╪╖┘ä╪¿┘è┘ç ╪╣┘ä┘ë ╪¡╪│╪º╪¿┘â┘à ╪¿┘à╪¿┘ä╪║ 540.0╪┤ ┘ê╪º╪╡╪¿╪¡ ╪▒╪╡┘è╪»┘â┘à  69608.0 ╪┤ ┘ä┘ä╪¬┘ü╪º╪╡┘è┘ä, date=1724066592614
+Row: 2271 address=AL-Eatimad, body=http://188.34.164.0/openpdf/report?k=C0A80107:01916A4D554D:DE7C:1382D57A&c=etimad, date=1724065629645
+Row: 2272 address=AL-Eatimad, body=╪º╪╡╪»╪º╪▒ ╪╖┘ä╪¿┘è┘ç ╪╣┘ä┘ë ╪¡╪│╪º╪¿┘â┘à ╪¿┘à╪¿┘ä╪║ 940.0╪┤ ┘ê╪º╪╡╪¿╪¡ ╪▒╪╡┘è╪»┘â┘à  69668.0 ╪┤ ┘ä┘ä╪¬┘ü╪º╪╡┘è┘ä, date=1724065628774
+Row: 2273 address=AL-Eatimad, body=http://188.34.164.0/openpdf/report?k=C0A80107:01916A4CB755:9B15:6C2BF9D9&c=etimad, date=1724065450331
+Row: 2274 address=AL-Eatimad, body=╪º╪╡╪»╪º╪▒ ╪╖┘ä╪¿┘è┘ç ╪╣┘ä┘ë ╪¡╪│╪º╪¿┘â┘à ╪¿┘à╪¿┘ä╪║ 535.0╪┤ ┘ê╪º╪╡╪¿╪¡ ╪▒╪╡┘è╪»┘â┘à  68728.0 ╪┤ ┘ä┘ä╪¬┘ü╪º╪╡┘è┘ä, date=1724065448785
+Row: 2277 address=AL-Eatimad, body=http://188.34.164.0/openpdf/report?k=C0A80107:019165AC60C5:E531:1EE50637&c=etimad, date=1723987875666
+Row: 2278 address=AL-Eatimad, body=╪º╪╡╪»╪º╪▒ ╪╖┘ä╪¿┘è┘ç ╪╣┘ä┘ë ╪¡╪│╪º╪¿┘â┘à ╪¿┘à╪¿┘ä╪║ 665.0╪┤ ┘ê╪º╪╡╪¿╪¡ ╪▒╪╡┘è╪»┘â┘à  68193.0 ╪┤ ┘ä┘ä╪¬┘ü╪º╪╡┘è┘ä, date=1723987874911
+Row: 2285 address=AL-Eatimad, body=http://188.34.164.0/openpdf/report?k=C0A80107:0191643A0F0B:0D86:7B1254BE&c=etimad, date=1723963641338
+Row: 2286 address=AL-Eatimad, body=╪º╪╡╪»╪º╪▒ ╪╖┘ä╪¿┘è┘ç ╪╣┘ä┘ë ╪¡╪│╪º╪¿┘â┘à ╪¿┘à╪¿┘ä╪║ 235.0╪┤ ┘ê╪º╪╡╪¿╪¡ ╪▒╪╡┘è╪»┘â┘à  67528.0 ╪┤ ┘ä┘ä╪¬┘ü╪º╪╡┘è┘ä, date=1723963640628
+Row: 2287 address=AL-Eatimad, body=http://188.34.164.0/openpdf/report?k=C0A80108:01916423F76E:E122:0F05FE0F&c=etimad, date=1723962086512
+Row: 2288 address=AL-Eatimad, body=╪º╪╡╪»╪º╪▒ ╪╖┘ä╪¿┘è┘ç ╪╣┘ä┘ë ╪¡╪│╪º╪¿┘â┘à ╪¿┘à╪¿┘ä╪║ 120.0╪┤ ┘ê╪º╪╡╪¿╪¡ ╪▒╪╡┘è╪»┘â┘à  67293.0 ╪┤ ┘ä┘ä╪¬┘ü╪º╪╡┘è┘ä, date=1723962085642
+Row: 2296 address=AL-Eatimad, body=╪▒╪╡┘è╪»┘â┘à ┘ä╪║╪º┘è╪⌐  15/8/2024┘ç┘ê 67173.0 ╪┤  ┘ä┘ä┘à╪▒╪º╪¼╪╣┘ç022409006.┘å╪╣╪¬╪▓ ╪¿╪½┘é╪¬┘â┘à ., date=1723741643472
+Row: 2299 address=AL-Eatimad, body=┘à╪▒╪¬╪¼╪╣ ╪¿╪╢╪º╪╣╪⌐ ╪╣┘ä┘ë ╪¡╪│╪º╪¿ ╪¼┘à╪º┘ä ╪º┘ä╪¿╪º╪¿╪º ╪¿┘é┘è┘à╪⌐ 150.0 ╪┤┘ê╪º╪╡╪¿╪¡ ╪▒╪╡┘è╪»┘â┘à  67173.0 ╪┤, date=1723717458476
+Row: 2300 address=AL-Eatimad, body=http://188.34.164.0/openpdf/report?k=C0A80108:01915567C7C2:0BA2:17BFEC55&c=etimad, date=1723714941302
+Row: 2301 address=AL-Eatimad, body=╪º╪╡╪»╪º╪▒ ╪╖┘ä╪¿┘è┘ç ╪╣┘ä┘ë ╪¡╪│╪º╪¿┘â┘à ╪¿┘à╪¿┘ä╪║ 600.0╪┤ ┘ê╪º╪╡╪¿╪¡ ╪▒╪╡┘è╪»┘â┘à  67323.0 ╪┤ ┘ä┘ä╪¬┘ü╪º╪╡┘è┘ä, date=1723714934343
+Row: 2307 address=AL-Eatimad, body=http://188.34.164.0/openpdf/report?k=C0A80108:019154D0E29D:5712:24BD199A&c=etimad, date=1723705035383
+Row: 2308 address=AL-Eatimad, body=╪º╪╡╪»╪º╪▒ ╪╖┘ä╪¿┘è┘ç ╪╣┘ä┘ë ╪¡╪│╪º╪¿┘â┘à ╪¿┘à╪¿┘ä╪║ 70.0╪┤ ┘ê╪º╪╡╪¿╪¡ ╪▒╪╡┘è╪»┘â┘à  66723.0 ╪┤ ┘ä┘ä╪¬┘ü╪º╪╡┘è┘ä, date=1723705031154
+Row: 2314 address=AL-Eatimad, body=http://188.34.164.0/openpdf/report?k=C0A80107:0191504FEA44:AF5A:498CF5A9&c=etimad, date=1723629441504
+Row: 2315 address=AL-Eatimad, body=╪º╪╡╪»╪º╪▒ ╪╖┘ä╪¿┘è┘ç ╪╣┘ä┘ë ╪¡╪│╪º╪¿┘â┘à ╪¿┘à╪¿┘ä╪║ 10.0╪┤ ┘ê╪º╪╡╪¿╪¡ ╪▒╪╡┘è╪»┘â┘à  66653.0 ╪┤ ┘ä┘ä╪¬┘ü╪º╪╡┘è┘ä, date=1723629431223
+Row: 2318 address=AL-Eatimad, body=http://188.34.164.0/openpdf/report?k=C0A80108:01914F46A6F8:564D:41A672D6&c=etimad, date=1723612033843
+Row: 2319 address=AL-Eatimad, body=╪º╪╡╪»╪º╪▒ ╪╖┘ä╪¿┘è┘ç ╪╣┘ä┘ë ╪¡╪│╪º╪¿┘â┘à ╪¿┘à╪¿┘ä╪║ 1144.0╪┤ ┘ê╪º╪╡╪¿╪¡ ╪▒╪╡┘è╪»┘â┘à  66643.0 ╪┤ ┘ä┘ä╪¬┘ü╪º╪╡┘è┘ä, date=1723612031423
+Row: 2321 address=AL-Eatimad, body=╪┤┘â╪▒╪º ┘ä╪│╪»╪º╪» ┘à╪¿┘ä╪║80000.0 ╪┤┘ê╪º╪╡╪¿╪¡ ╪▒╪╡┘è╪»┘â┘à  65499.0 ╪┤, date=1723543134510
+Row: 2322 address=AL-Eatimad, body=http://188.34.164.0/openpdf/report?k=C0A80108:01914B170731:A036:4D97ED50&c=etimad, date=1723541834829
+Row: 2323 address=AL-Eatimad, body=╪º╪╡╪»╪º╪▒ ╪╖┘ä╪¿┘è┘ç ╪╣┘ä┘ë ╪¡╪│╪º╪¿┘â┘à ╪¿┘à╪¿┘ä╪║ 565.0╪┤ ┘ê╪º╪╡╪¿╪¡ ╪▒╪╡┘è╪»┘â┘à  145499.0 ╪┤ ┘ä┘ä╪¬┘ü╪º╪╡┘è┘ä, date=1723541833869
+Row: 2324 address=AL-Eatimad, body=http://188.34.164.0/openpdf/report?k=C0A80107:01914A4B0D2E:8E09:555E2163&c=etimad, date=1723528681100
+Row: 2325 address=AL-Eatimad, body=╪º╪╡╪»╪º╪▒ ╪╖┘ä╪¿┘è┘ç ╪╣┘ä┘ë ╪¡╪│╪º╪¿┘â┘à ╪¿┘à╪¿┘ä╪║ 2200.0╪┤ ┘ê╪º╪╡╪¿╪¡ ╪▒╪╡┘è╪»┘â┘à  144934.0 ╪┤ ┘ä┘ä╪¬┘ü╪º╪╡┘è┘ä, date=1723528678693
+Row: 2330 address=AL-Eatimad, body=http://188.34.164.0/openpdf/report?k=C0A80107:019145C8B37E:4D41:059D0E8F&c=etimad, date=1723453098648
+Row: 2331 address=AL-Eatimad, body=╪º╪╡╪»╪º╪▒ ╪╖┘ä╪¿┘è┘ç ╪╣┘ä┘ë ╪¡╪│╪º╪¿┘â┘à ╪¿┘à╪¿┘ä╪║ 2565.0╪┤ ┘ê╪º╪╡╪¿╪¡ ╪▒╪╡┘è╪»┘â┘à  142734.0 ╪┤ ┘ä┘ä╪¬┘ü╪º╪╡┘è┘ä, date=1723453097270
+Row: 2332 address=AL-Eatimad, body=╪º╪╡╪»╪º╪▒ ╪╖┘ä╪¿┘è┘ç ╪╣┘ä┘ë ╪¡╪│╪º╪¿┘â┘à ╪¿┘à╪¿┘ä╪║ 785.0╪┤ ┘ê╪º╪╡╪¿╪¡ ╪▒╪╡┘è╪»┘â┘à  140169.0 ╪┤ ┘ä┘ä╪¬┘ü╪º╪╡┘è┘ä, date=1723444386830
+Row: 2333 address=AL-Eatimad, body=http://188.34.164.0/openpdf/report?k=C0A80108:019145462CAA:42F7:72D01FC0&c=etimad, date=1723444384283
+Row: 2334 address=AL-Eatimad, body=http://188.34.164.0/openpdf/report?k=C0A80107:019140F65898:71F7:77682506&c=etimad, date=1723372091173
+Row: 2335 address=AL-Eatimad, body=╪º╪╡╪»╪º╪▒ ╪╖┘ä╪¿┘è┘ç ╪╣┘ä┘ë ╪¡╪│╪º╪¿┘â┘à ╪¿┘à╪¿┘ä╪║ 445.0╪┤ ┘ê╪º╪╡╪¿╪¡ ╪▒╪╡┘è╪»┘â┘à  139384.0 ╪┤ ┘ä┘ä╪¬┘ü╪º╪╡┘è┘ä, date=1723372090516
+Row: 2360 address=AL-Eatimad, body=http://188.34.164.0/openpdf/report?k=C0A80108:0191316A5C65:945A:2C53100D&c=etimad, date=1723111045092
+Row: 2361 address=AL-Eatimad, body=╪º╪╡╪»╪º╪▒ ╪╖┘ä╪¿┘è┘ç ╪╣┘ä┘ë ╪¡╪│╪º╪¿┘â┘à ╪¿┘à╪¿┘ä╪║ 1810.0╪┤ ┘ê╪º╪╡╪¿╪¡ ╪▒╪╡┘è╪»┘â┘à  138939.0 ╪┤ ┘ä┘ä╪¬┘ü╪º╪╡┘è┘ä, date=1723111044338
+Row: 2364 address=AL-Eatimad, body=http://188.34.164.0/openpdf/report?k=C0A80107:019130B5E57D:5E97:4BDA3D75&c=etimad, date=1723099329710
+Row: 2365 address=AL-Eatimad, body=╪º╪╡╪»╪º╪▒ ╪╖┘ä╪¿┘è┘ç ╪╣┘ä┘ë ╪¡╪│╪º╪¿┘â┘à ╪¿┘à╪¿┘ä╪║ 3220.0╪┤ ┘ê╪º╪╡╪¿╪¡ ╪▒╪╡┘è╪»┘â┘à  137129.0 ╪┤ ┘ä┘ä╪¬┘ü╪º╪╡┘è┘ä, date=1723099328885
+Row: 2366 address=AL-Eatimad, body=http://188.34.164.0/openpdf/report?k=C0A80108:019130AAF95F:7160:75A57A6A&c=etimad, date=1723098609739
+Row: 2367 address=AL-Eatimad, body=╪º╪╡╪»╪º╪▒ ╪╖┘ä╪¿┘è┘ç ╪╣┘ä┘ë ╪¡╪│╪º╪¿┘â┘à ╪¿┘à╪¿┘ä╪║ 120.0╪┤ ┘ê╪º╪╡╪¿╪¡ ╪▒╪╡┘è╪»┘â┘à  133909.0 ╪┤ ┘ä┘ä╪¬┘ü╪º╪╡┘è┘ä, date=1723098608847
+Row: 2371 address=AL-Eatimad, body=http://188.34.164.0/openpdf/report?k=C0A80108:01912B6D7D95:BA5C:0161E0E0&c=etimad, date=1723010607860
+Row: 2372 address=AL-Eatimad, body=╪º╪╡╪»╪º╪▒ ╪╖┘ä╪¿┘è┘ç ╪╣┘ä┘ë ╪¡╪│╪º╪¿┘â┘à ╪¿┘à╪¿┘ä╪║ 3335.0╪┤ ┘ê╪º╪╡╪¿╪¡ ╪▒╪╡┘è╪»┘â┘à  133789.0 ╪┤ ┘ä┘ä╪¬┘ü╪º╪╡┘è┘ä, date=1723010607114
+Row: 2373 address=AL-Eatimad, body=http://188.34.164.0/openpdf/report?k=C0A80108:01912B6D30EA:08F6:735B05C4&c=etimad, date=1723010606399
+Row: 2374 address=AL-Eatimad, body=╪º╪╡╪»╪º╪▒ ╪╖┘ä╪¿┘è┘ç ╪╣┘ä┘ë ╪¡╪│╪º╪¿┘â┘à ╪¿┘à╪¿┘ä╪║ 1100.0╪┤ ┘ê╪º╪╡╪¿╪¡ ╪▒╪╡┘è╪»┘â┘à  133789.0 ╪┤ ┘ä┘ä╪¬┘ü╪º╪╡┘è┘ä, date=1723010604163
+Row: 2399 address=AL-Eatimad, body=http://188.34.164.0/openpdf/report?k=C0A80107:0191183C1AFA:11B8:50C4A59B&c=etimad, date=1722688656180
+Row: 2400 address=AL-Eatimad, body=╪º╪╡╪»╪º╪▒ ╪╖┘ä╪¿┘è┘ç ╪╣┘ä┘ë ╪¡╪│╪º╪¿┘â┘à ╪¿┘à╪¿┘ä╪║ 20.0╪┤ ┘ê╪º╪╡╪¿╪¡ ╪▒╪╡┘è╪»┘â┘à  129354.0 ╪┤ ┘ä┘ä╪¬┘ü╪º╪╡┘è┘ä, date=1722688655440
+Row: 2401 address=AL-Eatimad, body=http://188.34.164.0/openpdf/report?k=C0A80107:0191183B3DCC:547D:78731C00&c=etimad, date=1722688654707
+Row: 2402 address=AL-Eatimad, body=╪º╪╡╪»╪º╪▒ ╪╖┘ä╪¿┘è┘ç ╪╣┘ä┘ë ╪¡╪│╪º╪¿┘â┘à ╪¿┘à╪¿┘ä╪║ 95.0╪┤ ┘ê╪º╪╡╪¿╪¡ ╪▒╪╡┘è╪»┘â┘à  129354.0 ╪┤ ┘ä┘ä╪¬┘ü╪º╪╡┘è┘ä, date=1722688652675
+Row: 2404 address=AL-Eatimad, body=http://188.34.164.0/openpdf/report?k=C0A80107:0191169EA48F:033F:390CCE59&c=etimad, date=1722661631685
+Row: 2405 address=AL-Eatimad, body=╪º╪╡╪»╪º╪▒ ╪╖┘ä╪¿┘è┘ç ╪╣┘ä┘ë ╪¡╪│╪º╪¿┘â┘à ╪¿┘à╪¿┘ä╪║ 125.0╪┤ ┘ê╪º╪╡╪¿╪¡ ╪▒╪╡┘è╪»┘â┘à  129239.0 ╪┤ ┘ä┘ä╪¬┘ü╪º╪╡┘è┘ä, date=1722661628501
+Row: 2411 address=AL-Eatimad, body=http://188.34.164.0/openpdf/report?k=C0A80107:01910DB18976:1708:417F8186&c=etimad, date=1722511905736
+Row: 2412 address=AL-Eatimad, body=╪º╪╡╪»╪º╪▒ ╪╖┘ä╪¿┘è┘ç ╪╣┘ä┘ë ╪¡╪│╪º╪¿┘â┘à ╪¿┘à╪¿┘ä╪║ 658.0╪┤ ┘ê╪º╪╡╪¿╪¡ ╪▒╪╡┘è╪»┘â┘à  129114.0 ╪┤ ┘ä┘ä╪¬┘ü╪º╪╡┘è┘ä, date=1722511903899
+Row: 2413 address=AL-Eatimad, body=http://188.34.164.0/openpdf/report?k=C0A80107:01910D81080A:6D2C:5B2AB5B1&c=etimad, date=1722508616593
+Row: 2414 address=AL-Eatimad, body=╪º╪╡╪»╪º╪▒ ╪╖┘ä╪¿┘è┘ç ╪╣┘ä┘ë ╪¡╪│╪º╪¿┘â┘à ╪¿┘à╪¿┘ä╪║ 18.0╪┤ ┘ê╪º╪╡╪¿╪¡ ╪▒╪╡┘è╪»┘â┘à  128456.0 ╪┤ ┘ä┘ä╪¬┘ü╪º╪╡┘è┘ä, date=1722508615735
+Row: 2419 address=AL-Eatimad, body=http://188.34.164.0/openpdf/report?k=C0A80108:01910C57625F:FA48:6C2FFD2A&c=etimad, date=1722489269673
+Row: 2420 address=AL-Eatimad, body=╪º╪╡╪»╪º╪▒ ╪╖┘ä╪¿┘è┘ç ╪╣┘ä┘ë ╪¡╪│╪º╪¿┘â┘à ╪¿┘à╪¿┘ä╪║ 380.0╪┤ ┘ê╪º╪╡╪¿╪¡ ╪▒╪╡┘è╪»┘â┘à  128438.0 ╪┤ ┘ä┘ä╪¬┘ü╪º╪╡┘è┘ä, date=1722489268158
+Row: 2422 address=AL-Eatimad, body=╪▒╪╡┘è╪»┘â┘à ┘ä╪║╪º┘è╪⌐  30/7/2024┘ç┘ê 128058.0 ╪┤  ┘ä┘ä┘à╪▒╪º╪¼╪╣┘ç022409006.┘å╪╣╪¬╪▓ ╪¿╪½┘é╪¬┘â┘à ., date=1722359250761
+Row: 2423 address=AL-Eatimad, body=http://188.34.164.0/openpdf/report?k=C0A80108:0191041E17A8:3DD0:4BC454D3&c=etimad, date=1722351165504
+Row: 2424 address=AL-Eatimad, body=╪º╪╡╪»╪º╪▒ ╪╖┘ä╪¿┘è┘ç ╪╣┘ä┘ë ╪¡╪│╪º╪¿┘â┘à ╪¿┘à╪¿┘ä╪║ 245.0╪┤ ┘ê╪º╪╡╪¿╪¡ ╪▒╪╡┘è╪»┘â┘à  128058.0 ╪┤ ┘ä┘ä╪¬┘ü╪º╪╡┘è┘ä, date=1722351164759
+Row: 2430 address=AL-Eatimad, body=http://188.34.164.0/openpdf/report?k=C0A80108:0191023A93D9:8AF0:2AF4FF6B&c=etimad, date=1722319462431
+Row: 2431 address=AL-Eatimad, body=╪º╪╡╪»╪º╪▒ ╪╖┘ä╪¿┘è┘ç ╪╣┘ä┘ë ╪¡╪│╪º╪¿┘â┘à ╪¿┘à╪¿┘ä╪║ 945.0╪┤ ┘ê╪º╪╡╪¿╪¡ ╪▒╪╡┘è╪»┘â┘à  127813.0 ╪┤ ┘ä┘ä╪¬┘ü╪º╪╡┘è┘ä, date=1722319461799
+Row: 2432 address=AL-Eatimad, body=http://188.34.164.0/openpdf/report?k=C0A80108:019102191F73:2BE3:5BF0DAD5&c=etimad, date=1722317212825
+Row: 2433 address=AL-Eatimad, body=╪º╪╡╪»╪º╪▒ ╪╖┘ä╪¿┘è┘ç ╪╣┘ä┘ë ╪¡╪│╪º╪¿┘â┘à ╪¿┘à╪¿┘ä╪║ 570.0╪┤ ┘ê╪º╪╡╪¿╪¡ ╪▒╪╡┘è╪»┘â┘à  126868.0 ╪┤ ┘ä┘ä╪¬┘ü╪º╪╡┘è┘ä, date=1722317211717
+Row: 2436 address=AL-Eatimad, body=http://188.34.164.0/openpdf/report?k=C0A80107:0190FE833508:935B:0A9EDA74&c=etimad, date=1722257249170
+Row: 2437 address=AL-Eatimad, body=╪º╪╡╪»╪º╪▒ ╪╖┘ä╪¿┘è┘ç ╪╣┘ä┘ë ╪¡╪│╪º╪¿┘â┘à ╪¿┘à╪¿┘ä╪║ 600.0╪┤ ┘ê╪º╪╡╪¿╪¡ ╪▒╪╡┘è╪»┘â┘à  126298.0 ╪┤ ┘ä┘ä╪¬┘ü╪º╪╡┘è┘ä, date=1722257236535
+Row: 2448 address=AL-Eatimad, body=http://188.34.164.0/openpdf/report?k=C0A80107:0190FD3C31ED:4DB9:6ABBD204&c=etimad, date=1722236238847
+Row: 2449 address=AL-Eatimad, body=╪º╪╡╪»╪º╪▒ ╪╖┘ä╪¿┘è┘ç ╪╣┘ä┘ë ╪¡╪│╪º╪¿┘â┘à ╪¿┘à╪¿┘ä╪║ 80.0╪┤ ┘ê╪º╪╡╪¿╪¡ ╪▒╪╡┘è╪»┘â┘à  125698.0 ╪┤ ┘ä┘ä╪¬┘ü╪º╪╡┘è┘ä, date=1722236196568
+Row: 2456 address=AL-Eatimad, body=http://188.34.164.0/openpdf/report?k=C0A80107:0190E4171C8C:8FCD:7EFA9B8C&c=etimad, date=1722154038664
+Row: 2457 address=AL-Eatimad, body=╪º╪╡╪»╪º╪▒ ╪╖┘ä╪¿┘è┘ç ╪╣┘ä┘ë ╪¡╪│╪º╪¿┘â┘à ╪¿┘à╪¿┘ä╪║ 495.0╪┤ ┘ê╪º╪╡╪¿╪¡ ╪▒╪╡┘è╪»┘â┘à  125618.0 ╪┤ ┘ä┘ä╪¬┘ü╪º╪╡┘è┘ä, date=1722154037859
+Row: 2458 address=AL-Eatimad, body=http://188.34.164.0/openpdf/report?k=C0A80107:0190E918A718:1F58:5EF3B805&c=etimad, date=1722154024087
+Row: 2459 address=AL-Eatimad, body=╪º╪╡╪»╪º╪▒ ╪╖┘ä╪¿┘è┘ç ╪╣┘ä┘ë ╪¡╪│╪º╪¿┘â┘à ╪¿┘à╪¿┘ä╪║ 965.0╪┤ ┘ê╪º╪╡╪¿╪¡ ╪▒╪╡┘è╪»┘â┘à  125618.0 ╪┤ ┘ä┘ä╪¬┘ü╪º╪╡┘è┘ä, date=1722154023166
+Row: 2460 address=AL-Eatimad, body=http://188.34.164.0/openpdf/report?k=C0A80108:0190DF17B1EE:B85E:532FF205&c=etimad, date=1722153989474
+Row: 2461 address=AL-Eatimad, body=╪º╪╡╪»╪º╪▒ ╪╖┘ä╪¿┘è┘ç ╪╣┘ä┘ë ╪¡╪│╪º╪¿┘â┘à ╪¿┘à╪¿┘ä╪║ 1660.0╪┤ ┘ê╪º╪╡╪¿╪¡ ╪▒╪╡┘è╪»┘â┘à  125618.0 ╪┤ ┘ä┘ä╪¬┘ü╪º╪╡┘è┘ä, date=1722153988341
+Row: 2491 address=AL-Eatimad, body=http://188.34.164.0/openpdf/report?k=C0A80108:0190DE34C9DA:8136:1CD5A9B5&c=etimad, date=1721715150648
+Row: 2492 address=AL-Eatimad, body=╪º╪╡╪»╪º╪▒ ╪╖┘ä╪¿┘è┘ç ╪╣┘ä┘ë ╪¡╪│╪º╪¿┘â┘à ╪¿┘à╪¿┘ä╪║ 347.0╪┤ ┘ê╪º╪╡╪¿╪¡ ╪▒╪╡┘è╪»┘â┘à  122498.0 ╪┤ ┘ä┘ä╪¬┘ü╪º╪╡┘è┘ä, date=1721715148038
+Row: 2498 address=AL-Eatimad, body=┘à╪▒╪¬╪¼╪╣ ╪¿╪╢╪º╪╣╪⌐ ╪╣┘ä┘ë ╪¡╪│╪º╪¿ ╪¼┘à╪º┘ä ╪º┘ä╪¿╪º╪¿╪º ╪¿┘é┘è┘à╪⌐ 503.0 ╪┤┘ê╪º╪╡╪¿╪¡ ╪▒╪╡┘è╪»┘â┘à  122151.0 ╪┤, date=1721652562579
+Row: 2500 address=AL-Eatimad, body=http://188.34.164.0/openpdf/report?k=C0A80108:0190D9562093:0B30:3D1ACACD&c=etimad, date=1721633669195
+Row: 2501 address=AL-Eatimad, body=╪º╪╡╪»╪º╪▒ ╪╖┘ä╪¿┘è┘ç ╪╣┘ä┘ë ╪¡╪│╪º╪¿┘â┘à ╪¿┘à╪¿┘ä╪║ 11255.0╪┤ ┘ê╪º╪╡╪¿╪¡ ╪▒╪╡┘è╪»┘â┘à  122654.0 ╪┤ ┘ä┘ä╪¬┘ü╪º╪╡┘è┘ä, date=1721633668375
+Row: 2502 address=AL-Eatimad, body=╪º╪╡╪»╪º╪▒ ╪╖┘ä╪¿┘è┘ç ╪╣┘ä┘ë ╪¡╪│╪º╪¿┘â┘à ╪¿┘à╪¿┘ä╪║ 503.0╪┤ ┘ê╪º╪╡╪¿╪¡ ╪▒╪╡┘è╪»┘â┘à  122654.0 ╪┤ ┘ä┘ä╪¬┘ü╪º╪╡┘è┘ä, date=1721633667603
+Row: 2503 address=AL-Eatimad, body=http://188.34.164.0/openpdf/report?k=C0A80108:0190D951A066:542B:166B17AC&c=etimad, date=1721633664840
+Row: 2504 address=AL-Eatimad, body=┘à╪▒╪¬╪¼╪╣ ╪¿╪╢╪º╪╣╪⌐ ╪╣┘ä┘ë ╪¡╪│╪º╪¿ ╪¼┘à╪º┘ä ╪º┘ä╪¿╪º╪¿╪º ╪¿┘é┘è┘à╪⌐ 35.0 ╪┤┘ê╪º╪╡╪¿╪¡ ╪▒╪╡┘è╪»┘â┘à  110896.0 ╪┤, date=1721633063673
+Row: 2509 address=AL-Eatimad, body=http://188.34.164.0/openpdf/report?k=C0A80107:0190D54F1AAB:DECE:57D353D4&c=etimad, date=1721565989257
+Row: 2510 address=AL-Eatimad, body=╪º╪╡╪»╪º╪▒ ╪╖┘ä╪¿┘è┘ç ╪╣┘ä┘ë ╪¡╪│╪º╪¿┘â┘à ╪¿┘à╪¿┘ä╪║ 42.0╪┤ ┘ê╪º╪╡╪¿╪¡ ╪▒╪╡┘è╪»┘â┘à  110931.0 ╪┤ ┘ä┘ä╪¬┘ü╪º╪╡┘è┘ä, date=1721565988676
+Row: 2518 address=AL-Eatimad, body=http://188.34.164.0/openpdf/report?k=C0A80107:0190D488313E:13D7:530EE024&c=etimad, date=1721553160851
+Row: 2519 address=AL-Eatimad, body=╪º╪╡╪»╪º╪▒ ╪╖┘ä╪¿┘è┘ç ╪╣┘ä┘ë ╪¡╪│╪º╪¿┘â┘à ╪¿┘à╪¿┘ä╪║ 126.0╪┤ ┘ê╪º╪╡╪¿╪¡ ╪▒╪╡┘è╪»┘â┘à  110889.0 ╪┤ ┘ä┘ä╪¬┘ü╪º╪╡┘è┘ä, date=1721553148348
+Row: 2530 address=AL-Eatimad, body=http://188.34.164.0/openpdf/report?k=C0A80107:0190C45C37A3:A95A:43F89D47&c=etimad, date=1721281608172
+Row: 2531 address=AL-Eatimad, body=╪º╪╡╪»╪º╪▒ ╪╖┘ä╪¿┘è┘ç ╪╣┘ä┘ë ╪¡╪│╪º╪¿┘â┘à ╪¿┘à╪¿┘ä╪║ 495.0╪┤ ┘ê╪º╪╡╪¿╪¡ ╪▒╪╡┘è╪»┘â┘à  110763.0 ╪┤ ┘ä┘ä╪¬┘ü╪º╪╡┘è┘ä, date=1721281606505
+Row: 2533 address=AL-Eatimad, body=http://188.34.164.0/openpdf/report?k=C0A80107:0190BFE440B2:25DB:65E36E64&c=etimad, date=1721206585178
+Row: 2534 address=AL-Eatimad, body=╪º╪╡╪»╪º╪▒ ╪╖┘ä╪¿┘è┘ç ╪╣┘ä┘ë ╪¡╪│╪º╪¿┘â┘à ╪¿┘à╪¿┘ä╪║ 930.0╪┤ ┘ê╪º╪╡╪¿╪¡ ╪▒╪╡┘è╪»┘â┘à  110268.0 ╪┤ ┘ä┘ä╪¬┘ü╪º╪╡┘è┘ä, date=1721206583999
+Row: 2535 address=AL-Eatimad, body=http://188.34.164.0/openpdf/report?k=C0A80107:0190BF5ED939:4CEB:223D9230&c=etimad, date=1721198064793
+Row: 2536 address=AL-Eatimad, body=╪º╪╡╪»╪º╪▒ ╪╖┘ä╪¿┘è┘ç ╪╣┘ä┘ë ╪¡╪│╪º╪¿┘â┘à ╪¿┘à╪¿┘ä╪║ 270.0╪┤ ┘ê╪º╪╡╪¿╪¡ ╪▒╪╡┘è╪»┘â┘à  109338.0 ╪┤ ┘ä┘ä╪¬┘ü╪º╪╡┘è┘ä, date=1721198062629
+Row: 2560 address=AL-Eatimad, body=http://188.34.164.0/openpdf/report?k=C0A80107:0190B0104D89:2832:3008F231&c=etimad, date=1720941166395
+Row: 2561 address=AL-Eatimad, body=╪º╪╡╪»╪º╪▒ ╪╖┘ä╪¿┘è┘ç ╪╣┘ä┘ë ╪¡╪│╪º╪¿┘â┘à ╪¿┘à╪¿┘ä╪║ 300.0╪┤ ┘ê╪º╪╡╪¿╪¡ ╪▒╪╡┘è╪»┘â┘à  104238.0 ╪┤ ┘ä┘ä╪¬┘ü╪º╪╡┘è┘ä, date=1720941165215
+Row: 2566 address=AL-Eatimad, body=http://188.34.164.0/openpdf/report?k=C0A80108:0190AAB858CD:1B66:1B2EB058&c=etimad, date=1720851800460
+Row: 2567 address=AL-Eatimad, body=╪º╪╡╪»╪º╪▒ ╪╖┘ä╪¿┘è┘ç ╪╣┘ä┘ë ╪¡╪│╪º╪¿┘â┘à ╪¿┘à╪¿┘ä╪║ 750.0╪┤ ┘ê╪º╪╡╪¿╪¡ ╪▒╪╡┘è╪»┘â┘à  103938.0 ╪┤ ┘ä┘ä╪¬┘ü╪º╪╡┘è┘ä, date=1720851797398
+Row: 2568 address=AL-Eatimad, body=http://188.34.164.0/openpdf/report?k=C0A80108:0190AA83DB9A:A172:73B05AA3&c=etimad, date=1720848309577
+Row: 2569 address=AL-Eatimad, body=╪º╪╡╪»╪º╪▒ ╪╖┘ä╪¿┘è┘ç ╪╣┘ä┘ë ╪¡╪│╪º╪¿┘â┘à ╪¿┘à╪¿┘ä╪║ 150.0╪┤ ┘ê╪º╪╡╪¿╪¡ ╪▒╪╡┘è╪»┘â┘à  103188.0 ╪┤ ┘ä┘ä╪¬┘ü╪º╪╡┘è┘ä, date=1720848308006
+Row: 2570 address=AL-Eatimad, body=http://188.34.164.0/openpdf/report?k=C0A80108:0190AA83DB9A:A172:73B05AA3&c=etimad, date=1720848265040
+Row: 2571 address=AL-Eatimad, body=╪º╪╡╪»╪º╪▒ ╪╖┘ä╪¿┘è┘ç ╪╣┘ä┘ë ╪¡╪│╪º╪¿┘â┘à ╪¿┘à╪¿┘ä╪║ 150.0╪┤ ┘ê╪º╪╡╪¿╪¡ ╪▒╪╡┘è╪»┘â┘à  103188.0 ╪┤ ┘ä┘ä╪¬┘ü╪º╪╡┘è┘ä, date=1720848263089
+Row: 2596 address=AL-Eatimad, body=http://188.34.164.0/openpdf/report?k=C0A80106:01909C3F59C9:B3A5:2CA4473B&c=etimad, date=1720609051550
+Row: 2597 address=AL-Eatimad, body=╪º╪╡╪»╪º╪▒ ╪╖┘ä╪¿┘è┘ç ╪╣┘ä┘ë ╪¡╪│╪º╪¿┘â┘à ╪¿┘à╪¿┘ä╪║ 65.0╪┤ ┘ê╪º╪╡╪¿╪¡ ╪▒╪╡┘è╪»┘â┘à  100308.0 ╪┤ ┘ä┘ä╪¬┘ü╪º╪╡┘è┘ä, date=1720609043835
+Row: 2602 address=AL-Eatimad, body=http://188.34.164.0/openpdf/report?k=C0A80106:01909B5B4DD4:EEE0:1F9611CE&c=etimad, date=1720593997405
+Row: 2603 address=AL-Eatimad, body=╪º╪╡╪»╪º╪▒ ╪╖┘ä╪¿┘è┘ç ╪╣┘ä┘ë ╪¡╪│╪º╪¿┘â┘à ╪¿┘à╪¿┘ä╪║ 202.0╪┤ ┘ê╪º╪╡╪¿╪¡ ╪▒╪╡┘è╪»┘â┘à  100243.0 ╪┤ ┘ä┘ä╪¬┘ü╪º╪╡┘è┘ä, date=1720593995996
+Row: 2612 address=AL-Eatimad, body=╪º╪╡╪»╪º╪▒ ╪╖┘ä╪¿┘è┘ç ╪╣┘ä┘ë ╪¡╪│╪º╪¿┘â┘à ╪¿┘à╪¿┘ä╪║ 1200.0╪┤ ┘ê╪º╪╡╪¿╪¡ ╪▒╪╡┘è╪»┘â┘à  100041.0 ╪┤ ┘ä┘ä╪¬┘ü╪º╪╡┘è┘ä, date=1720508422810
+Row: 2613 address=AL-Eatimad, body=╪º╪╡╪»╪º╪▒ ╪╖┘ä╪¿┘è┘ç ╪╣┘ä┘ë ╪¡╪│╪º╪¿┘â┘à ╪¿┘à╪¿┘ä╪║ 150.0╪┤ ┘ê╪º╪╡╪¿╪¡ ╪▒╪╡┘è╪»┘â┘à  100041.0 ╪┤ ┘ä┘ä╪¬┘ü╪º╪╡┘è┘ä, date=1720508422182
+Row: 2614 address=AL-Eatimad, body=http://188.34.164.0/openpdf/report?k=C0A80106:0190963D1ACE:3699:1600405B&c=etimad, date=1720508421616
+Row: 2615 address=AL-Eatimad, body=http://188.34.164.0/openpdf/report?k=C0A80106:0190963DCDBE:AB35:12FF44F4&c=etimad, date=1720508246717
+Row: 2625 address=AL-Eatimad, body=http://188.34.164.0/openpdf/report?k=C0A80107:019091AA5A6A:D2DD:19124234&c=etimad, date=1720431284962
+Row: 2626 address=AL-Eatimad, body=╪º╪╡╪»╪º╪▒ ╪╖┘ä╪¿┘è┘ç ╪╣┘ä┘ë ╪¡╪│╪º╪¿┘â┘à ╪¿┘à╪¿┘ä╪║ 220.0╪┤ ┘ê╪º╪╡╪¿╪¡ ╪▒╪╡┘è╪»┘â┘à  98691.0 ╪┤ ┘ä┘ä╪¬┘ü╪º╪╡┘è┘ä, date=1720431274194
+Row: 2627 address=AL-Eatimad, body=http://188.34.164.0/openpdf/report?k=C0A80106:019091872B88:9952:0C3C8060&c=etimad, date=1720429083554
+Row: 2628 address=AL-Eatimad, body=╪º╪╡╪»╪º╪▒ ╪╖┘ä╪¿┘è┘ç ╪╣┘ä┘ë ╪¡╪│╪º╪¿┘â┘à ╪¿┘à╪¿┘ä╪║ 950.0╪┤ ┘ê╪º╪╡╪¿╪¡ ╪▒╪╡┘è╪»┘â┘à  98471.0 ╪┤ ┘ä┘ä╪¬┘ü╪º╪╡┘è┘ä, date=1720429082944
+Row: 2639 address=AL-Eatimad, body=http://188.34.164.0/openpdf/report?k=C0A80107:01908C208C9F:DB58:225810A2&c=etimad, date=1720338386300
+Row: 2640 address=AL-Eatimad, body=http://188.34.164.0/openpdf/report?k=C0A80107:01908C1FB20D:8EA2:4FF5955D&c=etimad, date=1720338385814
+Row: 2641 address=AL-Eatimad, body=╪º╪╡╪»╪º╪▒ ╪╖┘ä╪¿┘è┘ç ╪╣┘ä┘ë ╪¡╪│╪º╪¿┘â┘à ╪¿┘à╪¿┘ä╪║ 6130.0╪┤ ┘ê╪º╪╡╪¿╪¡ ╪▒╪╡┘è╪»┘â┘à  97521.0 ╪┤ ┘ä┘ä╪¬┘ü╪º╪╡┘è┘ä, date=1720338385392
+Row: 2642 address=AL-Eatimad, body=╪º╪╡╪»╪º╪▒ ╪╖┘ä╪¿┘è┘ç ╪╣┘ä┘ë ╪¡╪│╪º╪¿┘â┘à ╪¿┘à╪¿┘ä╪║ 274.0╪┤ ┘ê╪º╪╡╪¿╪¡ ╪▒╪╡┘è╪»┘â┘à  97521.0 ╪┤ ┘ä┘ä╪¬┘ü╪º╪╡┘è┘ä, date=1720338383623
+Row: 2648 address=AL-Eatimad, body=┘à╪▒╪¬╪¼╪╣ ╪¿╪╢╪º╪╣╪⌐ ╪╣┘ä┘ë ╪¡╪│╪º╪¿ ╪¼┘à╪º┘ä ╪º┘ä╪¿╪º╪¿╪º ╪¿┘é┘è┘à╪⌐ 1420.0 ╪┤┘ê╪º╪╡╪¿╪¡ ╪▒╪╡┘è╪»┘â┘à  91117.0 ╪┤, date=1720251262698
+Row: 2649 address=AL-Eatimad, body=http://188.34.164.0/openpdf/report?k=C0A80106:019086F356A0:61B0:090B6D40&c=etimad, date=1720251262120
+Row: 2650 address=AL-Eatimad, body=╪º╪╡╪»╪º╪▒ ╪╖┘ä╪¿┘è┘ç ╪╣┘ä┘ë ╪¡╪│╪º╪¿┘â┘à ╪¿┘à╪¿┘ä╪║ 1240.0╪┤ ┘ê╪º╪╡╪¿╪¡ ╪▒╪╡┘è╪»┘â┘à  91117.0 ╪┤ ┘ä┘ä╪¬┘ü╪º╪╡┘è┘ä, date=1720251261641
+Row: 2652 address=AL-Eatimad, body=http://188.34.164.0/openpdf/report?k=C0A80106:019086D09CBD:639D:7BA1BC58&c=etimad, date=1720249064818
+Row: 2653 address=AL-Eatimad, body=╪º╪╡╪»╪º╪▒ ╪╖┘ä╪¿┘è┘ç ╪╣┘ä┘ë ╪¡╪│╪º╪¿┘â┘à ╪¿┘à╪¿┘ä╪║ 4565.0╪┤ ┘ê╪º╪╡╪¿╪¡ ╪▒╪╡┘è╪»┘â┘à  91297.0 ╪┤ ┘ä┘ä╪¬┘ü╪º╪╡┘è┘ä, date=1720249063863
+Row: 2656 address=AL-Eatimad, body=http://188.34.164.0/openpdf/report?k=C0A80107:01907C2AB177:FB71:02B01475&c=etimad, date=1720070604170
+Row: 2657 address=AL-Eatimad, body=╪º╪╡╪»╪º╪▒ ╪╖┘ä╪¿┘è┘ç ╪╣┘ä┘ë ╪¡╪│╪º╪¿┘â┘à ╪¿┘à╪¿┘ä╪║ 2526.0╪┤ ┘ê╪º╪╡╪¿╪¡ ╪▒╪╡┘è╪»┘â┘à  86732.0 ╪┤ ┘ä┘ä╪¬┘ü╪º╪╡┘è┘ä, date=1720070603612
+Row: 2660 address=AL-Eatimad, body=http://188.34.164.0/openpdf/report?k=C0A80165:019077F6D264:4AD3:57AEBE9D&c=etimad, date=1720000006769
+Row: 2661 address=AL-Eatimad, body=╪º╪╡╪»╪º╪▒ ╪╖┘ä╪¿┘è┘ç ╪╣┘ä┘ë ╪¡╪│╪º╪¿┘â┘à ╪¿┘à╪¿┘ä╪║ 20.0╪┤ ┘ê╪º╪╡╪¿╪¡ ╪▒╪╡┘è╪»┘â┘à  84206.0 ╪┤ ┘ä┘ä╪¬┘ü╪º╪╡┘è┘ä, date=1720000006100
+Row: 2662 address=AL-Eatimad, body=http://188.34.164.0/openpdf/report?k=C0A80106:01907766C8FD:38E7:5DBC7B4B&c=etimad, date=1719990744440
+Row: 2663 address=AL-Eatimad, body=╪º╪╡╪»╪º╪▒ ╪╖┘ä╪¿┘è┘ç ╪╣┘ä┘ë ╪¡╪│╪º╪¿┘â┘à ╪¿┘à╪¿┘ä╪║ 1180.0╪┤ ┘ê╪º╪╡╪¿╪¡ ╪▒╪╡┘è╪»┘â┘à  84186.0 ╪┤ ┘ä┘ä╪¬┘ü╪º╪╡┘è┘ä, date=1719990742556
+Row: 2664 address=AL-Eatimad, body=http://188.34.164.0/openpdf/report?k=C0A80165:01907739DF94:F5A9:6B621E38&c=etimad, date=1719987870199
+Row: 2665 address=AL-Eatimad, body=╪º╪╡╪»╪º╪▒ ╪╖┘ä╪¿┘è┘ç ╪╣┘ä┘ë ╪¡╪│╪º╪¿┘â┘à ╪¿┘à╪¿┘ä╪║ 110.0╪┤ ┘ê╪º╪╡╪¿╪¡ ╪▒╪╡┘è╪»┘â┘à  83006.0 ╪┤ ┘ä┘ä╪¬┘ü╪º╪╡┘è┘ä, date=1719987862913
+Row: 2678 address=AL-Eatimad, body=http://188.34.164.0/openpdf/report?k=C0A80107:0190723F170D:387B:468F1C75&c=etimad, date=1719903870568
+Row: 2679 address=AL-Eatimad, body=╪º╪╡╪»╪º╪▒ ╪╖┘ä╪¿┘è┘ç ╪╣┘ä┘ë ╪¡╪│╪º╪¿┘â┘à ╪¿┘à╪¿┘ä╪║ 1230.0╪┤ ┘ê╪º╪╡╪¿╪¡ ╪▒╪╡┘è╪»┘â┘à  82896.0 ╪┤ ┘ä┘ä╪¬┘ü╪º╪╡┘è┘ä, date=1719903863403
+Row: 2680 address=AL-Eatimad, body=http://188.34.164.0/openpdf/report?k=C0A80106:01906EFAF41A:5375:70201AEE&c=etimad, date=1719849574380
+Row: 2681 address=AL-Eatimad, body=╪º╪╡╪»╪º╪▒ ╪╖┘ä╪¿┘è┘ç ╪╣┘ä┘ë ╪¡╪│╪º╪¿┘â┘à ╪¿┘à╪¿┘ä╪║ 291.0╪┤ ┘ê╪º╪╡╪¿╪¡ ╪▒╪╡┘è╪»┘â┘à  81666.0 ╪┤ ┘ä┘ä╪¬┘ü╪º╪╡┘è┘ä, date=1719849566767
+Row: 2694 address=AL-Eatimad, body=╪▒╪╡┘è╪»┘â┘à ┘ä╪║╪º┘è╪⌐  30/6/2024┘ç┘ê 81375.0 ╪┤  ┘ä┘ä┘à╪▒╪º╪¼╪╣┘ç022409006.┘å╪╣╪¬╪▓ ╪¿╪½┘é╪¬┘â┘à ., date=1719767228131
+Row: 2703 address=AL-Eatimad, body=http://188.34.164.0/openpdf/report?k=C0A80107:019068D7987C:EE4F:5481C520&c=etimad, date=1719746661802
+Row: 2704 address=AL-Eatimad, body=╪º╪╡╪»╪º╪▒ ╪╖┘ä╪¿┘è┘ç ╪╣┘ä┘ë ╪¡╪│╪º╪¿┘â┘à ╪¿┘à╪¿┘ä╪║ 1390.0╪┤ ┘ê╪º╪╡╪¿╪¡ ╪▒╪╡┘è╪»┘â┘à  81375.0 ╪┤ ┘ä┘ä╪¬┘ü╪º╪╡┘è┘ä, date=1719746661144
+Row: 2712 address=AL-Eatimad, body=http://188.34.164.0/openpdf/report?k=C0A80107:01906793CF07:8E74:6C053312&c=etimad, date=1719724983903
+Row: 2713 address=AL-Eatimad, body=╪º╪╡╪»╪º╪▒ ╪╖┘ä╪¿┘è┘ç ╪╣┘ä┘ë ╪¡╪│╪º╪¿┘â┘à ╪¿┘à╪¿┘ä╪║ 525.0╪┤ ┘ê╪º╪╡╪¿╪¡ ╪▒╪╡┘è╪»┘â┘à  79985.0 ╪┤ ┘ä┘ä╪¬┘ü╪º╪╡┘è┘ä, date=1719724983252
+Row: 2716 address=AL-Eatimad, body=http://188.34.164.0/openpdf/report?k=C0A80165:0190647F65B0:3FA7:1EDE27F1&c=etimad, date=1719673657355
+Row: 2717 address=AL-Eatimad, body=╪º╪╡╪»╪º╪▒ ╪╖┘ä╪¿┘è┘ç ╪╣┘ä┘ë ╪¡╪│╪º╪¿┘â┘à ╪¿┘à╪¿┘ä╪║ 91.0╪┤ ┘ê╪º╪╡╪¿╪¡ ╪▒╪╡┘è╪»┘â┘à  79460.0 ╪┤ ┘ä┘ä╪¬┘ü╪º╪╡┘è┘ä, date=1719673646547
+Row: 2733 address=AL-Eatimad, body=http://188.34.164.0/openpdf/report?k=C0A80107:019058CB3D56:0BCA:16497C97&c=etimad, date=1719477217912
+Row: 2734 address=AL-Eatimad, body=╪º╪╡╪»╪º╪▒ ╪╖┘ä╪¿┘è┘ç ╪╣┘ä┘ë ╪¡╪│╪º╪¿┘â┘à ╪¿┘à╪¿┘ä╪║ 2124.0╪┤ ┘ê╪º╪╡╪¿╪¡ ╪▒╪╡┘è╪»┘â┘à  79369.0 ╪┤ ┘ä┘ä╪¬┘ü╪º╪╡┘è┘ä, date=1719477217284
+Row: 2737 address=AL-Eatimad, body=http://188.34.164.0/openpdf/report?k=C0A80107:0190586E1DC0:A3AB:58AF851F&c=etimad, date=1719470875543
+Row: 2738 address=AL-Eatimad, body=╪º╪╡╪»╪º╪▒ ╪╖┘ä╪¿┘è┘ç ╪╣┘ä┘ë ╪¡╪│╪º╪¿┘â┘à ╪¿┘à╪¿┘ä╪║ 470.0╪┤ ┘ê╪º╪╡╪¿╪¡ ╪▒╪╡┘è╪»┘â┘à  77245.0 ╪┤ ┘ä┘ä╪¬┘ü╪º╪╡┘è┘ä, date=1719470874706
+Row: 2751 address=AL-Eatimad, body=http://188.34.164.0/openpdf/report?k=C0A80107:0190531C7875:BF1E:6A98669D&c=etimad, date=1719382001001
+Row: 2752 address=AL-Eatimad, body=╪º╪╡╪»╪º╪▒ ╪╖┘ä╪¿┘è┘ç ╪╣┘ä┘ë ╪¡╪│╪º╪¿┘â┘à ╪¿┘à╪¿┘ä╪║ 60.0╪┤ ┘ê╪º╪╡╪¿╪¡ ╪▒╪╡┘è╪»┘â┘à  76775.0 ╪┤ ┘ä┘ä╪¬┘ü╪º╪╡┘è┘ä, date=1719381994322
+Row: 2762 address=AL-Eatimad, body=http://188.34.164.0/openpdf/report?k=C0A80106:01904E6DDF3F:FBAD:0AF18275&c=etimad, date=1719303192894
+Row: 2763 address=AL-Eatimad, body=╪º╪╡╪»╪º╪▒ ╪╖┘ä╪¿┘è┘ç ╪╣┘ä┘ë ╪¡╪│╪º╪¿┘â┘à ╪¿┘à╪¿┘ä╪║ 200.0╪┤ ┘ê╪º╪╡╪¿╪¡ ╪▒╪╡┘è╪»┘â┘à  76715.0 ╪┤ ┘ä┘ä╪¬┘ü╪º╪╡┘è┘ä, date=1719303192433
+Row: 2768 address=AL-Eatimad, body=http://188.34.164.0/openpdf/report?k=C0A80106:01904E230244:0057:0F951593&c=etimad, date=1719298624679
+Row: 2769 address=AL-Eatimad, body=╪º╪╡╪»╪º╪▒ ╪╖┘ä╪¿┘è┘ç ╪╣┘ä┘ë ╪¡╪│╪º╪¿┘â┘à ╪¿┘à╪¿┘ä╪║ 610.0╪┤ ┘ê╪º╪╡╪¿╪¡ ╪▒╪╡┘è╪»┘â┘à  76515.0 ╪┤ ┘ä┘ä╪¬┘ü╪º╪╡┘è┘ä, date=1719298624166
+Row: 2789 address=AL-Eatimad, body=http://188.34.164.0/openpdf/report?k=C0A80106:01904395747D:774C:60A4C2F5&c=etimad, date=1719121668702
+Row: 2790 address=AL-Eatimad, body=╪º╪╡╪»╪º╪▒ ╪╖┘ä╪¿┘è┘ç ╪╣┘ä┘ë ╪¡╪│╪º╪¿┘â┘à ╪¿┘à╪¿┘ä╪║ 795.0╪┤ ┘ê╪º╪╡╪¿╪¡ ╪▒╪╡┘è╪»┘â┘à  75905.0 ╪┤ ┘ä┘ä╪¬┘ü╪º╪╡┘è┘ä, date=1719121667813
+Row: 2793 address=AL-Eatimad, body=http://188.34.164.0/openpdf/report?k=C0A80107:01903EA3AE6B:889B:71154130&c=etimad, date=1719038062796
+Row: 2794 address=AL-Eatimad, body=╪º╪╡╪»╪º╪▒ ╪╖┘ä╪¿┘è┘ç ╪╣┘ä┘ë ╪¡╪│╪º╪¿┘â┘à ╪¿┘à╪¿┘ä╪║ 53.0╪┤ ┘ê╪º╪╡╪¿╪¡ ╪▒╪╡┘è╪»┘â┘à  75110.0 ╪┤ ┘ä┘ä╪¬┘ü╪º╪╡┘è┘ä, date=1719038062070
+Row: 2795 address=AL-Eatimad, body=http://188.34.164.0/openpdf/report?k=C0A80106:01903E814FA9:A7B0:3ECA0C02&c=etimad, date=1719035819822
+Row: 2796 address=AL-Eatimad, body=╪º╪╡╪»╪º╪▒ ╪╖┘ä╪¿┘è┘ç ╪╣┘ä┘ë ╪¡╪│╪º╪¿┘â┘à ╪¿┘à╪¿┘ä╪║ 1855.0╪┤ ┘ê╪º╪╡╪¿╪¡ ╪▒╪╡┘è╪»┘â┘à  75057.0 ╪┤ ┘ä┘ä╪¬┘ü╪º╪╡┘è┘ä, date=1719035811559
+Row: 2808 address=AL-Eatimad, body=http://188.34.164.0/openpdf/report?k=C0A80107:0190355B15ED:61BE:4FAC992A&c=etimad, date=1718882665008
+Row: 2809 address=AL-Eatimad, body=╪º╪╡╪»╪º╪▒ ╪╖┘ä╪¿┘è┘ç ╪╣┘ä┘ë ╪¡╪│╪º╪¿┘â┘à ╪¿┘à╪¿┘ä╪║ 280.0╪┤ ┘ê╪º╪╡╪¿╪¡ ╪▒╪╡┘è╪»┘â┘à  73202.0 ╪┤ ┘ä┘ä╪¬┘ü╪º╪╡┘è┘ä, date=1718882663997
+Row: 2810 address=AL-Eatimad, body=http://188.34.164.0/openpdf/report?k=C0A80107:01903557B0D1:676C:33F2F7B1&c=etimad, date=1718882662913
+Row: 2811 address=AL-Eatimad, body=╪º╪╡╪»╪º╪▒ ╪╖┘ä╪¿┘è┘ç ╪╣┘ä┘ë ╪¡╪│╪º╪¿┘â┘à ╪¿┘à╪¿┘ä╪║ 658.0╪┤ ┘ê╪º╪╡╪¿╪¡ ╪▒╪╡┘è╪»┘â┘à  73202.0 ╪┤ ┘ä┘ä╪¬┘ü╪º╪╡┘è┘ä, date=1718882661870
+Row: 2820 address=AL-Eatimad, body=http://188.34.164.0/openpdf/report?k=C0A80106:01902AA2A480:43AD:061B549C&c=etimad, date=1718702570537
+Row: 2821 address=AL-Eatimad, body=╪º╪╡╪»╪º╪▒ ╪╖┘ä╪¿┘è┘ç ╪╣┘ä┘ë ╪¡╪│╪º╪¿┘â┘à ╪¿┘à╪¿┘ä╪║ 220.0╪┤ ┘ê╪º╪╡╪¿╪¡ ╪▒╪╡┘è╪»┘â┘à  72264.0 ╪┤ ┘ä┘ä╪¬┘ü╪º╪╡┘è┘ä, date=1718702563689
+Row: 2834 address=AL-Eatimad, body=╪▒╪╡┘è╪»┘â┘à ┘ä╪║╪º┘è╪⌐  15/6/2024┘ç┘ê 72044.0 ╪┤  ┘ä┘ä┘à╪▒╪º╪¼╪╣┘ç022409006.┘å╪╣╪¬╪▓ ╪¿╪½┘é╪¬┘â┘à ., date=1718471263235
+Row: 2844 address=AL-Eatimad, body=╪┤┘â╪▒╪º ┘ä╪│╪»╪º╪» ┘à╪¿┘ä╪║411085.0 ╪┤┘ê╪º╪╡╪¿╪¡ ╪▒╪╡┘è╪»┘â┘à  72044.0 ╪┤, date=1718298269511
+Row: 2845 address=AL-Eatimad, body=http://188.34.164.0/openpdf/report?k=C0A80107:01901282E5CF:8E7F:2CF1A245&c=etimad, date=1718297891380
+Row: 2846 address=AL-Eatimad, body=╪º╪╡╪»╪º╪▒ ╪╖┘ä╪¿┘è┘ç ╪╣┘ä┘ë ╪¡╪│╪º╪¿┘â┘à ╪¿┘à╪¿┘ä╪║ 30.0╪┤ ┘ê╪º╪╡╪¿╪¡ ╪▒╪╡┘è╪»┘â┘à  72044.0 ╪┤ ┘ä┘ä╪¬┘ü╪º╪╡┘è┘ä, date=1718297890706
+Row: 2849 address=AL-Eatimad, body=http://188.34.164.0/openpdf/report?k=C0A80107:0190117EDF74:0318:2A3C048E&c=etimad, date=1718280781839
+Row: 2850 address=AL-Eatimad, body=╪º╪╡╪»╪º╪▒ ╪╖┘ä╪¿┘è┘ç ╪╣┘ä┘ë ╪¡╪│╪º╪¿┘â┘à ╪¿┘à╪¿┘ä╪║ 55.0╪┤ ┘ê╪º╪╡╪¿╪¡ ╪▒╪╡┘è╪»┘â┘à  483099.0 ╪┤ ┘ä┘ä╪¬┘ü╪º╪╡┘è┘ä, date=1718280774457
+Row: 2861 address=AL-Eatimad, body=http://188.34.164.0/openpdf/report?k=C0A80106:01900B4CD10D:C8CE:10B5C5D1&c=etimad, date=1718177064743
+Row: 2862 address=AL-Eatimad, body=╪º╪╡╪»╪º╪▒ ╪╖┘ä╪¿┘è┘ç ╪╣┘ä┘ë ╪¡╪│╪º╪¿┘â┘à ╪¿┘à╪¿┘ä╪║ 40.0╪┤ ┘ê╪º╪╡╪¿╪¡ ╪▒╪╡┘è╪»┘â┘à  483044.0 ╪┤ ┘ä┘ä╪¬┘ü╪º╪╡┘è┘ä, date=1718177063192
+Row: 2863 address=AL-Eatimad, body=http://188.34.164.0/openpdf/report?k=C0A80107:01900B31170C:8ADB:1EDD2CA2&c=etimad, date=1718175477632
+Row: 2864 address=AL-Eatimad, body=╪º╪╡╪»╪º╪▒ ╪╖┘ä╪¿┘è┘ç ╪╣┘ä┘ë ╪¡╪│╪º╪¿┘â┘à ╪¿┘à╪¿┘ä╪║ 301.0╪┤ ┘ê╪º╪╡╪¿╪¡ ╪▒╪╡┘è╪»┘â┘à  483004.0 ╪┤ ┘ä┘ä╪¬┘ü╪º╪╡┘è┘ä, date=1718175468603
+Row: 2892 address=AL-Eatimad, body=http://188.34.164.0/openpdf/report?k=C0A80106:018FFD438695:6713:07BAC35B&c=etimad, date=1717945944078
+Row: 2893 address=AL-Eatimad, body=╪º╪╡╪»╪º╪▒ ╪╖┘ä╪¿┘è┘ç ╪╣┘ä┘ë ╪¡╪│╪º╪¿┘â┘à ╪¿┘à╪¿┘ä╪║ 505.0╪┤ ┘ê╪º╪╡╪¿╪¡ ╪▒╪╡┘è╪»┘â┘à  482703.0 ╪┤ ┘ä┘ä╪¬┘ü╪º╪╡┘è┘ä, date=1717945941617
+Row: 2898 address=AL-Eatimad, body=http://188.34.164.0/openpdf/report?k=C0A80107:018FFB99E7D7:6546:6961FA08&c=etimad, date=1717913605282
+Row: 2899 address=AL-Eatimad, body=╪º╪╡╪»╪º╪▒ ╪╖┘ä╪¿┘è┘ç ╪╣┘ä┘ë ╪¡╪│╪º╪¿┘â┘à ╪¿┘à╪¿┘ä╪║ 110.0╪┤ ┘ê╪º╪╡╪¿╪¡ ╪▒╪╡┘è╪»┘â┘à  482198.0 ╪┤ ┘ä┘ä╪¬┘ü╪º╪╡┘è┘ä, date=1717913603266
+Row: 2903 address=AL-Eatimad, body=http://188.34.164.0/openpdf/report?k=C0A80106:018FF7650DA2:F9CE:1B3EE068&c=etimad, date=1717842862286
+Row: 2904 address=AL-Eatimad, body=╪º╪╡╪»╪º╪▒ ╪╖┘ä╪¿┘è┘ç ╪╣┘ä┘ë ╪¡╪│╪º╪¿┘â┘à ╪¿┘à╪¿┘ä╪║ 670.0╪┤ ┘ê╪º╪╡╪¿╪¡ ╪▒╪╡┘è╪»┘â┘à  482088.0 ╪┤ ┘ä┘ä╪¬┘ü╪º╪╡┘è┘ä, date=1717842861787
+Row: 2907 address=AL-Eatimad, body=http://188.34.164.0/openpdf/report?k=C0A80107:018FF6E8EB64:E514:0B5D8194&c=etimad, date=1717835073211
+Row: 2908 address=AL-Eatimad, body=╪º╪╡╪»╪º╪▒ ╪╖┘ä╪¿┘è┘ç ╪╣┘ä┘ë ╪¡╪│╪º╪¿┘â┘à ╪¿┘à╪¿┘ä╪║ 1310.0╪┤ ┘ê╪º╪╡╪¿╪¡ ╪▒╪╡┘è╪»┘â┘à  481418.0 ╪┤ ┘ä┘ä╪¬┘ü╪º╪╡┘è┘ä, date=1717835063532
+Row: 2910 address=AL-Eatimad, body=http://188.34.164.0/openpdf/report?k=C0A80107:018FF68C6682:5D34:439A9E1E&c=etimad, date=1717829194545
+Row: 2911 address=AL-Eatimad, body=╪º╪╡╪»╪º╪▒ ╪╖┘ä╪¿┘è┘ç ╪╣┘ä┘ë ╪¡╪│╪º╪¿┘â┘à ╪¿┘à╪¿┘ä╪║ 4960.0╪┤ ┘ê╪º╪╡╪¿╪¡ ╪▒╪╡┘è╪»┘â┘à  480108.0 ╪┤ ┘ä┘ä╪¬┘ü╪º╪╡┘è┘ä, date=1717829193951
+Row: 2927 address=AL-Eatimad, body=http://188.34.164.0/openpdf/report?k=C0A80106:018FECD49AE3:B85E:7834F4C4&c=etimad, date=1717665790453
+Row: 2928 address=AL-Eatimad, body=╪º╪╡╪»╪º╪▒ ╪╖┘ä╪¿┘è┘ç ╪╣┘ä┘ë ╪¡╪│╪º╪¿┘â┘à ╪¿┘à╪¿┘ä╪║ 36.0╪┤ ┘ê╪º╪╡╪¿╪¡ ╪▒╪╡┘è╪»┘â┘à  475148.0 ╪┤ ┘ä┘ä╪¬┘ü╪º╪╡┘è┘ä, date=1717665782469
+Row: 2929 address=AL-Eatimad, body=http://188.34.164.0/openpdf/report?k=C0A80107:018FEC9289F8:FA7F:70820700&c=etimad, date=1717661248743
+Row: 2930 address=AL-Eatimad, body=╪º╪╡╪»╪º╪▒ ╪╖┘ä╪¿┘è┘ç ╪╣┘ä┘ë ╪¡╪│╪º╪¿┘â┘à ╪¿┘à╪¿┘ä╪║ 111.0╪┤ ┘ê╪º╪╡╪¿╪¡ ╪▒╪╡┘è╪»┘â┘à  475112.0 ╪┤ ┘ä┘ä╪¬┘ü╪º╪╡┘è┘ä, date=1717661248124
+Row: 2931 address=AL-Eatimad, body=╪º╪╡╪»╪º╪▒ ╪╖┘ä╪¿┘è┘ç ╪╣┘ä┘ë ╪¡╪│╪º╪¿┘â┘à ╪¿┘à╪¿┘ä╪║ 4860.0╪┤ ┘ê╪º╪╡╪¿╪¡ ╪▒╪╡┘è╪»┘â┘à  475001.0 ╪┤ ┘ä┘ä╪¬┘ü╪º╪╡┘è┘ä, date=1717652071955
+Row: 2932 address=AL-Eatimad, body=http://188.34.164.0/openpdf/report?k=C0A80106:018FEC00CB23:FD04:2D41BCAD&c=etimad, date=1717652064747
+Row: 2936 address=AL-Eatimad, body=http://188.34.164.0/openpdf/report?k=C0A80106:018FE7F5DF05:3F68:5B6E8DDB&c=etimad, date=1717584455949
+Row: 2937 address=AL-Eatimad, body=╪º╪╡╪»╪º╪▒ ╪╖┘ä╪¿┘è┘ç ╪╣┘ä┘ë ╪¡╪│╪º╪¿┘â┘à ╪¿┘à╪¿┘ä╪║ 420.0╪┤ ┘ê╪º╪╡╪¿╪¡ ╪▒╪╡┘è╪»┘â┘à  470141.0 ╪┤ ┘ä┘ä╪¬┘ü╪º╪╡┘è┘ä, date=1717584455411
+Row: 2938 address=AL-Eatimad, body=┘à╪▒╪¬╪¼╪╣ ╪¿╪╢╪º╪╣╪⌐ ╪╣┘ä┘ë ╪¡╪│╪º╪¿ ╪¼┘à╪º┘ä ╪º┘ä╪¿╪º╪¿╪º ╪¿┘é┘è┘à╪⌐ 360.0 ╪┤┘ê╪º╪╡╪¿╪¡ ╪▒╪╡┘è╪»┘â┘à  469721.0 ╪┤, date=1717583665062
+Row: 2939 address=AL-Eatimad, body=http://188.34.164.0/openpdf/report?k=C0A80106:018FE7F08E46:3E60:35842086&c=etimad, date=1717583663857
+Row: 2940 address=AL-Eatimad, body=╪º╪╡╪»╪º╪▒ ╪╖┘ä╪¿┘è┘ç ╪╣┘ä┘ë ╪¡╪│╪º╪¿┘â┘à ╪¿┘à╪¿┘ä╪║ 360.0╪┤ ┘ê╪º╪╡╪¿╪¡ ╪▒╪╡┘è╪»┘â┘à  469721.0 ╪┤ ┘ä┘ä╪¬┘ü╪º╪╡┘è┘ä, date=1717583662875
+Row: 2941 address=AL-Eatimad, body=http://188.34.164.0/openpdf/report?k=C0A80106:018FE7B91DFD:EE0E:36ED8776&c=etimad, date=1717580075309
+Row: 2942 address=AL-Eatimad, body=╪º╪╡╪»╪º╪▒ ╪╖┘ä╪¿┘è┘ç ╪╣┘ä┘ë ╪¡╪│╪º╪¿┘â┘à ╪¿┘à╪¿┘ä╪║ 2685.0╪┤ ┘ê╪º╪╡╪¿╪¡ ╪▒╪╡┘è╪»┘â┘à  469721.0 ╪┤ ┘ä┘ä╪¬┘ü╪º╪╡┘è┘ä, date=1717580064898
+Row: 2945 address=AL-Eatimad, body=http://188.34.164.0/openpdf/report?k=C0A80107:018FE7282215:3E94:22B13DB5&c=etimad, date=1717570608822
+Row: 2946 address=AL-Eatimad, body=╪º╪╡╪»╪º╪▒ ╪╖┘ä╪¿┘è┘ç ╪╣┘ä┘ë ╪¡╪│╪º╪¿┘â┘à ╪¿┘à╪¿┘ä╪║ 15190.0╪┤ ┘ê╪º╪╡╪¿╪¡ ╪▒╪╡┘è╪»┘â┘à  467036.0 ╪┤ ┘ä┘ä╪¬┘ü╪º╪╡┘è┘ä, date=1717570608300
+Row: 2947 address=AL-Eatimad, body=http://188.34.164.0/openpdf/report?k=C0A80107:018FE723D361:EC75:552FCBD6&c=etimad, date=1717570606896
+Row: 2948 address=AL-Eatimad, body=╪º╪╡╪»╪º╪▒ ╪╖┘ä╪¿┘è┘ç ╪╣┘ä┘ë ╪¡╪│╪º╪¿┘â┘à ╪¿┘à╪¿┘ä╪║ 1445.0╪┤ ┘ê╪º╪╡╪¿╪¡ ╪▒╪╡┘è╪»┘â┘à  467036.0 ╪┤ ┘ä┘ä╪¬┘ü╪º╪╡┘è┘ä, date=1717570596822
+Row: 2949 address=AL-Eatimad, body=http://188.34.164.0/openpdf/report?k=C0A80106:018FE6DDA270:43A2:7CFE0A15&c=etimad, date=1717565663216
+Row: 2950 address=AL-Eatimad, body=╪º╪╡╪»╪º╪▒ ╪╖┘ä╪¿┘è┘ç ╪╣┘ä┘ë ╪¡╪│╪º╪¿┘â┘à ╪¿┘à╪¿┘ä╪║ 890.0╪┤ ┘ê╪º╪╡╪¿╪¡ ╪▒╪╡┘è╪»┘â┘à  450401.0 ╪┤ ┘ä┘ä╪¬┘ü╪º╪╡┘è┘ä, date=1717565662297
+Row: 2989 address=AL-Eatimad, body=http://188.34.164.0/openpdf/report?k=C0A80107:018FD327ED0C:4D88:2A91F3C6&c=etimad, date=1717235565920
+Row: 2990 address=AL-Eatimad, body=╪º╪╡╪»╪º╪▒ ╪╖┘ä╪¿┘è┘ç ╪╣┘ä┘ë ╪¡╪│╪º╪¿┘â┘à ╪¿┘à╪¿┘ä╪║ 70.0╪┤ ┘ê╪º╪╡╪¿╪¡ ╪▒╪╡┘è╪»┘â┘à  449511.0 ╪┤ ┘ä┘ä╪¬┘ü╪º╪╡┘è┘ä, date=1717235555537
+Row: 2991 address=AL-Eatimad, body=http://188.34.164.0/openpdf/report?k=C0A80106:018FD2F056DF:2987:34598A67&c=etimad, date=1717231951019
+Row: 2992 address=AL-Eatimad, body=╪º╪╡╪»╪º╪▒ ╪╖┘ä╪¿┘è┘ç ╪╣┘ä┘ë ╪¡╪│╪º╪¿┘â┘à ╪¿┘à╪¿┘ä╪║ 50.0╪┤ ┘ê╪º╪╡╪¿╪¡ ╪▒╪╡┘è╪»┘â┘à  449441.0 ╪┤ ┘ä┘ä╪¬┘ü╪º╪╡┘è┘ä, date=1717231943758
+Row: 2993 address=AL-Eatimad, body=http://188.34.164.0/openpdf/report?k=C0A80107:018FD2D6E721:DE7D:5FBAF2CD&c=etimad, date=1717229661802
+Row: 2994 address=AL-Eatimad, body=╪º╪╡╪»╪º╪▒ ╪╖┘ä╪¿┘è┘ç ╪╣┘ä┘ë ╪¡╪│╪º╪¿┘â┘à ╪¿┘à╪¿┘ä╪║ 2440.0╪┤ ┘ê╪º╪╡╪¿╪¡ ╪▒╪╡┘è╪»┘â┘à  449391.0 ╪┤ ┘ä┘ä╪¬┘ü╪º╪╡┘è┘ä, date=1717229661255
+Row: 2995 address=AL-Eatimad, body=http://188.34.164.0/openpdf/report?k=C0A80107:018FD253689F:1CEC:6C29CB81&c=etimad, date=1717221648462
+Row: 2996 address=AL-Eatimad, body=╪º╪╡╪»╪º╪▒ ╪╖┘ä╪¿┘è┘ç ╪╣┘ä┘ë ╪¡╪│╪º╪¿┘â┘à ╪¿┘à╪¿┘ä╪║ 750.0╪┤ ┘ê╪º╪╡╪¿╪¡ ╪▒╪╡┘è╪»┘â┘à  446951.0 ╪┤ ┘ä┘ä╪¬┘ü╪º╪╡┘è┘ä, date=1717221641177

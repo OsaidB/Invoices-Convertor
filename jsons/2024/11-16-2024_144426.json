@@ -1,0 +1,15 @@
+{
+  "date": "16/11/2024  14:44:26",
+  "items": [
+    {
+      "description": "ﻡ4*6 ﺷﺎﺩﺭ ﺯﻳﺘﻮﻥ ﺍﻟﺘﺮﺍ",
+      "quantity": 10.0,
+      "unit_price": 50.0,
+      "total_price": 500.0
+    }
+  ],
+  "total": 500.0,
+  "net": 500.0,
+  "worksite": "other",
+  "total_match": true
+}

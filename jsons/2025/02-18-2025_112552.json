@@ -1,0 +1,21 @@
+{
+  "date": "18/2/2025  11:25:52",
+  "items": [
+    {
+      "description": "ﺭﻭﻝ ﺻﻮﻑ ﺻﺨﺮﻱ ﻡ24/ﻙ12",
+      "quantity": 2.0,
+      "unit_price": 250.0,
+      "total_price": 500.0
+    },
+    {
+      "description": "ﺧﻂ4D ﻟﻴﺰﺭ",
+      "quantity": 1.0,
+      "unit_price": 600.0,
+      "total_price": 600.0
+    }
+  ],
+  "total": 1100.0,
+  "net": 1100.0,
+  "worksite": "other",
+  "total_match": true
+}

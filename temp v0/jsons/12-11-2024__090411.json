@@ -1,0 +1,15 @@
+{
+  "date": "12/11/2024  09:04:11",
+  "items": [
+    {
+      "description": "ﻋﺼﺎ-ﺣﻔﺎﻓﺔ ﻳﺪﻭﻳﺔ ﺍﺣﻤﺮ ﺭﻭﻝ",
+      "quantity": 1.0,
+      "unit_price": 20.0,
+      "total_price": 20.0
+    }
+  ],
+  "total": 20.0,
+  "net": 20.0,
+  "worksite": "other",
+  "total_match": true
+}

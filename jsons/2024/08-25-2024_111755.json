@@ -1,0 +1,15 @@
+{
+  "date": "25/8/2024  11:17:55",
+  "items": [
+    {
+      "description": "(0.45)  ﺳﻢ5 ﻋﻤﻮﺩ ﺍﻟﻌﺎﻣﻮﺭ",
+      "quantity": 30.0,
+      "unit_price": 9.0,
+      "total_price": 270.0
+    }
+  ],
+  "total": 270.0,
+  "net": 270.0,
+  "worksite": "معايعة",
+  "total_match": true
+}

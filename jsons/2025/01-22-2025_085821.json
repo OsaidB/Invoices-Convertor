@@ -1,0 +1,45 @@
+{
+  "date": "22/1/2025  08:58:21",
+  "items": [
+    {
+      "description": "ﺳﺒﺮﻯ ﻛﻠﻜﻞ ﻓﻮﻡ ﺍﻟﺮﺍﻡ",
+      "quantity": 3.0,
+      "unit_price": 15.0,
+      "total_price": 45.0
+    },
+    {
+      "description": "CAPO ﻣﺎﺳﺘﻚ4",
+      "quantity": 2.0,
+      "unit_price": 5.0,
+      "total_price": 20.0
+    },
+    {
+      "description": "ﻧﻴﻠﺔ ﻋﻼﻡ ﺍﺣﻤﺮ ﺗﻮﻟﺴﻦ",
+      "quantity": 1.0,
+      "unit_price": 10.0,
+      "total_price": 10.0
+    },
+    {
+      "description": "CAPO ﺳﻴﻠﻜﻮﻥ ﻫﺎﻳﺘﻚ4",
+      "quantity": 4.0,
+      "unit_price": 20.0,
+      "total_price": 80.0
+    },
+    {
+      "description": "ﻣﻌﺠﻮﻧﺔ ﻣﺠﻚ ﺑﻮﻧﺪ ﻃﻤﺒﻮﺭ ﻛﻴﻠﻮ25",
+      "quantity": 5.0,
+      "unit_price": 55.0,
+      "total_price": 275.0
+    },
+    {
+      "description": "ﻣﺘﺮ3 ﺯﻭﺍﻳﺎ ﺻﻔﺮﻳﺔ",
+      "quantity": 10.0,
+      "unit_price": 10.0,
+      "total_price": 100.0
+    }
+  ],
+  "total": 530.0,
+  "net": 530.0,
+  "worksite": "خالد فارس+  التيتي+ العجولي",
+  "total_match": true
+}

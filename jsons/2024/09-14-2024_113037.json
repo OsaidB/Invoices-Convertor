@@ -1,0 +1,27 @@
+{
+  "date": "14/9/2024  11:30:37",
+  "items": [
+    {
+      "description": "ﻣﻠﻢ25  ﻣﺘﺮ ﺍﺳﺴﺖ5 ﻣﺘﺮ",
+      "quantity": 1.0,
+      "unit_price": 15.0,
+      "total_price": 15.0
+    },
+    {
+      "description": "ﻓﺎﺭﺓ ﺟﺒﺺ ﺻﻐﻴﺮ",
+      "quantity": 1.0,
+      "unit_price": 20.0,
+      "total_price": 20.0
+    },
+    {
+      "description": "ﻧﺴﻼﺕ ﺷﻔﺮﺓ ﺍﺳﻮﺩ ﻣﻤﺘﺎﺯ DL-DP187H",
+      "quantity": 1.0,
+      "unit_price": 12.0,
+      "total_price": 12.0
+    }
+  ],
+  "total": 47.0,
+  "net": 47.0,
+  "worksite": "other",
+  "total_match": true
+}

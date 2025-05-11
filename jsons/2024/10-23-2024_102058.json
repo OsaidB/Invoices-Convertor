@@ -1,0 +1,21 @@
+{
+  "date": "23/10/2024  10:20:58",
+  "items": [
+    {
+      "description": "ﻓﺮﺩ ﺳﻴﻠﻜﻮﻥ",
+      "quantity": 1.0,
+      "unit_price": 10.0,
+      "total_price": 10.0
+    },
+    {
+      "description": "ﻣﺎﺳﺘﻚ",
+      "quantity": 5.0,
+      "unit_price": 5.0,
+      "total_price": 25.0
+    }
+  ],
+  "total": 35.0,
+  "net": 35.0,
+  "worksite": "other",
+  "total_match": true
+}

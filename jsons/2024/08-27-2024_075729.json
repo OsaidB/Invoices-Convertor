@@ -1,0 +1,21 @@
+{
+  "date": "27/8/2024  07:57:29",
+  "items": [
+    {
+      "description": ".2*13ﺑﺮﺍﻏﻲ ﺑﺎﺡ ﻣﻘﺪﺡ ﺍﺳﻮﺩ",
+      "quantity": 500.0,
+      "unit_price": 0.05,
+      "total_price": 25.0
+    },
+    {
+      "description": "ﻟﺘﺮ ﻋﺮﺑﻴﺔ5 ﺍﺭﺍﺭﻭﻑ",
+      "quantity": 2.0,
+      "unit_price": 55.0,
+      "total_price": 110.0
+    }
+  ],
+  "total": 135.0,
+  "net": 135.0,
+  "worksite": "other",
+  "total_match": true
+}

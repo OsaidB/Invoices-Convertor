@@ -1,0 +1,27 @@
+{
+  "date": "22/9/2024  14:29:14",
+  "items": [
+    {
+      "description": "ﻟﺘﺮ ﺗﻨﺮ ﻧﺎﺷﻮﻧﺎﻝ",
+      "quantity": 1.0,
+      "unit_price": 15.0,
+      "total_price": 15.0
+    },
+    {
+      "description": "ﻟﺘﺮ ﻧﺎﺷﻮﻧﺎﻝ1 ﻫﻤﺮﺍﻳﺖ",
+      "quantity": 1.0,
+      "unit_price": 25.0,
+      "total_price": 25.0
+    },
+    {
+      "description": "\" ﺍﺯﺭﻕ ﺍﻳﻄﺎﻟﻲ2 ﻓﺮﺷﺎﺓ",
+      "quantity": 1.0,
+      "unit_price": 15.0,
+      "total_price": 15.0
+    }
+  ],
+  "total": 55.0,
+  "net": 55.0,
+  "worksite": "العجولي",
+  "total_match": true
+}

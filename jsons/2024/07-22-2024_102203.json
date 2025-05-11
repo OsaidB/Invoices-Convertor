@@ -1,0 +1,51 @@
+{
+  "date": "22/7/2024  10:22:03",
+  "items": [
+    {
+      "description": "\" ﺫﻫﺒﻲ2 ﻓﺮﺷﺎﺓ",
+      "quantity": 1.0,
+      "unit_price": 20.0,
+      "total_price": 20.0
+    },
+    {
+      "description": "\" ﺫﻫﺒﻲ1.5 ﻓﺮﺷﺎﺓ",
+      "quantity": 2.0,
+      "unit_price": 15.0,
+      "total_price": 30.0
+    },
+    {
+      "description": "\" ﺫﻫﺒﻲ2.5 ﻓﺮﺷﺎﺓ",
+      "quantity": 1.0,
+      "unit_price": 28.0,
+      "total_price": 28.0
+    },
+    {
+      "description": "ﻧﺴﻠﺔ ﺭﻭﻝ ﺑﻮﻳﺎ ﺩﻳﻜﻮﺭ",
+      "quantity": 4.0,
+      "unit_price": 5.0,
+      "total_price": 20.0
+    },
+    {
+      "description": "ﻟﺘﺮ ﻋﺮﺑﻴﺔ ﺍﺳﺎﺱ ﺍﺣﻤﺮ",
+      "quantity": 1.0,
+      "unit_price": 15.0,
+      "total_price": 15.0
+    },
+    {
+      "description": "ﻟﺘﺮ ﻃﻤﺒﻮﺭ5 ﺗﻨﺮ",
+      "quantity": 6.0,
+      "unit_price": 115.0,
+      "total_price": 115.0
+    },
+    {
+      "description": "ﻟﺘﺮ ﻃﻤﺒﻮﺭ5 ﻣﻴﻨﻴﻮﻡ ﺳﻨﺘﻴﺘﻚ",
+      "quantity": 1.0,
+      "unit_price": 275.0,
+      "total_price": 275.0
+    }
+  ],
+  "total": 503.0,
+  "net": 503.0,
+  "worksite": "other",
+  "total_match": true
+}

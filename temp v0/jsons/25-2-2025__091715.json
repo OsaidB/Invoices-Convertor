@@ -1,0 +1,63 @@
+{
+  "date": "25/2/2025  09:17:15",
+  "items": [
+    {
+      "description": "CAPO ﺳﻴﻠﻜﻮﻥ ﻫﺎﻳﺘﻚ",
+      "quantity": 1.0,
+      "unit_price": 20.0,
+      "total_price": 20.0
+    },
+    {
+      "description": "ﺯﻭﺍﻳﺎ ﺟﺒﺺ ﻋﺎﺩﻱ ﺍﻟﺘﺮﺍ",
+      "quantity": 1.0,
+      "unit_price": 30.0,
+      "total_price": 30.0
+    },
+    {
+      "description": "ﻣﺘﺮ50 ﻭﺭﻕ ﺟﺒﺺ",
+      "quantity": 1.0,
+      "unit_price": 25.0,
+      "total_price": 25.0
+    },
+    {
+      "description": "ﻛﻴﻠﻮ5 ﻛﻠﺴﻴﻤﻮ ﻃﻤﺒﻮﺭ",
+      "quantity": 1.0,
+      "unit_price": 20.0,
+      "total_price": 20.0
+    },
+    {
+      "description": "ﻣﻌﺠﻮﻧﺔ ﻣﺠﻚ ﺑﻮﻧﺪ ﻃﻤﺒﻮﺭ ﻛﻴﻠﻮ25",
+      "quantity": 2.0,
+      "unit_price": 55.0,
+      "total_price": 110.0
+    },
+    {
+      "description": "ﺳﻢ2.5 ﺑﺮﺍﻏﻲ ﺟﺒﺺ click",
+      "quantity": 1.0,
+      "unit_price": 350.0,
+      "total_price": 350.0
+    },
+    {
+      "description": "ﻏﻢ/ﺍﺑﻴﺾ200 ﺧﻴﻂ ﺑﻨﺎﺀ",
+      "quantity": 1.0,
+      "unit_price": 5.0,
+      "total_price": 5.0
+    },
+    {
+      "description": "ﺳﻢ ﺗﻴﻜﻦ5 ﺍﺭﺿﻲ",
+      "quantity": 20.0,
+      "unit_price": 11.0,
+      "total_price": 220.0
+    },
+    {
+      "description": "ﺳﻢ ﺗﻴﻜﻦ5 ﻋﻤﻮﺩ",
+      "quantity": 30.0,
+      "unit_price": 12.0,
+      "total_price": 360.0
+    }
+  ],
+  "total": 1140.0,
+  "net": 1140.0,
+  "worksite": "قرب الهباش",
+  "total_match": true
+}

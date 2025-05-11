@@ -1,0 +1,75 @@
+{
+  "date": "9/11/2024  11:18:32",
+  "items": [
+    {
+      "description": "ﻣﻌﺠﻮﻧﺔ ﻣﺠﻚ ﺑﻮﻧﺪ ﻃﻤﺒﻮﺭ ﻛﻴﻠﻮ25",
+      "quantity": 36.0,
+      "unit_price": 55.0,
+      "total_price": 1980.0
+    },
+    {
+      "description": "ﻛﻴﻠﻮ ﺍﻭﺭ25 ﺗﻴﺎﺡ ﺟﺒﺺ MP75 ﺑﻮﻧﺪ",
+      "quantity": 2.0,
+      "unit_price": 35.0,
+      "total_price": 70.0
+    },
+    {
+      "description": "*30 ﻓﺘﺤﺔ ﺻﻴﺎﻧﺔ2",
+      "quantity": 3.0,
+      "unit_price": 100.0,
+      "total_price": 200.0
+    },
+    {
+      "description": "*20 ﻓﺘﺤﺔ ﺻﻴﺎﻧﺔ5",
+      "quantity": 4.0,
+      "unit_price": 90.0,
+      "total_price": 450.0
+    },
+    {
+      "description": "ﺍﺟﺮﺓ ﻧﻘﻞ",
+      "quantity": 5.0,
+      "unit_price": 80.0,
+      "total_price": 80.0
+    },
+    {
+      "description": "#6*2/1 ﺑﺮﺍﻏﻲ ﻋﺪﺳﺔ ﻓﺴﻔﺲ",
+      "quantity": 50.0,
+      "unit_price": 0.08,
+      "total_price": 4.0
+    },
+    {
+      "description": "ﺯﻭﺍﻳﺎ ﻧﻴﻨﺠﺎ ﻟﻠﻔﻮﺭﺳﻴﻠﻨﻚ",
+      "quantity": 4.0,
+      "unit_price": 1.5,
+      "total_price": 6.0
+    },
+    {
+      "description": "T ﻡ3.66 ﻓﻮﺭﺳﻴﻠﻨﻚ FOX",
+      "quantity": 4.0,
+      "unit_price": 20.0,
+      "total_price": 80.0
+    },
+    {
+      "description": "T  ﻡ0.61 ﻓﻮﺭﺳﻴﻠﻨﻚ FOX",
+      "quantity": 25.0,
+      "unit_price": 3.5,
+      "total_price": 87.5
+    },
+    {
+      "description": "ﻡ5.85  ﻓﻮﺭﺳﻴﻠﻨﻚZ ﺯﻭﺍﻳﺎ",
+      "quantity": 2.0,
+      "unit_price": 50.0,
+      "total_price": 100.0
+    },
+    {
+      "description": "ﻟﺘﺮ ﻃﻤﺒﻮﺭ18 ﺑﻮﻟﺴﻴﺪ",
+      "quantity": 7.0,
+      "unit_price": 120.0,
+      "total_price": 840.0
+    }
+  ],
+  "total": 3897.5,
+  "net": 3897.5,
+  "worksite": "العجولي",
+  "total_match": true
+}

@@ -1,0 +1,45 @@
+{
+  "date": "8/6/2024  11:13:30",
+  "items": [
+    {
+      "description": "ﺍﺟﺮﺓ ﻧﻘﻞ",
+      "quantity": 1.0,
+      "unit_price": 70.0,
+      "total_price": 70.0
+    },
+    {
+      "description": "ﺳﻢ ﺟﺒﺺ2.5 ﺑﺮﺍﻏﻲ",
+      "quantity": 3.0,
+      "unit_price": 35.0,
+      "total_price": 105.0
+    },
+    {
+      "description": "ﺳﻢ ﺗﻴﻜﻦ5 ﺍﺭﺿﻲ",
+      "quantity": 10.0,
+      "unit_price": 11.0,
+      "total_price": 110.0
+    },
+    {
+      "description": "ﺳﻢ ﺗﻴﻜﻦ5 ﻋﻤﻮﺩ",
+      "quantity": 30.0,
+      "unit_price": 12.0,
+      "total_price": 360.0
+    },
+    {
+      "description": "ﺍﻟﻮﺍﺡ ﺟﺒﺺ ﺍﺧﻀﺮ ﺍﻭﺭ ﺳﻢ2.6 ﺑﻮﻧﺪ",
+      "quantity": 10.0,
+      "unit_price": 50.0,
+      "total_price": 500.0
+    },
+    {
+      "description": "ﺍﻟﻮﺍﺡ ﺟﺒﺺ ﺍﺣﻤﺮ ﺍﻭﺭ ﺑﻮﻧﺪ ﻣﺘﺮ3",
+      "quantity": 3.0,
+      "unit_price": 55.0,
+      "total_price": 165.0
+    }
+  ],
+  "total": 1310.0,
+  "net": 1310.0,
+  "worksite": "بيسان",
+  "total_match": true
+}

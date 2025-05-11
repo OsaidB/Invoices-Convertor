@@ -1,0 +1,63 @@
+{
+  "date": "7/1/2025  12:51:32",
+  "items": [
+    {
+      "description": "ﻣﻠﻢ7 ﺍﺳﺎﻓﻴﻦ ﺑﻼﺳﺘﻴﻚ ﺣﺒﺔ(100)",
+      "quantity": 10.0,
+      "unit_price": 4.0,
+      "total_price": 40.0
+    },
+    {
+      "description": "/1*18-1 ﺭﻭﻧﺪﻻﺕ1,000",
+      "quantity": 2.0,
+      "unit_price": 0.08,
+      "total_price": 80.0
+    },
+    {
+      "description": ".0*50 ﺑﺮﺍﻏﻲ ﺳﺒﻴﺖ2",
+      "quantity": 3.0,
+      "unit_price": 40.0,
+      "total_price": 80.0
+    },
+    {
+      "description": "ﺑﺮﺍﻏﻲ ﻣﻊ ﺩﺑﻞ",
+      "quantity": 2.0,
+      "unit_price": 50.0,
+      "total_price": 100.0
+    },
+    {
+      "description": ".2*13 ﺑﺮﺍﻏﻲ ﺑﺎﺡ Click",
+      "quantity": 3.0,
+      "unit_price": 50.0,
+      "total_price": 150.0
+    },
+    {
+      "description": "ﺳﻢ2.5 ﺑﺮﺍﻏﻲ ﺟﺒﺺ click",
+      "quantity": 1.0,
+      "unit_price": 350.0,
+      "total_price": 350.0
+    },
+    {
+      "description": "ﺳﻢ ﺗﻴﻜﻦ5 ﺍﺭﺿﻲ",
+      "quantity": 150.0,
+      "unit_price": 11.0,
+      "total_price": 1650.0
+    },
+    {
+      "description": "ﺳﻢ ﺗﻴﻜﻦ5 ﻋﻤﻮﺩ250",
+      "quantity": 0.0,
+      "unit_price": 12.0,
+      "total_price": 3000.0
+    },
+    {
+      "description": "ﺍﻟﻮﺍﺡ ﺟﺒﺺ ﺍﺧﻀﺮ ﺍﻭﺭ ﺳﻢ2.6 ﺑﻮﻧﺪ",
+      "quantity": 52.0,
+      "unit_price": 53.0,
+      "total_price": 2756.0
+    }
+  ],
+  "total": 8206.0,
+  "net": 8206.0,
+  "worksite": "BYD 2",
+  "total_match": true
+}

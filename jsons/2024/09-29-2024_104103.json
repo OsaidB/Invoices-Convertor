@@ -1,0 +1,15 @@
+{
+  "date": "29/9/2024  10:41:03",
+  "items": [
+    {
+      "description": "ﻡ ﺿﺒﻞ50  ﺳﻢ5 ﺗﺐ ﻭﺭﻕ",
+      "quantity": 3.0,
+      "unit_price": 10.0,
+      "total_price": 30.0
+    }
+  ],
+  "total": 30.0,
+  "net": 30.0,
+  "worksite": "other",
+  "total_match": true
+}

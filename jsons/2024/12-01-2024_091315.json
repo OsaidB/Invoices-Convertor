@@ -1,0 +1,21 @@
+{
+  "date": "1/12/2024  09:13:15",
+  "items": [
+    {
+      "description": "ﺍﺟﺮﺓ ﻧﻘﻞ",
+      "quantity": 1.0,
+      "unit_price": 70.0,
+      "total_price": 70.0
+    },
+    {
+      "description": "ﻣﻌﺠﻮﻧﺔ ﻣﺠﻚ ﺑﻮﻧﺪ ﻃﻤﺒﻮﺭ ﻛﻴﻠﻮ25",
+      "quantity": 36.0,
+      "unit_price": 55.0,
+      "total_price": 1980.0
+    }
+  ],
+  "total": 2050.0,
+  "net": 2050.0,
+  "worksite": "العجولي",
+  "total_match": true
+}

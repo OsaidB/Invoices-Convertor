@@ -1,0 +1,15 @@
+{
+  "date": "9/1/2025  14:56:13",
+  "items": [
+    {
+      "description": "ﺳﻠﻢ ﺧﺸﺐ ﻋﺮﺑﻲ ﻧﺨﺐ ﺍﻭﻝ ﺩﺭﺟﺎﺕ4",
+      "quantity": 2.0,
+      "unit_price": 80.0,
+      "total_price": 160.0
+    }
+  ],
+  "total": 160.0,
+  "net": 160.0,
+  "worksite": "other",
+  "total_match": true
+}

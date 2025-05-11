@@ -1,0 +1,21 @@
+{
+  "date": "15/9/2024  13:25:43",
+  "items": [
+    {
+      "description": "ﻡ ﺿﺒﻞ50  ﺳﻢ5 ﺗﺐ ﻭﺭﻕ",
+      "quantity": 1.0,
+      "unit_price": 10.0,
+      "total_price": 10.0
+    },
+    {
+      "description": "ﻃﻘﻢ ﺭﻭﻝ ﺑﻮﻳﺎ ﺩﻳﻜﻮﺭ ﺳﻢ",
+      "quantity": 1.0,
+      "unit_price": 20.0,
+      "total_price": 20.0
+    }
+  ],
+  "total": 30.0,
+  "net": 30.0,
+  "worksite": "other",
+  "total_match": true
+}

@@ -1,0 +1,15 @@
+{
+  "date": "16/9/2024  10:20:12",
+  "items": [
+    {
+      "description": "A39 ﺗﺐ ﺷﻔﺎﻑ",
+      "quantity": 1.0,
+      "unit_price": 5.0,
+      "total_price": 5.0
+    }
+  ],
+  "total": 5.0,
+  "net": 5.0,
+  "worksite": "العجولي",
+  "total_match": true
+}

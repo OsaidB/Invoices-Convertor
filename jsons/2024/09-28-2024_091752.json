@@ -1,0 +1,33 @@
+{
+  "date": "28/9/2024  09:17:52",
+  "items": [
+    {
+      "description": "ﻡ50 ﻓﻴﺒﺮﺍ ﺍﻣﺮﻳﻜﻲ",
+      "quantity": 1.0,
+      "unit_price": 35.0,
+      "total_price": 35.0
+    },
+    {
+      "description": "ﻣﻌﺠﻮﻧﺔ ﻣﺠﻚ ﺑﻮﻧﺪ ﻃﻤﺒﻮﺭ ﻛﻴﻠﻮ25",
+      "quantity": 3.0,
+      "unit_price": 55.0,
+      "total_price": 165.0
+    },
+    {
+      "description": "ﻟﺘﺮ18 ﺳﻮﺑﺮ ﻛﺮﻳﻞ ﻋﺎﺩﻱ ﻃﻤﺒﻮﺭ",
+      "quantity": 2.0,
+      "unit_price": 230.0,
+      "total_price": 460.0
+    },
+    {
+      "description": "ﻛﻴﻠﻮ5 ﻛﻠﺴﻴﻤﻮ ﻃﻤﺒﻮﺭ",
+      "quantity": 4.0,
+      "unit_price": 20.0,
+      "total_price": 80.0
+    }
+  ],
+  "total": 740.0,
+  "net": 740.0,
+  "worksite": "عقربا",
+  "total_match": true
+}

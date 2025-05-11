@@ -1,0 +1,39 @@
+{
+  "date": "24/11/2024  18:05:32",
+  "items": [
+    {
+      "description": "W ﻛﺸﺎﻑ ﻟﻴﺪ",
+      "quantity": 3.0,
+      "unit_price": 50.0,
+      "total_price": 150.0
+    },
+    {
+      "description": "ﻡ3 ﻧﺎﻳﻠﻮﻥ",
+      "quantity": 20.0,
+      "unit_price": 6.0,
+      "total_price": 120.0
+    },
+    {
+      "description": "ﺍﻧﺜﻰ ﻛﻬﺮﺑﺎﺀ",
+      "quantity": 2.0,
+      "unit_price": 3.0,
+      "total_price": 6.0
+    },
+    {
+      "description": "ﺫﻛﺮ ﻛﻬﺮﺑﺎﺀ",
+      "quantity": 5.0,
+      "unit_price": 3.0,
+      "total_price": 15.0
+    },
+    {
+      "description": "ﻣﻠﻢ2.5 ﺑﻨﺪﻝ ﺣﺮﺍﺭﻱ",
+      "quantity": 45.0,
+      "unit_price": 6.0,
+      "total_price": 270.0
+    }
+  ],
+  "total": 561.0,
+  "net": 561.0,
+  "worksite": "other",
+  "total_match": true
+}
