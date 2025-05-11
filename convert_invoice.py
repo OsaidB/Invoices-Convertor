@@ -2,13 +2,15 @@ import fitz
 import json
 import re
 import unicodedata
+import os
 
 # Helper: Normalize Arabic text
 def normalize_arabic(text):
     return unicodedata.normalize('NFKC', text).replace("ـ", "").strip()
 
 # Load PDF and extract lines
-doc = fitz.open("report (5).pdf")
+input_file = "report (4).pdf"  # Store the input file name
+doc = fitz.open(input_file)
 lines = [line.strip() for line in doc[0].get_text().splitlines() if line.strip()]
 print("All lines extracted:", lines)
 
@@ -157,8 +159,18 @@ for line in lines:
         invoice_data["net"] = invoice_data["total"]
         print(f"Net set to total: {invoice_data['net']}")
 
-# Export JSON
-with open("invoice.json", "w", encoding="utf-8") as f:
+# Calculate total from items and compare with written total
+calculated_total = sum(item["total_price"] for item in invoice_data["items"])
+invoice_data["total_match"] = calculated_total == invoice_data["total"]
+print(f"Calculated total: {calculated_total}, Written total: {invoice_data['total']}, Match: {invoice_data['total_match']}")
+
+# Generate output file name by replacing "report" with "invoice"
+base_name = os.path.splitext(input_file)[0]  # Get the base name (e.g., "report (5)")
+output_base_name = base_name.replace("report", "invoice")  # Replace "report" with "invoice"
+output_file = output_base_name + ".json"  # Add .json extension (e.g., "invoice (5).json")
+
+# Export JSON with the dynamic output file name
+with open(output_file, "w", encoding="utf-8") as f:
     json.dump(invoice_data, f, ensure_ascii=False, indent=2)
-print("✅ Fully cleaned JSON saved as invoice.json")
+print(f"✅ Fully cleaned JSON saved as {output_file}")
 print("Final invoice data:", invoice_data)
