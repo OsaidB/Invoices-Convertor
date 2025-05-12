@@ -1,0 +1,21 @@
+{
+  "date": "2024-09-15T11:59:34",
+  "worksiteName": "العجولي",
+  "total": 680.0,
+  "netTotal": 680.0,
+  "items": [
+    {
+      "description": "ﺳﻢ3.7 ﺍﺭﺿﻲ",
+      "quantity": 40.0,
+      "unit_price": 8.0,
+      "total_price": 320.0
+    },
+    {
+      "description": "(0.50) ﺳﻢ3.7 ﻋﻤﻮﺩ40",
+      "quantity": 40.0,
+      "unit_price": 9.0,
+      "total_price": 360.0
+    }
+  ],
+  "total_match": true
+}

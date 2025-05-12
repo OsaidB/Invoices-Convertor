@@ -1,0 +1,51 @@
+{
+  "date": "2024-10-26T10:09:23",
+  "worksiteName": "الدبلماسي",
+  "total": 2707.0,
+  "netTotal": 2707.0,
+  "items": [
+    {
+      "description": "ﺍﺟﺮﺓ ﻧﻘﻞ",
+      "quantity": 1.0,
+      "unit_price": 100.0,
+      "total_price": 100.0
+    },
+    {
+      "description": "ﻣﻠﻢ16*ﻡ5 ﻣﺘﺮ DL270519G",
+      "quantity": 1.0,
+      "unit_price": 12.0,
+      "total_price": 12.0
+    },
+    {
+      "description": ".2*13 ﺑﺮﺍﻏﻲ ﻃﺒﻌﺔ ﺑﺎﺡ",
+      "quantity": 1.0,
+      "unit_price": 35.0,
+      "total_price": 35.0
+    },
+    {
+      "description": "ﺳﻢ3.7 ﺍﺭﺿﻲ",
+      "quantity": 10.0,
+      "unit_price": 8.0,
+      "total_price": 80.0
+    },
+    {
+      "description": "(0.50) ﺳﻢ3.7 ﻋﻤﻮﺩ20",
+      "quantity": 20.0,
+      "unit_price": 9.0,
+      "total_price": 180.0
+    },
+    {
+      "description": "ﺳﻢ ﺗﻴﻜﻦ5 ﺍﺭﺿﻲ",
+      "quantity": 100.0,
+      "unit_price": 11.0,
+      "total_price": 1100.0
+    },
+    {
+      "description": "ﺳﻢ ﺗﻴﻜﻦ5 ﻋﻤﻮﺩ100",
+      "quantity": 100.0,
+      "unit_price": 12.0,
+      "total_price": 1200.0
+    }
+  ],
+  "total_match": true
+}

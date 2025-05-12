@@ -1,0 +1,21 @@
+{
+  "date": "2025-02-03T09:56:30",
+  "worksiteName": "other",
+  "total": 40.0,
+  "netTotal": 40.0,
+  "items": [
+    {
+      "description": "ﺭﻭﻝ ﻃﺮﺍﺷﺔ ﺩﻳﻜﻮﺭ ﺳﻢ",
+      "quantity": 1.0,
+      "unit_price": 20.0,
+      "total_price": 20.0
+    },
+    {
+      "description": "\" ﺧﻤﺮﻱ2 ﻓﺮﺷﺎﺓ",
+      "quantity": 1.0,
+      "unit_price": 20.0,
+      "total_price": 20.0
+    }
+  ],
+  "total_match": true
+}

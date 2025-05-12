@@ -1,0 +1,45 @@
+{
+  "date": "2024-12-22T09:12:47",
+  "worksiteName": "العجولي",
+  "total": 4800.0,
+  "netTotal": 4800.0,
+  "items": [
+    {
+      "description": "ﺍﻟﻮﺍﺡ ﺟﺒﺺ ﺍﺣﻤﺮ ﺍﻭﺭ ﺑﻮﻧﺪ ﻣﺘﺮ3",
+      "quantity": 10.0,
+      "unit_price": 58.0,
+      "total_price": 580.0
+    },
+    {
+      "description": "ﻣﻌﺠﻮﻧﺔ ﻣﺠﻚ ﺑﻮﻧﺪ ﻃﻤﺒﻮﺭ ﻛﻴﻠﻮ25",
+      "quantity": 10.0,
+      "unit_price": 55.0,
+      "total_price": 550.0
+    },
+    {
+      "description": "ﺍﺟﺮﺓ ﻧﻘﻞ",
+      "quantity": 1.0,
+      "unit_price": 70.0,
+      "total_price": 70.0
+    },
+    {
+      "description": ".2*13 ﺑﺮﺍﻏﻲ ﺑﺎﺡ Click",
+      "quantity": 2.0,
+      "unit_price": 50.0,
+      "total_price": 100.0
+    },
+    {
+      "description": "ﺳﻢ ﺗﻴﻜﻦ5 ﺍﺭﺿﻲ",
+      "quantity": 100.0,
+      "unit_price": 11.0,
+      "total_price": 1100.0
+    },
+    {
+      "description": "ﺳﻢ ﺗﻴﻜﻦ5 ﻋﻤﻮﺩ200",
+      "quantity": 200.0,
+      "unit_price": 12.0,
+      "total_price": 2400.0
+    }
+  ],
+  "total_match": true
+}

@@ -1,0 +1,57 @@
+{
+  "date": "2024-11-12T12:59:22",
+  "worksiteName": "other",
+  "total": 217.0,
+  "netTotal": 217.0,
+  "items": [
+    {
+      "description": "ﻭﺭﻕ ﺣﻒ ﺍﺳﻮﺩ ﺷﻤﺸﻮﻡ",
+      "quantity": 1.0,
+      "unit_price": 65.0,
+      "total_price": 65.0
+    },
+    {
+      "description": "DL-HD4 \"4 ﻣﺸﺤﺎﻑ",
+      "quantity": 1.0,
+      "unit_price": 10.0,
+      "total_price": 10.0
+    },
+    {
+      "description": "DL-HD3 \"3 ﻣﺸﺤﺎﻑ",
+      "quantity": 1.0,
+      "unit_price": 7.0,
+      "total_price": 7.0
+    },
+    {
+      "description": "ﻧﺴﻠﺔ ﺭﻭﻝ ﺑﻮﻳﺎ ﺩﻳﻜﻮﺭ",
+      "quantity": 2.0,
+      "unit_price": 5.0,
+      "total_price": 10.0
+    },
+    {
+      "description": "ﺭﻭﻝ ﻃﺮﺍﺷﺔ ﺭﻭﻟﻰ",
+      "quantity": 1.0,
+      "unit_price": 15.0,
+      "total_price": 15.0
+    },
+    {
+      "description": "BLOCK \"3 ﻓﺮﺷﺎﺓ ﻗﺺ2",
+      "quantity": 2.0,
+      "unit_price": 30.0,
+      "total_price": 60.0
+    },
+    {
+      "description": "ﺳﻢ15 ﺭﻭﻝ ﻃﺮﺍﺷﺔ ﺩﻳﻜﻮﺭ",
+      "quantity": 1.0,
+      "unit_price": 15.0,
+      "total_price": 15.0
+    },
+    {
+      "description": "\" ﺑﻴﺎﺭ9 ﺭﻭﻝ ﻃﺮﺍﺷﺔ",
+      "quantity": 1.0,
+      "unit_price": 35.0,
+      "total_price": 35.0
+    }
+  ],
+  "total_match": true
+}

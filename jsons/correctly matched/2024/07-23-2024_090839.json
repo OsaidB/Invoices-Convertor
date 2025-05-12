@@ -1,0 +1,33 @@
+{
+  "date": "2024-07-23T09:08:39",
+  "worksiteName": "other",
+  "total": 347.04,
+  "netTotal": 347.04,
+  "items": [
+    {
+      "description": ".2*13 ﺑﺮﺍﻏﻲ ﺑﺎﺡ Click",
+      "quantity": 3.0,
+      "unit_price": 50.0,
+      "total_price": 150.0
+    },
+    {
+      "description": "ﻣﻠﻢ7 ﺍﺳﺎﻓﻴﻦ ﺑﻼﺳﺘﻴﻚ ﺣﺒﺔ(100)",
+      "quantity": 5.0,
+      "unit_price": 4.0,
+      "total_price": 20.0
+    },
+    {
+      "description": ".0*80 ﺑﺮﺍﻏﻲ ﺳﺒﻴﺖ3",
+      "quantity": 3.0,
+      "unit_price": 40.0,
+      "total_price": 120.0
+    },
+    {
+      "description": "/1*18-1 ﺭﻭﻧﺪﻻﺕ713",
+      "quantity": 713.0,
+      "unit_price": 0.08,
+      "total_price": 57.04
+    }
+  ],
+  "total_match": true
+}

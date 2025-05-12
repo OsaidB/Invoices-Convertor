@@ -1,0 +1,33 @@
+{
+  "date": "2024-07-22T10:26:58",
+  "worksiteName": "other",
+  "total": 11255.0,
+  "netTotal": 11255.0,
+  "items": [
+    {
+      "description": "ﺑﺮﺍﻏﻲ ﺟﺒﺺ ﻋﺎﺩﻱ 3.5*35",
+      "quantity": 300.0,
+      "unit_price": 0.05,
+      "total_price": 15.0
+    },
+    {
+      "description": "ﺍﺟﺮﺓ ﻧﻘﻞ ﻉ ﺍﻟﺪﻑ",
+      "quantity": 1.0,
+      "unit_price": 200.0,
+      "total_price": 200.0
+    },
+    {
+      "description": "( 0.60 ) ﺳﻢ5 ﺍﺭﺿﻲ480",
+      "quantity": 480.0,
+      "unit_price": 11.0,
+      "total_price": 5280.0
+    },
+    {
+      "description": "( 0.60 ) ﺳﻢ5 ﻋﻤﻮﺩ480",
+      "quantity": 480.0,
+      "unit_price": 12.0,
+      "total_price": 5760.0
+    }
+  ],
+  "total_match": true
+}

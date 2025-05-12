@@ -1,0 +1,21 @@
+{
+  "date": "2024-11-20T08:23:28",
+  "worksiteName": "other",
+  "total": 200.0,
+  "netTotal": 200.0,
+  "items": [
+    {
+      "description": "ﺳﻠﻢ ﺧﺸﺐ ﻋﺮﻱ ﻧﺨﺐ ﺍﻭﻝ ﺩﺭﺟﺎﺕ",
+      "quantity": 1.0,
+      "unit_price": 100.0,
+      "total_price": 100.0
+    },
+    {
+      "description": "*30 ﻓﺘﺤﺔ ﺻﻴﺎﻧﺔ",
+      "quantity": 1.0,
+      "unit_price": 100.0,
+      "total_price": 100.0
+    }
+  ],
+  "total_match": true
+}

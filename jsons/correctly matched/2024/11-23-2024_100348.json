@@ -1,0 +1,75 @@
+{
+  "date": "2024-11-23T10:03:48",
+  "worksiteName": "الدبلماسي",
+  "total": 8055.0,
+  "netTotal": 8055.0,
+  "items": [
+    {
+      "description": "ﺍﺟﺮﺓ ﻧﻘﻞ",
+      "quantity": 1.0,
+      "unit_price": 100.0,
+      "total_price": 100.0
+    },
+    {
+      "description": "ﻣﺘﺮ3 ﺯﻭﺍﻳﺎ ﺻﻔﺮﻳﺔ",
+      "quantity": 20.0,
+      "unit_price": 10.0,
+      "total_price": 200.0
+    },
+    {
+      "description": "ﻣﺘﺮ150 ﻭﺭﻕ ﺟﺒﺺ",
+      "quantity": 2.0,
+      "unit_price": 25.0,
+      "total_price": 50.0
+    },
+    {
+      "description": "ﻛﻴﻠﻮ ﺍﻭﺭ25 ﺗﻴﺎﺡ ﺟﺒﺺ MP75 ﺑﻮﻧﺪ",
+      "quantity": 1.0,
+      "unit_price": 35.0,
+      "total_price": 35.0
+    },
+    {
+      "description": "ﻛﻴﻠﻮ5 ﻛﻠﺴﻴﻤﻮ ﻃﻤﺒﻮﺭ",
+      "quantity": 4.0,
+      "unit_price": 20.0,
+      "total_price": 80.0
+    },
+    {
+      "description": "ﻣﻌﺠﻮﻧﺔ ﻣﺠﻚ ﺑﻮﻧﺪ ﻃﻤﺒﻮﺭ ﻛﻴﻠﻮ25",
+      "quantity": 10.0,
+      "unit_price": 55.0,
+      "total_price": 550.0
+    },
+    {
+      "description": ".2*13 ﺑﺮﺍﻏﻲ ﺑﺎﺡ Click",
+      "quantity": 3.0,
+      "unit_price": 50.0,
+      "total_price": 150.0
+    },
+    {
+      "description": "ﺳﻢ ﺗﻴﻜﻦ5 ﺍﺭﺿﻲ",
+      "quantity": 100.0,
+      "unit_price": 11.0,
+      "total_price": 1100.0
+    },
+    {
+      "description": "ﺳﻢ ﺗﻴﻜﻦ5 ﻋﻤﻮﺩ150",
+      "quantity": 150.0,
+      "unit_price": 12.0,
+      "total_price": 1800.0
+    },
+    {
+      "description": "ﺍﻟﻮﺍﺡ ﺟﺒﺺ ﺍﺧﻀﺮ ﺍﻭﺭ ﻣﺘﺮ3  ﺑﻮﻧﺪ",
+      "quantity": 30.0,
+      "unit_price": 58.0,
+      "total_price": 1740.0
+    },
+    {
+      "description": "ﻡ ﺍﺯﺭﻕ ﺍﻭﺭ3 ﺍﻟﻮﺍﺡ ﺟﺒﺺ ﺑﻮﻧﺪ",
+      "quantity": 15.0,
+      "unit_price": 150.0,
+      "total_price": 2250.0
+    }
+  ],
+  "total_match": true
+}

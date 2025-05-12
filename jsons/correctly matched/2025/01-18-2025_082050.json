@@ -1,0 +1,21 @@
+{
+  "date": "2025-01-18T08:20:50",
+  "worksiteName": "other",
+  "total": 95.0,
+  "netTotal": 95.0,
+  "items": [
+    {
+      "description": "\"10 ﻣﻘﺺ ﺻﺎﺝ ﻣﻬﻨﻲ DL20030Z",
+      "quantity": 1.0,
+      "unit_price": 40.0,
+      "total_price": 40.0
+    },
+    {
+      "description": "ﻣﻌﺠﻮﻧﺔ ﻣﺠﻚ ﺑﻮﻧﺪ ﻃﻤﺒﻮﺭ ﻛﻴﻠﻮ",
+      "quantity": 1.0,
+      "unit_price": 55.0,
+      "total_price": 55.0
+    }
+  ],
+  "total_match": true
+}

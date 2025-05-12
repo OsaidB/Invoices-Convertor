@@ -1,0 +1,15 @@
+{
+  "date": "2024-06-13T15:07:25",
+  "worksiteName": "other",
+  "total": 55.0,
+  "netTotal": 55.0,
+  "items": [
+    {
+      "description": "ﺍﻟﻮﺍﺡ ﺟﺒﺺ ﺍﺣﻤﺮ ﺍﻭﺭ ﺑﻮﻧﺪ ﻣﺘﺮ",
+      "quantity": 1.0,
+      "unit_price": 55.0,
+      "total_price": 55.0
+    }
+  ],
+  "total_match": true
+}

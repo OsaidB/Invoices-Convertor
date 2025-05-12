@@ -1,0 +1,33 @@
+{
+  "date": "2024-09-17T08:12:43",
+  "worksiteName": "العجولي",
+  "total": 5310.0,
+  "netTotal": 5310.0,
+  "items": [
+    {
+      "description": "ﺍﺟﺮﺓ ﻧﻘﻞ",
+      "quantity": 1.0,
+      "unit_price": 70.0,
+      "total_price": 70.0
+    },
+    {
+      "description": "ﺳﻢ ﺗﻴﻜﻦ5 ﺍﺭﺿﻲ",
+      "quantity": 100.0,
+      "unit_price": 11.0,
+      "total_price": 1100.0
+    },
+    {
+      "description": "ﺳﻢ ﺗﻴﻜﻦ5 ﻋﻤﻮﺩ200",
+      "quantity": 200.0,
+      "unit_price": 12.0,
+      "total_price": 2400.0
+    },
+    {
+      "description": "ﺍﻟﻮﺍﺡ ﺟﺒﺺ ﺍﺧﻀﺮ ﺍﻭﺭ ﻣﺘﺮ3  ﺑﻮﻧﺪ",
+      "quantity": 30.0,
+      "unit_price": 58.0,
+      "total_price": 1740.0
+    }
+  ],
+  "total_match": true
+}

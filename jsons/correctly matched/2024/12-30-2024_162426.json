@@ -1,0 +1,33 @@
+{
+  "date": "2024-12-30T16:24:26",
+  "worksiteName": "other",
+  "total": 440.0,
+  "netTotal": 440.0,
+  "items": [
+    {
+      "description": "ﺭﻭﻝ ﻃﺮﺍﺷﺔ ﺩﻳﻜﻮﺭ ﺳﻢ25",
+      "quantity": 2.0,
+      "unit_price": 20.0,
+      "total_price": 40.0
+    },
+    {
+      "description": "ﻣﻠﻢ25  ﻣﺘﺮ ﺍﺳﺴﺖ5 ﻣﺘﺮ",
+      "quantity": 1.0,
+      "unit_price": 15.0,
+      "total_price": 15.0
+    },
+    {
+      "description": "A319 ﺗﺐ ﺷﻔﺎﻑ5",
+      "quantity": 5.0,
+      "unit_price": 5.0,
+      "total_price": 25.0
+    },
+    {
+      "description": "ﻟﺘﺮ ﻃﻤﺒﻮﺭ18 ﺑﻮﻟﺴﻴﺪ",
+      "quantity": 3.0,
+      "unit_price": 120.0,
+      "total_price": 360.0
+    }
+  ],
+  "total_match": true
+}

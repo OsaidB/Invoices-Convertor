@@ -1,0 +1,33 @@
+{
+  "date": "2024-08-25T11:20:36",
+  "worksiteName": "بدران",
+  "total": 150.0,
+  "netTotal": 150.0,
+  "items": [
+    {
+      "description": "ﻣﻠﻢ7 ﺍﺳﺎﻓﻴﻦ ﺑﻼﺳﺘﻴﻚ ﺣﺒﺔ(100)",
+      "quantity": 5.0,
+      "unit_price": 4.0,
+      "total_price": 20.0
+    },
+    {
+      "description": "/1*18-1 ﺭﻭﻧﺪﻻﺕ500",
+      "quantity": 500.0,
+      "unit_price": 0.08,
+      "total_price": 40.0
+    },
+    {
+      "description": ".0*50 ﺑﺮﺍﻏﻲ ﺳﺒﻴﺖ",
+      "quantity": 1.0,
+      "unit_price": 40.0,
+      "total_price": 40.0
+    },
+    {
+      "description": ".2*13 ﺑﺮﺍﻏﻲ ﺑﺎﺡ Click",
+      "quantity": 1.0,
+      "unit_price": 50.0,
+      "total_price": 50.0
+    }
+  ],
+  "total_match": true
+}

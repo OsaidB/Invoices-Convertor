@@ -1,0 +1,93 @@
+{
+  "date": "2024-11-26T13:53:21",
+  "worksiteName": "تل الصفا",
+  "total": 3543.0,
+  "netTotal": 3543.0,
+  "items": [
+    {
+      "description": "ﺍﺟﺮﺓ ﻧﻘﻞ",
+      "quantity": 1.0,
+      "unit_price": 70.0,
+      "total_price": 70.0
+    },
+    {
+      "description": "ﻣﺘﺮ3 ﺯﻭﺍﻳﺎ ﺻﻔﺮﻳﺔ",
+      "quantity": 20.0,
+      "unit_price": 10.0,
+      "total_price": 200.0
+    },
+    {
+      "description": "ﻟﺘﺮ ﻃﻤﺒﻮﺭ8 ﺑﻮﻟﺴﻴﺪ",
+      "quantity": 1.0,
+      "unit_price": 120.0,
+      "total_price": 120.0
+    },
+    {
+      "description": "ﺑﺮﺍﻏﻲ ﺟﺒﺺ ﻣﻘﺪﺡ 3.5*25",
+      "quantity": 300.0,
+      "unit_price": 0.06,
+      "total_price": 18.0
+    },
+    {
+      "description": ".2*13ﺑﺮﺍﻏﻲ ﺑﺎﺡ ﻣﻘﺪﺡ ﺍﺳﻮﺩ",
+      "quantity": 300.0,
+      "unit_price": 0.05,
+      "total_price": 15.0
+    },
+    {
+      "description": ".2*13 ﺑﺮﺍﻏﻲ ﺑﺎﺡ Click",
+      "quantity": 1.0,
+      "unit_price": 50.0,
+      "total_price": 50.0
+    },
+    {
+      "description": ".0*50 ﺑﺮﺍﻏﻲ ﺳﺒﻴﺖ300",
+      "quantity": 300.0,
+      "unit_price": 0.1,
+      "total_price": 30.0
+    },
+    {
+      "description": "ﺑﺮﺍﻏﻲ ﻣﻊ ﺩﺑﻞ",
+      "quantity": 300.0,
+      "unit_price": 0.1,
+      "total_price": 30.0
+    },
+    {
+      "description": "ﺳﻢ2.5 ﺑﺮﺍﻏﻲ ﺟﺒﺺ click",
+      "quantity": 1.0,
+      "unit_price": 350.0,
+      "total_price": 350.0
+    },
+    {
+      "description": "ﺳﻢ3.7 ﺍﺭﺿﻲ",
+      "quantity": 30.0,
+      "unit_price": 8.0,
+      "total_price": 240.0
+    },
+    {
+      "description": "(0.50) ﺳﻢ3.7 ﻋﻤﻮﺩ30",
+      "quantity": 30.0,
+      "unit_price": 9.0,
+      "total_price": 270.0
+    },
+    {
+      "description": "ﺳﻢ ﺗﻴﻜﻦ5 ﺍﺭﺿﻲ",
+      "quantity": 20.0,
+      "unit_price": 11.0,
+      "total_price": 220.0
+    },
+    {
+      "description": "ﺳﻢ ﺗﻴﻜﻦ5 ﻋﻤﻮﺩ",
+      "quantity": 40.0,
+      "unit_price": 12.0,
+      "total_price": 480.0
+    },
+    {
+      "description": "ﺍﻟﻮﺍﺡ ﺟﺒﺺ ﺍﺧﻀﺮ ﺍﻭﺭ ﻣﺘﺮ3  ﺑﻮﻧﺪ",
+      "quantity": 25.0,
+      "unit_price": 58.0,
+      "total_price": 1450.0
+    }
+  ],
+  "total_match": true
+}

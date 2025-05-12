@@ -1,0 +1,81 @@
+{
+  "date": "2025-02-02T08:36:12",
+  "worksiteName": "الجلزون وعمارة دلس",
+  "total": 6396.0,
+  "netTotal": 6396.0,
+  "items": [
+    {
+      "description": "ﺍﺟﺮﺓ ﻧﻘﻞ",
+      "quantity": 1.0,
+      "unit_price": 150.0,
+      "total_price": 150.0
+    },
+    {
+      "description": "ﺻﺎﺝ1-16*1/4 ﺭﻭﻧﺪﻻﺕ ﻣﺒﺴﻂ",
+      "quantity": 500.0,
+      "unit_price": 0.04,
+      "total_price": 20.0
+    },
+    {
+      "description": "ﻣﻠﻢ7 ﺍﺳﺎﻓﻴﻦ ﺑﻼﺳﺘﻴﻚ ﺣﺒﺔ(100)",
+      "quantity": 5.0,
+      "unit_price": 4.0,
+      "total_price": 20.0
+    },
+    {
+      "description": ".0*50 ﺑﺮﺍﻏﻲ ﺳﺒﻴﺖ",
+      "quantity": 1.0,
+      "unit_price": 40.0,
+      "total_price": 40.0
+    },
+    {
+      "description": "ﻛﻴﻠﻮ5 ﻛﻠﺴﻴﻤﻮ ﻃﻤﺒﻮﺭ",
+      "quantity": 4.0,
+      "unit_price": 20.0,
+      "total_price": 80.0
+    },
+    {
+      "description": "ﻣﺘﺮ150 ﻭﺭﻕ ﺟﺒﺺ",
+      "quantity": 3.0,
+      "unit_price": 25.0,
+      "total_price": 75.0
+    },
+    {
+      "description": "ﻣﻌﺠﻮﻧﺔ ﻣﺠﻚ ﺑﻮﻧﺪ ﻃﻤﺒﻮﺭ ﻛﻴﻠﻮ25",
+      "quantity": 15.0,
+      "unit_price": 55.0,
+      "total_price": 825.0
+    },
+    {
+      "description": ".2*13 ﺑﺮﺍﻏﻲ ﺑﺎﺡ Click",
+      "quantity": 1.0,
+      "unit_price": 50.0,
+      "total_price": 50.0
+    },
+    {
+      "description": "ﺳﻢ2.5 ﺑﺮﺍﻏﻲ ﺟﺒﺺ click",
+      "quantity": 1.0,
+      "unit_price": 350.0,
+      "total_price": 350.0
+    },
+    {
+      "description": "ﺳﻢ ﺗﻴﻜﻦ5 ﺍﺭﺿﻲ",
+      "quantity": 30.0,
+      "unit_price": 11.0,
+      "total_price": 330.0
+    },
+    {
+      "description": "ﺳﻢ ﺗﻴﻜﻦ5 ﻋﻤﻮﺩ",
+      "quantity": 120.0,
+      "unit_price": 12.0,
+      "total_price": 1440.0
+    },
+    {
+      "description": "ﺍﻟﻮﺍﺡ ﺟﺒﺺ ﺍﺧﻀﺮ ﺍﻭﺭ ﻣﺘﺮ3  ﺑﻮﻧﺪ",
+      "quantity": 52.0,
+      "unit_price": 58.0,
+      "total_price": 3016.0
+    }
+  ],
+  "total_match": true
+}
