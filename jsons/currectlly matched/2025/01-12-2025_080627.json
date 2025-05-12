@@ -1,0 +1,21 @@
+{
+  "date": "2025-01-12T08:06:27",
+  "worksiteName": "-ألعجولي",
+  "total": 540.0,
+  "netTotal": 540.0,
+  "items": [
+    {
+      "description": "ﻣﻌﺠﻮﻧﺔ ﻣﺠﻚ ﺑﻮﻧﺪ ﻃﻤﺒﻮﺭ ﻛﻴﻠﻮ25",
+      "quantity": 8.0,
+      "unit_price": 55.0,
+      "total_price": 440.0
+    },
+    {
+      "description": "ﻣﺘﺮ3 ﺯﻭﺍﻳﺎ ﺻﻔﺮﻳﺔ",
+      "quantity": 10.0,
+      "unit_price": 10.0,
+      "total_price": 100.0
+    }
+  ],
+  "total_match": true
+}

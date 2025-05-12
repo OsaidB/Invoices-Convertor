@@ -1,0 +1,15 @@
+{
+  "date": "2024-10-28T10:23:14",
+  "worksiteName": "other",
+  "total": 35.0,
+  "netTotal": 35.0,
+  "items": [
+    {
+      "description": ".2*13ﺑﺮﺍﻏﻲ ﺑﺎﺡ ﻣﻘﺪﺡ ﺍﺳﻮﺩ",
+      "quantity": 1.0,
+      "unit_price": 35.0,
+      "total_price": 35.0
+    }
+  ],
+  "total_match": true
+}

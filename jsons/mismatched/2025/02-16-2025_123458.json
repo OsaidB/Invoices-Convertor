@@ -1,0 +1,21 @@
+{
+  "date": "2025-02-16T12:34:58",
+  "worksiteName": "other",
+  "total": 90.0,
+  "netTotal": 90.0,
+  "items": [
+    {
+      "description": "ﻡ50 ﻓﻴﺒﺮﺍ ﺍﻣﺮﻳﻜﻲ",
+      "quantity": 1.0,
+      "unit_price": 35.0,
+      "total_price": 35.0
+    },
+    {
+      "description": "ﻣﻌﺠﻮﻧﺔ ﻣﺠﻚ ﺑﻮﻧﺪ ﻃﻤﺒﻮﺭ ﻛﻴﻠﻮ",
+      "quantity": 25.0,
+      "unit_price": 55.0,
+      "total_price": 55.0
+    }
+  ],
+  "total_match": false
+}

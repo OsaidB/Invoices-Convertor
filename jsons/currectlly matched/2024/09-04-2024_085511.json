@@ -1,0 +1,15 @@
+{
+  "date": "2024-09-04T08:55:11",
+  "worksiteName": "other",
+  "total": 750.0,
+  "netTotal": 750.0,
+  "items": [
+    {
+      "description": "ﺭﻭﻝ ﺻﻮﻑ ﺻﺨﺮﻱ ﻡ24/ﻙ12",
+      "quantity": 3.0,
+      "unit_price": 250.0,
+      "total_price": 750.0
+    }
+  ],
+  "total_match": true
+}

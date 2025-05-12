@@ -1,0 +1,21 @@
+{
+  "date": "2024-11-18T09:19:53",
+  "worksiteName": "other",
+  "total": 340.0,
+  "netTotal": 340.0,
+  "items": [
+    {
+      "description": "\"10 ﻣﻘﺺ ﺻﺎﺝ ﻣﻬﻨﻲ DL20030Z",
+      "quantity": 1.0,
+      "unit_price": 40.0,
+      "total_price": 40.0
+    },
+    {
+      "description": "ﺳﻴﻠﻜﻮﻥ ﺍﺑﻴﺾ ﺍﻛﺴﺘﺮﻳﻢ",
+      "quantity": 12.0,
+      "unit_price": 25.0,
+      "total_price": 300.0
+    }
+  ],
+  "total_match": true
+}

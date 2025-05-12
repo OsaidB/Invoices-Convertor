@@ -1,0 +1,15 @@
+{
+  "date": "2025-02-25T11:52:37",
+  "worksiteName": "ورشة اللطيرة /مانديلا",
+  "total": 60.0,
+  "netTotal": 60.0,
+  "items": [
+    {
+      "description": "CAPO ﺳﻴﻠﻜﻮﻥ ﻫﺎﻳﺘﻚ",
+      "quantity": 3.0,
+      "unit_price": 20.0,
+      "total_price": 60.0
+    }
+  ],
+  "total_match": true
+}

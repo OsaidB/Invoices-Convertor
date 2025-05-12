@@ -1,0 +1,21 @@
+{
+  "date": "2024-12-19T18:10:12",
+  "worksiteName": "other",
+  "total": 195.0,
+  "netTotal": 195.0,
+  "items": [
+    {
+      "description": "ﻭﺻﻠﺔ ﺑﺮﺑﻴﺞ ﻛﺒﺲ WOKIN",
+      "quantity": 1.0,
+      "unit_price": 5.0,
+      "total_price": 5.0
+    },
+    {
+      "description": "ﺩﺭﺟﺎﺕ4 ﺳﻠﻢ ﺍﻟﻤﻨﻴﻮﻡ",
+      "quantity": 1.0,
+      "unit_price": 190.0,
+      "total_price": 190.0
+    }
+  ],
+  "total_match": true
+}

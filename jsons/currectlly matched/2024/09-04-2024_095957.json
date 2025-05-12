@@ -1,0 +1,27 @@
+{
+  "date": "2024-09-04T09:59:57",
+  "worksiteName": "other",
+  "total": 97.0,
+  "netTotal": 97.0,
+  "items": [
+    {
+      "description": "ﺳﻢ10 ﻃﻮﺏ",
+      "quantity": 12.0,
+      "unit_price": 2.0,
+      "total_price": 24.0
+    },
+    {
+      "description": "ﺷﻮﺍﻝ ﻧﺤﺎﺗﺔ ﻧﺎﻋﻤﺔ",
+      "quantity": 5.0,
+      "unit_price": 5.0,
+      "total_price": 25.0
+    },
+    {
+      "description": "ﻙ25 ﺍﺳﻤﻨﺖ ﺍﺳﻮﺩ ﻧﻴﺸﺮ",
+      "quantity": 3.0,
+      "unit_price": 16.0,
+      "total_price": 48.0
+    }
+  ],
+  "total_match": true
+}

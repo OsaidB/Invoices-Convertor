@@ -1,0 +1,21 @@
+{
+  "date": "2024-11-04T17:00:32",
+  "worksiteName": "other",
+  "total": 180.0,
+  "netTotal": 180.0,
+  "items": [
+    {
+      "description": "ﻛﻴﻠﻮ5 ﻛﻠﺴﻴﻤﻮ ﻃﻤﺒﻮﺭ",
+      "quantity": 1.0,
+      "unit_price": 20.0,
+      "total_price": 20.0
+    },
+    {
+      "description": "*61 ﺑﻼﻁ ﻓﻮﺭﺳﻴﻠﻨﻚ AMF ﻣﻠﻢ ﺍﻟﻤﺎﻧﻲ13",
+      "quantity": 16.0,
+      "unit_price": 10.0,
+      "total_price": 160.0
+    }
+  ],
+  "total_match": true
+}

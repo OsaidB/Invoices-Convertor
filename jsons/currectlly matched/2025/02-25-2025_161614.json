@@ -1,0 +1,21 @@
+{
+  "date": "2025-02-25T16:16:14",
+  "worksiteName": "other",
+  "total": 2826.0,
+  "netTotal": 2826.0,
+  "items": [
+    {
+      "description": "ﺍﺟﺮﺓ ﻧﻘﻞ",
+      "quantity": 1.0,
+      "unit_price": 70.0,
+      "total_price": 70.0
+    },
+    {
+      "description": "ﺍﻟﻮﺍﺡ ﺟﺒﺺ ﺍﺧﻀﺮ ﺍﻭﺭ ﺳﻢ2.6 ﺑﻮﻧﺪ",
+      "quantity": 52.0,
+      "unit_price": 53.0,
+      "total_price": 2756.0
+    }
+  ],
+  "total_match": true
+}

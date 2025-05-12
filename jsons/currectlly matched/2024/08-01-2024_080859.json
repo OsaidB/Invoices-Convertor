@@ -1,0 +1,27 @@
+{
+  "date": "2024-08-01T08:08:59",
+  "worksiteName": "other",
+  "total": 380.0,
+  "netTotal": 380.0,
+  "items": [
+    {
+      "description": "ﻙ28 ﻣﻌﺠﻮﻧﺔ ﺟﻮﻟﺪ ﺑﻮﻧﺪ",
+      "quantity": 1.0,
+      "unit_price": 60.0,
+      "total_price": 60.0
+    },
+    {
+      "description": "ﻣﺘﺮ3 ﺯﻭﺍﻳﺎ ﺻﻔﺮﻳﺔ",
+      "quantity": 10.0,
+      "unit_price": 10.0,
+      "total_price": 100.0
+    },
+    {
+      "description": "ﻣﻌﺠﻮﻧﺔ ﻣﺠﻚ ﺑﻮﻧﺪ ﻃﻤﺒﻮﺭ ﻛﻴﻠﻮ25",
+      "quantity": 4.0,
+      "unit_price": 55.0,
+      "total_price": 220.0
+    }
+  ],
+  "total_match": true
+}

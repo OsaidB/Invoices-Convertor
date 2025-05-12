@@ -1,0 +1,21 @@
+{
+  "date": "2024-11-02T13:29:21",
+  "worksiteName": "الصيانة",
+  "total": 1530.0,
+  "netTotal": 1530.0,
+  "items": [
+    {
+      "description": "ﻡ ﺍﺯﺭﻕ ﺍﻭﺭ3 ﺍﻟﻮﺍﺡ ﺟﺒﺺ ﺑﻮﻧﺪ",
+      "quantity": 10.0,
+      "unit_price": 150.0,
+      "total_price": 1500.0
+    },
+    {
+      "description": "ﺯﻭﺍﻳﺎ ﺟﺒﺺ ﻋﺎﺩﻱ ﺍﻟﺘﺮﺍ",
+      "quantity": 0.0,
+      "unit_price": 30.0,
+      "total_price": 30.0
+    }
+  ],
+  "total_match": false
+}

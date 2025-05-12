@@ -1,0 +1,15 @@
+{
+  "date": "2024-11-11T12:16:07",
+  "worksiteName": "other",
+  "total": 50.0,
+  "netTotal": 50.0,
+  "items": [
+    {
+      "description": "A319 ﺗﺐ ﺷﻔﺎﻑ",
+      "quantity": 10.0,
+      "unit_price": 5.0,
+      "total_price": 50.0
+    }
+  ],
+  "total_match": true
+}

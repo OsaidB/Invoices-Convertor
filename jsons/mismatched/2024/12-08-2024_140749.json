@@ -1,0 +1,39 @@
+{
+  "date": "2024-12-08T14:07:49",
+  "worksiteName": "other",
+  "total": 1699.0,
+  "netTotal": 1699.0,
+  "items": [
+    {
+      "description": "ﻡ50*2 ﺭﻭﻝ ﻧﺎﻳﻠﻮﻥ",
+      "quantity": 1.0,
+      "unit_price": 40.0,
+      "total_price": 40.0
+    },
+    {
+      "description": "ﺍﺟﺮﺓ ﻧﻘﻞ",
+      "quantity": 2.0,
+      "unit_price": 70.0,
+      "total_price": 70.0
+    },
+    {
+      "description": "ﻡ ﺿﺒﻞ50  ﺳﻢ5 ﺗﺐ ﻭﺭﻕ",
+      "quantity": 2.0,
+      "unit_price": 10.0,
+      "total_price": 20.0
+    },
+    {
+      "description": "ﻡ2 ﻧﺎﻳﻠﻮﻥ",
+      "quantity": 20.0,
+      "unit_price": 10.0,
+      "total_price": 200.0
+    },
+    {
+      "description": "ﻡ3 ﺍﻟﻮﺍﺡ ﺟﺒﺺ ﺍﺑﻴﺾ ﻣﺼﺮﻱ",
+      "quantity": 37.0,
+      "unit_price": 37.0,
+      "total_price": 1369.0
+    }
+  ],
+  "total_match": false
+}

@@ -1,0 +1,15 @@
+{
+  "date": "2024-07-08T12:26:19",
+  "worksiteName": "other",
+  "total": 220.0,
+  "netTotal": 220.0,
+  "items": [
+    {
+      "description": "ﺳﻢ ﺗﻴﻜﻦ5 ﺍﺭﺿﻲ",
+      "quantity": 20.0,
+      "unit_price": 11.0,
+      "total_price": 220.0
+    }
+  ],
+  "total_match": true
+}

@@ -1,0 +1,93 @@
+{
+  "date": "2024-11-20T08:15:40",
+  "worksiteName": "other",
+  "total": 2177.5,
+  "netTotal": 2177.5,
+  "items": [
+    {
+      "description": "ﺍﺟﺮﺓ ﻧﻘﻞ",
+      "quantity": 1.0,
+      "unit_price": 70.0,
+      "total_price": 70.0
+    },
+    {
+      "description": ".2*13 ﺑﺮﺍﻏﻲ ﺑﺎﺡ Click",
+      "quantity": 500.0,
+      "unit_price": 0.05,
+      "total_price": 25.0
+    },
+    {
+      "description": "*61 ﺑﻼﻁ ﻓﻮﺭﺳﻴﻠﻨﻚ AMF ﻣﻠﻢ ﺍﻟﻤﺎﻧﻲ13",
+      "quantity": 32.0,
+      "unit_price": 10.0,
+      "total_price": 320.0
+    },
+    {
+      "description": "(0.45) ﺳﻢ5 ﺍﺭﺿﻲ ﺍﻟﻌﺎﻣﻮﺭ",
+      "quantity": 10.0,
+      "unit_price": 8.0,
+      "total_price": 80.0
+    },
+    {
+      "description": "ﺷﺒﺤﺎﺕ ﻓﻮﺭﺳﻴﻠﻨﻚ",
+      "quantity": 10.0,
+      "unit_price": 20.0,
+      "total_price": 200.0
+    },
+    {
+      "description": "ﻣﺘﺮ50 ﻭﺭﻕ ﺟﺒﺺ",
+      "quantity": 1.0,
+      "unit_price": 25.0,
+      "total_price": 25.0
+    },
+    {
+      "description": "ﺯﻭﺍﻳﺎ ﺟﺒﺺ ﻋﺎﺩﻱ ﺍﻟﺘﺮﺍ",
+      "quantity": 1.0,
+      "unit_price": 30.0,
+      "total_price": 30.0
+    },
+    {
+      "description": "ﻛﻴﻠﻮ5 ﻛﻠﺴﻴﻤﻮ ﻃﻤﺒﻮﺭ",
+      "quantity": 1.0,
+      "unit_price": 20.0,
+      "total_price": 20.0
+    },
+    {
+      "description": "ﻣﻌﺠﻮﻧﺔ ﻣﺠﻚ ﺑﻮﻧﺪ ﻃﻤﺒﻮﺭ ﻛﻴﻠﻮ",
+      "quantity": 25.0,
+      "unit_price": 55.0,
+      "total_price": 55.0
+    },
+    {
+      "description": "T ﻡ1.22 ﻓﻮﺭﺳﻴﻠﻨﻚ FOX",
+      "quantity": 50.0,
+      "unit_price": 6.5,
+      "total_price": 325.0
+    },
+    {
+      "description": "T  ﻡ0.61 ﻓﻮﺭﺳﻴﻠﻨﻚ FOX",
+      "quantity": 75.0,
+      "unit_price": 3.5,
+      "total_price": 262.5
+    },
+    {
+      "description": "T ﻡ3.66 ﻓﻮﺭﺳﻴﻠﻨﻚ FOX",
+      "quantity": 15.0,
+      "unit_price": 20.0,
+      "total_price": 300.0
+    },
+    {
+      "description": "ﻡ3.6  ﻓﻮﺭﺳﻴﻠﻨﻚL ﺯﻭﺍﻳﺎ",
+      "quantity": 20.0,
+      "unit_price": 10.0,
+      "total_price": 200.0
+    },
+    {
+      "description": "ﺍﻟﻮﺍﺡ ﺟﺒﺺ ﺍﺧﻀﺮ ﺍﻭﺭ ﺳﻢ2.6 ﺑﻮﻧﺪ",
+      "quantity": 5.0,
+      "unit_price": 53.0,
+      "total_price": 265.0
+    }
+  ],
+  "total_match": false
+}

@@ -1,0 +1,21 @@
+{
+  "date": "2025-01-27T11:27:37",
+  "worksiteName": "other",
+  "total": 340.0,
+  "netTotal": 340.0,
+  "items": [
+    {
+      "description": "ﺳﻠﻢ ﺧﺸﺐ ﻋﺮﺑﻲ ﻧﺨﺐ ﺍﻭﻝ ﺩﺭﺟﺎﺕ",
+      "quantity": 9.0,
+      "unit_price": 180.0,
+      "total_price": 180.0
+    },
+    {
+      "description": "ﺳﻠﻢ ﺧﺸﺐ ﻋﺮﺑﻲ ﻧﺨﺐ ﺍﻭﻝ ﺩﺭﺟﺎﺕ",
+      "quantity": 8.0,
+      "unit_price": 160.0,
+      "total_price": 160.0
+    }
+  ],
+  "total_match": false
+}

@@ -1,0 +1,15 @@
+{
+  "date": "2024-12-17T13:02:58",
+  "worksiteName": "other",
+  "total": 25.0,
+  "netTotal": 25.0,
+  "items": [
+    {
+      "description": "ﻟﺘﺮ ﻋﺮﺑﻴﺔ ﺍﺭﺍﻛﺮﻳﻞ",
+      "quantity": 1.0,
+      "unit_price": 25.0,
+      "total_price": 25.0
+    }
+  ],
+  "total_match": true
+}

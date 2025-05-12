@@ -1,0 +1,15 @@
+{
+  "date": "2025-02-01T11:08:11",
+  "worksiteName": "بير نبالا",
+  "total": 115.0,
+  "netTotal": 115.0,
+  "items": [
+    {
+      "description": "ﻟﺘﺮ ﻃﻤﺒﻮﺭ5 ﺳﻮﺑﺮ ﻟﻚ",
+      "quantity": 1.0,
+      "unit_price": 115.0,
+      "total_price": 115.0
+    }
+  ],
+  "total_match": true
+}

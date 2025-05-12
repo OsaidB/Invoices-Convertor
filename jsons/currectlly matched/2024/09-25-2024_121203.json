@@ -1,0 +1,15 @@
+{
+  "date": "2024-09-25T12:12:03",
+  "worksiteName": "ابو حنني",
+  "total": 275.0,
+  "netTotal": 275.0,
+  "items": [
+    {
+      "description": "ﻣﻌﺠﻮﻧﺔ ﻣﺠﻚ ﺑﻮﻧﺪ ﻃﻤﺒﻮﺭ ﻛﻴﻠﻮ25",
+      "quantity": 5.0,
+      "unit_price": 55.0,
+      "total_price": 275.0
+    }
+  ],
+  "total_match": true
+}

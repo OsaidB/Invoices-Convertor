@@ -1,0 +1,15 @@
+{
+  "date": "2024-09-14T09:57:35",
+  "worksiteName": "other",
+  "total": 12.0,
+  "netTotal": 12.0,
+  "items": [
+    {
+      "description": "ﺑﺮﺍﻏﻲ ﺟﺒﺺ ﻣﻘﺪﺡ 3.5*25",
+      "quantity": 200.0,
+      "unit_price": 0.06,
+      "total_price": 12.0
+    }
+  ],
+  "total_match": true
+}

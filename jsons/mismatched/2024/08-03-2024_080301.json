@@ -1,0 +1,39 @@
+{
+  "date": "2024-08-03T08:03:01",
+  "worksiteName": "other",
+  "total": 125.0,
+  "netTotal": 125.0,
+  "items": [
+    {
+      "description": "ﻟﺘﺮ ﻋﺮﺑﻴﺔ5 ﺑﻨﺪﺭﻭﻝ ﻣﺎﺋﻲ",
+      "quantity": 1.0,
+      "unit_price": 55.0,
+      "total_price": 55.0
+    },
+    {
+      "description": "ﻡ ﺿﺒﻞ50  ﺳﻢ5 ﺗﺐ ﻭﺭﻕ",
+      "quantity": 1.0,
+      "unit_price": 10.0,
+      "total_price": 10.0
+    },
+    {
+      "description": "ﻟﺘﺮ ﻋﺮﺑﻴﺔ ﺍﺳﺎﺱ ﺯﻳﺎﺗﻲ",
+      "quantity": 1.0,
+      "unit_price": 20.0,
+      "total_price": 20.0
+    },
+    {
+      "description": "GOLD \"2 ﻓﺮﺷﺎﺓ",
+      "quantity": 4.0,
+      "unit_price": 10.0,
+      "total_price": 10.0
+    },
+    {
+      "description": "ﻡ50*2 ﺭﻭﻝ ﻧﺎﻳﻠﻮﻥ",
+      "quantity": 1.0,
+      "unit_price": 30.0,
+      "total_price": 30.0
+    }
+  ],
+  "total_match": false
+}

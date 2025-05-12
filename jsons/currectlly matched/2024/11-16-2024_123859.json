@@ -1,0 +1,39 @@
+{
+  "date": "2024-11-16T12:38:59",
+  "worksiteName": "other",
+  "total": 133.0,
+  "netTotal": 133.0,
+  "items": [
+    {
+      "description": "ﻡ ﻃﻤﺒﻮﺭ3 ﺯﻭﺍﻳﺎ ﻗﺼﺎﺭﺓ",
+      "quantity": 4.0,
+      "unit_price": 15.0,
+      "total_price": 60.0
+    },
+    {
+      "description": "ﺷﻮﺍﻝ ﺭﻣﻞ",
+      "quantity": 1.0,
+      "unit_price": 6.0,
+      "total_price": 6.0
+    },
+    {
+      "description": "ﻛﻴﺲ ﺷﻴﺪ ﻣﻨﻘﻮﻉ",
+      "quantity": 1.0,
+      "unit_price": 5.0,
+      "total_price": 5.0
+    },
+    {
+      "description": "ﺷﻮﺍﻝ ﻧﺤﺎﺗﺔ ﻧﺎﻋﻤﺔ",
+      "quantity": 6.0,
+      "unit_price": 5.0,
+      "total_price": 30.0
+    },
+    {
+      "description": "ﻙ5 ﺍﺳﻤﻨﺖ ﺍﺳﻮﺩ ﻧﻴﺸﺮ",
+      "quantity": 2.0,
+      "unit_price": 16.0,
+      "total_price": 32.0
+    }
+  ],
+  "total_match": true
+}

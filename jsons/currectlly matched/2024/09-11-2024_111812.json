@@ -1,0 +1,15 @@
+{
+  "date": "2024-09-11T11:18:12",
+  "worksiteName": "العجولي",
+  "total": 990.0,
+  "netTotal": 990.0,
+  "items": [
+    {
+      "description": "ﺳﻢ ﺗﻴﻜﻦ5 ﺍﺭﺿﻲ",
+      "quantity": 90.0,
+      "unit_price": 11.0,
+      "total_price": 990.0
+    }
+  ],
+  "total_match": true
+}

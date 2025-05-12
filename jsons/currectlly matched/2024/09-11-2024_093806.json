@@ -1,0 +1,15 @@
+{
+  "date": "2024-09-11T09:38:06",
+  "worksiteName": "other",
+  "total": 100.0,
+  "netTotal": 100.0,
+  "items": [
+    {
+      "description": "ﺍﺑﻴﺾ7 ﺳﻴﻠﻜﻮﻥ ﺳﻮﺑﺮ",
+      "quantity": 4.0,
+      "unit_price": 25.0,
+      "total_price": 100.0
+    }
+  ],
+  "total_match": true
+}

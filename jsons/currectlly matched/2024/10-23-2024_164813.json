@@ -1,0 +1,39 @@
+{
+  "date": "2024-10-23T16:48:13",
+  "worksiteName": "other",
+  "total": 265.0,
+  "netTotal": 265.0,
+  "items": [
+    {
+      "description": "ﻭﺭﻕ ﺣﻒ ﺍﺯﺭﻕ",
+      "quantity": 1.0,
+      "unit_price": 5.0,
+      "total_price": 5.0
+    },
+    {
+      "description": "ﻣﻌﺠﻮﻧﺔ ﻣﺠﻚ ﺑﻮﻧﺪ ﻃﻤﺒﻮﺭ ﻛﻴﻠﻮ25",
+      "quantity": 3.0,
+      "unit_price": 55.0,
+      "total_price": 165.0
+    },
+    {
+      "description": "ﻛﻴﻠﻮ5 ﻛﻠﺴﻴﻤﻮ ﻃﻤﺒﻮﺭ",
+      "quantity": 2.0,
+      "unit_price": 20.0,
+      "total_price": 40.0
+    },
+    {
+      "description": "ﺯﻭﺍﻳﺎ ﺟﺒﺺ ﻋﺎﺩﻱ ﺍﻟﺘﺮﺍ",
+      "quantity": 1.0,
+      "unit_price": 30.0,
+      "total_price": 30.0
+    },
+    {
+      "description": "ﻣﺘﺮ50 ﻭﺭﻕ ﺟﺒﺺ",
+      "quantity": 1.0,
+      "unit_price": 25.0,
+      "total_price": 25.0
+    }
+  ],
+  "total_match": true
+}

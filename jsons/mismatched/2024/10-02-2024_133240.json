@@ -1,0 +1,21 @@
+{
+  "date": "2024-10-02T13:32:40",
+  "worksiteName": "other",
+  "total": 145.0,
+  "netTotal": 145.0,
+  "items": [
+    {
+      "description": "ﻣﻌﺠﻮﻧﺔ ﻣﺠﻚ ﺑﻮﻧﺪ ﻃﻤﺒﻮﺭ ﻛﻴﻠﻮ",
+      "quantity": 25.0,
+      "unit_price": 55.0,
+      "total_price": 55.0
+    },
+    {
+      "description": "ﻣﺘﺮ3 ﺍﻭﻣﻴﺠﺎ",
+      "quantity": 10.0,
+      "unit_price": 9.0,
+      "total_price": 90.0
+    }
+  ],
+  "total_match": false
+}

@@ -1,0 +1,57 @@
+{
+  "date": "2025-02-19T11:24:17",
+  "worksiteName": "هيني بيني",
+  "total": 3260.0,
+  "netTotal": 3260.0,
+  "items": [
+    {
+      "description": "ﺍﺟﺮﺓ ﻧﻘﻞ",
+      "quantity": 1.0,
+      "unit_price": 70.0,
+      "total_price": 70.0
+    },
+    {
+      "description": "ﺯﻭﺍﻳﺎ ﺟﺒﺺ ﻋﺎﺩﻱ ﺍﻟﺘﺮﺍ",
+      "quantity": 2.0,
+      "unit_price": 30.0,
+      "total_price": 60.0
+    },
+    {
+      "description": "ﻣﺘﺮ150 ﻭﺭﻕ ﺟﺒﺺ",
+      "quantity": 2.0,
+      "unit_price": 25.0,
+      "total_price": 50.0
+    },
+    {
+      "description": "ﻛﻴﻠﻮ5 ﻛﻠﺴﻴﻤﻮ ﻃﻤﺒﻮﺭ",
+      "quantity": 4.0,
+      "unit_price": 20.0,
+      "total_price": 80.0
+    },
+    {
+      "description": "ﻙ28 ﻣﻌﺠﻮﻧﺔ ﺟﻮﻟﺪ ﺑﻮﻧﺪ",
+      "quantity": 6.0,
+      "unit_price": 60.0,
+      "total_price": 360.0
+    },
+    {
+      "description": "ﺳﻢ ﺗﻴﻜﻦ5 ﺍﺭﺿﻲ",
+      "quantity": 30.0,
+      "unit_price": 11.0,
+      "total_price": 330.0
+    },
+    {
+      "description": "ﺳﻢ ﺗﻴﻜﻦ5 ﻋﻤﻮﺩ",
+      "quantity": 60.0,
+      "unit_price": 12.0,
+      "total_price": 720.0
+    },
+    {
+      "description": "ﺍﻟﻮﺍﺡ ﺟﺒﺺ ﺍﺧﻀﺮ ﺍﻭﺭ ﺳﻢ2.6 ﺑﻮﻧﺪ",
+      "quantity": 30.0,
+      "unit_price": 53.0,
+      "total_price": 1590.0
+    }
+  ],
+  "total_match": true
+}

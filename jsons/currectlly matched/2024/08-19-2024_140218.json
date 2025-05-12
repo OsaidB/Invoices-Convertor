@@ -1,0 +1,27 @@
+{
+  "date": "2024-08-19T14:02:18",
+  "worksiteName": "ايمن بيرنبالا",
+  "total": 940.0,
+  "netTotal": 940.0,
+  "items": [
+    {
+      "description": "(0.45) ﺳﻢ5 ﺍﺭﺿﻲ ﺍﻟﻌﺎﻣﻮﺭ",
+      "quantity": 20.0,
+      "unit_price": 8.0,
+      "total_price": 160.0
+    },
+    {
+      "description": "(0.45)  ﺳﻢ5 ﻋﻤﻮﺩ ﺍﻟﻌﺎﻣﻮﺭ",
+      "quantity": 20.0,
+      "unit_price": 9.0,
+      "total_price": 180.0
+    },
+    {
+      "description": "ﻡ ﺍﺯﺭﻕ ﺍﻭﺭ3 ﺍﻟﻮﺍﺡ ﺟﺒﺺ ﺑﻮﻧﺪ",
+      "quantity": 4.0,
+      "unit_price": 150.0,
+      "total_price": 600.0
+    }
+  ],
+  "total_match": true
+}

@@ -1,0 +1,33 @@
+{
+  "date": "2025-02-04T11:48:52",
+  "worksiteName": "مكتب السعودية",
+  "total": 4490.0,
+  "netTotal": 4490.0,
+  "items": [
+    {
+      "description": ".2*13 ﺑﺮﺍﻏﻲ ﺑﺎﺡ Click",
+      "quantity": 1.0,
+      "unit_price": 50.0,
+      "total_price": 50.0
+    },
+    {
+      "description": "ﺳﻢ ﺗﻴﻜﻦ5 ﺍﺭﺿﻲ",
+      "quantity": 80.0,
+      "unit_price": 11.0,
+      "total_price": 880.0
+    },
+    {
+      "description": "ﺳﻢ ﺗﻴﻜﻦ5 ﻋﻤﻮﺩ",
+      "quantity": 120.0,
+      "unit_price": 12.0,
+      "total_price": 1440.0
+    },
+    {
+      "description": "ﺍﻟﻮﺍﺡ ﺟﺒﺺ ﺍﺧﻀﺮ ﺍﻭﺭ ﺳﻢ2.6 ﺑﻮﻧﺪ",
+      "quantity": 40.0,
+      "unit_price": 53.0,
+      "total_price": 2120.0
+    }
+  ],
+  "total_match": true
+}

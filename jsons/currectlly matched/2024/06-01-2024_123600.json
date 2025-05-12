@@ -1,0 +1,15 @@
+{
+  "date": "2024-06-01T12:36:00",
+  "worksiteName": "ليد ابو ربحي",
+  "total": 70.0,
+  "netTotal": 70.0,
+  "items": [
+    {
+      "description": "ﺍﺟﺮﺓ ﻧﻘﻞ",
+      "quantity": 1.0,
+      "unit_price": 70.0,
+      "total_price": 70.0
+    }
+  ],
+  "total_match": true
+}

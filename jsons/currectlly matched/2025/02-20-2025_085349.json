@@ -1,0 +1,15 @@
+{
+  "date": "2025-02-20T08:53:49",
+  "worksiteName": "شام سنتر",
+  "total": 230.0,
+  "netTotal": 230.0,
+  "items": [
+    {
+      "description": "ﻟﺘﺮ18 ﺳﻮﺑﺮ ﻛﺮﻳﻞ ﻋﺎﺩﻱ ﻃﻤﺒﻮﺭ",
+      "quantity": 1.0,
+      "unit_price": 230.0,
+      "total_price": 230.0
+    }
+  ],
+  "total_match": true
+}

@@ -67,12 +67,15 @@ def main():
         try:
             invoice_data = process_invoice_pdf(pdf_path, "pdfs", "jsons")
 
+            # Debug the extracted date
+            print(f"Raw date from invoice_data: {invoice_data['date']}")
+
             # Use the extracted date to rename the PDF
             if invoice_data["date"]:
-                # Parse date (e.g., "25/2/2025 09:17:15" -> MM-DD-YYYY_HHMMSS)
-                date_match = re.match(r"(\d{1,2})/(\d{1,2})/(\d{4})\s+(\d{2}):(\d{2}):(\d{2})", invoice_data["date"])
+                # Parse date (e.g., "2024-07-04T08:14:51" -> MM-DD-YYYY_HHMMSS)
+                date_match = re.match(r"(\d{4})-(\d{2})-(\d{2})T(\d{2}):(\d{2}):(\d{2})", invoice_data["date"])
                 if date_match:
-                    day, month, year, hour, minute, second = date_match.groups()
+                    year, month, day, hour, minute, second = date_match.groups()
                     # Format as MM-DD-YYYY_HHMMSS
                     date_str = f"{int(month):02d}-{int(day):02d}-{year}_{hour}{minute}{second}"
                     # Create year-based subdirectory
@@ -92,13 +95,13 @@ def main():
                     os.rename(pdf_path, final_pdf_path)
                     print(f"Renamed PDF to: {final_pdf_path}")
                 else:
-                    print(f"Date format mismatch for {pdf_path}, keeping temporary PDF name")
+                    print(f"Date format mismatch for {pdf_path}, expected 'YYYY-MM-DDTHH:MM:SS', got '{invoice_data['date']}', keeping temporary PDF name")
                     final_pdf_path = pdf_path
             else:
                 print(f"No date extracted for {pdf_path}, keeping temporary PDF name")
                 final_pdf_path = pdf_path
 
-            # The JSON is already saved with the date-based name by process_invoice_pdf
+            # The JSON is already saved with the date-based name by process_invoice.py
             print(f"JSON saved as: {final_json_path if invoice_data['date'] and date_match else 'default_name_in_jsons'}")
 
             # Log the result

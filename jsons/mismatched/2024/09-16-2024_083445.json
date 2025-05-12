@@ -1,0 +1,27 @@
+{
+  "date": "2024-09-16T08:34:45",
+  "worksiteName": "اسيد",
+  "total": 95.0,
+  "netTotal": 95.0,
+  "items": [
+    {
+      "description": "ﻛﻴﻠﻮ5 ﻛﻠﺴﻴﻤﻮ ﻃﻤﺒﻮﺭ",
+      "quantity": 1.0,
+      "unit_price": 20.0,
+      "total_price": 20.0
+    },
+    {
+      "description": "ﻡ ﺿﺒﻞ50  ﺳﻢ5 ﺗﺐ ﻭﺭﻕ",
+      "quantity": 2.0,
+      "unit_price": 10.0,
+      "total_price": 20.0
+    },
+    {
+      "description": "ﻣﻌﺠﻮﻧﺔ ﻣﺠﻚ ﺑﻮﻧﺪ ﻃﻤﺒﻮﺭ ﻛﻴﻠﻮ",
+      "quantity": 25.0,
+      "unit_price": 55.0,
+      "total_price": 55.0
+    }
+  ],
+  "total_match": false
+}

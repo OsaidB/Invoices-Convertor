@@ -1,0 +1,81 @@
+{
+  "date": "2024-10-23T08:32:27",
+  "worksiteName": "المهندس ضياء / الخبطا",
+  "total": 3448.0,
+  "netTotal": 3448.0,
+  "items": [
+    {
+      "description": "ﺍﺟﺮﺓ ﻧﻘﻞ",
+      "quantity": 1.0,
+      "unit_price": 80.0,
+      "total_price": 80.0
+    },
+    {
+      "description": ".5-21*5/16 ﺭﻭﻧﺪﻻﺕ ﺻﺎﺝ ﻣﺒﺴﻂ",
+      "quantity": 500.0,
+      "unit_price": 0.15,
+      "total_price": 75.0
+    },
+    {
+      "description": "DH 8*160 ﺭﻳﺸﺔ ﺑﺘﺸﻮﻥ -Y",
+      "quantity": 8160.0,
+      "unit_price": 8.0,
+      "total_price": 8.0
+    },
+    {
+      "description": "*70 ﺍﺳﺎﻓﻴﻦ ﺣﻤﺎﻳﺔ15",
+      "quantity": 4.0,
+      "unit_price": 1.0,
+      "total_price": 15.0
+    },
+    {
+      "description": "ﻣﻠﻢ7 ﺍﺳﺎﻓﻴﻦ ﺑﻼﺳﺘﻴﻚ ﺣﺒﺔ(100)",
+      "quantity": 5.0,
+      "unit_price": 4.0,
+      "total_price": 20.0
+    },
+    {
+      "description": ".0*50 ﺑﺮﺍﻏﻲ ﺳﺒﻴﺖ",
+      "quantity": 6.0,
+      "unit_price": 40.0,
+      "total_price": 40.0
+    },
+    {
+      "description": "ﺑﺮﺍﻏﻲ ﻣﻊ ﺩﺑﻞ",
+      "quantity": 500.0,
+      "unit_price": 0.1,
+      "total_price": 50.0
+    },
+    {
+      "description": ".2*13 ﺑﺮﺍﻏﻲ ﺑﺎﺡ Click",
+      "quantity": 1.0,
+      "unit_price": 50.0,
+      "total_price": 50.0
+    },
+    {
+      "description": "ﺳﻢ ﺟﺒﺺ2.5 ﺑﺮﺍﻏﻲ",
+      "quantity": 4.0,
+      "unit_price": 35.0,
+      "total_price": 140.0
+    },
+    {
+      "description": "ﺍﻟﻮﺍﺡ ﺟﺒﺺ ﺍﺧﻀﺮ ﺍﻭﺭ ﻣﺘﺮ3  ﺑﻮﻧﺪ",
+      "quantity": 15.0,
+      "unit_price": 58.0,
+      "total_price": 870.0
+    },
+    {
+      "description": "ﺳﻢ ﺗﻴﻜﻦ5 ﺍﺭﺿﻲ",
+      "quantity": 60.0,
+      "unit_price": 11.0,
+      "total_price": 660.0
+    },
+    {
+      "description": "ﺳﻢ ﺗﻴﻜﻦ5 ﻋﻤﻮﺩ",
+      "quantity": 120.0,
+      "unit_price": 12.0,
+      "total_price": 1440.0
+    }
+  ],
+  "total_match": false
+}

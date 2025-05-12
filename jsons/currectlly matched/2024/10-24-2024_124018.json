@@ -1,0 +1,15 @@
+{
+  "date": "2024-10-24T12:40:18",
+  "worksiteName": "other",
+  "total": 20.0,
+  "netTotal": 20.0,
+  "items": [
+    {
+      "description": "ﻛﻴﻠﻮ5 ﻛﻠﺴﻴﻤﻮ ﻃﻤﺒﻮﺭ",
+      "quantity": 1.0,
+      "unit_price": 20.0,
+      "total_price": 20.0
+    }
+  ],
+  "total_match": true
+}

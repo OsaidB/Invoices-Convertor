@@ -1,0 +1,87 @@
+{
+  "date": "2024-12-09T10:08:31",
+  "worksiteName": "العجولي",
+  "total": 7047.0,
+  "netTotal": 7047.0,
+  "items": [
+    {
+      "description": "\"10 ﻣﻘﺺ ﺻﺎﺝ ﻣﻬﻨﻲ DL20030Z",
+      "quantity": 1.0,
+      "unit_price": 40.0,
+      "total_price": 40.0
+    },
+    {
+      "description": "\" ﺍﺻﻔﺮ9 ﻭﺭﻕ ﺣﻒ10",
+      "quantity": 2.0,
+      "unit_price": 5.0,
+      "total_price": 50.0
+    },
+    {
+      "description": "\" ﺍﺻﻔﺮ9 ﻭﺭﻕ ﺣﻒ10",
+      "quantity": 3.0,
+      "unit_price": 5.0,
+      "total_price": 50.0
+    },
+    {
+      "description": "PH2 ﺭﺍﺱ ﺷﺪ ﺍﺻﻠﻲ5",
+      "quantity": 4.0,
+      "unit_price": 5.0,
+      "total_price": 25.0
+    },
+    {
+      "description": "\"4.5 ﻃﺎﺭﺓ ﺻﺎﺭﻭﺥ ﺭﻓﻴﻊ",
+      "quantity": 2.0,
+      "unit_price": 3.0,
+      "total_price": 6.0
+    },
+    {
+      "description": "ﺍﺟﺮﺓ ﻧﻘﻞ",
+      "quantity": 6.0,
+      "unit_price": 70.0,
+      "total_price": 70.0
+    },
+    {
+      "description": "ﻣﻌﺠﻮﻧﺔ ﻣﺠﻚ ﺑﻮﻧﺪ ﻃﻤﺒﻮﺭ ﻛﻴﻠﻮ25",
+      "quantity": 12.0,
+      "unit_price": 55.0,
+      "total_price": 660.0
+    },
+    {
+      "description": "ﻣﺘﺮ150 ﻭﺭﻕ ﺟﺒﺺ",
+      "quantity": 2.0,
+      "unit_price": 25.0,
+      "total_price": 50.0
+    },
+    {
+      "description": "ﻡ150 ﻓﻴﺒﺮﺍ ﺍﻣﺮﻳﻜﻲ",
+      "quantity": 4.0,
+      "unit_price": 35.0,
+      "total_price": 140.0
+    },
+    {
+      "description": "ﺳﻢ ﺗﻴﻜﻦ5 ﺍﺭﺿﻲ",
+      "quantity": 100.0,
+      "unit_price": 11.0,
+      "total_price": 1100.0
+    },
+    {
+      "description": "ﺳﻢ ﺗﻴﻜﻦ5 ﻋﻤﻮﺩ100",
+      "quantity": 0.0,
+      "unit_price": 12.0,
+      "total_price": 1200.0
+    },
+    {
+      "description": "ﻡ ﺍﺯﺭﻕ ﺍﻭﺭ3 ﺍﻟﻮﺍﺡ ﺟﺒﺺ ﺑﻮﻧﺪ",
+      "quantity": 6.0,
+      "unit_price": 150.0,
+      "total_price": 900.0
+    },
+    {
+      "description": "ﺍﻟﻮﺍﺡ ﺟﺒﺺ ﺍﺧﻀﺮ ﺍﻭﺭ ﺳﻢ2.6 ﺑﻮﻧﺪ",
+      "quantity": 52.0,
+      "unit_price": 53.0,
+      "total_price": 2756.0
+    }
+  ],
+  "total_match": false
+}

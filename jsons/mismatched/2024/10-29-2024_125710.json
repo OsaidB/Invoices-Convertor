@@ -1,0 +1,33 @@
+{
+  "date": "2024-10-29T12:57:10",
+  "worksiteName": "دوار الساعة",
+  "total": 110.0,
+  "netTotal": 110.0,
+  "items": [
+    {
+      "description": "ﻣﻌﺠﻮﻧﺔ ﻣﺠﻚ ﺑﻮﻧﺪ ﻃﻤﺒﻮﺭ ﻛﻴﻠﻮ",
+      "quantity": 25.0,
+      "unit_price": 55.0,
+      "total_price": 55.0
+    },
+    {
+      "description": "ﻛﻴﻠﻮ5 ﻛﻠﺴﻴﻤﻮ ﻃﻤﺒﻮﺭ",
+      "quantity": 1.0,
+      "unit_price": 20.0,
+      "total_price": 20.0
+    },
+    {
+      "description": "ﻣﺘﺮ50 ﻭﺭﻕ ﺟﺒﺺ",
+      "quantity": 1.0,
+      "unit_price": 25.0,
+      "total_price": 25.0
+    },
+    {
+      "description": "ﺳﻢ5 ﺗﺐ ﻭﺭﻕ ﺍﺯﺭﻕ",
+      "quantity": 2.0,
+      "unit_price": 5.0,
+      "total_price": 10.0
+    }
+  ],
+  "total_match": false
+}

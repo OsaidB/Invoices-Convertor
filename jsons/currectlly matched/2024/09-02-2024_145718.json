@@ -1,0 +1,15 @@
+{
+  "date": "2024-09-02T14:57:18",
+  "worksiteName": "فوتم",
+  "total": 110.0,
+  "netTotal": 110.0,
+  "items": [
+    {
+      "description": "ﻣﻌﺠﻮﻧﺔ ﻣﺠﻚ ﺑﻮﻧﺪ ﻃﻤﺒﻮﺭ ﻛﻴﻠﻮ25",
+      "quantity": 2.0,
+      "unit_price": 55.0,
+      "total_price": 110.0
+    }
+  ],
+  "total_match": true
+}

@@ -1,0 +1,21 @@
+{
+  "date": "2025-01-05T14:59:54",
+  "worksiteName": "الدبلماسي",
+  "total": 200.0,
+  "netTotal": 200.0,
+  "items": [
+    {
+      "description": "\" ﺍﺻﻔﺮ9 ﻭﺭﻕ ﺣﻒ",
+      "quantity": 20.0,
+      "unit_price": 5.0,
+      "total_price": 100.0
+    },
+    {
+      "description": "\" ﺍﺻﻔﺮ9 ﻭﺭﻕ ﺣﻒ20",
+      "quantity": 2.0,
+      "unit_price": 5.0,
+      "total_price": 100.0
+    }
+  ],
+  "total_match": false
+}

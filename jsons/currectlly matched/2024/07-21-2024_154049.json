@@ -1,0 +1,21 @@
+{
+  "date": "2024-07-21T15:40:49",
+  "worksiteName": "other",
+  "total": 42.0,
+  "netTotal": 42.0,
+  "items": [
+    {
+      "description": "ﺷﻄﺎﻓﺔ ﺍﻳﻄﺎﻟﻲ ﺍﺑﻴﺾ",
+      "quantity": 1.0,
+      "unit_price": 35.0,
+      "total_price": 35.0
+    },
+    {
+      "description": "ﺗﻲ ﺷﻄﺎﻓﺔ ﺑﻼﺳﺘﻴﻚ",
+      "quantity": 1.0,
+      "unit_price": 7.0,
+      "total_price": 7.0
+    }
+  ],
+  "total_match": true
+}

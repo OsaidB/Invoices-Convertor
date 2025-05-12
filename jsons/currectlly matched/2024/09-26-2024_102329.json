@@ -1,0 +1,21 @@
+{
+  "date": "2024-09-26T10:23:29",
+  "worksiteName": "الصيدليه",
+  "total": 170.0,
+  "netTotal": 170.0,
+  "items": [
+    {
+      "description": "ﻣﺘﺮ3 ﺯﻭﺍﻳﺎ ﺻﻔﺮﻳﺔ",
+      "quantity": 6.0,
+      "unit_price": 10.0,
+      "total_price": 60.0
+    },
+    {
+      "description": "ﻣﻌﺠﻮﻧﺔ ﻣﺠﻚ ﺑﻮﻧﺪ ﻃﻤﺒﻮﺭ ﻛﻴﻠﻮ25",
+      "quantity": 2.0,
+      "unit_price": 55.0,
+      "total_price": 110.0
+    }
+  ],
+  "total_match": true
+}

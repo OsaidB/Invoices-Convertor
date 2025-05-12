@@ -1,0 +1,15 @@
+{
+  "date": "2024-09-05T14:53:23",
+  "worksiteName": "فوتون",
+  "total": 25.0,
+  "netTotal": 25.0,
+  "items": [
+    {
+      "description": "ﺷﻮﺍﻝ ﻧﺤﺎﺗﺔ ﻧﺎﻋﻤﺔ",
+      "quantity": 5.0,
+      "unit_price": 5.0,
+      "total_price": 25.0
+    }
+  ],
+  "total_match": true
+}

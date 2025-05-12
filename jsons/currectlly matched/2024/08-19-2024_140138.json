@@ -1,0 +1,27 @@
+{
+  "date": "2024-08-19T14:01:38",
+  "worksiteName": "معايعة",
+  "total": 535.0,
+  "netTotal": 535.0,
+  "items": [
+    {
+      "description": "ﻣﻌﺠﻮﻧﺔ ﻣﺠﻚ ﺑﻮﻧﺪ ﻃﻤﺒﻮﺭ ﻛﻴﻠﻮ25",
+      "quantity": 5.0,
+      "unit_price": 55.0,
+      "total_price": 275.0
+    },
+    {
+      "description": "(0.45) ﺳﻢ5 ﺍﺭﺿﻲ ﺍﻟﻌﺎﻣﻮﺭ",
+      "quantity": 10.0,
+      "unit_price": 8.0,
+      "total_price": 80.0
+    },
+    {
+      "description": "(0.45)  ﺳﻢ5 ﻋﻤﻮﺩ ﺍﻟﻌﺎﻣﻮﺭ",
+      "quantity": 20.0,
+      "unit_price": 9.0,
+      "total_price": 180.0
+    }
+  ],
+  "total_match": true
+}

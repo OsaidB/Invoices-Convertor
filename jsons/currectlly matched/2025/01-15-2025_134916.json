@@ -1,0 +1,15 @@
+{
+  "date": "2025-01-15T13:49:16",
+  "worksiteName": "other",
+  "total": 100.0,
+  "netTotal": 100.0,
+  "items": [
+    {
+      "description": "*30 ﻓﺘﺤﺔ ﺻﻴﺎﻧﺔ",
+      "quantity": 1.0,
+      "unit_price": 100.0,
+      "total_price": 100.0
+    }
+  ],
+  "total_match": true
+}

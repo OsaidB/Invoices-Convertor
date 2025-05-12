@@ -1,0 +1,27 @@
+{
+  "date": "2025-01-28T08:19:49",
+  "worksiteName": "other",
+  "total": 145.0,
+  "netTotal": 145.0,
+  "items": [
+    {
+      "description": "ﻣﻌﺠﻮﻧﺔ ﻣﺠﻚ ﺑﻮﻧﺪ ﻃﻤﺒﻮﺭ ﻛﻴﻠﻮ25",
+      "quantity": 2.0,
+      "unit_price": 55.0,
+      "total_price": 110.0
+    },
+    {
+      "description": "DL25 ﺧﻴﻂ ﻋﻼﻡ ﻣﻊ ﻧﻴﻠﺔ",
+      "quantity": 2.0,
+      "unit_price": 20.0,
+      "total_price": 20.0
+    },
+    {
+      "description": "ﻣﻨﺸﺎﺭﺓ ﺟﺒﺺ",
+      "quantity": 3.0,
+      "unit_price": 15.0,
+      "total_price": 15.0
+    }
+  ],
+  "total_match": false
+}

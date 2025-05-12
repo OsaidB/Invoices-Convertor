@@ -1,0 +1,27 @@
+{
+  "date": "2024-07-30T09:01:19",
+  "worksiteName": "خالد فارس",
+  "total": 945.0,
+  "netTotal": 945.0,
+  "items": [
+    {
+      "description": "ﺍﺟﺮﺓ ﻧﻘﻞ",
+      "quantity": 1.0,
+      "unit_price": 80.0,
+      "total_price": 80.0
+    },
+    {
+      "description": "ﺳﻢ ﺟﺒﺺ.5 ﺑﺮﺍﻏﻲ",
+      "quantity": 2.0,
+      "unit_price": 35.0,
+      "total_price": 70.0
+    },
+    {
+      "description": "ﺍﻟﻮﺍﺡ ﺟﺒﺺ ﺍﺧﻀﺮ ﺍﻭﺭ ﺳﻢ2.6 ﺑﻮﻧﺪ",
+      "quantity": 15.0,
+      "unit_price": 53.0,
+      "total_price": 795.0
+    }
+  ],
+  "total_match": true
+}

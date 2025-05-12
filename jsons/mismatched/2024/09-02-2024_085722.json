@@ -1,0 +1,33 @@
+{
+  "date": "2024-09-02T08:57:22",
+  "worksiteName": "other",
+  "total": 85.0,
+  "netTotal": 85.0,
+  "items": [
+    {
+      "description": "ﻟﺘﺮ ﺗﻨﺮ ﻋﺎﺩﻱ",
+      "quantity": 1.0,
+      "unit_price": 15.0,
+      "total_price": 15.0
+    },
+    {
+      "description": "ﻟﺘﺮ2.5 ﻻﻙ",
+      "quantity": 2.0,
+      "unit_price": 50.0,
+      "total_price": 50.0
+    },
+    {
+      "description": "ﺳﻢ0 ﻳﺪ ﺭﻭﻝ ﺑﻮﻳﺎ",
+      "quantity": 1.0,
+      "unit_price": 10.0,
+      "total_price": 10.0
+    },
+    {
+      "description": "ﻧﺴﻠﺔ ﺭﻭﻝ ﺑﻮﻳﺎ ﺩﻳﻜﻮﺭ",
+      "quantity": 2.0,
+      "unit_price": 5.0,
+      "total_price": 10.0
+    }
+  ],
+  "total_match": false
+}

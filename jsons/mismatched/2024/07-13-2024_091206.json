@@ -1,0 +1,33 @@
+{
+  "date": "2024-07-13T09:12:06",
+  "worksiteName": "خالد فارس",
+  "total": 750.0,
+  "netTotal": 750.0,
+  "items": [
+    {
+      "description": "ﺗﻠﻮﻳﻦ ﻣﺎﻛﻨﺔ",
+      "quantity": 1.0,
+      "unit_price": 220.0,
+      "total_price": 220.0
+    },
+    {
+      "description": "A  ﻟﺘﺮ ﻃﻤﺒﻮﺭ5 ﺳﻮﺑﺮ ﻟﻚ",
+      "quantity": 2.0,
+      "unit_price": 120.0,
+      "total_price": 120.0
+    },
+    {
+      "description": "ﻣﻌﺠﻮﻧﺔ ﻣﺠﻚ ﺑﻮﻧﺪ ﻃﻤﺒﻮﺭ ﻛﻴﻠﻮ25",
+      "quantity": 6.0,
+      "unit_price": 55.0,
+      "total_price": 330.0
+    },
+    {
+      "description": "ﻛﻴﻠﻮ5 ﻛﻠﺴﻴﻤﻮ ﻃﻤﺒﻮﺭ",
+      "quantity": 4.0,
+      "unit_price": 20.0,
+      "total_price": 80.0
+    }
+  ],
+  "total_match": false
+}

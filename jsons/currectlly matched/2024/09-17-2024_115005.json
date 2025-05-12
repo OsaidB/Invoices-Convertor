@@ -1,0 +1,21 @@
+{
+  "date": "2024-09-17T11:50:05",
+  "worksiteName": "اسطنبول",
+  "total": 280.0,
+  "netTotal": 280.0,
+  "items": [
+    {
+      "description": "ﻣﻌﺠﻮﻧﺔ ﻣﺠﻚ ﺑﻮﻧﺪ ﻃﻤﺒﻮﺭ ﻛﻴﻠﻮ25",
+      "quantity": 4.0,
+      "unit_price": 55.0,
+      "total_price": 220.0
+    },
+    {
+      "description": "ﻛﻴﻠﻮ5 ﻛﻠﺴﻴﻤﻮ ﻃﻤﺒﻮﺭ",
+      "quantity": 3.0,
+      "unit_price": 20.0,
+      "total_price": 60.0
+    }
+  ],
+  "total_match": true
+}

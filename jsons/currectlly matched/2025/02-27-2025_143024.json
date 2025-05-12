@@ -1,0 +1,45 @@
+{
+  "date": "2025-02-27T14:30:24",
+  "worksiteName": "صالون السيدات",
+  "total": 3480.0,
+  "netTotal": 3480.0,
+  "items": [
+    {
+      "description": "ﺍﺟﺮﺓ ﻧﻘﻞ",
+      "quantity": 1.0,
+      "unit_price": 70.0,
+      "total_price": 70.0
+    },
+    {
+      "description": "ﺳﻢ2.5 ﺑﺮﺍﻏﻲ ﺟﺒﺺ click",
+      "quantity": 1.0,
+      "unit_price": 350.0,
+      "total_price": 350.0
+    },
+    {
+      "description": "ﺳﻢ ﺗﻴﻜﻦ5 ﺍﺭﺿﻲ",
+      "quantity": 30.0,
+      "unit_price": 11.0,
+      "total_price": 330.0
+    },
+    {
+      "description": "ﺳﻢ ﺗﻴﻜﻦ5 ﻋﻤﻮﺩ",
+      "quantity": 50.0,
+      "unit_price": 12.0,
+      "total_price": 600.0
+    },
+    {
+      "description": "ﺳﻢ ﺍﺯﺭﻕ2.6 ﺍﻟﻮﺍﺡ ﺟﺒﺺ ﺍﻭﺭ ﺑﻮﻧﺪ",
+      "quantity": 4.0,
+      "unit_price": 135.0,
+      "total_price": 540.0
+    },
+    {
+      "description": "ﺍﻟﻮﺍﺡ ﺟﺒﺺ ﺍﺧﻀﺮ ﺍﻭﺭ ﺳﻢ2.6 ﺑﻮﻧﺪ",
+      "quantity": 30.0,
+      "unit_price": 53.0,
+      "total_price": 1590.0
+    }
+  ],
+  "total_match": true
+}

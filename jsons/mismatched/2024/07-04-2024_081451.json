@@ -1,0 +1,93 @@
+{
+  "date": "2024-07-04T08:14:51",
+  "worksiteName": "عيادة الدكتور مؤيد جبر",
+  "total": 2526.0,
+  "netTotal": 2526.0,
+  "items": [
+    {
+      "description": "ﺍﺟﺮﺓ ﻧﻘﻞ",
+      "quantity": 1.0,
+      "unit_price": 70.0,
+      "total_price": 70.0
+    },
+    {
+      "description": "ﺯﻭﺍﻳﺎ ﺟﺒﺺ ﻋﺎﺩﻱ ﺍﻟﺘﺮﺍ",
+      "quantity": 1.0,
+      "unit_price": 30.0,
+      "total_price": 30.0
+    },
+    {
+      "description": "ﻣﺘﺮ50 ﻭﺭﻕ ﺟﺒﺺ",
+      "quantity": 1.0,
+      "unit_price": 25.0,
+      "total_price": 25.0
+    },
+    {
+      "description": "ﻣﻌﺠﻮﻧﺔ ﻣﺠﻚ ﺑﻮﻧﺪ ﻃﻤﺒﻮﺭ ﻛﻴﻠﻮ25",
+      "quantity": 2.0,
+      "unit_price": 55.0,
+      "total_price": 110.0
+    },
+    {
+      "description": "ﻛﻴﻠﻮ5 ﻛﻠﺴﻴﻤﻮ ﻃﻤﺒﻮﺭ",
+      "quantity": 2.0,
+      "unit_price": 20.0,
+      "total_price": 40.0
+    },
+    {
+      "description": ".0*50 ﺑﺮﺍﻏﻲ ﺳﺒﻴﺖ300",
+      "quantity": 6.0,
+      "unit_price": 0.1,
+      "total_price": 30.0
+    },
+    {
+      "description": "ﺳﻢ ﺟﺒﺺ.5 ﺑﺮﺍﻏﻲ",
+      "quantity": 2.0,
+      "unit_price": 35.0,
+      "total_price": 70.0
+    },
+    {
+      "description": "ﺑﺮﺍﻏﻲ ﻣﻊ ﺩﺑﻞ",
+      "quantity": 500.0,
+      "unit_price": 0.1,
+      "total_price": 50.0
+    },
+    {
+      "description": ".2*13 ﺑﺮﺍﻏﻲ ﻃﺒﻌﺔ ﺑﺎﺡ500",
+      "quantity": 9.0,
+      "unit_price": 0.05,
+      "total_price": 25.0
+    },
+    {
+      "description": "ﺳﻢ ﺗﻴﻜﻦ7 ﻋﻤﻮﺩ",
+      "quantity": 10.0,
+      "unit_price": 14.0,
+      "total_price": 140.0
+    },
+    {
+      "description": "ﺳﻢ ﺗﻴﻜﻦ7 ﺍﺭﺿﻲ",
+      "quantity": 10.0,
+      "unit_price": 13.0,
+      "total_price": 130.0
+    },
+    {
+      "description": "ﺳﻢ ﺗﻴﻜﻦ5 ﺍﺭﺿﻲ",
+      "quantity": 20.0,
+      "unit_price": 11.0,
+      "total_price": 220.0
+    },
+    {
+      "description": "ﺳﻢ ﺗﻴﻜﻦ5 ﻋﻤﻮﺩ",
+      "quantity": 50.0,
+      "unit_price": 12.0,
+      "total_price": 600.0
+    },
+    {
+      "description": "ﺍﻟﻮﺍﺡ ﺟﺒﺺ ﺍﺧﻀﺮ ﺍﻭﺭ ﻣﺘﺮ3  ﺑﻮﻧﺪ",
+      "quantity": 17.0,
+      "unit_price": 58.0,
+      "total_price": 986.0
+    }
+  ],
+  "total_match": false
+}

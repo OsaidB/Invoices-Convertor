@@ -1,0 +1,45 @@
+{
+  "date": "2024-11-24T10:45:20",
+  "worksiteName": "العجولي",
+  "total": 978.0,
+  "netTotal": 978.0,
+  "items": [
+    {
+      "description": "ﺫﻛﺮ ﻛﻬﺮﺑﺎﺀ",
+      "quantity": 1.0,
+      "unit_price": 3.0,
+      "total_price": 3.0
+    },
+    {
+      "description": "ﻭﺍﻁ50 ﻛﺸﺎﻑ",
+      "quantity": 1.0,
+      "unit_price": 120.0,
+      "total_price": 120.0
+    },
+    {
+      "description": "ﻛﻴﻠﻮ5 ﻛﻠﺴﻴﻤﻮ ﻃﻤﺒﻮﺭ",
+      "quantity": 4.0,
+      "unit_price": 20.0,
+      "total_price": 80.0
+    },
+    {
+      "description": "ﺯﻭﺍﻳﺎ ﺟﺒﺺ ﻋﺎﺩﻱ ﺍﻟﺘﺮﺍ",
+      "quantity": 10.0,
+      "unit_price": 30.0,
+      "total_price": 300.0
+    },
+    {
+      "description": "ﻡ7 ﻓﻴﺒﺮﺍ ﺍﻣﺮﻳﻜﻲ ﺍﺻﻠﻲ",
+      "quantity": 5.0,
+      "unit_price": 45.0,
+      "total_price": 225.0
+    },
+    {
+      "description": "ﻣﺘﺮ150 ﻭﺭﻕ ﺟﺒﺺ",
+      "quantity": 10.0,
+      "unit_price": 25.0,
+      "total_price": 250.0
+    }
+  ],
+  "total_match": true
+}

@@ -1,0 +1,45 @@
+{
+  "date": "2024-06-05T09:43:55",
+  "worksiteName": "other",
+  "total": 1445.0,
+  "netTotal": 1445.0,
+  "items": [
+    {
+      "description": "ﺍﻣﺒﻴﺮ  ﺑﻄﺎﺭﻳﺔ2 ﺑﺘﺸﻮﻥ DE-DC20- ﻓﻠﺖ20 2D",
+      "quantity": 4.0,
+      "unit_price": 900.0,
+      "total_price": 900.0
+    },
+    {
+      "description": "ﻛﻴﻠﻮ5 ﻛﻠﺴﻴﻤﻮ ﻃﻤﺒﻮﺭ",
+      "quantity": 4.0,
+      "unit_price": 20.0,
+      "total_price": 80.0
+    },
+    {
+      "description": "ﻣﺎﻟﺞ ﺳﺘﺎﻧﻠﺲ ﻳﺪ ﺧﺸﺐ DUYAR ﺳﻢ",
+      "quantity": 50.0,
+      "unit_price": 50.0,
+      "total_price": 50.0
+    },
+    {
+      "description": "ﻣﻌﺠﻮﻧﺔ ﻣﺠﻚ ﺑﻮﻧﺪ ﻃﻤﺒﻮﺭ ﻛﻴﻠﻮ25",
+      "quantity": 6.0,
+      "unit_price": 55.0,
+      "total_price": 330.0
+    },
+    {
+      "description": "ﻛﻤﺎﻣﺔ ﻣﻊ ﻓﻠﺘﺮ ﺍﻟﺘﺮﺍ",
+      "quantity": 4.0,
+      "unit_price": 5.0,
+      "total_price": 20.0
+    },
+    {
+      "description": "ﻭﺭﻕ ﺣﻒ ﺍﺳﻮﺩ ﺷﻤﺸﻮﻡ",
+      "quantity": 1.0,
+      "unit_price": 65.0,
+      "total_price": 65.0
+    }
+  ],
+  "total_match": false
+}

@@ -1,0 +1,15 @@
+{
+  "date": "2025-02-11T08:30:27",
+  "worksiteName": "other",
+  "total": 50.0,
+  "netTotal": 50.0,
+  "items": [
+    {
+      "description": "ﻣﺘﺮ150 ﻭﺭﻕ ﺟﺒﺺ",
+      "quantity": 2.0,
+      "unit_price": 25.0,
+      "total_price": 50.0
+    }
+  ],
+  "total_match": true
+}

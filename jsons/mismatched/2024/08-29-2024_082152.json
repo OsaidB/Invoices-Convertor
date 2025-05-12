@@ -1,0 +1,45 @@
+{
+  "date": "2024-08-29T08:21:52",
+  "worksiteName": "other",
+  "total": 109.0,
+  "netTotal": 109.0,
+  "items": [
+    {
+      "description": "ﻟﺘﺮ ﺗﻨﺮ ﻋﺎﺩﻱ",
+      "quantity": 1.0,
+      "unit_price": 15.0,
+      "total_price": 15.0
+    },
+    {
+      "description": "ﻧﺴﻠﺔ ﺭﻭﻝ ﺑﻮﻳﺎ ﺩﻳﻜﻮﺭ",
+      "quantity": 2.0,
+      "unit_price": 5.0,
+      "total_price": 10.0
+    },
+    {
+      "description": "GOLD \"1.5 ﻓﺮﺷﺎﺓ2",
+      "quantity": 3.0,
+      "unit_price": 7.0,
+      "total_price": 14.0
+    },
+    {
+      "description": "ﻟﺘﺮ ﺍﺑﻴﺾ2.5 ﻻﻙ",
+      "quantity": 4.0,
+      "unit_price": 50.0,
+      "total_price": 50.0
+    },
+    {
+      "description": "ﻟﺘﺮ4/1 ﻻﻙ",
+      "quantity": 5.0,
+      "unit_price": 10.0,
+      "total_price": 10.0
+    },
+    {
+      "description": "ﻟﺘﺮ4/1 ﻻﻙ",
+      "quantity": 6.0,
+      "unit_price": 10.0,
+      "total_price": 10.0
+    }
+  ],
+  "total_match": false
+}

@@ -1,0 +1,21 @@
+{
+  "date": "2024-10-07T08:40:11",
+  "worksiteName": "other",
+  "total": 405.0,
+  "netTotal": 405.0,
+  "items": [
+    {
+      "description": "ﻣﻌﺠﻮﻧﺔ ﻣﺠﻚ ﺑﻮﻧﺪ ﻃﻤﺒﻮﺭ ﻛﻴﻠﻮ25",
+      "quantity": 3.0,
+      "unit_price": 55.0,
+      "total_price": 165.0
+    },
+    {
+      "description": "ﻟﺘﺮ ﻃﻤﺒﻮﺭ18 ﺑﻮﻟﺴﻴﺪ",
+      "quantity": 2.0,
+      "unit_price": 120.0,
+      "total_price": 240.0
+    }
+  ],
+  "total_match": true
+}

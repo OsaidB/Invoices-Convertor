@@ -1,0 +1,15 @@
+{
+  "date": "2025-02-26T10:34:39",
+  "worksiteName": "other",
+  "total": 200.0,
+  "netTotal": 200.0,
+  "items": [
+    {
+      "description": "ﺳﻠﻢ ﺧﺸﺐ ﻋﺮﻱ ﻧﺨﺐ ﺍﻭﻝ ﺩﺭﺟﺎﺕ5",
+      "quantity": 2.0,
+      "unit_price": 100.0,
+      "total_price": 200.0
+    }
+  ],
+  "total_match": true
+}

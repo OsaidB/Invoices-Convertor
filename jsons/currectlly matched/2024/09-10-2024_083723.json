@@ -1,0 +1,33 @@
+{
+  "date": "2024-09-10T08:37:23",
+  "worksiteName": "ستي ان",
+  "total": 1155.0,
+  "netTotal": 1155.0,
+  "items": [
+    {
+      "description": "DL5093  ﻣﺎﻟﺞ",
+      "quantity": 1.0,
+      "unit_price": 20.0,
+      "total_price": 20.0
+    },
+    {
+      "description": "ﻣﺎﻟﺞ ﺑﻼﺳﺘﻴﻚ ﺍﺣﻤﺮ",
+      "quantity": 1.0,
+      "unit_price": 15.0,
+      "total_price": 15.0
+    },
+    {
+      "description": "ﻟﺘﺮ18 ﺳﻮﺑﺮ ﻛﺮﻳﻞ ﻋﺎﺩﻱ ﻃﻤﺒﻮﺭ",
+      "quantity": 2.0,
+      "unit_price": 230.0,
+      "total_price": 460.0
+    },
+    {
+      "description": "ﻟﺘﺮ18 ﺟﺮﺍﻓﻴﻮ4",
+      "quantity": 4.0,
+      "unit_price": 165.0,
+      "total_price": 660.0
+    }
+  ],
+  "total_match": true
+}

@@ -1,0 +1,51 @@
+{
+  "date": "2024-09-01T08:36:44",
+  "worksiteName": "عمارة اسطنبول",
+  "total": 2355.0,
+  "netTotal": 2355.0,
+  "items": [
+    {
+      "description": "ﺍﺟﺮﺓ ﻧﻘﻞ",
+      "quantity": 1.0,
+      "unit_price": 70.0,
+      "total_price": 70.0
+    },
+    {
+      "description": "ﺑﺮﺍﻏﻲ ﻣﻊ ﺩﺑﻞ",
+      "quantity": 500.0,
+      "unit_price": 0.1,
+      "total_price": 50.0
+    },
+    {
+      "description": ".2*13 ﺑﺮﺍﻏﻲ ﻃﺒﻌﺔ ﺑﺎﺡ",
+      "quantity": 3.0,
+      "unit_price": 35.0,
+      "total_price": 35.0
+    },
+    {
+      "description": "ﺳﻢ ﺟﺒﺺ2.5 ﺑﺮﺍﻏﻲ",
+      "quantity": 3.0,
+      "unit_price": 35.0,
+      "total_price": 105.0
+    },
+    {
+      "description": "(0.45) ﺳﻢ7 ﺍﺭﺿﻲ30",
+      "quantity": 5.0,
+      "unit_price": 9.0,
+      "total_price": 270.0
+    },
+    {
+      "description": "(0.45) ﺳﻢ7 ﻋﻤﻮﺩ50",
+      "quantity": 6.0,
+      "unit_price": 10.0,
+      "total_price": 500.0
+    },
+    {
+      "description": "ﺍﻟﻮﺍﺡ ﺟﺒﺺ ﺍﺧﻀﺮ ﺍﻭﺭ ﺳﻢ2.6 ﺑﻮﻧﺪ",
+      "quantity": 25.0,
+      "unit_price": 53.0,
+      "total_price": 1325.0
+    }
+  ],
+  "total_match": false
+}

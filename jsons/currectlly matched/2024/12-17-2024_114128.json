@@ -1,0 +1,15 @@
+{
+  "date": "2024-12-17T11:41:28",
+  "worksiteName": "other",
+  "total": 150.0,
+  "netTotal": 150.0,
+  "items": [
+    {
+      "description": "ﺳﻴﻠﻜﻮﻥ ﺍﺑﻴﺾ ﺍﻛﺴﺘﺮﻳﻢ",
+      "quantity": 6.0,
+      "unit_price": 25.0,
+      "total_price": 150.0
+    }
+  ],
+  "total_match": true
+}

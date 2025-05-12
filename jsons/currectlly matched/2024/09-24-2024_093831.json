@@ -1,0 +1,45 @@
+{
+  "date": "2024-09-24T09:38:31",
+  "worksiteName": "الصيدلية",
+  "total": 262.0,
+  "netTotal": 262.0,
+  "items": [
+    {
+      "description": "ﺳﺒﺮﻳﻪ ﺭﺵ ﺍﺳﻮﺩ ﻣﻂ",
+      "quantity": 1.0,
+      "unit_price": 7.0,
+      "total_price": 7.0
+    },
+    {
+      "description": "ﻧﺴﻠﺔ ﺭﻭﻝ ﺑﻮﻳﺎ ﺩﻳﻜﻮﺭ",
+      "quantity": 2.0,
+      "unit_price": 5.0,
+      "total_price": 10.0
+    },
+    {
+      "description": "ﻫﺎﻳﺘﻚ7 ﺳﻴﻠﻜﻮﻥ ﺳﻮﺑﺮ ﺍﺑﻴﺾ",
+      "quantity": 2.0,
+      "unit_price": 25.0,
+      "total_price": 50.0
+    },
+    {
+      "description": "\" ﺫﻫﺒﻲ.5 ﻓﺮﺷﺎﺓ",
+      "quantity": 1.0,
+      "unit_price": 15.0,
+      "total_price": 15.0
+    },
+    {
+      "description": "ﻡ50  ﺳﻢ5 ﺗﺐ ﻭﺭﻕ TESA",
+      "quantity": 3.0,
+      "unit_price": 10.0,
+      "total_price": 30.0
+    },
+    {
+      "description": "ﻡ6 ﺑﺮﻓﻴﻞ ﻓﺮﺯ ﺟﺒﺺ",
+      "quantity": 2.0,
+      "unit_price": 75.0,
+      "total_price": 150.0
+    }
+  ],
+  "total_match": true
+}

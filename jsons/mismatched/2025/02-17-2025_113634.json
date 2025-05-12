@@ -1,0 +1,69 @@
+{
+  "date": "2025-02-17T11:36:34",
+  "worksiteName": "other",
+  "total": 380.0,
+  "netTotal": 380.0,
+  "items": [
+    {
+      "description": "\" ﺫﻫﺒﻲ3 ﻓﺮﺷﺎﺓ",
+      "quantity": 1.0,
+      "unit_price": 35.0,
+      "total_price": 35.0
+    },
+    {
+      "description": "\" ﻳﺪ ﺑﻼﺳﺘﻚ4 ﻓﺮﺷﺎ DL",
+      "quantity": 509114.0,
+      "unit_price": 15.0,
+      "total_price": 15.0
+    },
+    {
+      "description": "ﺳﻢ15 ﺭﻭﻝ ﻃﺮﺍﺷﺔ ﺩﻳﻜﻮﺭ",
+      "quantity": 1.0,
+      "unit_price": 15.0,
+      "total_price": 15.0
+    },
+    {
+      "description": "ﺭﻭﻝ ﻃﺮﺍﺷﺔ ﺩﻳﻜﻮﺭ ﺳﻢ",
+      "quantity": 25.0,
+      "unit_price": 20.0,
+      "total_price": 20.0
+    },
+    {
+      "description": "ﻟﺘﺮ ﻃﻤﺒﻮﺭ8 ﺑﻮﻟﺴﻴﺪ",
+      "quantity": 1.0,
+      "unit_price": 120.0,
+      "total_price": 120.0
+    },
+    {
+      "description": "ﻡ ﺿﺒﻞ50  ﺳﻢ5 ﺗﺐ ﻭﺭﻕ",
+      "quantity": 2.0,
+      "unit_price": 10.0,
+      "total_price": 20.0
+    },
+    {
+      "description": "ﺭﻭﻝ ﻛﺮﺗﻮﻥ",
+      "quantity": 1.0,
+      "unit_price": 50.0,
+      "total_price": 50.0
+    },
+    {
+      "description": "ﻭﺭﻕ ﺣﻒ ﺍﺳﻮﺩ ﺷﻤﺸﻮﻡ",
+      "quantity": 10.0,
+      "unit_price": 2.0,
+      "total_price": 20.0
+    },
+    {
+      "description": "ﻟﺘﺮ ﻋﺮﺑﻴﺔ1 ﺍﺭﺍﻛﺮﻳﻞ2",
+      "quantity": 9.0,
+      "unit_price": 25.0,
+      "total_price": 50.0
+    },
+    {
+      "description": "APC  ﻟﺘﺮ1 ﺟﻠﻔﺎﻛﺮﻳﻞ",
+      "quantity": 10.0,
+      "unit_price": 35.0,
+      "total_price": 35.0
+    }
+  ],
+  "total_match": false
+}
