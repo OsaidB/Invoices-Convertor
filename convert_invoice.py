@@ -4,6 +4,8 @@ import json
 import re
 import unicodedata
 import os
+from datetime import datetime
+
 from  decimal import Decimal, ROUND_HALF_UP
 
 # Helper: Normalize Arabic text
@@ -133,8 +135,10 @@ def process_invoice_pdf(input_file, pdf_output_dir="pdfs", json_output_dir="json
                     "description": description,
                     "quantity": quantity,
                     "unit_price": unit_price,
-                    "total_price": total_price
+                    "total_price": total_price,
+                    "materialId": None
                 }
+
                 invoice_data["items"].append(item)
                 print(f"Added item: {item}")
 
@@ -245,6 +249,8 @@ def process_invoice_pdf(input_file, pdf_output_dir="pdfs", json_output_dir="json
     print(f"✅ Fully cleaned JSON saved as {json_output_file}")
     print("Final invoice data:", invoice_data)
 
+    invoice_data["confirmed"] = False
+    invoice_data["parsedAt"] = datetime.utcnow().isoformat()
     return invoice_data
 
 # For standalone execution

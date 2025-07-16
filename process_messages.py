@@ -65,7 +65,9 @@ def main():
 
         # Process the PDF using the function from convert_invoice.py
         try:
+            # We're keeping the original URL (no need to generate new one)
             invoice_data = process_invoice_pdf(pdf_path, "pdfs", "jsons")
+            print(f"Original URL used: {url}")
 
             # Debug the extracted date
             print(f"Raw date from invoice_data: {invoice_data['date']}")
@@ -82,27 +84,7 @@ def main():
                     pdf_year_dir = os.path.join("pdfs", year)
                     os.makedirs(pdf_year_dir, exist_ok=True)
                     final_pdf_path = os.path.join(pdf_year_dir, f"{date_str}.pdf")
-                    final_json_path = os.path.join("jsons", year, f"{date_str}.json")
-
-                    # Ensure unique filenames by appending index if file exists
-                    pdf_base, pdf_ext = os.path.splitext(final_pdf_path)
-                    pdf_index = 0
-                    while os.path.exists(final_pdf_path):
-                        final_pdf_path = f"{pdf_base}_{pdf_index}{pdf_ext}"
-                        pdf_index += 1
-
-                    # Rename the temporary PDF to the final name
-                    os.rename(pdf_path, final_pdf_path)
-                    print(f"Renamed PDF to: {final_pdf_path}")
-                else:
-                    print(f"Date format mismatch for {pdf_path}, expected 'YYYY-MM-DDTHH:MM:SS', got '{invoice_data['date']}', keeping temporary PDF name")
-                    final_pdf_path = pdf_path
-            else:
-                print(f"No date extracted for {pdf_path}, keeping temporary PDF name")
-                final_pdf_path = pdf_path
-
-            # The JSON is already saved with the date-based name by process_invoice.py
-            print(f"JSON saved as: {final_json_path if invoice_data['date'] and date_match else 'default_name_in_jsons'}")
+                    print("JSON already saved by convert_invoice.py")
 
             # Log the result
             print(f"Processed invoice data for {pdf_path}: {invoice_data}")
