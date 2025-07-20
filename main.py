@@ -8,6 +8,11 @@ import os
 import tempfile
 from convert_invoice import process_invoice_pdf
 
+from fix_mismatched_invoices import fix_mismatched_invoices
+from move_matched_back import move_matched_back
+from send_invoices import send_invoices_to_api
+from fastapi.responses import JSONResponse
+
 app = FastAPI()
 
 class InvoiceRequest(BaseModel):
@@ -64,3 +69,20 @@ def process_invoice(req: InvoiceRequest):
 
     finally:
         os.remove(tmp_path)
+
+@app.post("/reprocess-mismatched")
+def reprocess_mismatched():
+    try:
+        print("🔁 Fixing mismatched invoices...")
+        fix_mismatched_invoices()
+
+        print("📂 Moving matched invoices back...")
+        move_matched_back()
+
+        print("📤 Sending reprocessed invoices to backend...")
+        send_invoices_to_api(json_base_dir="jsons")
+
+        return JSONResponse(content={"status": "✅ Reprocessing complete"}, status_code=200)
+
+    except Exception as e:
+        raise HTTPException(status_code=500, detail=f"Reprocessing failed: {str(e)}")
