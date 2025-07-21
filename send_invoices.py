@@ -10,7 +10,7 @@ def send_invoices_to_api(json_base_dir="jsons"):
     to http://localhost:8080/api/invoices.
     """
     # Define the API endpoint
-    api_url = "http://localhost:8080/api/invoices"
+    api_url = "https://intfitout-backend-production.up.railway.app/api/invoices"
 
     # Ensure the base directory exists
     if not os.path.exists(json_base_dir):
