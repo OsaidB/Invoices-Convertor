@@ -1,22 +1,20 @@
-#convert_invoice.py
 import fitz
 import json
 import re
 import unicodedata
 import os
 from datetime import datetime
-
-from  decimal import Decimal, ROUND_HALF_UP
+from decimal import Decimal, ROUND_HALF_UP
 
 # Helper: Normalize Arabic text
 def normalize_arabic(text):
     return unicodedata.normalize('NFKC', text).replace("ـ", "").strip()
 
-def process_invoice_pdf(input_file, pdf_output_dir="pdfs", json_output_dir="jsons"):
+def process_invoice_pdf(input_file):
     """
     Process a PDF invoice file and return the extracted data as a dictionary.
-    Saves the PDF and JSON to specified directories based on the date (MM-DD-YYYY_HHMMSS) in year-based subdirectories.
-    Returns the invoice data dictionary.
+    Extracts date, worksite name, itemized data, and computes total validation.
+    Does not write any files or directories.
     """
     doc = fitz.open(input_file)
     lines = [line.strip() for line in doc[0].get_text().splitlines() if line.strip()]
@@ -28,17 +26,14 @@ def process_invoice_pdf(input_file, pdf_output_dir="pdfs", json_output_dir="json
         "total": None,
         "netTotal": None,
         "items": []
-
     }
 
     # Extract date
     for line in lines:
         if re.match(r"\d{1,2}/\d{1,2}/\d{4}\s+\d{2}:\d{2}:\d{2}", line):
-            # Extract DD/MM/YYYY HH:MM:SS (e.g., "27/2/2025 13:35:36")
             date_match = re.match(r"(\d{1,2})/(\d{1,2})/(\d{4})\s+(\d{2}):(\d{2}):(\d{2})", line)
             if date_match:
                 day, month, year, hour, minute, second = date_match.groups()
-                # Reformat to YYYY-MM-DDTHH:MM:SS (e.g., "2025-02-27T13:35:36")
                 invoice_data["date"] = f"{year}-{int(month):02d}-{int(day):02d}T{hour}:{minute}:{second}"
                 print(f"Reformatted date: {invoice_data['date']}")
             break
@@ -149,19 +144,20 @@ def process_invoice_pdf(input_file, pdf_output_dir="pdfs", json_output_dir="json
     # Extract totals
     for line in lines:
         norm_line = normalize_arabic(line)
-        if "المجموع" in norm_line:
+        if "المجموع" in norm_line and not invoice_data["total"]:
             match = re.search(r"([\d,]+\.\d{2})", line)
             if match:
                 invoice_data["total"] = float(match.group(1).replace(",", ""))
                 print(f"Total extracted: {invoice_data['total']}")
-        if "الصافي" in norm_line:
+        if "الصافي" in norm_line and not invoice_data["netTotal"]:
             match = re.search(r"([\d,]+\.\d{2})", line)
             if match:
                 invoice_data["netTotal"] = float(match.group(1).replace(",", ""))
                 print(f"Net extracted: {invoice_data['netTotal']}")
-        if not invoice_data["netTotal"] and invoice_data["total"]:
-            invoice_data["netTotal"] = invoice_data["total"]
-            print(f"Net set to total: {invoice_data['netTotal']}")
+
+    if not invoice_data["netTotal"] and invoice_data["total"]:
+        invoice_data["netTotal"] = invoice_data["total"]
+        print(f"Net set to total: {invoice_data['netTotal']}")
 
     # Item-level validation and total verification
     item_mismatches = []
@@ -180,80 +176,34 @@ def process_invoice_pdf(input_file, pdf_output_dir="pdfs", json_output_dir="json
                 "actual": float(actual_total_price)
             })
 
-        # Always sum the expected (corrected) value, not the potentially wrong one
         calculated_total += expected_total_price
 
     # Check against the written total
-    written_total = Decimal(str(invoice_data["total"])).quantize(Decimal("0.01"), rounding=ROUND_HALF_UP)
-    invoice_data["total_match"] = (calculated_total == written_total)
+    if invoice_data["total"] is not None:
+        written_total = Decimal(str(invoice_data["total"])).quantize(Decimal("0.01"), rounding=ROUND_HALF_UP)
+        invoice_data["total_match"] = (calculated_total == written_total)
+        print(f"Calculated total: {calculated_total}, Written total: {written_total}, Match: {invoice_data['total_match']}")
+    else:
+        invoice_data["total_match"] = False
+        print("❌ Written total not found in invoice")
 
-    # Log mismatches clearly
     if item_mismatches:
         print("⚠️ Item-level mismatches found:")
         for mismatch in item_mismatches:
             print(f" - {mismatch['description']}: expected {mismatch['expected']}, got {mismatch['actual']}")
 
-    print(f"Calculated total: {calculated_total}, Written total: {written_total}, Match: {invoice_data['total_match']}")
-
-    print(f"Final worksite value before export: {invoice_data['worksiteName']}")
-
-    # Create output directories if they don't exist
-    os.makedirs(pdf_output_dir, exist_ok=True)
-    os.makedirs(json_output_dir, exist_ok=True)
-
-# Generate output file name using date if available
-    if invoice_data["date"]:
-        # Parse date (e.g., "2024-07-04T08:14:51" -> MM-DD-YYYY_HHMMSS)
-        date_match = re.match(r"(\d{4})-(\d{2})-(\d{2})T(\d{2}):(\d{2}):(\d{2})", invoice_data["date"])
-        if date_match:
-            year, month, day, hour, minute, second = date_match.groups()
-            # Format as MM-DD-YYYY_HHMMSS for filenames
-            date_str = f"{month}-{day}-{year}_{hour}{minute}{second}"
-            # Create year-based subdirectories
-            pdf_year_dir = os.path.join(pdf_output_dir, year)
-            json_year_dir = os.path.join(json_output_dir, year)
-            os.makedirs(pdf_year_dir, exist_ok=True)
-            os.makedirs(json_year_dir, exist_ok=True)
-            pdf_output_file = os.path.join(pdf_year_dir, f"{date_str}.pdf")
-            json_output_file = os.path.join(json_year_dir, f"{date_str}.json")
-        else:
-            base_name = os.path.splitext(os.path.basename(input_file))[0]
-            output_base_name = base_name.replace("report", "invoice")
-            pdf_output_file = os.path.join(pdf_output_dir, f"{output_base_name}.pdf")
-            json_output_file = os.path.join(json_output_dir, f"{output_base_name}.json")
-    else:
-        base_name = os.path.splitext(os.path.basename(input_file))[0]
-        output_base_name = base_name.replace("report", "invoice")
-        pdf_output_file = os.path.join(pdf_output_dir, f"{output_base_name}.pdf")
-        json_output_file = os.path.join(json_output_dir, f"{output_base_name}.json")
-
-    # Ensure unique filenames by appending index if file exists
-    pdf_base, pdf_ext = os.path.splitext(pdf_output_file)
-    json_base, json_ext = os.path.splitext(json_output_file)
-    pdf_index = 0
-    json_index = 0
-    while os.path.exists(pdf_output_file):
-        pdf_output_file = f"{pdf_base}_{pdf_index}{pdf_ext}"
-        pdf_index += 1
-    while os.path.exists(json_output_file):
-        json_output_file = f"{json_base}_{json_index}{json_ext}"
-        json_index += 1
-
-    if not invoice_data["worksiteName"] or invoice_data["worksiteName"] == "":
+    if not invoice_data["worksiteName"]:
         invoice_data["worksiteName"] = "other"
         print("Force-set worksite to 'other' due to empty value")
 
-    # Export JSON
-    with open(json_output_file, "w", encoding="utf-8") as f:
-        json.dump(invoice_data, f, ensure_ascii=False, indent=2)
-    print(f"✅ Fully cleaned JSON saved as {json_output_file}")
-    print("Final invoice data:", invoice_data)
-
     invoice_data["confirmed"] = False
     invoice_data["parsedAt"] = datetime.utcnow().isoformat()
+
+    print("✅ Final invoice data prepared (not saved to file)")
     return invoice_data
 
-# For standalone execution
+# For standalone testing
 if __name__ == "__main__":
     input_file = "report (3).pdf"
-    process_invoice_pdf(input_file)
+    parsed_invoice = process_invoice_pdf(input_file)
+    print(json.dumps(parsed_invoice, ensure_ascii=False, indent=2))
