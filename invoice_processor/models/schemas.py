@@ -2,6 +2,7 @@
 
 from pydantic import BaseModel
 from typing import List
+from typing import List, Optional
 
 
 class InvoiceRequest(BaseModel):
@@ -20,8 +21,9 @@ class PendingInvoice(BaseModel):
     netTotal: float
     total: float
     worksiteName: str
+    worksiteId: Optional[int] = None  
     items: List[PendingInvoiceItem]
     totalMatch: bool
     pdfUrl: str
     confirmed: bool
-    parsedAt: str
+    parsedAt: Optional[str] = None
