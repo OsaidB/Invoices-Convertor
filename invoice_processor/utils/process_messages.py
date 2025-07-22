@@ -2,7 +2,7 @@
 import re
 import os
 import requests
-from invoice_parser.parse_invoice.convert_invoice import process_invoice_pdf
+from invoice_processor.parse_invoice.convert_invoice import process_invoice_pdf
 import charset_normalizer
 
 # Step 1: Read the text file and extract relevant rows

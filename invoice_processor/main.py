@@ -7,9 +7,9 @@ import os
 import tempfile
 from datetime import datetime
 
-from convert_invoice import process_invoice_pdf
-from fix_mismatched_invoices import fix_mismatched_invoices
-from send_invoices import send_invoice_to_api
+from invoice_processor.parse_invoice.convert_invoice import process_invoice_pdf
+from invoice_processor.fix_mismatched.fix_mismatched_invoices import fix_mismatched_invoices
+from invoice_processor.send_invoices import send_invoice_to_api
 from invoice_processor.models.schemas import InvoiceRequest, PendingInvoice, PendingInvoiceItem
 
 app = FastAPI()
