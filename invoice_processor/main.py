@@ -57,7 +57,7 @@ def fix_mismatched_from_url(req: InvoiceRequest):
 
     try:
         invoice_data = process_invoice_pdf(tmp_path)
-        invoice_data = fix_mismatched_invoices(invoice_data)
+        invoice_data = fix_mismatched_invoice(invoice_data)
         invoice_data["pdfUrl"] = req.url
         invoice_data["confirmed"] = False
         invoice_data["parsedAt"] = datetime.utcnow().isoformat()
