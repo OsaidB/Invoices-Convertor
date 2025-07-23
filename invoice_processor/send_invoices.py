@@ -16,6 +16,10 @@ def send_invoice_to_api(invoice_data: dict):
         invoice_data.setdefault("confirmed", False)
         invoice_data.setdefault("parsedAt", datetime.utcnow().isoformat() + "Z")
 
+        # Rename 'total_match' to 'totalMatch' if it exists
+        if "total_match" in invoice_data:
+            invoice_data["totalMatch"] = invoice_data.pop("total_match")
+
         for item in invoice_data.get("items", []):
             item.setdefault("id", -1)
             item.setdefault("materialId", -1)
