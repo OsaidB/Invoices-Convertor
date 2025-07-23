@@ -1,4 +1,4 @@
-# invoice_parser/models/schemas.py
+# invoice_processor/models/schemas.py
 
 from pydantic import BaseModel
 from typing import List
@@ -7,6 +7,7 @@ from typing import List, Optional
 
 class InvoiceRequest(BaseModel):
     url: str
+    originalId: int | None = None  # optional field
 
 
 class PendingInvoiceItem(BaseModel):

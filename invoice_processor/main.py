@@ -66,9 +66,8 @@ def fix_mismatched_from_url(req: InvoiceRequest):
 
 
         # ✅ Set reprocessedFromId BEFORE modifying the object
-        original_id = invoice_data.get("id")
-        if original_id:
-            invoice_data["reprocessedFromId"] = original_id
+        if req.originalId:
+            invoice_data["reprocessedFromId"] = req.originalId
             invoice_data.pop("id", None)  # Let backend generate new ID
 
         invoice_data = fix_mismatched_invoice(invoice_data)

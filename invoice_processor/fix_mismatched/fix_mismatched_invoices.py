@@ -11,9 +11,6 @@ def fix_mismatched_invoice(invoice_data: dict) -> dict:
 
     print("🔧 Fixing mismatched invoice...")
 
-    # Track the original invoice it was reprocessed from
-    invoice_data["reprocessedFromId"] = invoice_data.get("id")
-    invoice_data.pop("id", None)  # Let the backend generate a new ID
 
     calculated_total = Decimal("0.00")
     # modified = False
