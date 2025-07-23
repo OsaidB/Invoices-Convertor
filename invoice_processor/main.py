@@ -64,7 +64,8 @@ def fix_mismatched_from_url(req: InvoiceRequest):
         print("📦 before ba3basing Sending invoice to backend:")
         print(json.dumps(invoice_data, indent=2, ensure_ascii=False))  # 👈 Print here
 
-
+        print("📦📦📦📦📦 req.originalId:")
+        print(req.originalId)
         # ✅ Set reprocessedFromId BEFORE modifying the object
         if req.originalId:
             invoice_data["reprocessedFromId"] = req.originalId
