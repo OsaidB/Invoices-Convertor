@@ -1,5 +1,6 @@
 # invoice_rocessor/utils/send_invoices.py
 
+import json
 import requests
 from datetime import datetime
 
@@ -24,7 +25,11 @@ def send_invoice_to_api(invoice_data: dict):
             item.setdefault("id", -1)
             item.setdefault("materialId", -1)
 
-        payload = [invoice_data]  # wrap in list as required by backend
+        payload = [invoice_data]
+
+        # ✅ Print the request body being sent
+        print("📤AAwuwuwuwuwuwuwuAA Request body being sent to Spring Boot backend:")
+        print(json.dumps(payload, indent=2, ensure_ascii=False))
 
         response = requests.post(API_URL, json=payload, timeout=10)
         response.raise_for_status()

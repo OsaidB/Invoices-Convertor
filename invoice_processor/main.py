@@ -12,6 +12,8 @@ from invoice_processor.fix_mismatched.fix_mismatched_invoices import fix_mismatc
 from invoice_processor.send_invoices import send_invoice_to_api
 from invoice_processor.models.schemas import InvoiceRequest, PendingInvoice, PendingInvoiceItem
 
+import json
+
 app = FastAPI()
 
 
@@ -69,6 +71,9 @@ def fix_mismatched_from_url(req: InvoiceRequest):
         invoice_data["pdfUrl"] = req.url
         invoice_data["confirmed"] = False
         invoice_data["parsedAt"] = datetime.utcnow().isoformat()
+
+        print("📦 Sending invoice to backend:")
+        print(json.dumps(invoice_data, indent=2, ensure_ascii=False))  # 👈 Print here
 
         send_invoice_to_api(invoice_data)
         return invoice_data
