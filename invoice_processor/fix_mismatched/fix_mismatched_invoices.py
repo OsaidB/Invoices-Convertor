@@ -3,7 +3,7 @@ from decimal import Decimal, ROUND_HALF_UP
 def fix_mismatched_invoice(invoice_data: dict) -> dict:
     """
     Fix mismatched totals in a single invoice dictionary by recalculating quantities.
-    Returns the modified invoice dictionary.
+    Returns the modified invoice dictionary with reprocessedFromId set.
     """
     if invoice_data.get("total_match", True):
         print("✅ Invoice already matched. No changes made.")
@@ -11,8 +11,12 @@ def fix_mismatched_invoice(invoice_data: dict) -> dict:
 
     print("🔧 Fixing mismatched invoice...")
 
+    # Track the original invoice it was reprocessed from
+    invoice_data["reprocessedFromId"] = invoice_data.get("id")
+    invoice_data.pop("id", None)  # Let the backend generate a new ID
+
     calculated_total = Decimal("0.00")
-    modified = False
+    # modified = False
 
     for item in invoice_data.get("items", []):
         qty = Decimal(str(item["quantity"]))
@@ -23,7 +27,7 @@ def fix_mismatched_invoice(invoice_data: dict) -> dict:
             new_quantity = (total_price / unit_price).quantize(Decimal("0.01"), rounding=ROUND_HALF_UP)
             if new_quantity != qty:
                 item["quantity"] = float(new_quantity)
-                modified = True
+                # modified = True
                 print(f"✏️ Adjusted quantity for '{item['description']}' from {qty} → {new_quantity}")
 
         expected_total = (Decimal(str(item["quantity"])) * unit_price).quantize(Decimal("0.01"), rounding=ROUND_HALF_UP)
