@@ -27,3 +27,4 @@ class PendingInvoice(BaseModel):
     pdfUrl: str
     confirmed: bool
     parsedAt: Optional[str] = None
+    reprocessedFromId: Optional[int] = None
