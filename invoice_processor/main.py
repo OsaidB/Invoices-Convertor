@@ -60,6 +60,11 @@ def fix_mismatched_from_url(req: InvoiceRequest):
     try:
         invoice_data = process_invoice_pdf(tmp_path)
 
+
+        print("📦 before ba3basing Sending invoice to backend:")
+        print(json.dumps(invoice_data, indent=2, ensure_ascii=False))  # 👈 Print here
+
+
         # ✅ Set reprocessedFromId BEFORE modifying the object
         original_id = invoice_data.get("id")
         if original_id:
@@ -71,9 +76,6 @@ def fix_mismatched_from_url(req: InvoiceRequest):
         invoice_data["pdfUrl"] = req.url
         invoice_data["confirmed"] = False
         invoice_data["parsedAt"] = datetime.utcnow().isoformat()
-
-        print("📦 Sending invoice to backend:")
-        print(json.dumps(invoice_data, indent=2, ensure_ascii=False))  # 👈 Print here
 
         send_invoice_to_api(invoice_data)
         return invoice_data
