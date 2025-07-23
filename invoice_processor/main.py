@@ -57,7 +57,15 @@ def fix_mismatched_from_url(req: InvoiceRequest):
 
     try:
         invoice_data = process_invoice_pdf(tmp_path)
+
+        # ✅ Set reprocessedFromId BEFORE modifying the object
+        original_id = invoice_data.get("id")
+        if original_id:
+            invoice_data["reprocessedFromId"] = original_id
+            invoice_data.pop("id", None)  # Let backend generate new ID
+
         invoice_data = fix_mismatched_invoice(invoice_data)
+
         invoice_data["pdfUrl"] = req.url
         invoice_data["confirmed"] = False
         invoice_data["parsedAt"] = datetime.utcnow().isoformat()
