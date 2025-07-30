@@ -67,15 +67,24 @@ def fix_mismatched_from_url(req: InvoiceRequest):
         print("📦📦📦📦📦 req.originalId:")
         print(req.originalId)
         # ✅ Set reprocessedFromId BEFORE modifying the object
-        if req.originalId:
+        if req.originalId and not invoice_data.get("reprocessedFromId"):
             invoice_data["reprocessedFromId"] = req.originalId
-            invoice_data.pop("id", None)  # Let backend generate new ID
+            invoice_data.pop("id", None)
+
 
         invoice_data = fix_mismatched_invoice(invoice_data)
 
         invoice_data["pdfUrl"] = req.url
         invoice_data["confirmed"] = False
         invoice_data["parsedAt"] = datetime.utcnow().isoformat()
+
+        # 🛑 Skip sending if it's already matched and wasn't actually changed
+        if invoice_data.get("total_match") is True and not req.originalId:
+            print("⚠️ Invoice is already matched and not a reprocessed request. Skipping send.")
+            return invoice_data
+
+        print("🧾 Final invoice data to send:")
+        print(json.dumps(invoice_data, indent=2, ensure_ascii=False))
 
         send_invoice_to_api(invoice_data)
         return invoice_data
