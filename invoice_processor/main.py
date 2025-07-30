@@ -86,7 +86,7 @@ def fix_mismatched_from_url(req: InvoiceRequest):
         print("🧾 Final invoice data to send:")
         print(json.dumps(invoice_data, indent=2, ensure_ascii=False))
 
-        send_invoice_to_api(invoice_data)
+        # send_invoice_to_api(invoice_data)
         return invoice_data
 
     except Exception as e:
