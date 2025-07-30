@@ -14,6 +14,8 @@ def fix_mismatched_invoice(invoice_data: dict) -> dict:
 
     calculated_total = Decimal("0.00")
     # modified = False
+    
+    print(invoice_data)
 
     for item in invoice_data.get("items", []):
         qty = Decimal(str(item["quantity"]))
