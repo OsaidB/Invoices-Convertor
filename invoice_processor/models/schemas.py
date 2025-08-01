@@ -1,29 +1,37 @@
 from pydantic import BaseModel, Field
 from typing import List, Optional
 
+
 class InvoiceRequest(BaseModel):
     url: str
-    originalId: int | None = None  # optional field
+    originalId: Optional[int] = None
+
 
 class PendingInvoiceItem(BaseModel):
     description: str
     quantity: float
-    unit_price: float
-    total_price: float
-
-class PendingInvoice(BaseModel):
-    date: str
-    netTotal: float = Field(..., alias="net_total")
-    total: float
-    worksiteName: str = Field(..., alias="worksite_name")
-    worksiteId: Optional[int] = Field(default=None, alias="worksite_id")
-    items: List[PendingInvoiceItem]
-    totalMatch: bool = Field(..., alias="total_match")
-    pdfUrl: str = Field(..., alias="pdf_url")
-    confirmed: bool
-    parsedAt: Optional[str] = Field(default=None, alias="parsed_at")
-    reprocessedFromId: Optional[int] = Field(default=None, alias="reprocessed_from_id")
+    unitPrice: float = Field(..., alias="unit_price")
+    totalPrice: float = Field(..., alias="total_price")
+    materialId: Optional[int] = None
 
     class Config:
-        allow_population_by_field_name = True
-        orm_mode = True
+        populate_by_name = True
+
+
+class PendingInvoice(BaseModel):
+    id: Optional[int] = None
+    date: str
+    netTotal: float
+    total: Optional[float] = None
+    worksiteName: str
+    worksiteId: Optional[int] = None
+    items: List[PendingInvoiceItem]
+    totalMatch: Optional[bool] = None
+    pdfUrl: str
+    confirmed: bool
+    parsedAt: Optional[str] = None
+    reprocessedFromId: Optional[int] = None
+
+    class Config:
+        populate_by_name = True
+        from_attributes = True

@@ -6,9 +6,11 @@ import os
 from datetime import datetime
 from decimal import Decimal, ROUND_HALF_UP
 
+
 # Helper: Normalize Arabic text
 def normalize_arabic(text):
-    return unicodedata.normalize('NFKC', text).replace("ـ", "").strip()
+    return unicodedata.normalize("NFKC", text).replace("ـ", "").strip()
+
 
 def process_invoice_pdf(input_file):
     """
@@ -16,8 +18,9 @@ def process_invoice_pdf(input_file):
     Extracts date, worksite name, itemized data, and computes total validation.
     Does not write any files or directories.
     """
-    doc = fitz.open(input_file)
-    lines = [line.strip() for line in doc[0].get_text().splitlines() if line.strip()]
+    with fitz.open(input_file) as doc:
+        lines = [line.strip() for line in doc[0].get_text().splitlines() if line.strip()]
+
     print("All lines extracted:", lines)
 
     invoice_data = {
@@ -25,25 +28,45 @@ def process_invoice_pdf(input_file):
         "worksiteName": None,
         "total": None,
         "netTotal": None,
-        "items": []
+        "items": [],
     }
 
     # Extract date
     for line in lines:
         if re.match(r"\d{1,2}/\d{1,2}/\d{4}\s+\d{2}:\d{2}:\d{2}", line):
-            date_match = re.match(r"(\d{1,2})/(\d{1,2})/(\d{4})\s+(\d{2}):(\d{2}):(\d{2})", line)
+            date_match = re.match(
+                r"(\d{1,2})/(\d{1,2})/(\d{4})\s+(\d{2}):(\d{2}):(\d{2})", line
+            )
             if date_match:
                 day, month, year, hour, minute, second = date_match.groups()
-                invoice_data["date"] = f"{year}-{int(month):02d}-{int(day):02d}T{hour}:{minute}:{second}"
+                invoice_data["date"] = (
+                    f"{year}-{int(month):02d}-{int(day):02d}T{hour}:{minute}:{second}"
+                )
                 print(f"Reformatted date: {invoice_data['date']}")
             break
     print("Date extracted:", invoice_data["date"])
 
     # Define keywords to skip (normalized)
     SKIP_WORDS = [
-        "المبلغ", "الصافي", "المجموع", "ILS",
-        "شكرا", "Debit", "قرب", "النقدي", "رقم", "null", "Systems", "المستخدم",
-        "مبيعات", "التاريخ", "الزبون", "الخص#البيان", "الكمي", "السعر", "جمال البابا"
+        "المبلغ",
+        "الصافي",
+        "المجموع",
+        "ILS",
+        "شكرا",
+        "Debit",
+        "قرب",
+        "النقدي",
+        "رقم",
+        "null",
+        "Systems",
+        "المستخدم",
+        "مبيعات",
+        "التاريخ",
+        "الزبون",
+        "الخص#البيان",
+        "الكمي",
+        "السعر",
+        "جمال البابا",
     ]
     SKIP_WORDS = [normalize_arabic(w) for w in SKIP_WORDS]
 
@@ -77,7 +100,9 @@ def process_invoice_pdf(input_file):
         print(f"\nProcessing index {i}, current line: '{lines[i]}'")
         while i < len(lines) and not re.match(r"^\d+\.\d{2}$", lines[i]):
             norm_line = normalize_arabic(lines[i])
-            if any(skip in norm_line for skip in SKIP_WORDS) or re.match(r"^\d{1,3},\d{3}\.\d{2}$", norm_line):
+            if any(skip in norm_line for skip in SKIP_WORDS) or re.match(
+                r"^\d{1,3},\d{3}\.\d{2}$", norm_line
+            ):
                 print(f"Skipping line '{lines[i]}' due to skip condition")
                 i += 1
                 continue
@@ -98,7 +123,9 @@ def process_invoice_pdf(input_file):
             quantity = 1.0
             desc_lines_cleaned = []
             for line in desc_lines:
-                if re.match(r"^\d+$", line) and not any(skip in normalize_arabic(line) for skip in SKIP_WORDS):
+                if re.match(r"^\d+$", line) and not any(
+                    skip in normalize_arabic(line) for skip in SKIP_WORDS
+                ):
                     quantity = float(line)
                     print(f"Found standalone quantity in desc_lines: {quantity}")
                     continue
@@ -114,14 +141,22 @@ def process_invoice_pdf(input_file):
                 quantity_match = re.search(r"(ارضي|عمود|زوايا)(\d+)", description)
                 if quantity_match:
                     quantity = float(quantity_match.group(2))
-                    print(f"Extracted quantity from description (ارضي|عمود|زوايا): {quantity}")
-                    description = description.replace(quantity_match.group(0), quantity_match.group(1)).strip()
+                    print(
+                        f"Extracted quantity from description (ارضي|عمود|زوايا): {quantity}"
+                    )
+                    description = description.replace(
+                        quantity_match.group(0), quantity_match.group(1)
+                    ).strip()
                 else:
                     quantity_match = re.search(r"(\d+)$", description)
                     if quantity_match and not re.search(r"كيلو\d+", description):
                         quantity = float(quantity_match.group(1))
-                        print(f"Extracted trailing quantity from description: {quantity}")
-                        description = description.replace(quantity_match.group(1), "").strip()
+                        print(
+                            f"Extracted trailing quantity from description: {quantity}"
+                        )
+                        description = description.replace(
+                            quantity_match.group(1), ""
+                        ).strip()
 
             description = re.sub(r"\s*1$", "", description).strip()
 
@@ -129,9 +164,9 @@ def process_invoice_pdf(input_file):
                 item = {
                     "description": description,
                     "quantity": quantity,
-                    "unit_price": unit_price,
-                    "total_price": total_price,
-                    "materialId": None
+                    "unitPrice": unit_price,
+                    "totalPrice": total_price,
+                    "materialId": None,
                 }
 
                 invoice_data["items"].append(item)
@@ -165,24 +200,53 @@ def process_invoice_pdf(input_file):
 
     for item in invoice_data["items"]:
         qty = Decimal(str(item["quantity"]))
-        unit_price = Decimal(str(item["unit_price"]))
-        expected_total_price = (qty * unit_price).quantize(Decimal("0.01"), rounding=ROUND_HALF_UP)
-        actual_total_price = Decimal(str(item["total_price"])).quantize(Decimal("0.01"), rounding=ROUND_HALF_UP)
+        unit_price = Decimal(str(item["unitPrice"]))  # ✅ fix here
+        expected_total_price = (qty * unit_price).quantize(
+            Decimal("0.01"), rounding=ROUND_HALF_UP
+        )
+        actual_total_price = Decimal(str(item["totalPrice"])).quantize(  # ✅ fix here
+            Decimal("0.01"), rounding=ROUND_HALF_UP
+        )
 
         if expected_total_price != actual_total_price:
-            item_mismatches.append({
-                "description": item["description"],
-                "expected": float(expected_total_price),
-                "actual": float(actual_total_price)
-            })
+            item_mismatches.append(
+                {
+                    "description": item["description"],
+                    "expected": float(expected_total_price),
+                    "actual": float(actual_total_price),
+                }
+            )
+
+        calculated_total += expected_total_price
+        qty = Decimal(str(item["quantity"]))
+        unit_price = Decimal(str(item["unitPrice"]))
+        expected_total_price = (qty * unit_price).quantize(
+            Decimal("0.01"), rounding=ROUND_HALF_UP
+        )
+        actual_total_price = Decimal(str(item["totalPrice"])).quantize(
+            Decimal("0.01"), rounding=ROUND_HALF_UP
+        )
+
+        if expected_total_price != actual_total_price:
+            item_mismatches.append(
+                {
+                    "description": item["description"],
+                    "expected": float(expected_total_price),
+                    "actual": float(actual_total_price),
+                }
+            )
 
         calculated_total += expected_total_price
 
     # Check against the written total
     if invoice_data["total"] is not None:
-        written_total = Decimal(str(invoice_data["total"])).quantize(Decimal("0.01"), rounding=ROUND_HALF_UP)
-        invoice_data["total_match"] = (calculated_total == written_total)
-        print(f"Calculated total: {calculated_total}, Written total: {written_total}, Match: {invoice_data['total_match']}")
+        written_total = Decimal(str(invoice_data["total"])).quantize(
+            Decimal("0.01"), rounding=ROUND_HALF_UP
+        )
+        invoice_data["total_match"] = calculated_total == written_total
+        print(
+            f"Calculated total: {calculated_total}, Written total: {written_total}, Match: {invoice_data['total_match']}"
+        )
     else:
         invoice_data["total_match"] = False
         print("❌ Written total not found in invoice")
@@ -190,7 +254,9 @@ def process_invoice_pdf(input_file):
     if item_mismatches:
         print("⚠️ Item-level mismatches found:")
         for mismatch in item_mismatches:
-            print(f" - {mismatch['description']}: expected {mismatch['expected']}, got {mismatch['actual']}")
+            print(
+                f" - {mismatch['description']}: expected {mismatch['expected']}, got {mismatch['actual']}"
+            )
 
     if not invoice_data["worksiteName"]:
         invoice_data["worksiteName"] = "other"
@@ -200,6 +266,7 @@ def process_invoice_pdf(input_file):
     invoice_data["parsedAt"] = datetime.utcnow().isoformat()
 
     print("✅ Final invoice data prepared (not saved to file)")
+    # doc.close()
     return invoice_data
 
 # For standalone testing

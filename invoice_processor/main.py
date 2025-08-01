@@ -8,9 +8,15 @@ import tempfile
 from datetime import datetime
 
 from invoice_processor.parse_invoice.convert_invoice import process_invoice_pdf
-from invoice_processor.fix_mismatched.fix_mismatched_invoices import fix_mismatched_invoice
+from invoice_processor.fix_mismatched.fix_mismatched_invoices import (
+    fix_mismatched_invoice,
+)
 from invoice_processor.send_invoices import send_invoice_to_api
-from invoice_processor.models.schemas import InvoiceRequest, PendingInvoice, PendingInvoiceItem
+from invoice_processor.models.schemas import (
+    InvoiceRequest,
+    PendingInvoice,
+    PendingInvoiceItem,
+)
 
 import json
 
@@ -60,17 +66,15 @@ def fix_mismatched_from_url(req: InvoiceRequest):
     try:
         invoice_data = process_invoice_pdf(tmp_path)
 
+        # print("📦 before ba3basing Sending invoice to backend:")
+        # print(json.dumps(invoice_data, indent=2, ensure_ascii=False))  # 👈 Print here
 
-        print("📦 before ba3basing Sending invoice to backend:")
-        print(json.dumps(invoice_data, indent=2, ensure_ascii=False))  # 👈 Print here
-
-        print("📦📦📦📦📦 req.originalId:")
-        print(req.originalId)
+        # print("📦📦📦📦📦 req.originalId:")
+        # print(req.originalId)
         # ✅ Set reprocessedFromId BEFORE modifying the object
         if req.originalId and not invoice_data.get("reprocessedFromId"):
             invoice_data["reprocessedFromId"] = req.originalId
             invoice_data.pop("id", None)
-
 
         invoice_data = fix_mismatched_invoice(invoice_data)
 
@@ -80,17 +84,23 @@ def fix_mismatched_from_url(req: InvoiceRequest):
 
         # 🛑 Skip sending if it's already matched and wasn't actually changed
         if invoice_data.get("total_match") is True and not req.originalId:
-            print("⚠️ Invoice is already matched and not a reprocessed request. Skipping send.")
+            print(
+                "⚠️ Invoice is already matched and not a reprocessed request. Skipping send."
+            )
             return PendingInvoice(**invoice_data)  # ✅ fixed
 
         print("🧾 Final invoice data to send:")
         print(json.dumps(invoice_data, indent=2, ensure_ascii=False))
 
         # send_invoice_to_api(invoice_data)
+        # # Fix casing of totalMatch field
+        # invoice_data["totalMatch"] = invoice_data.pop("total_match", None)
         return PendingInvoice(**invoice_data)
 
     except Exception as e:
-        raise HTTPException(status_code=500, detail=f"Failed to fix mismatched invoice: {str(e)}")
+        raise HTTPException(
+            status_code=500, detail=f"Failed to fix mismatched invoice: {str(e)}"
+        )
 
     finally:
         os.remove(tmp_path)
