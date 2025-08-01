@@ -4,7 +4,10 @@ import json
 import requests
 from datetime import datetime
 
-API_URL = "https://intfitout-backend-production.up.railway.app/api/invoices/pending/upload"
+API_URL = (
+    "https://intfitout-backend-production.up.railway.app/api/invoices/pending/upload"
+)
+
 
 def send_invoice_to_api(invoice_data: dict):
     """
@@ -17,9 +20,6 @@ def send_invoice_to_api(invoice_data: dict):
         invoice_data.setdefault("confirmed", False)
         invoice_data.setdefault("parsedAt", datetime.utcnow().isoformat() + "Z")
 
-        # Rename 'total_match' to 'totalMatch' if it exists
-        if "total_match" in invoice_data:
-            invoice_data["totalMatch"] = invoice_data.pop("total_match")
 
         for item in invoice_data.get("items", []):
             item.setdefault("id", -1)
@@ -31,7 +31,7 @@ def send_invoice_to_api(invoice_data: dict):
         print("📤AAwuwuwuwuwuwuwuAA Request body being sent to Spring Boot backend:")
         print(json.dumps(payload, indent=2, ensure_ascii=False))
 
-        response = requests.post(API_URL, json=payload, timeout=10)
+        response = requests.post(API_URL, json=payload, timeout=100)
         response.raise_for_status()
         print(f"✅ Invoice sent successfully: {response.status_code}")
         if response.text:

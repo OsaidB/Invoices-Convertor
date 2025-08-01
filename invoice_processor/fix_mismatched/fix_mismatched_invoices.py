@@ -6,6 +6,7 @@ def fix_mismatched_invoice(invoice_data: dict) -> dict:
     Fix mismatched totals in a single invoice dictionary by recalculating quantities.
     Returns the modified invoice dictionary with reprocessedFromId set.
     """
+
     if invoice_data.get("totalMatch", True):
         print("✅ Invoice already matched. No changes made.")
         return invoice_data
@@ -13,14 +14,19 @@ def fix_mismatched_invoice(invoice_data: dict) -> dict:
     print("🔧 Fixing mismatched invoice...")
 
     calculated_total = Decimal("0.00")
-    # modified = False
 
-    print(invoice_data)
+    # 🔁 Step 1: Convert snake_case to camelCase for internal use
+    for item in invoice_data.get("items", []):
+        if "unit_price" in item:
+            item["unitPrice"] = item.pop("unit_price")
+        if "total_price" in item:
+            item["totalPrice"] = item.pop("total_price")
 
+    # 🧮 Step 2: Fix mismatched quantities
     for item in invoice_data.get("items", []):
         qty = Decimal(str(item["quantity"]))
-        unit_price = Decimal(str(item["unitPrice"]))  # ✅ FIXED
-        total_price = Decimal(str(item["totalPrice"]))  # ✅ FIXED
+        unit_price = Decimal(str(item["unitPrice"]))
+        total_price = Decimal(str(item["totalPrice"]))
 
         if unit_price != 0:
             new_quantity = (total_price / unit_price).quantize(
@@ -28,7 +34,6 @@ def fix_mismatched_invoice(invoice_data: dict) -> dict:
             )
             if new_quantity != qty:
                 item["quantity"] = float(new_quantity)
-                # modified = True
                 print(
                     f"✏️ Adjusted quantity for '{item['description']}' from {qty} → {new_quantity}"
                 )
@@ -49,5 +54,12 @@ def fix_mismatched_invoice(invoice_data: dict) -> dict:
         print(
             f"❌ Mismatch remains. Calculated: {calculated_total}, Written: {written_total}"
         )
+
+    # 🔁 Step 3: Always convert back to snake_case before returning
+    for item in invoice_data.get("items", []):
+        if "unitPrice" in item:
+            item["unit_price"] = item.pop("unitPrice")
+        if "totalPrice" in item:
+            item["total_price"] = item.pop("totalPrice")
 
     return invoice_data
