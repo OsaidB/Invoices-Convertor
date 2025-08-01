@@ -19,7 +19,9 @@ def process_invoice_pdf(input_file):
     Does not write any files or directories.
     """
     with fitz.open(input_file) as doc:
-        lines = [line.strip() for line in doc[0].get_text().splitlines() if line.strip()]
+        lines = [
+            line.strip() for line in doc[0].get_text().splitlines() if line.strip()
+        ]
 
     print("All lines extracted:", lines)
 
@@ -164,8 +166,8 @@ def process_invoice_pdf(input_file):
                 item = {
                     "description": description,
                     "quantity": quantity,
-                    "unitPrice": unit_price,
-                    "totalPrice": total_price,
+                    "unit_price": unit_price,
+                    "total_price": total_price,
                     "materialId": None,
                 }
 
@@ -200,11 +202,11 @@ def process_invoice_pdf(input_file):
 
     for item in invoice_data["items"]:
         qty = Decimal(str(item["quantity"]))
-        unit_price = Decimal(str(item["unitPrice"]))  # ✅ fix here
+        unit_price = Decimal(str(item["unit_price"]))  # ✅ fix here
         expected_total_price = (qty * unit_price).quantize(
             Decimal("0.01"), rounding=ROUND_HALF_UP
         )
-        actual_total_price = Decimal(str(item["totalPrice"])).quantize(  # ✅ fix here
+        actual_total_price = Decimal(str(item["total_price"])).quantize(  # ✅ fix here
             Decimal("0.01"), rounding=ROUND_HALF_UP
         )
 
@@ -219,11 +221,11 @@ def process_invoice_pdf(input_file):
 
         calculated_total += expected_total_price
         qty = Decimal(str(item["quantity"]))
-        unit_price = Decimal(str(item["unitPrice"]))
+        unit_price = Decimal(str(item["unit_price"]))
         expected_total_price = (qty * unit_price).quantize(
             Decimal("0.01"), rounding=ROUND_HALF_UP
         )
-        actual_total_price = Decimal(str(item["totalPrice"])).quantize(
+        actual_total_price = Decimal(str(item["total_price"])).quantize(
             Decimal("0.01"), rounding=ROUND_HALF_UP
         )
 
@@ -268,6 +270,7 @@ def process_invoice_pdf(input_file):
     print("✅ Final invoice data prepared (not saved to file)")
     # doc.close()
     return invoice_data
+
 
 # For standalone testing
 if __name__ == "__main__":
