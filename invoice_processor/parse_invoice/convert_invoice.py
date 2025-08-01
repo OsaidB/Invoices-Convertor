@@ -220,25 +220,26 @@ def process_invoice_pdf(input_file):
             )
 
         calculated_total += expected_total_price
-        qty = Decimal(str(item["quantity"]))
-        unit_price = Decimal(str(item["unit_price"]))
-        expected_total_price = (qty * unit_price).quantize(
-            Decimal("0.01"), rounding=ROUND_HALF_UP
-        )
-        actual_total_price = Decimal(str(item["total_price"])).quantize(
-            Decimal("0.01"), rounding=ROUND_HALF_UP
-        )
 
-        if expected_total_price != actual_total_price:
-            item_mismatches.append(
-                {
-                    "description": item["description"],
-                    "expected": float(expected_total_price),
-                    "actual": float(actual_total_price),
-                }
-            )
+        # qty = Decimal(str(item["quantity"]))
+        # unit_price = Decimal(str(item["unit_price"]))
+        # expected_total_price = (qty * unit_price).quantize(
+        #     Decimal("0.01"), rounding=ROUND_HALF_UP
+        # )
+        # actual_total_price = Decimal(str(item["total_price"])).quantize(
+        #     Decimal("0.01"), rounding=ROUND_HALF_UP
+        # )
 
-        calculated_total += expected_total_price
+        # if expected_total_price != actual_total_price:
+        #     item_mismatches.append(
+        #         {
+        #             "description": item["description"],
+        #             "expected": float(expected_total_price),
+        #             "actual": float(actual_total_price),
+        #         }
+        #     )
+
+        # calculated_total += expected_total_price
 
     # Check against the written total
     if invoice_data["total"] is not None:
