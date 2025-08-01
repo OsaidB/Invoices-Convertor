@@ -245,12 +245,12 @@ def process_invoice_pdf(input_file):
         written_total = Decimal(str(invoice_data["total"])).quantize(
             Decimal("0.01"), rounding=ROUND_HALF_UP
         )
-        invoice_data["total_match"] = calculated_total == written_total
+        invoice_data["totalMatch"] = calculated_total == written_total
         print(
-            f"Calculated total: {calculated_total}, Written total: {written_total}, Match: {invoice_data['total_match']}"
+            f"Calculated total: {calculated_total}, Written total: {written_total}, Match: {invoice_data['totalMatch']}"
         )
     else:
-        invoice_data["total_match"] = False
+        invoice_data["totalMatch"] = False
         print("❌ Written total not found in invoice")
 
     if item_mismatches:
