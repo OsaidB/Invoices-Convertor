@@ -6,7 +6,7 @@ def fix_mismatched_invoice(invoice_data: dict) -> dict:
     Fix mismatched totals in a single invoice dictionary by recalculating quantities.
     Returns the modified invoice dictionary with reprocessedFromId set.
     """
-    if invoice_data.get("total_match", True):
+    if invoice_data.get("totalMatch", True):
         print("✅ Invoice already matched. No changes made.")
         return invoice_data
 
@@ -41,9 +41,9 @@ def fix_mismatched_invoice(invoice_data: dict) -> dict:
     written_total = Decimal(str(invoice_data.get("total", 0))).quantize(
         Decimal("0.01"), rounding=ROUND_HALF_UP
     )
-    invoice_data["totalMatch"] = (calculated_total == written_total)
+    invoice_data["totalMatch"] = calculated_total == written_total
 
-    if invoice_data["total_match"]:
+    if invoice_data["totalMatch"]:
         print(f"✅ Mismatch resolved. New total: {calculated_total}")
     else:
         print(
