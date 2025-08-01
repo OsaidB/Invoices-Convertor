@@ -41,7 +41,9 @@ def process_invoice(req: InvoiceRequest):
         invoice_data["confirmed"] = False
         invoice_data["parsedAt"] = datetime.utcnow().isoformat()
 
-        send_invoice_to_api(invoice_data)
+        # ✅ DO NOT send to API from here anymore
+        # send_invoice_to_api(invoice_data)
+
         return invoice_data
 
     except Exception as e:
@@ -83,14 +85,15 @@ def fix_mismatched_from_url(req: InvoiceRequest):
         invoice_data["parsedAt"] = datetime.utcnow().isoformat()
 
         if invoice_data.get("totalMatch") is True and not req.originalId:
-            print("⚠️ Invoice is already matched and not a reprocessed request. Skipping send.")
+            print(
+                "⚠️ Invoice is already matched and not a reprocessed request. Skipping send."
+            )
             return PendingInvoice(**invoice_data)
 
         print("🧾 Final invoice data to send:")
         print(json.dumps(invoice_data, indent=2, ensure_ascii=False))
 
         return PendingInvoice(**invoice_data)
-
 
     except Exception as e:
         raise HTTPException(
