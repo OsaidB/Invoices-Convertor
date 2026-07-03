@@ -1,7 +1,6 @@
 # main.py
 
 from fastapi import FastAPI, HTTPException
-from fastapi.responses import JSONResponse
 import requests
 import os
 import tempfile
@@ -11,7 +10,6 @@ from invoice_processor.parse_invoice.convert_invoice import process_invoice_pdf
 from invoice_processor.fix_mismatched.fix_mismatched_invoices import (
     fix_mismatched_invoice,
 )
-from invoice_processor.send_invoices import send_invoice_to_api
 from invoice_processor.models.schemas import (
     InvoiceRequest,
     PendingInvoice,
@@ -40,9 +38,6 @@ def process_invoice(req: InvoiceRequest):
         invoice_data["pdfUrl"] = req.url
         invoice_data["confirmed"] = False
         invoice_data["parsedAt"] = datetime.utcnow().isoformat()
-
-        # ✅ DO NOT send to API from here anymore
-        # send_invoice_to_api(invoice_data)
 
         return invoice_data
 
