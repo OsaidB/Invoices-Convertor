@@ -6,11 +6,9 @@ import os
 import tempfile
 from datetime import datetime
 
-from invoice_processor.parse_invoice.convert_invoice import process_invoice_pdf
-from invoice_processor.fix_mismatched.fix_mismatched_invoices import (
-    fix_mismatched_invoice,
-)
-from invoice_processor.models.schemas import (
+from invoice_processor.convert_invoice import process_invoice_pdf
+from invoice_processor.fix_mismatched_invoices import fix_mismatched_invoice
+from invoice_processor.schemas import (
     InvoiceRequest,
     PendingInvoice,
     PendingInvoiceItem,
